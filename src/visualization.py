@@ -12,7 +12,17 @@ app_titles = {
     "com.primety.sodexomobile": "Pluxee Brasil",
     "com.caju.employeeApp": "Caju - Benefícios por inteiro",
     "br.com.flashapp": "Flash App Benefícios",
-    "br.com.mobile.ticket": "Ticket"
+    "br.com.mobile.ticket": "Ticket",
+    "br.com.gabba.Caixa": "Caixa",
+    "com.shopee.br": "Shopee",
+    "com.nu.production": "Nubank: conta, cartão e mais",
+    "com.ubercab": "Uber: Peça viagem de carro",
+    "br.gov.meugovbr": "Gov.br",
+    "br.gov.caixa.tem": "Caixa Tem",
+    "com.taxis99": "99: Vá de Carro, Moto ou Taxi",
+    "br.gov.caixa.fgts.trabalhador": "FGTS",
+    "br.com.vivo": "Vivo",
+    "com.mercadopago.wallet": "Mercado Pago: banco digital",
 }
 
 def plot_radar_chart(csv_file):

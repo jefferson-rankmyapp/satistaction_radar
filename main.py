@@ -10,24 +10,18 @@ st.image("data/Logo light mode.png", width=200)
 st.title("Análise de Satisfação de Apps")
 st.write("Essa aplicação permite analisar a satisfação de usuários para diferentes aplicativos, com base nas subcategorias e médias de rating dos reviews.")
 
-# # Controle para escolher o CSV de dados
-# st.sidebar.header("Configurações de Dados")
-# use_default_csv = st.sidebar.radio("Escolha a fonte de dados:", ["Usar CSV padrão", "Carregar novo CSV"])
+# Controle para escolher o CSV de dados
+st.sidebar.header("Configurações de Dados")
+use_default_csv = st.sidebar.radio("Escolha a fonte de dados:", ["Meus concorrentes", "Top 10 Afinidade"])
 
-# # Carregar o CSV com base na opção do usuário
-# if use_default_csv == "Usar CSV padrão":
-#     csv_file = "data/review_summary.csv"
-#     st.sidebar.write("Usando o arquivo de dados padrão.")
-# else:
-#     uploaded_file = st.sidebar.file_uploader("Carregue um arquivo CSV", type=["csv"])
-#     if uploaded_file:
-#         csv_file = uploaded_file
-#         st.sidebar.write("Novo arquivo de dados carregado.")
-#     else:
-#         st.warning("Por favor, carregue um arquivo CSV.")
-#         st.stop()  # Interrompe a execução até que um arquivo seja carregado
+# Carregar o CSV com base na opção do usuário
+if use_default_csv == "Meus concorrentes":
+    csv_file = "data/apps_concorrentes.csv"
+    st.sidebar.write("Aqui listamos os resultados dos seus concorrentes para o período de 2024.")
+else:
+    csv_file = "data/apps_top_afinidade.csv"
+    st.sidebar.write("Aqui listamos os resultados dos top 10 apps que apresentaram maior afinidade no estudo de CrossApp para o período de 2024.")
 
-csv_file = "data/review_summary.csv"
 
 # Carregar o DataFrame
 df = pd.read_csv(csv_file)
