@@ -1,5 +1,4 @@
-# MongoDB Reviews Aggregator
-
+# Satistaction Radar
 Este projeto extrai dados de avaliações de aplicativos no MongoDB, calcula estatísticas mensais por subcategoria e gera um relatório em CSV.
 
 ## Estrutura do Projeto
