@@ -2,7 +2,7 @@
 
 from datetime import datetime
 from src.mongo_handler import MongoHandler  # Classe responsável pela consulta
-from src.visualization import plot_radar_chart  # Módulo de visualização
+from src.visualization import plot_radar_chart, plot_single_app_radar  # Módulo de visualização
 import os
 
 # Função principal para rodar o fluxo
@@ -16,21 +16,21 @@ def main():
     # Caminho para o arquivo CSV gerado
     csv_file = "data\\review_summary.csv" 
 
-    # Verifica se o arquivo CSV existe
-    if os.path.exists(csv_file):
-        os.remove(csv_file)
-        print("Arquivo CSV removido: review_summary.csv")
+    # # Verifica se o arquivo CSV existe
+    # if os.path.exists(csv_file):
+    #     os.remove(csv_file)
+    #     print("Arquivo CSV removido: review_summary.csv")
 
     # Inicializa o manipulador do MongoDB e faz a consulta
-    mongo_handler = MongoHandler()
-    df = mongo_handler.get_review_summary(app_ids, start_date, end_date, langs)
+    # mongo_handler = MongoHandler()
+    # df = mongo_handler.get_review_summary(app_ids, start_date, end_date, langs)
     
-    # Salva o DataFrame em CSV
-    df.to_csv(csv_file, index=False, sep=';')
-    print(f"Arquivo CSV gerado: {csv_file}")
+    # # Salva o DataFrame em CSV
+    # df.to_csv(csv_file, index=False, sep=';')
+    # print(f"Arquivo CSV gerado: {csv_file}")
     
-    # Fecha a conexão com o MongoDB
-    mongo_handler.close_connection()
+    # # Fecha a conexão com o MongoDB
+    # mongo_handler.close_connection()
 
     # Verificar se o CSV está vazio
     if os.stat(csv_file).st_size == 0:
@@ -38,6 +38,8 @@ def main():
 
     # Gerar o gráfico se o CSV não estiver vazio
     plot_radar_chart(csv_file)
+
+    plot_single_app_radar("ws.hanzo.Vrrh", csv_file)
 
 if __name__ == "__main__":
     main()

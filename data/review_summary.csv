@@ -1,0 +1,854 @@
+appId,month,count(id),avg(score),subcategory
+br.com.flashapp,1,32,1.53125,Login
+br.com.flashapp,1,1,1,Investiment
+br.com.flashapp,1,1,3,Notifications
+br.com.flashapp,1,1,2,Rewards program
+br.com.flashapp,1,38,4.921052631578948,Usability
+br.com.flashapp,1,8,2.5,Invoice
+br.com.flashapp,1,30,2.2,Generic complaint
+br.com.flashapp,1,17,1.7647058823529411,Card
+br.com.flashapp,1,173,4.832369942196531,Generic compliment
+br.com.flashapp,1,8,1,Registration
+br.com.flashapp,1,11,1.7272727272727273,Customer service
+br.com.flashapp,1,12,1.6666666666666667,Performance
+br.com.flashapp,1,6,1,Update
+br.com.flashapp,2,941,4.899043570669501,Generic compliment
+br.com.flashapp,2,7,2.4285714285714284,Notifications
+br.com.flashapp,2,15,1.7333333333333334,Registration
+br.com.flashapp,2,10,3.1,Invoice
+br.com.flashapp,2,153,4.895424836601308,Usability
+br.com.flashapp,2,3,2,Virtual card
+br.com.flashapp,2,150,1.4933333333333334,Login
+br.com.flashapp,2,42,2.761904761904762,Customer service
+br.com.flashapp,2,50,1.76,Card
+br.com.flashapp,2,6,3.6666666666666665,Rewards program
+br.com.flashapp,2,1,2,Token
+br.com.flashapp,2,20,1.95,Update
+br.com.flashapp,2,10,3.1,Investiment
+br.com.flashapp,2,99,3.313131313131313,Generic complaint
+br.com.flashapp,2,35,1.7142857142857142,Performance
+br.com.flashapp,3,44,2.2954545454545454,Login
+br.com.flashapp,3,1,1,Virtual card
+br.com.flashapp,3,8,1.625,Performance
+br.com.flashapp,3,4,1.5,Invoice
+br.com.flashapp,3,5,2.2,Registration
+br.com.flashapp,3,472,4.872881355932203,Generic compliment
+br.com.flashapp,3,70,4.714285714285714,Usability
+br.com.flashapp,3,45,3.8,Generic complaint
+br.com.flashapp,3,1,5,Rewards program
+br.com.flashapp,3,2,1,Notifications
+br.com.flashapp,3,3,3.3333333333333335,Investiment
+br.com.flashapp,3,11,2.4545454545454546,Update
+br.com.flashapp,3,19,3.1578947368421053,Customer service
+br.com.flashapp,3,30,2.7333333333333334,Card
+br.com.flashapp,4,17,1.8823529411764706,Performance
+br.com.flashapp,4,3,1,Update
+br.com.flashapp,4,27,1.8888888888888888,Card
+br.com.flashapp,4,265,4.8226415094339625,Generic compliment
+br.com.flashapp,4,30,3.3333333333333335,Generic complaint
+br.com.flashapp,4,4,2.25,Invoice
+br.com.flashapp,4,38,4.973684210526316,Usability
+br.com.flashapp,4,20,2.05,Login
+br.com.flashapp,4,1,2,Rewards program
+br.com.flashapp,4,10,1.8,Customer service
+br.com.flashapp,4,3,1,Registration
+br.com.flashapp,4,3,1.6666666666666667,Notifications
+br.com.flashapp,5,1,1,Virtual card
+br.com.flashapp,5,1,3,Token
+br.com.flashapp,5,250,4.924,Generic compliment
+br.com.flashapp,5,3,3,Investiment
+br.com.flashapp,5,14,1.8571428571428572,Card
+br.com.flashapp,5,38,1.868421052631579,Login
+br.com.flashapp,5,38,2.4473684210526314,Generic complaint
+br.com.flashapp,5,50,4.9,Usability
+br.com.flashapp,5,10,3.4,Customer service
+br.com.flashapp,5,19,2.9473684210526314,Update
+br.com.flashapp,5,17,1.9411764705882353,Performance
+br.com.flashapp,5,2,4.5,Rewards program
+br.com.flashapp,5,1,3,Notifications
+br.com.flashapp,5,3,3.6666666666666665,Invoice
+br.com.flashapp,5,6,2.1666666666666665,Registration
+br.com.flashapp,6,2,4.5,Token
+br.com.flashapp,6,297,4.865319865319865,Generic compliment
+br.com.flashapp,6,38,3.6578947368421053,Generic complaint
+br.com.flashapp,6,2,3,Registration
+br.com.flashapp,6,14,2.0714285714285716,Performance
+br.com.flashapp,6,19,2.6842105263157894,Card
+br.com.flashapp,6,1,5,Investiment
+br.com.flashapp,6,1,1,Virtual card
+br.com.flashapp,6,3,2.3333333333333335,Notifications
+br.com.flashapp,6,4,4,Invoice
+br.com.flashapp,6,10,2.9,Customer service
+br.com.flashapp,6,13,1.7692307692307692,Update
+br.com.flashapp,6,16,1.9375,Login
+br.com.flashapp,6,38,4.7631578947368425,Usability
+br.com.flashapp,7,310,4.84516129032258,Generic compliment
+br.com.flashapp,7,10,2.1,Performance
+br.com.flashapp,7,2,3,Rewards program
+br.com.flashapp,7,11,1.4545454545454546,Login
+br.com.flashapp,7,4,2,Invoice
+br.com.flashapp,7,3,3.6666666666666665,Investiment
+br.com.flashapp,7,4,2.5,Registration
+br.com.flashapp,7,35,4.885714285714286,Usability
+br.com.flashapp,7,20,2.8,Generic complaint
+br.com.flashapp,7,7,3.4285714285714284,Customer service
+br.com.flashapp,7,23,2.217391304347826,Card
+br.com.flashapp,7,7,1.4285714285714286,Update
+br.com.flashapp,7,1,1,Virtual card
+br.com.flashapp,8,1,1,Notifications
+br.com.flashapp,8,7,1,Registration
+br.com.flashapp,8,363,4.856749311294766,Generic compliment
+br.com.flashapp,8,53,4.9245283018867925,Usability
+br.com.flashapp,8,16,1.5,Update
+br.com.flashapp,8,3,3.3333333333333335,Investiment
+br.com.flashapp,8,14,2.142857142857143,Performance
+br.com.flashapp,8,1,1,Virtual card
+br.com.flashapp,8,1,3,Token
+br.com.flashapp,8,35,3.057142857142857,Generic complaint
+br.com.flashapp,8,25,2.2,Card
+br.com.flashapp,8,17,2.235294117647059,Login
+br.com.flashapp,8,12,3.6666666666666665,Customer service
+br.com.flashapp,8,5,1.6,Invoice
+br.com.flashapp,9,11,2.909090909090909,Customer service
+br.com.flashapp,9,278,4.848920863309353,Generic compliment
+br.com.flashapp,9,5,1.2,Investiment
+br.com.flashapp,9,35,3.6,Generic complaint
+br.com.flashapp,9,22,1.5909090909090908,Card
+br.com.flashapp,9,9,2.5555555555555554,Update
+br.com.flashapp,9,7,2.142857142857143,Invoice
+br.com.flashapp,9,3,2.3333333333333335,Rewards program
+br.com.flashapp,9,12,1.3333333333333333,Performance
+br.com.flashapp,9,5,2,Registration
+br.com.flashapp,9,48,4.916666666666667,Usability
+br.com.flashapp,9,1,1,Virtual card
+br.com.flashapp,9,5,2.2,Notifications
+br.com.flashapp,9,13,1.9230769230769231,Login
+br.com.flashapp,10,2,1,Registration
+br.com.flashapp,10,2,3,Investiment
+br.com.flashapp,10,2,1,Invoice
+br.com.flashapp,10,11,1.9090909090909092,Card
+br.com.flashapp,10,13,3.1538461538461537,Customer service
+br.com.flashapp,10,5,2.4,Update
+br.com.flashapp,10,28,3.3214285714285716,Generic complaint
+br.com.flashapp,10,51,4.705882352941177,Usability
+br.com.flashapp,10,12,2.4166666666666665,Performance
+br.com.flashapp,10,4,1.5,Virtual card
+br.com.flashapp,10,291,4.890034364261169,Generic compliment
+br.com.flashapp,10,12,1.6666666666666667,Login
+br.com.flashapp,10,2,1,Notifications
+br.com.ifood.benefits,1,10,1.6,Update
+br.com.ifood.benefits,1,4,3,Customer service
+br.com.ifood.benefits,1,19,4.894736842105263,Usability
+br.com.ifood.benefits,1,10,1.9,Performance
+br.com.ifood.benefits,1,10,1.2,Login
+br.com.ifood.benefits,1,1,5,Invoice
+br.com.ifood.benefits,1,9,2.2222222222222223,Card
+br.com.ifood.benefits,1,6,2,Registration
+br.com.ifood.benefits,1,97,4.88659793814433,Generic compliment
+br.com.ifood.benefits,1,1,5,Rewards program
+br.com.ifood.benefits,1,2,1.5,Notifications
+br.com.ifood.benefits,1,13,3.6153846153846154,Generic complaint
+br.com.ifood.benefits,2,12,2.8333333333333335,Generic complaint
+br.com.ifood.benefits,2,15,4.866666666666666,Usability
+br.com.ifood.benefits,2,2,2.5,Update
+br.com.ifood.benefits,2,9,1.7777777777777777,Performance
+br.com.ifood.benefits,2,3,2.6666666666666665,Notifications
+br.com.ifood.benefits,2,13,1.8461538461538463,Login
+br.com.ifood.benefits,2,5,1,Registration
+br.com.ifood.benefits,2,69,4.971014492753623,Generic compliment
+br.com.ifood.benefits,2,3,2.3333333333333335,Card
+br.com.ifood.benefits,3,73,4.917808219178082,Generic compliment
+br.com.ifood.benefits,3,4,2.5,Invoice
+br.com.ifood.benefits,3,1,1,Update
+br.com.ifood.benefits,3,17,4.764705882352941,Usability
+br.com.ifood.benefits,3,1,5,Rewards program
+br.com.ifood.benefits,3,8,2.875,Generic complaint
+br.com.ifood.benefits,3,4,1.25,Registration
+br.com.ifood.benefits,3,9,1.1111111111111112,Performance
+br.com.ifood.benefits,3,2,3.5,Customer service
+br.com.ifood.benefits,3,10,1.3,Login
+br.com.ifood.benefits,3,4,3.75,Notifications
+br.com.ifood.benefits,3,4,2,Card
+br.com.ifood.benefits,4,3,2.3333333333333335,Notifications
+br.com.ifood.benefits,4,1,1,Update
+br.com.ifood.benefits,4,6,3,Card
+br.com.ifood.benefits,4,3,1.3333333333333333,Performance
+br.com.ifood.benefits,4,9,1.6666666666666667,Login
+br.com.ifood.benefits,4,87,4.919540229885057,Generic compliment
+br.com.ifood.benefits,4,6,1.3333333333333333,Registration
+br.com.ifood.benefits,4,1,3,Invoice
+br.com.ifood.benefits,4,7,1.7142857142857142,Generic complaint
+br.com.ifood.benefits,4,15,4.933333333333334,Usability
+br.com.ifood.benefits,4,1,1,Investiment
+br.com.ifood.benefits,4,2,1,Customer service
+br.com.ifood.benefits,5,4,2,Invoice
+br.com.ifood.benefits,5,83,4.903614457831325,Generic compliment
+br.com.ifood.benefits,5,29,4.931034482758621,Usability
+br.com.ifood.benefits,5,5,1.4,Performance
+br.com.ifood.benefits,5,7,4,Generic complaint
+br.com.ifood.benefits,5,3,3.3333333333333335,Investiment
+br.com.ifood.benefits,5,2,5,Customer service
+br.com.ifood.benefits,5,1,1,Update
+br.com.ifood.benefits,5,8,1.75,Card
+br.com.ifood.benefits,5,13,2.076923076923077,Login
+br.com.ifood.benefits,5,3,2.3333333333333335,Notifications
+br.com.ifood.benefits,5,1,1,Registration
+br.com.ifood.benefits,6,26,4.538461538461538,Usability
+br.com.ifood.benefits,6,2,1,Notifications
+br.com.ifood.benefits,6,5,1.8,Registration
+br.com.ifood.benefits,6,6,3.1666666666666665,Generic complaint
+br.com.ifood.benefits,6,3,1,Update
+br.com.ifood.benefits,6,4,1,Performance
+br.com.ifood.benefits,6,2,3,Rewards program
+br.com.ifood.benefits,6,3,2,Invoice
+br.com.ifood.benefits,6,7,1.4285714285714286,Login
+br.com.ifood.benefits,6,6,3,Card
+br.com.ifood.benefits,6,1,1,Virtual card
+br.com.ifood.benefits,6,107,4.934579439252336,Generic compliment
+br.com.ifood.benefits,7,2,1,Registration
+br.com.ifood.benefits,7,10,2.2,Card
+br.com.ifood.benefits,7,1,3,Update
+br.com.ifood.benefits,7,1,4,Invoice
+br.com.ifood.benefits,7,3,5,Performance
+br.com.ifood.benefits,7,12,3.5833333333333335,Generic complaint
+br.com.ifood.benefits,7,2,1.5,Login
+br.com.ifood.benefits,7,1,1,Customer service
+br.com.ifood.benefits,7,2,4,Investiment
+br.com.ifood.benefits,7,34,4.970588235294118,Usability
+br.com.ifood.benefits,7,93,4.935483870967742,Generic compliment
+br.com.ifood.benefits,7,1,1,Rewards program
+br.com.ifood.benefits,8,4,2,Invoice
+br.com.ifood.benefits,8,6,1,Registration
+br.com.ifood.benefits,8,7,2.857142857142857,Performance
+br.com.ifood.benefits,8,6,2.6666666666666665,Customer service
+br.com.ifood.benefits,8,18,2.8333333333333335,Generic complaint
+br.com.ifood.benefits,8,117,4.897435897435898,Generic compliment
+br.com.ifood.benefits,8,2,1,Rewards program
+br.com.ifood.benefits,8,29,4.724137931034483,Usability
+br.com.ifood.benefits,8,6,1.8333333333333333,Notifications
+br.com.ifood.benefits,8,13,1.5384615384615385,Login
+br.com.ifood.benefits,8,3,1.3333333333333333,Investiment
+br.com.ifood.benefits,8,15,1.2666666666666666,Card
+br.com.ifood.benefits,8,6,2.1666666666666665,Update
+br.com.ifood.benefits,9,9,1.6666666666666667,Performance
+br.com.ifood.benefits,9,14,1.1428571428571428,Login
+br.com.ifood.benefits,9,3,1.3333333333333333,Notifications
+br.com.ifood.benefits,9,12,1.75,Card
+br.com.ifood.benefits,9,1,1,Rewards program
+br.com.ifood.benefits,9,18,3,Generic complaint
+br.com.ifood.benefits,9,1,1,Virtual card
+br.com.ifood.benefits,9,22,5,Usability
+br.com.ifood.benefits,9,8,1.75,Registration
+br.com.ifood.benefits,9,2,2,Update
+br.com.ifood.benefits,9,74,4.905405405405405,Generic compliment
+br.com.ifood.benefits,9,5,3,Invoice
+br.com.ifood.benefits,10,74,4.945945945945946,Generic compliment
+br.com.ifood.benefits,10,2,2,Update
+br.com.ifood.benefits,10,1,2,Invoice
+br.com.ifood.benefits,10,2,1,Notifications
+br.com.ifood.benefits,10,19,4.894736842105263,Usability
+br.com.ifood.benefits,10,2,3,Rewards program
+br.com.ifood.benefits,10,12,1.8333333333333333,Login
+br.com.ifood.benefits,10,2,2.5,Investiment
+br.com.ifood.benefits,10,1,2,Virtual card
+br.com.ifood.benefits,10,10,2,Card
+br.com.ifood.benefits,10,16,2.75,Generic complaint
+br.com.ifood.benefits,10,6,2,Performance
+br.com.ifood.benefits,10,2,1,Customer service
+br.com.ifood.benefits,10,6,1,Registration
+br.com.mobile.ticket,1,364,1.554945054945055,Generic complaint
+br.com.mobile.ticket,1,443,4.772009029345372,Generic compliment
+br.com.mobile.ticket,1,462,1.3852813852813852,Update
+br.com.mobile.ticket,1,5,1,Rewards program
+br.com.mobile.ticket,1,536,1.251865671641791,Performance
+br.com.mobile.ticket,1,21,1.7142857142857142,Invoice
+br.com.mobile.ticket,1,48,1.9583333333333333,Customer service
+br.com.mobile.ticket,1,7,2,Notifications
+br.com.mobile.ticket,1,4,2,Token
+br.com.mobile.ticket,1,31,1.4193548387096775,Registration
+br.com.mobile.ticket,1,121,1.5206611570247934,Card
+br.com.mobile.ticket,1,1674,1.3476702508960574,Login
+br.com.mobile.ticket,1,8,1.625,Investiment
+br.com.mobile.ticket,1,43,3.558139534883721,Usability
+br.com.mobile.ticket,2,3,2.3333333333333335,Notifications
+br.com.mobile.ticket,2,7,1,Registration
+br.com.mobile.ticket,2,12,1,Customer service
+br.com.mobile.ticket,2,42,1.6428571428571428,Card
+br.com.mobile.ticket,2,10,1.5,Invoice
+br.com.mobile.ticket,2,2,1,Rewards program
+br.com.mobile.ticket,2,80,4.6625,Generic compliment
+br.com.mobile.ticket,2,78,1.6666666666666667,Generic complaint
+br.com.mobile.ticket,2,1,3,Virtual card
+br.com.mobile.ticket,2,173,2.132947976878613,Update
+br.com.mobile.ticket,2,8,3.875,Usability
+br.com.mobile.ticket,2,144,1.6736111111111112,Login
+br.com.mobile.ticket,2,55,2.109090909090909,Performance
+br.com.mobile.ticket,2,4,1.75,Investiment
+br.com.mobile.ticket,3,104,1.4711538461538463,Login
+br.com.mobile.ticket,3,23,1.0869565217391304,Performance
+br.com.mobile.ticket,3,1,1,Rewards program
+br.com.mobile.ticket,3,13,1.6153846153846154,Customer service
+br.com.mobile.ticket,3,40,1.525,Card
+br.com.mobile.ticket,3,52,1.4615384615384615,Generic complaint
+br.com.mobile.ticket,3,7,1.1428571428571428,Notifications
+br.com.mobile.ticket,3,13,2.076923076923077,Invoice
+br.com.mobile.ticket,3,6,4.166666666666667,Usability
+br.com.mobile.ticket,3,14,1.4285714285714286,Registration
+br.com.mobile.ticket,3,78,1.4871794871794872,Update
+br.com.mobile.ticket,3,22,4.7727272727272725,Generic compliment
+br.com.mobile.ticket,4,14,1.9285714285714286,Customer service
+br.com.mobile.ticket,4,28,1.1785714285714286,Card
+br.com.mobile.ticket,4,6,3.1666666666666665,Usability
+br.com.mobile.ticket,4,56,1.8571428571428572,Generic complaint
+br.com.mobile.ticket,4,32,4.5625,Generic compliment
+br.com.mobile.ticket,4,5,2,Investiment
+br.com.mobile.ticket,4,2,1.5,Rewards program
+br.com.mobile.ticket,4,29,1.3448275862068966,Performance
+br.com.mobile.ticket,4,20,1.5,Invoice
+br.com.mobile.ticket,4,86,1.5465116279069768,Login
+br.com.mobile.ticket,4,11,1.7272727272727273,Registration
+br.com.mobile.ticket,4,7,1.7142857142857142,Notifications
+br.com.mobile.ticket,4,1,1,Token
+br.com.mobile.ticket,4,73,1.452054794520548,Update
+br.com.mobile.ticket,5,4,4.25,Usability
+br.com.mobile.ticket,5,1,1,Rewards program
+br.com.mobile.ticket,5,26,1.3076923076923077,Performance
+br.com.mobile.ticket,5,8,1.5,Registration
+br.com.mobile.ticket,5,6,1,Notifications
+br.com.mobile.ticket,5,75,1.4133333333333333,Update
+br.com.mobile.ticket,5,45,1.5777777777777777,Generic complaint
+br.com.mobile.ticket,5,44,4.909090909090909,Generic compliment
+br.com.mobile.ticket,5,9,1.3333333333333333,Customer service
+br.com.mobile.ticket,5,9,1.7777777777777777,Invoice
+br.com.mobile.ticket,5,26,1.6153846153846154,Card
+br.com.mobile.ticket,5,86,1.3604651162790697,Login
+br.com.mobile.ticket,5,2,2,Investiment
+br.com.mobile.ticket,6,194,1.4896907216494846,Login
+br.com.mobile.ticket,6,5,1.2,Investiment
+br.com.mobile.ticket,6,33,1.2424242424242424,Performance
+br.com.mobile.ticket,6,11,1.2727272727272727,Notifications
+br.com.mobile.ticket,6,13,1.4615384615384615,Invoice
+br.com.mobile.ticket,6,42,1.4523809523809523,Card
+br.com.mobile.ticket,6,62,4.887096774193548,Generic compliment
+br.com.mobile.ticket,6,60,1.3833333333333333,Update
+br.com.mobile.ticket,6,2,1,Token
+br.com.mobile.ticket,6,3,4.666666666666667,Usability
+br.com.mobile.ticket,6,22,1.7272727272727273,Customer service
+br.com.mobile.ticket,6,15,1.4,Registration
+br.com.mobile.ticket,6,76,1.5921052631578947,Generic complaint
+br.com.mobile.ticket,6,1,2,Virtual card
+br.com.mobile.ticket,7,91,1.5824175824175823,Login
+br.com.mobile.ticket,7,43,4.813953488372093,Generic compliment
+br.com.mobile.ticket,7,10,1.1,Customer service
+br.com.mobile.ticket,7,29,2.2758620689655173,Card
+br.com.mobile.ticket,7,13,1.7692307692307692,Invoice
+br.com.mobile.ticket,7,5,3,Investiment
+br.com.mobile.ticket,7,6,1.1666666666666667,Registration
+br.com.mobile.ticket,7,20,1.75,Performance
+br.com.mobile.ticket,7,1,5,Rewards program
+br.com.mobile.ticket,7,4,1.5,Notifications
+br.com.mobile.ticket,7,21,2.2857142857142856,Update
+br.com.mobile.ticket,7,28,1.2142857142857142,Generic complaint
+br.com.mobile.ticket,7,4,4,Usability
+br.com.mobile.ticket,8,48,1.8541666666666667,Card
+br.com.mobile.ticket,8,6,1,Registration
+br.com.mobile.ticket,8,1,2,Virtual card
+br.com.mobile.ticket,8,80,1.55,Login
+br.com.mobile.ticket,8,74,3.0945945945945947,Generic complaint
+br.com.mobile.ticket,8,2,2.5,Investiment
+br.com.mobile.ticket,8,2,1,Rewards program
+br.com.mobile.ticket,8,886,4.874717832957111,Generic compliment
+br.com.mobile.ticket,8,6,1.6666666666666667,Notifications
+br.com.mobile.ticket,8,29,1.9655172413793103,Update
+br.com.mobile.ticket,8,25,1.48,Performance
+br.com.mobile.ticket,8,15,3.4,Customer service
+br.com.mobile.ticket,8,19,2.0526315789473686,Invoice
+br.com.mobile.ticket,8,150,4.833333333333333,Usability
+br.com.mobile.ticket,8,1,1,Token
+br.com.mobile.ticket,9,2,2.5,Virtual card
+br.com.mobile.ticket,9,1,5,Rewards program
+br.com.mobile.ticket,9,20,2.8,Invoice
+br.com.mobile.ticket,9,1738,4.8676639815880325,Generic compliment
+br.com.mobile.ticket,9,24,3.7916666666666665,Customer service
+br.com.mobile.ticket,9,37,2.3513513513513513,Card
+br.com.mobile.ticket,9,159,3.949685534591195,Generic complaint
+br.com.mobile.ticket,9,29,2.310344827586207,Performance
+br.com.mobile.ticket,9,321,4.838006230529595,Usability
+br.com.mobile.ticket,9,5,3,Investiment
+br.com.mobile.ticket,9,115,1.8956521739130434,Login
+br.com.mobile.ticket,9,41,2.4878048780487805,Update
+br.com.mobile.ticket,9,9,2.111111111111111,Registration
+br.com.mobile.ticket,9,4,4.5,Notifications
+br.com.mobile.ticket,10,1,2,Virtual card
+br.com.mobile.ticket,10,43,2.395348837209302,Card
+br.com.mobile.ticket,10,16,2.25,Invoice
+br.com.mobile.ticket,10,3,3.6666666666666665,Notifications
+br.com.mobile.ticket,10,101,3.594059405940594,Generic complaint
+br.com.mobile.ticket,10,1,2,Investiment
+br.com.mobile.ticket,10,81,2.2098765432098766,Login
+br.com.mobile.ticket,10,173,4.8497109826589595,Usability
+br.com.mobile.ticket,10,1014,4.840236686390533,Generic compliment
+br.com.mobile.ticket,10,25,1.88,Update
+br.com.mobile.ticket,10,5,1.8,Registration
+br.com.mobile.ticket,10,17,3.764705882352941,Customer service
+br.com.mobile.ticket,10,29,2.0344827586206895,Performance
+br.com.santander.benvisavale,1,4,1,Generic complaint
+br.com.santander.benvisavale,1,2,5,Generic compliment
+br.com.santander.benvisavale,1,1,1,Invoice
+br.com.santander.benvisavale,1,3,1,Login
+br.com.santander.benvisavale,1,4,1.75,Card
+br.com.santander.benvisavale,1,1,1,Notifications
+br.com.santander.benvisavale,1,2,5,Usability
+br.com.santander.benvisavale,1,1,5,Customer service
+br.com.santander.benvisavale,1,1,1,Registration
+br.com.santander.benvisavale,1,1,1,Update
+br.com.santander.benvisavale,2,2,1,Login
+br.com.santander.benvisavale,2,2,4.5,Generic compliment
+br.com.santander.benvisavale,2,8,1.375,Card
+br.com.santander.benvisavale,2,1,1,Invoice
+br.com.santander.benvisavale,2,6,1,Update
+br.com.santander.benvisavale,2,4,1,Registration
+br.com.santander.benvisavale,2,1,1,Customer service
+br.com.santander.benvisavale,2,2,1,Generic complaint
+br.com.santander.benvisavale,2,1,1,Investiment
+br.com.santander.benvisavale,3,5,1.2,Login
+br.com.santander.benvisavale,3,1,1,Virtual card
+br.com.santander.benvisavale,3,3,1,Generic complaint
+br.com.santander.benvisavale,3,5,5,Generic compliment
+br.com.santander.benvisavale,3,2,4,Usability
+br.com.santander.benvisavale,3,3,1.6666666666666667,Update
+br.com.santander.benvisavale,3,3,1,Card
+br.com.santander.benvisavale,3,3,1.6666666666666667,Invoice
+br.com.santander.benvisavale,3,2,1,Registration
+br.com.santander.benvisavale,3,2,1,Notifications
+br.com.santander.benvisavale,3,2,1,Performance
+br.com.santander.benvisavale,4,6,1.3333333333333333,Registration
+br.com.santander.benvisavale,4,3,1,Performance
+br.com.santander.benvisavale,4,1,1,Customer service
+br.com.santander.benvisavale,4,4,1.25,Notifications
+br.com.santander.benvisavale,4,12,1.0833333333333333,Login
+br.com.santander.benvisavale,4,10,1.5,Update
+br.com.santander.benvisavale,4,7,5,Generic compliment
+br.com.santander.benvisavale,4,1,5,Usability
+br.com.santander.benvisavale,4,2,3,Token
+br.com.santander.benvisavale,4,1,1,Investiment
+br.com.santander.benvisavale,4,8,1.5,Generic complaint
+br.com.santander.benvisavale,4,1,1,Rewards program
+br.com.santander.benvisavale,4,2,1,Invoice
+br.com.santander.benvisavale,4,6,1,Card
+br.com.santander.benvisavale,5,13,1.4615384615384615,Login
+br.com.santander.benvisavale,5,1,5,Usability
+br.com.santander.benvisavale,5,2,1,Card
+br.com.santander.benvisavale,5,1,1,Performance
+br.com.santander.benvisavale,5,11,1.3636363636363635,Update
+br.com.santander.benvisavale,5,3,1,Registration
+br.com.santander.benvisavale,5,3,5,Generic compliment
+br.com.santander.benvisavale,5,6,1.1666666666666667,Generic complaint
+br.com.santander.benvisavale,6,6,1.6666666666666667,Card
+br.com.santander.benvisavale,6,4,5,Generic compliment
+br.com.santander.benvisavale,6,25,1.52,Login
+br.com.santander.benvisavale,6,8,1.875,Generic complaint
+br.com.santander.benvisavale,6,9,1.6666666666666667,Performance
+br.com.santander.benvisavale,6,2,1,Customer service
+br.com.santander.benvisavale,6,1,1,Registration
+br.com.santander.benvisavale,6,2,3,Usability
+br.com.santander.benvisavale,6,15,1.1333333333333333,Update
+br.com.santander.benvisavale,6,3,2.3333333333333335,Invoice
+br.com.santander.benvisavale,7,1,1,Invoice
+br.com.santander.benvisavale,7,2,1.5,Notifications
+br.com.santander.benvisavale,7,42,4.880952380952381,Generic compliment
+br.com.santander.benvisavale,7,2,3,Customer service
+br.com.santander.benvisavale,7,6,2,Card
+br.com.santander.benvisavale,7,9,1.6666666666666667,Update
+br.com.santander.benvisavale,7,9,1.3333333333333333,Login
+br.com.santander.benvisavale,7,11,2.727272727272727,Generic complaint
+br.com.santander.benvisavale,7,9,5,Usability
+br.com.santander.benvisavale,7,1,1,Registration
+br.com.santander.benvisavale,7,1,1,Performance
+br.com.santander.benvisavale,8,4,2,Performance
+br.com.santander.benvisavale,8,5,3.2,Customer service
+br.com.santander.benvisavale,8,8,3.625,Generic complaint
+br.com.santander.benvisavale,8,1,1,Registration
+br.com.santander.benvisavale,8,4,2,Card
+br.com.santander.benvisavale,8,5,1.4,Update
+br.com.santander.benvisavale,8,2,3,Investiment
+br.com.santander.benvisavale,8,16,4.8125,Usability
+br.com.santander.benvisavale,8,9,3,Login
+br.com.santander.benvisavale,8,78,4.923076923076923,Generic compliment
+br.com.santander.benvisavale,9,2,4.5,Customer service
+br.com.santander.benvisavale,9,6,5,Usability
+br.com.santander.benvisavale,9,2,3,Update
+br.com.santander.benvisavale,9,1,3,Invoice
+br.com.santander.benvisavale,9,1,1,Card
+br.com.santander.benvisavale,9,11,2.5454545454545454,Login
+br.com.santander.benvisavale,9,5,4,Generic complaint
+br.com.santander.benvisavale,9,1,5,Performance
+br.com.santander.benvisavale,9,37,4.945945945945946,Generic compliment
+br.com.santander.benvisavale,10,2,1,Card
+br.com.santander.benvisavale,10,24,5,Generic compliment
+br.com.santander.benvisavale,10,4,1.5,Login
+br.com.santander.benvisavale,10,1,4,Invoice
+br.com.santander.benvisavale,10,1,5,Performance
+br.com.santander.benvisavale,10,6,5,Usability
+br.com.santander.benvisavale,10,1,5,Generic complaint
+com.caju.employeeApp,1,16,1.6875,Generic complaint
+com.caju.employeeApp,1,7,2.857142857142857,Customer service
+com.caju.employeeApp,1,1,2,Charging
+com.caju.employeeApp,1,9,1.8888888888888888,Features
+com.caju.employeeApp,1,10,1.9,Performance
+com.caju.employeeApp,1,5,1.8,Servicess
+com.caju.employeeApp,1,16,5,Usability
+com.caju.employeeApp,1,25,1.72,Login
+com.caju.employeeApp,1,69,4.898550724637682,Generic compliment
+com.caju.employeeApp,2,7,1.7142857142857142,Performance
+com.caju.employeeApp,2,14,4.928571428571429,Usability
+com.caju.employeeApp,2,5,3.2,Features
+com.caju.employeeApp,2,36,1.8611111111111112,Login
+com.caju.employeeApp,2,53,4.811320754716981,Generic compliment
+com.caju.employeeApp,2,4,2,Servicess
+com.caju.employeeApp,2,12,1.4166666666666667,Customer service
+com.caju.employeeApp,2,10,2.9,Generic complaint
+com.caju.employeeApp,2,1,1,Charging
+com.caju.employeeApp,3,67,4.880597014925373,Generic compliment
+com.caju.employeeApp,3,12,2.9166666666666665,Generic complaint
+com.caju.employeeApp,3,2,3,Servicess
+com.caju.employeeApp,3,9,1.6666666666666667,Performance
+com.caju.employeeApp,3,4,2.25,Features
+com.caju.employeeApp,3,18,1.6111111111111112,Login
+com.caju.employeeApp,3,10,4.9,Usability
+com.caju.employeeApp,3,10,1.4,Customer service
+com.caju.employeeApp,4,7,1.4285714285714286,Customer service
+com.caju.employeeApp,4,12,2.1666666666666665,Generic complaint
+com.caju.employeeApp,4,3,1,Servicess
+com.caju.employeeApp,4,13,1.4615384615384615,Performance
+com.caju.employeeApp,4,71,4.887323943661972,Generic compliment
+com.caju.employeeApp,4,19,1.736842105263158,Login
+com.caju.employeeApp,4,12,4.666666666666667,Usability
+com.caju.employeeApp,4,10,2.1,Features
+com.caju.employeeApp,5,11,1.5454545454545454,Performance
+com.caju.employeeApp,5,10,4.9,Usability
+com.caju.employeeApp,5,8,2.25,Features
+com.caju.employeeApp,5,2,3,Servicess
+com.caju.employeeApp,5,11,1.6363636363636365,Login
+com.caju.employeeApp,5,12,2.0833333333333335,Generic complaint
+com.caju.employeeApp,5,66,4.924242424242424,Generic compliment
+com.caju.employeeApp,5,4,3,Customer service
+com.caju.employeeApp,6,2,1,Features
+com.caju.employeeApp,6,3,4.666666666666667,Customer service
+com.caju.employeeApp,6,17,3.235294117647059,Generic complaint
+com.caju.employeeApp,6,6,1.6666666666666667,Performance
+com.caju.employeeApp,6,13,1.5384615384615385,Login
+com.caju.employeeApp,6,16,4.9375,Usability
+com.caju.employeeApp,6,66,4.954545454545454,Generic compliment
+com.caju.employeeApp,7,11,4.545454545454546,Usability
+com.caju.employeeApp,7,87,4.816091954022989,Generic compliment
+com.caju.employeeApp,7,13,1.9230769230769231,Customer service
+com.caju.employeeApp,7,34,2.264705882352941,Generic complaint
+com.caju.employeeApp,7,8,1.75,Features
+com.caju.employeeApp,7,55,1.7636363636363637,Performance
+com.caju.employeeApp,7,6,1.6666666666666667,Servicess
+com.caju.employeeApp,7,143,1.6853146853146854,Login
+com.caju.employeeApp,8,31,1.967741935483871,Generic complaint
+com.caju.employeeApp,8,1,4,Charging
+com.caju.employeeApp,8,7,4.571428571428571,Usability
+com.caju.employeeApp,8,102,1.9313725490196079,Login
+com.caju.employeeApp,8,7,1.8571428571428572,Customer service
+com.caju.employeeApp,8,35,4.828571428571428,Generic compliment
+com.caju.employeeApp,8,21,1.619047619047619,Performance
+com.caju.employeeApp,8,7,1.1428571428571428,Features
+com.caju.employeeApp,8,2,1,Servicess
+com.caju.employeeApp,9,52,1.4807692307692308,Login
+com.caju.employeeApp,9,5,2.2,Features
+com.caju.employeeApp,9,3,1,Charging
+com.caju.employeeApp,9,26,4.8076923076923075,Generic compliment
+com.caju.employeeApp,9,10,1.5,Performance
+com.caju.employeeApp,9,15,2.6666666666666665,Generic complaint
+com.caju.employeeApp,9,2,1,Servicess
+com.caju.employeeApp,9,4,4.75,Usability
+com.caju.employeeApp,9,2,1.5,Customer service
+com.caju.employeeApp,10,22,5,Generic compliment
+com.caju.employeeApp,10,1,1,Servicess
+com.caju.employeeApp,10,2,2.5,Charging
+com.caju.employeeApp,10,5,2.2,Features
+com.caju.employeeApp,10,4,2,Customer service
+com.caju.employeeApp,10,14,1.6428571428571428,Performance
+com.caju.employeeApp,10,30,1.8333333333333333,Login
+com.caju.employeeApp,10,14,1.9285714285714286,Generic complaint
+com.primety.sodexomobile,1,206,1.266990291262136,Update
+com.primety.sodexomobile,1,110,1.1636363636363636,Card
+com.primety.sodexomobile,1,143,1.1118881118881119,Performance
+com.primety.sodexomobile,1,5,1.8,Rewards program
+com.primety.sodexomobile,1,7,3,Usability
+com.primety.sodexomobile,1,154,1.3116883116883118,Generic complaint
+com.primety.sodexomobile,1,10,1.6,Notifications
+com.primety.sodexomobile,1,57,1.2456140350877194,Invoice
+com.primety.sodexomobile,1,3,1.6666666666666667,Investiment
+com.primety.sodexomobile,1,34,1.088235294117647,Customer service
+com.primety.sodexomobile,1,204,1.303921568627451,Login
+com.primety.sodexomobile,1,73,4.8493150684931505,Generic compliment
+com.primety.sodexomobile,1,29,1.3793103448275863,Registration
+com.primety.sodexomobile,2,277,1.404332129963899,Generic complaint
+com.primety.sodexomobile,2,16,1.25,Notifications
+com.primety.sodexomobile,2,415,1.202409638554217,Performance
+com.primety.sodexomobile,2,4,1,Rewards program
+com.primety.sodexomobile,2,386,1.3082901554404145,Update
+com.primety.sodexomobile,2,23,2.6956521739130435,Usability
+com.primety.sodexomobile,2,152,4.796052631578948,Generic compliment
+com.primety.sodexomobile,2,367,1.335149863760218,Login
+com.primety.sodexomobile,2,165,1.1151515151515152,Invoice
+com.primety.sodexomobile,2,64,1.265625,Customer service
+com.primety.sodexomobile,2,2,1,Token
+com.primety.sodexomobile,2,31,1.1290322580645162,Investiment
+com.primety.sodexomobile,2,20,1.1,Virtual card
+com.primety.sodexomobile,2,226,1.176991150442478,Card
+com.primety.sodexomobile,2,44,1.25,Registration
+com.primety.sodexomobile,3,174,1.4597701149425288,Generic complaint
+com.primety.sodexomobile,3,177,1.4463276836158192,Login
+com.primety.sodexomobile,3,196,1.2959183673469388,Performance
+com.primety.sodexomobile,3,158,4.715189873417722,Generic compliment
+com.primety.sodexomobile,3,33,1.303030303030303,Investiment
+com.primety.sodexomobile,3,59,1.423728813559322,Invoice
+com.primety.sodexomobile,3,33,1.4848484848484849,Registration
+com.primety.sodexomobile,3,18,1.1111111111111112,Virtual card
+com.primety.sodexomobile,3,253,1.4545454545454546,Update
+com.primety.sodexomobile,3,8,1.75,Rewards program
+com.primety.sodexomobile,3,2,1.5,Token
+com.primety.sodexomobile,3,145,1.4482758620689655,Card
+com.primety.sodexomobile,3,54,1.5740740740740742,Customer service
+com.primety.sodexomobile,3,8,1.375,Notifications
+com.primety.sodexomobile,3,19,3.9473684210526314,Usability
+com.primety.sodexomobile,4,2,1,Rewards program
+com.primety.sodexomobile,4,106,4.8584905660377355,Generic compliment
+com.primety.sodexomobile,4,123,1.4227642276422765,Generic complaint
+com.primety.sodexomobile,4,23,1.3043478260869565,Investiment
+com.primety.sodexomobile,4,4,1,Notifications
+com.primety.sodexomobile,4,16,1.4375,Virtual card
+com.primety.sodexomobile,4,36,1.6944444444444444,Invoice
+com.primety.sodexomobile,4,133,1.5112781954887218,Update
+com.primety.sodexomobile,4,208,1.2596153846153846,Login
+com.primety.sodexomobile,4,29,1.5172413793103448,Registration
+com.primety.sodexomobile,4,35,1.2857142857142858,Customer service
+com.primety.sodexomobile,4,88,1.2386363636363635,Card
+com.primety.sodexomobile,4,168,1.2797619047619047,Performance
+com.primety.sodexomobile,4,9,1.7777777777777777,Usability
+com.primety.sodexomobile,5,125,1.552,Update
+com.primety.sodexomobile,5,95,1.3263157894736841,Performance
+com.primety.sodexomobile,5,179,1.5921787709497206,Login
+com.primety.sodexomobile,5,72,1.4861111111111112,Card
+com.primety.sodexomobile,5,93,2.053763440860215,Generic complaint
+com.primety.sodexomobile,5,10,1.9,Notifications
+com.primety.sodexomobile,5,22,1.8181818181818181,Invoice
+com.primety.sodexomobile,5,11,1.7272727272727273,Virtual card
+com.primety.sodexomobile,5,35,3.5142857142857142,Usability
+com.primety.sodexomobile,5,31,1.2258064516129032,Customer service
+com.primety.sodexomobile,5,230,4.778260869565218,Generic compliment
+com.primety.sodexomobile,5,35,1.2285714285714286,Registration
+com.primety.sodexomobile,5,12,1.75,Investiment
+com.primety.sodexomobile,6,70,1.7428571428571429,Update
+com.primety.sodexomobile,6,1,1,Token
+com.primety.sodexomobile,6,81,4.839506172839506,Usability
+com.primety.sodexomobile,6,75,2.64,Generic complaint
+com.primety.sodexomobile,6,4,2.25,Rewards program
+com.primety.sodexomobile,6,5,3,Notifications
+com.primety.sodexomobile,6,48,1.75,Performance
+com.primety.sodexomobile,6,17,1.8235294117647058,Virtual card
+com.primety.sodexomobile,6,514,4.844357976653696,Generic compliment
+com.primety.sodexomobile,6,62,1.935483870967742,Card
+com.primety.sodexomobile,6,28,1.4642857142857142,Registration
+com.primety.sodexomobile,6,25,2.2,Invoice
+com.primety.sodexomobile,6,44,2.1818181818181817,Customer service
+com.primety.sodexomobile,6,6,2,Investiment
+com.primety.sodexomobile,6,110,1.7727272727272727,Login
+com.primety.sodexomobile,7,244,4.844262295081967,Usability
+com.primety.sodexomobile,7,231,1.8354978354978355,Login
+com.primety.sodexomobile,7,7,1.1428571428571428,Notifications
+com.primety.sodexomobile,7,35,2.3714285714285714,Invoice
+com.primety.sodexomobile,7,90,1.8777777777777778,Card
+com.primety.sodexomobile,7,13,1.6923076923076923,Virtual card
+com.primety.sodexomobile,7,2,1,Token
+com.primety.sodexomobile,7,13,3,Investiment
+com.primety.sodexomobile,7,9,2.5555555555555554,Rewards program
+com.primety.sodexomobile,7,111,1.7207207207207207,Performance
+com.primety.sodexomobile,7,207,1.6666666666666667,Update
+com.primety.sodexomobile,7,41,1.4390243902439024,Registration
+com.primety.sodexomobile,7,1399,4.8548963545389565,Generic compliment
+com.primety.sodexomobile,7,51,2.607843137254902,Customer service
+com.primety.sodexomobile,7,175,2.9314285714285715,Generic complaint
+com.primety.sodexomobile,8,94,1.7340425531914894,Performance
+com.primety.sodexomobile,8,1084,4.862546125461255,Generic compliment
+com.primety.sodexomobile,8,75,1.88,Card
+com.primety.sodexomobile,8,10,3.3,Investiment
+com.primety.sodexomobile,8,269,1.721189591078067,Login
+com.primety.sodexomobile,8,30,1.7333333333333334,Registration
+com.primety.sodexomobile,8,2,3.5,Rewards program
+com.primety.sodexomobile,8,6,1.3333333333333333,Virtual card
+com.primety.sodexomobile,8,10,1.1,Notifications
+com.primety.sodexomobile,8,36,2.3055555555555554,Customer service
+com.primety.sodexomobile,8,21,2.8095238095238093,Invoice
+com.primety.sodexomobile,8,174,1.8103448275862069,Update
+com.primety.sodexomobile,8,1,3,Token
+com.primety.sodexomobile,8,160,2.625,Generic complaint
+com.primety.sodexomobile,8,220,4.822727272727272,Usability
+com.primety.sodexomobile,9,80,1.7125,Update
+com.primety.sodexomobile,9,7,2,Investiment
+com.primety.sodexomobile,9,2,3,Token
+com.primety.sodexomobile,9,67,1.791044776119403,Card
+com.primety.sodexomobile,9,18,1.1111111111111112,Registration
+com.primety.sodexomobile,9,13,1.8461538461538463,Virtual card
+com.primety.sodexomobile,9,51,1.8627450980392157,Performance
+com.primety.sodexomobile,9,51,3.3137254901960786,Customer service
+com.primety.sodexomobile,9,19,2.8947368421052633,Invoice
+com.primety.sodexomobile,9,4,1.75,Rewards program
+com.primety.sodexomobile,9,961,4.874089490114464,Generic compliment
+com.primety.sodexomobile,9,120,2.85,Generic complaint
+com.primety.sodexomobile,9,169,4.846153846153846,Usability
+com.primety.sodexomobile,9,5,2.2,Notifications
+com.primety.sodexomobile,9,157,1.7261146496815287,Login
+com.primety.sodexomobile,10,25,1.76,Registration
+com.primety.sodexomobile,10,2,2,Notifications
+com.primety.sodexomobile,10,4,2.25,Rewards program
+com.primety.sodexomobile,10,173,4.77456647398844,Usability
+com.primety.sodexomobile,10,10,1.7,Virtual card
+com.primety.sodexomobile,10,10,2.1,Investiment
+com.primety.sodexomobile,10,38,2,Update
+com.primety.sodexomobile,10,35,3.0285714285714285,Customer service
+com.primety.sodexomobile,10,71,1.5492957746478873,Card
+com.primety.sodexomobile,10,691,4.881331403762663,Generic compliment
+com.primety.sodexomobile,10,49,1.510204081632653,Performance
+com.primety.sodexomobile,10,28,2.357142857142857,Invoice
+com.primety.sodexomobile,10,131,1.6717557251908397,Login
+com.primety.sodexomobile,10,106,3.207547169811321,Generic complaint
+ws.hanzo.Vrrh,1,61,2.8852459016393444,Generic complaint
+ws.hanzo.Vrrh,1,15,2.2,Update
+ws.hanzo.Vrrh,1,16,1.1875,Performance
+ws.hanzo.Vrrh,1,387,4.891472868217054,Generic compliment
+ws.hanzo.Vrrh,1,7,3,Invoice
+ws.hanzo.Vrrh,1,16,3.375,Customer service
+ws.hanzo.Vrrh,1,22,1.6363636363636365,Login
+ws.hanzo.Vrrh,1,7,2.7142857142857144,Notifications
+ws.hanzo.Vrrh,1,32,2.3125,Card
+ws.hanzo.Vrrh,1,3,3.6666666666666665,Investiment
+ws.hanzo.Vrrh,1,19,1.8421052631578947,Registration
+ws.hanzo.Vrrh,1,62,4.983870967741935,Usability
+ws.hanzo.Vrrh,2,18,3.1666666666666665,Login
+ws.hanzo.Vrrh,2,4,5,Update
+ws.hanzo.Vrrh,2,1,1,Token
+ws.hanzo.Vrrh,2,4,1,Invoice
+ws.hanzo.Vrrh,2,13,1.7692307692307692,Performance
+ws.hanzo.Vrrh,2,22,2.1818181818181817,Card
+ws.hanzo.Vrrh,2,8,1.5,Registration
+ws.hanzo.Vrrh,2,35,3.942857142857143,Generic complaint
+ws.hanzo.Vrrh,2,2,2.5,Notifications
+ws.hanzo.Vrrh,2,8,3.5,Customer service
+ws.hanzo.Vrrh,2,2,2,Rewards program
+ws.hanzo.Vrrh,2,294,4.959183673469388,Generic compliment
+ws.hanzo.Vrrh,2,60,4.883333333333334,Usability
+ws.hanzo.Vrrh,2,1,1,Investiment
+ws.hanzo.Vrrh,3,33,4.7272727272727275,Usability
+ws.hanzo.Vrrh,3,205,4.95609756097561,Generic compliment
+ws.hanzo.Vrrh,3,4,3.25,Investiment
+ws.hanzo.Vrrh,3,16,1.625,Performance
+ws.hanzo.Vrrh,3,2,4,Rewards program
+ws.hanzo.Vrrh,3,4,2.5,Notifications
+ws.hanzo.Vrrh,3,22,1.8181818181818181,Card
+ws.hanzo.Vrrh,3,4,3,Update
+ws.hanzo.Vrrh,3,14,1.1428571428571428,Login
+ws.hanzo.Vrrh,3,5,3.2,Invoice
+ws.hanzo.Vrrh,3,13,2.923076923076923,Customer service
+ws.hanzo.Vrrh,3,12,1.75,Registration
+ws.hanzo.Vrrh,3,27,2.8518518518518516,Generic complaint
+ws.hanzo.Vrrh,4,9,2.2222222222222223,Card
+ws.hanzo.Vrrh,4,20,2.75,Generic complaint
+ws.hanzo.Vrrh,4,33,5,Usability
+ws.hanzo.Vrrh,4,9,2.888888888888889,Invoice
+ws.hanzo.Vrrh,4,13,2,Registration
+ws.hanzo.Vrrh,4,11,2.5454545454545454,Customer service
+ws.hanzo.Vrrh,4,15,1.6666666666666667,Login
+ws.hanzo.Vrrh,4,222,4.95045045045045,Generic compliment
+ws.hanzo.Vrrh,4,2,2,Update
+ws.hanzo.Vrrh,4,9,1.7777777777777777,Performance
+ws.hanzo.Vrrh,4,1,1,Virtual card
+ws.hanzo.Vrrh,4,5,4.4,Notifications
+ws.hanzo.Vrrh,4,1,5,Rewards program
+ws.hanzo.Vrrh,5,100,4.91,Generic compliment
+ws.hanzo.Vrrh,5,4,2.25,Registration
+ws.hanzo.Vrrh,5,6,3.5,Customer service
+ws.hanzo.Vrrh,5,5,2.2,Performance
+ws.hanzo.Vrrh,5,5,2.2,Invoice
+ws.hanzo.Vrrh,5,4,1,Notifications
+ws.hanzo.Vrrh,5,19,1.4736842105263157,Card
+ws.hanzo.Vrrh,5,14,5,Usability
+ws.hanzo.Vrrh,5,1,3,Rewards program
+ws.hanzo.Vrrh,5,12,1.75,Login
+ws.hanzo.Vrrh,5,1,5,Investiment
+ws.hanzo.Vrrh,5,6,2.1666666666666665,Update
+ws.hanzo.Vrrh,5,2,1.5,Virtual card
+ws.hanzo.Vrrh,5,18,3.2777777777777777,Generic complaint
+ws.hanzo.Vrrh,6,115,4.913043478260869,Generic compliment
+ws.hanzo.Vrrh,6,11,2.5454545454545454,Customer service
+ws.hanzo.Vrrh,6,8,2,Login
+ws.hanzo.Vrrh,6,1,1,Notifications
+ws.hanzo.Vrrh,6,5,3.2,Update
+ws.hanzo.Vrrh,6,7,1.4285714285714286,Performance
+ws.hanzo.Vrrh,6,1,2,Virtual card
+ws.hanzo.Vrrh,6,4,1.75,Registration
+ws.hanzo.Vrrh,6,1,1,Investiment
+ws.hanzo.Vrrh,6,17,2.2941176470588234,Generic complaint
+ws.hanzo.Vrrh,6,6,2,Invoice
+ws.hanzo.Vrrh,6,12,2.25,Card
+ws.hanzo.Vrrh,6,19,5,Usability
+ws.hanzo.Vrrh,7,2,3,Investiment
+ws.hanzo.Vrrh,7,297,4.962962962962963,Generic compliment
+ws.hanzo.Vrrh,7,4,3,Invoice
+ws.hanzo.Vrrh,7,13,1.6923076923076923,Card
+ws.hanzo.Vrrh,7,16,1.9375,Login
+ws.hanzo.Vrrh,7,9,1.2222222222222223,Performance
+ws.hanzo.Vrrh,7,1,5,Rewards program
+ws.hanzo.Vrrh,7,6,1.3333333333333333,Registration
+ws.hanzo.Vrrh,7,1,1,Notifications
+ws.hanzo.Vrrh,7,3,2.6666666666666665,Customer service
+ws.hanzo.Vrrh,7,29,3.7586206896551726,Generic complaint
+ws.hanzo.Vrrh,7,60,4.95,Usability
+ws.hanzo.Vrrh,8,1,1,Notifications
+ws.hanzo.Vrrh,8,14,2.7857142857142856,Card
+ws.hanzo.Vrrh,8,3,2.3333333333333335,Rewards program
+ws.hanzo.Vrrh,8,2,1,Virtual card
+ws.hanzo.Vrrh,8,9,3.4444444444444446,Customer service
+ws.hanzo.Vrrh,8,1,5,Investiment
+ws.hanzo.Vrrh,8,10,1.9,Login
+ws.hanzo.Vrrh,8,15,2.3333333333333335,Update
+ws.hanzo.Vrrh,8,6,1.5,Registration
+ws.hanzo.Vrrh,8,16,2.375,Performance
+ws.hanzo.Vrrh,8,5,2.6,Invoice
+ws.hanzo.Vrrh,8,1,5,Token
+ws.hanzo.Vrrh,8,64,4.953125,Usability
+ws.hanzo.Vrrh,8,285,4.908771929824561,Generic compliment
+ws.hanzo.Vrrh,8,24,3.625,Generic complaint
+ws.hanzo.Vrrh,9,1,4,Investiment
+ws.hanzo.Vrrh,9,224,4.897321428571429,Generic compliment
+ws.hanzo.Vrrh,9,58,4.758620689655173,Usability
+ws.hanzo.Vrrh,9,1,1,Token
+ws.hanzo.Vrrh,9,7,1.8571428571428572,Virtual card
+ws.hanzo.Vrrh,9,3,3.6666666666666665,Notifications
+ws.hanzo.Vrrh,9,13,1.9230769230769231,Performance
+ws.hanzo.Vrrh,9,12,1.25,Registration
+ws.hanzo.Vrrh,9,8,1.625,Invoice
+ws.hanzo.Vrrh,9,10,3.5,Customer service
+ws.hanzo.Vrrh,9,8,1.75,Update
+ws.hanzo.Vrrh,9,13,1.8461538461538463,Login
+ws.hanzo.Vrrh,9,19,1.5263157894736843,Card
+ws.hanzo.Vrrh,9,35,3.1714285714285713,Generic complaint
+ws.hanzo.Vrrh,10,12,1.8333333333333333,Registration
+ws.hanzo.Vrrh,10,2,3,Investiment
+ws.hanzo.Vrrh,10,743,4.939434724091521,Generic compliment
+ws.hanzo.Vrrh,10,4,4.5,Rewards program
+ws.hanzo.Vrrh,10,12,2.9166666666666665,Invoice
+ws.hanzo.Vrrh,10,15,2.6,Update
+ws.hanzo.Vrrh,10,137,4.861313868613139,Usability
+ws.hanzo.Vrrh,10,23,2.652173913043478,Card
+ws.hanzo.Vrrh,10,19,2.736842105263158,Login
+ws.hanzo.Vrrh,10,2,1.5,Virtual card
+ws.hanzo.Vrrh,10,13,2.3076923076923075,Performance
+ws.hanzo.Vrrh,10,28,4.428571428571429,Customer service
+ws.hanzo.Vrrh,10,65,3.5384615384615383,Generic complaint
+ws.hanzo.Vrrh,10,1,5,Notifications
