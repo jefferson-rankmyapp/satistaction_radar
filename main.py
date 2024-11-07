@@ -1,45 +1,55 @@
-# main.py
+import streamlit as st
+import pandas as pd
+from src.visualization import plot_radar_chart, plot_single_app_radar
 
-from datetime import datetime
-from src.mongo_handler import MongoHandler  # Classe responsável pela consulta
-from src.visualization import plot_radar_chart, plot_single_app_radar  # Módulo de visualização
-import os
+# Configurações iniciais da página do Streamlit
+st.set_page_config(page_title="Análise de Satisfação de Apps", page_icon="data/Logo light mode.png")
 
-# Função principal para rodar o fluxo
-def main():
-    # Lista de appIds, data inicial, data final e idiomas
-    app_ids = ["ws.hanzo.Vrrh", "br.com.santander.benvisavale", "br.com.ifood.benefits", "com.primety.sodexomobile","com.caju.employeeApp","br.com.flashapp", "br.com.mobile.ticket"]
-    start_date = datetime(2024, 1, 1)
-    end_date = datetime(2024, 10, 31)
-    langs = ["pt"]
+# Título e logotipo
+st.image("data/Logo light mode.png", width=200)
+st.title("Análise de Satisfação de Apps")
+st.write("Essa aplicação permite analisar a satisfação de usuários para diferentes aplicativos, com base nas subcategorias e médias de rating dos reviews.")
 
-    # Caminho para o arquivo CSV gerado
-    csv_file = "data\\review_summary.csv" 
+# # Controle para escolher o CSV de dados
+# st.sidebar.header("Configurações de Dados")
+# use_default_csv = st.sidebar.radio("Escolha a fonte de dados:", ["Usar CSV padrão", "Carregar novo CSV"])
 
-    # # Verifica se o arquivo CSV existe
-    # if os.path.exists(csv_file):
-    #     os.remove(csv_file)
-    #     print("Arquivo CSV removido: review_summary.csv")
+# # Carregar o CSV com base na opção do usuário
+# if use_default_csv == "Usar CSV padrão":
+#     csv_file = "data/review_summary.csv"
+#     st.sidebar.write("Usando o arquivo de dados padrão.")
+# else:
+#     uploaded_file = st.sidebar.file_uploader("Carregue um arquivo CSV", type=["csv"])
+#     if uploaded_file:
+#         csv_file = uploaded_file
+#         st.sidebar.write("Novo arquivo de dados carregado.")
+#     else:
+#         st.warning("Por favor, carregue um arquivo CSV.")
+#         st.stop()  # Interrompe a execução até que um arquivo seja carregado
 
-    # Inicializa o manipulador do MongoDB e faz a consulta
-    # mongo_handler = MongoHandler()
-    # df = mongo_handler.get_review_summary(app_ids, start_date, end_date, langs)
-    
-    # # Salva o DataFrame em CSV
-    # df.to_csv(csv_file, index=False, sep=';')
-    # print(f"Arquivo CSV gerado: {csv_file}")
-    
-    # # Fecha a conexão com o MongoDB
-    # mongo_handler.close_connection()
+csv_file = "data/review_summary.csv"
 
-    # Verificar se o CSV está vazio
-    if os.stat(csv_file).st_size == 0:
-        print("O CSV está vazio, nenhum gráfico será gerado.")
+# Carregar o DataFrame
+df = pd.read_csv(csv_file)
 
-    # Gerar o gráfico se o CSV não estiver vazio
-    plot_radar_chart(csv_file)
+# Exibir uma tabela com o DataFrame processado para o radar
+st.subheader("Dados Processados para o Gráfico Radar")
+st.write("Tabela mostrando as médias de rating por subcategoria.")
+df_radar = df.groupby(['appId', 'subcategory'], as_index=False).agg({'avg(score)': 'mean'}).pivot_table(
+    index='appId', columns='subcategory', values='avg(score)').fillna(0)
+st.dataframe(df_radar)
 
-    plot_single_app_radar("ws.hanzo.Vrrh", csv_file)
+# Exibir o gráfico radar geral com o arquivo CSV carregado
+st.subheader("Gráfico Radar de Satisfação - Todos os Apps")
+plot_radar_chart(csv_file)
 
-if __name__ == "__main__":
-    main()
+# Controle para exibir o gráfico de um único app
+st.subheader("Análise Detalhada de um App")
+app_id_input = st.text_input("Digite o appId para visualizar o radar específico")
+
+# Verifica se o appId foi inserido e plota o gráfico específico
+if app_id_input:
+    if app_id_input in df["appId"].unique():
+        plot_single_app_radar(app_id_input, csv_file)
+    else:
+        st.error("O appId informado não foi encontrado no arquivo de dados.")

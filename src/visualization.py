@@ -2,6 +2,7 @@
 
 import plotly.graph_objects as go
 import pandas as pd
+import streamlit as st
 
  # Mapeamento de appIds para títulos dos apps
 app_titles = {
@@ -74,49 +75,59 @@ def plot_radar_chart(csv_file):
     )
 
     # Exibir o gráfico
-    fig.show()
+    #  fig.show()
+
+    # Exibir o gráfico diretamente na página do Streamlit
+    st.plotly_chart(fig)
 
 def plot_single_app_radar(app_id, csv_file):
-    # Verificar se o app_id existe no mapeamento e obter o título correspondente
-    app_title = app_titles.get(app_id, app_id)
-
-    # Carregar o arquivo CSV gerado
+    # Carregar os dados do CSV
     df = pd.read_csv(csv_file)
-
-    # Filtrar os dados para o appId selecionado
+    
+    # Filtrar os dados para o appId específico
     df_app = df[df['appId'] == app_id]
 
-    # Agrupar os dados por subcategoria e calcular o rating médio
-    df_grouped = df_app.groupby('subcategory', as_index=False).agg({'avg(score)': 'mean'})
-    
-    # Formatar o 'avg(score)' para 3 casas decimais
-    df_grouped['avg(score)'] = df_grouped['avg(score)'].round(3)
+    # Agrupar e calcular a média do rating e o volume para cada subcategoria
+    df_grouped = df_app.groupby('subcategory').agg(
+        avg_score=('avg(score)', 'mean'),
+        count=('count(id)', 'sum')
+    ).reset_index()
 
-    # Garantir que todas as subcategorias estejam no índice, substituindo NaNs por 0 para eixos ausentes
-    df_radar = df_grouped.set_index('subcategory').reindex(columns=['avg(score)']).fillna(0)
+    # Lista de subcategorias
+    subcategories_list = df_grouped['subcategory'].tolist()
+    ratings = df_grouped['avg_score'].tolist()
+    counts = df_grouped['count'].tolist()
+
+    # Obter o título do app pelo appId
+    app_name = app_titles.get(app_id, app_id)
 
     # Criar o gráfico de radar para o app específico
     fig = go.Figure()
 
+    # Customizar a legenda com o volume e o rating médio por subcategoria
+    legend_name = f"{app_name} | Média: {sum(ratings) / len(ratings):.3f} | Volume total: {sum(counts)}"
+
     fig.add_trace(go.Scatterpolar(
-        r=df_radar['avg(score)'].values,
-        theta=df_radar.index,
+        r=ratings,
+        theta=subcategories_list,
         fill='toself',
-        name=app_title
+        name=legend_name,
+        hovertemplate='<b>Subcategoria: %{theta}</b><br>Média: %{r:.2f}<br>Volume: %{customdata}',
+        customdata=counts  # Exibe o volume de cada subcategoria ao passar o mouse
     ))
 
-    # Configurar layout do gráfico
+    # Configurações do layout do gráfico
     fig.update_layout(
         polar=dict(
             radialaxis=dict(
                 visible=True,
-                range=[0, 5]  # A média de score está entre 0 e 5
+                range=[0, 5]  # Define a escala de 0 a 5
             )
         ),
-        title=f"Radar de Satisfação | {app_title}",
-        template="plotly_dark",
-        showlegend=False  # Remover legenda para gráfico de app único
+        title=f"Radar de Satisfação | {app_name}",
+        template="seaborn",
+        showlegend=False
     )
 
-    # Exibir o gráfico
-    fig.show()
+    # Exibir o gráfico diretamente na página do Streamlit
+    st.plotly_chart(fig)
