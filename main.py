@@ -8,7 +8,7 @@ import os
 # Função principal para rodar o fluxo
 def main():
     # Lista de appIds, data inicial, data final e idiomas
-    app_ids = ["ws.hanzo.Vrrh", "br.com.santander.benvisavale", "br.com.ifood.benefits"]
+    app_ids = ["ws.hanzo.Vrrh", "br.com.santander.benvisavale", "br.com.ifood.benefits", "com.primety.sodexomobile","com.caju.employeeApp","br.com.flashapp", "br.com.mobile.ticket"]
     start_date = datetime(2024, 1, 1)
     end_date = datetime(2024, 10, 31)
     langs = ["pt"]
@@ -26,13 +26,13 @@ def main():
     df = mongo_handler.get_review_summary(app_ids, start_date, end_date, langs)
     
     # Salva o DataFrame em CSV
-    df.to_csv("review_summary.csv", index=False, sep=';')
-    print("Arquivo CSV gerado: review_summary.csv")
+    df.to_csv(csv_file, index=False, sep=';')
+    print(f"Arquivo CSV gerado: {csv_file}")
     
     # Fecha a conexão com o MongoDB
     mongo_handler.close_connection()
 
-        # Verificar se o CSV está vazio
+    # Verificar se o CSV está vazio
     if os.stat(csv_file).st_size == 0:
         print("O CSV está vazio, nenhum gráfico será gerado.")
 
