@@ -1,26 +1,40 @@
 # main.py
 
+from datetime import datetime
 from src.mongo_handler import MongoHandler  # Classe responsável pela consulta
 from src.visualization import plot_radar_chart  # Módulo de visualização
 import os
 
 # Função principal para rodar o fluxo
 def main():
-    # Definindo o caminho do arquivo CSV que será gerado
-    csv_file = 'data\\query_results.csv'
+    # Lista de appIds, data inicial, data final e idiomas
+    app_ids = ["ws.hanzo.Vrrh", "br.com.santander.benvisavale", "br.com.ifood.benefits"]
+    start_date = datetime(2024, 1, 1)
+    end_date = datetime(2024, 10, 31)
+    langs = ["pt"]
 
-    # Exemplo de filtro para consulta
-    filter_params = {
-        "start_date": "2024-01-01T00:00:00.000Z",
-        "end_date": "2024-10-31T00:00:00.000Z",
-        "lang": "pt"
-    }
+    # Caminho para o arquivo CSV gerado
+    csv_file = "data\\review_summary.csv" 
 
-    # Criação da instância do MongoHandler para a consulta
-    # mongo_handler = MongoHandler()
+    # Verifica se o arquivo CSV existe
+    if os.path.exists(csv_file):
+        os.remove(csv_file)
+        print("Arquivo CSV removido: review_summary.csv")
 
-    # Realizando a consulta e gerando o CSV
-    #  mongo_handler.query_to_csv(csv_file, filter_params)
+    # Inicializa o manipulador do MongoDB e faz a consulta
+    mongo_handler = MongoHandler()
+    df = mongo_handler.get_review_summary(app_ids, start_date, end_date, langs)
+    
+    # Salva o DataFrame em CSV
+    df.to_csv("review_summary.csv", index=False, sep=';')
+    print("Arquivo CSV gerado: review_summary.csv")
+    
+    # Fecha a conexão com o MongoDB
+    mongo_handler.close_connection()
+
+        # Verificar se o CSV está vazio
+    if os.stat(csv_file).st_size == 0:
+        print("O CSV está vazio, nenhum gráfico será gerado.")
 
     # Gerar o gráfico se o CSV não estiver vazio
     plot_radar_chart(csv_file)
