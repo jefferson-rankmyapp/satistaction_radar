@@ -1,0 +1,3430 @@
+appId,month,count(id),avg(score),subcategory
+com.itau,9,1,1.0,Token
+com.itau,11,1,2.0,Card
+com.itau,12,1,1.0,Login
+com.itau,12,1,4.0,Registration
+com.itau,4,1,1.0,Update
+com.itau,4,1,5.0,Customer service
+com.itau,8,2,3.5,Performance
+com.itau,8,1,2.0,Update
+com.itau,9,1,5.0,Generic compliment
+com.itau,10,1,5.0,Generic compliment
+com.itau,11,1,1.0,Investiment
+com.itau,12,1,3.0,Usability
+com.itau,12,1,1.0,Card
+com.itau,1,1,1.0,Update
+com.itau,1,1,5.0,Generic compliment
+com.itau,1,1,2.0,Registration
+com.itau,1,1,1.0,Customer service
+com.itau,1,1,1.0,Update
+com.itau,1,1,1.0,Customer service
+com.itau,1,1,1.0,Performance
+com.itau,1,1,5.0,Generic compliment
+com.itau,1,1,5.0,Login
+com.itau,1,1,2.0,Login
+com.itau,1,1,1.0,Rewards program
+com.itau,1,1,2.0,Invoice
+com.itau,1,1,5.0,Login
+com.itau,1,1,1.0,Token
+com.itau,1,1,1.0,Customer service
+com.itau,1,1,1.0,Generic complaint
+com.itau,1,3,5.0,Generic compliment
+com.itau,1,1,1.0,Login
+com.itau,1,1,5.0,Usability
+com.itau,1,1,3.0,Update
+com.itau,1,1,5.0,Customer service
+com.itau,1,1,5.0,Generic compliment
+com.itau,1,1,1.0,Invoice
+com.itau,1,1,5.0,Generic compliment
+com.itau,1,1,2.0,Update
+com.itau,1,1,5.0,Performance
+com.itau,1,1,1.0,Generic compliment
+com.itau,1,1,1.0,Performance
+com.itau,1,1,2.0,Card
+com.itau,1,1,2.0,Login
+com.itau,2,1,1.0,Generic complaint
+com.itau,2,1,5.0,Generic compliment
+com.itau,2,1,3.0,Login
+com.itau,2,1,1.0,Performance
+com.itau,2,1,1.0,Login
+com.itau,2,1,1.0,Generic complaint
+com.itau,2,1,5.0,Generic compliment
+com.itau,2,1,3.0,Card
+com.itau,2,1,5.0,Generic compliment
+com.itau,2,1,5.0,Generic compliment
+com.itau,2,1,1.0,Card
+com.itau,2,1,5.0,Generic compliment
+com.itau,2,1,1.0,Customer service
+com.itau,2,1,5.0,Customer service
+com.itau,2,1,5.0,Generic compliment
+com.itau,2,1,5.0,Customer service
+com.itau,2,1,1.0,Invoice
+com.itau,2,1,1.0,Performance
+com.itau,2,1,1.0,Performance
+com.itau,2,1,5.0,Generic compliment
+com.itau,2,1,3.0,Invoice
+com.itau,2,1,5.0,Customer service
+com.itau,2,1,1.0,Generic complaint
+com.itau,2,1,5.0,Generic compliment
+com.itau,3,2,4.5,Customer service
+com.itau,3,1,5.0,Generic compliment
+com.itau,3,1,5.0,Generic compliment
+com.itau,3,1,2.0,Registration
+com.itau,3,1,5.0,Customer service
+com.itau,3,1,1.0,Invoice
+com.itau,3,1,1.0,Performance
+com.itau,3,1,1.0,Token
+com.itau,3,1,4.0,Card
+com.itau,3,2,5.0,Generic compliment
+com.itau,3,1,1.0,Virtual card
+com.itau,3,1,5.0,Generic compliment
+com.itau,3,1,1.0,Generic complaint
+com.itau,3,1,1.0,Card
+com.itau,3,1,1.0,Update
+com.itau,3,1,1.0,Generic complaint
+com.itau,3,1,2.0,Card
+com.itau,3,2,5.0,Generic compliment
+com.itau,3,1,1.0,Invoice
+com.itau,3,1,2.0,Update
+com.itau,3,1,1.0,Generic complaint
+com.itau,3,1,5.0,Generic compliment
+com.itau,3,1,5.0,Generic compliment
+com.itau,3,1,5.0,Generic compliment
+com.itau,3,1,3.0,Update
+com.itau,4,1,1.0,Card
+com.itau,4,1,5.0,Generic compliment
+com.itau,4,1,5.0,Generic compliment
+com.itau,4,1,5.0,Generic compliment
+com.itau,4,1,1.0,Update
+com.itau,4,1,1.0,Invoice
+com.itau,4,1,3.0,Performance
+com.itau,4,1,1.0,Update
+com.itau,4,1,1.0,Performance
+com.itau,4,2,3.0,Update
+com.itau,4,1,1.0,Rewards program
+com.itau,4,3,5.0,Generic compliment
+com.itau,4,1,1.0,Generic complaint
+com.itau,4,1,5.0,Generic compliment
+com.itau,4,1,1.0,Token
+com.itau,4,1,1.0,Update
+com.itau,4,1,5.0,Generic complaint
+com.itau,4,1,3.0,Login
+com.itau,4,1,4.0,Usability
+com.itau,4,1,5.0,Generic compliment
+com.itau,4,1,1.0,Card
+com.itau,4,1,5.0,Generic compliment
+com.itau,4,1,3.0,Update
+com.itau,4,1,5.0,Generic compliment
+com.itau,4,1,5.0,Customer service
+com.itau,4,1,1.0,Login
+com.itau,5,1,4.0,Generic compliment
+com.itau,5,1,1.0,Login
+com.itau,5,1,5.0,Generic compliment
+com.itau,5,1,1.0,Performance
+com.itau,5,1,3.0,Update
+com.itau,5,1,1.0,Performance
+com.itau,5,1,5.0,Generic compliment
+com.itau,5,1,5.0,Customer service
+com.itau,5,1,5.0,Generic compliment
+com.itau,5,1,5.0,Customer service
+com.itau,5,1,5.0,Generic compliment
+com.itau,5,1,1.0,Update
+com.itau,5,1,4.0,Generic compliment
+com.itau,5,1,1.0,Investiment
+com.itau,5,1,1.0,Invoice
+com.itau,5,1,1.0,Generic complaint
+com.itau,5,1,2.0,Performance
+com.itau,5,1,1.0,Card
+com.itau,5,2,2.0,Usability
+com.itau,5,1,2.0,Token
+com.itau,5,1,1.0,Update
+com.itau,5,1,5.0,Generic compliment
+com.itau,5,1,3.0,Invoice
+com.itau,5,1,1.0,Login
+com.itau,5,2,1.0,Customer service
+com.itau,5,1,5.0,Generic compliment
+com.itau,6,1,5.0,Generic compliment
+com.itau,6,1,1.0,Customer service
+com.itau,6,1,1.0,Generic complaint
+com.itau,6,1,5.0,Generic compliment
+com.itau,6,1,5.0,Generic compliment
+com.itau,6,1,1.0,Investiment
+com.itau,6,1,2.0,Update
+com.itau,6,1,2.0,Login
+com.itau,6,1,3.0,Update
+com.itau,6,1,5.0,Generic compliment
+com.itau,6,1,1.0,Invoice
+com.itau,6,1,2.0,Login
+com.itau,6,1,5.0,Invoice
+com.itau,6,2,1.5,Update
+com.itau,6,1,1.0,Registration
+com.itau,6,1,3.0,Card
+com.itau,6,1,3.0,Generic complaint
+com.itau,6,1,2.0,Update
+com.itau,6,1,5.0,Generic compliment
+com.itau,6,1,1.0,Customer service
+com.itau,6,1,1.0,Generic complaint
+com.itau,6,1,5.0,Generic compliment
+com.itau,6,1,1.0,Login
+com.itau,6,1,1.0,Performance
+com.itau,6,1,1.0,Token
+com.itau,6,1,1.0,Generic complaint
+com.itau,7,1,4.0,Invoice
+com.itau,7,1,1.0,Card
+com.itau,7,1,5.0,Generic compliment
+com.itau,7,1,5.0,Generic complaint
+com.itau,7,1,5.0,Generic compliment
+com.itau,7,1,3.0,Login
+com.itau,7,1,3.0,Card
+com.itau,7,1,1.0,Card
+com.itau,7,1,4.0,Registration
+com.itau,7,1,1.0,Card
+com.itau,7,1,1.0,Customer service
+com.itau,7,1,1.0,Generic complaint
+com.itau,7,1,5.0,Generic compliment
+com.itau,7,1,5.0,Generic compliment
+com.itau,7,1,1.0,Performance
+com.itau,7,1,2.0,Usability
+com.itau,7,1,1.0,Update
+com.itau,7,1,1.0,Card
+com.itau,7,1,1.0,Login
+com.itau,7,1,3.0,Customer service
+com.itau,7,1,5.0,Card
+com.itau,7,1,1.0,Customer service
+com.itau,7,1,1.0,Generic complaint
+com.itau,7,1,1.0,Update
+com.itau,7,1,5.0,Token
+com.itau,7,1,4.0,Customer service
+com.itau,7,1,1.0,Login
+com.itau,7,1,4.0,Card
+com.itau,7,1,5.0,Generic compliment
+com.itau,8,2,1.0,Card
+com.itau,8,1,1.0,Card
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,4.0,Update
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,3.0,Invoice
+com.itau,8,1,1.0,Token
+com.itau,8,1,1.0,Card
+com.itau,8,1,5.0,Generic complaint
+com.itau,8,1,1.0,Notifications
+com.itau,8,1,5.0,Usability
+com.itau,8,1,5.0,Update
+com.itau,8,1,1.0,Customer service
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,4.0,Registration
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,3.0,Generic complaint
+com.itau,8,2,5.0,Usability
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,4.0,Investiment
+com.itau,8,1,1.0,Card
+com.itau,8,1,1.0,Generic complaint
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,5.0,Card
+com.itau,8,4,5.0,Generic compliment
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,5.0,Generic compliment
+com.itau,8,1,1.0,Update
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,1,1.0,Card
+com.itau,9,3,5.0,Generic compliment
+com.itau,9,1,1.0,Customer service
+com.itau,9,2,5.0,Generic compliment
+com.itau,9,2,3.5,Generic compliment
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,1,1.0,Card
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,2,5.0,Generic compliment
+com.itau,9,1,5.0,Usability
+com.itau,9,1,1.0,Card
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,1,5.0,Usability
+com.itau,9,1,1.0,Card
+com.itau,9,1,5.0,Usability
+com.itau,9,1,3.0,Card
+com.itau,9,1,2.0,Generic complaint
+com.itau,9,2,5.0,Generic compliment
+com.itau,9,1,2.0,Notifications
+com.itau,9,1,5.0,Customer service
+com.itau,9,1,1.0,Generic complaint
+com.itau,9,4,4.3,Generic compliment
+com.itau,9,1,2.0,Performance
+com.itau,9,1,2.0,Card
+com.itau,9,1,3.0,Update
+com.itau,9,1,1.0,Generic complaint
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,1,4.0,Performance
+com.itau,9,1,5.0,Usability
+com.itau,9,1,1.0,Generic complaint
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,1,1.0,Notifications
+com.itau,9,1,4.0,Generic complaint
+com.itau,9,2,5.0,Generic compliment
+com.itau,9,1,1.0,Card
+com.itau,9,2,5.0,Generic compliment
+com.itau,9,1,4.0,Performance
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,1,5.0,Generic compliment
+com.itau,9,1,1.0,Card
+com.itau,9,1,5.0,Generic compliment
+com.itau,10,3,5.0,Generic compliment
+com.itau,10,1,3.0,Login
+com.itau,10,1,5.0,Usability
+com.itau,10,1,2.0,Invoice
+com.itau,10,1,3.0,Notifications
+com.itau,10,1,2.0,Usability
+com.itau,10,1,5.0,Generic compliment
+com.itau,10,1,1.0,Update
+com.itau,10,1,4.0,Usability
+com.itau,10,1,1.0,Card
+com.itau,10,1,1.0,Login
+com.itau,10,1,2.0,Card
+com.itau,10,2,5.0,Generic compliment
+com.itau,10,1,1.0,Invoice
+com.itau,10,1,1.0,Performance
+com.itau,10,1,1.0,Update
+com.itau,10,2,1.0,Generic complaint
+com.itau,10,1,5.0,Update
+com.itau,10,1,3.0,Invoice
+com.itau,10,1,5.0,Generic compliment
+com.itau,10,1,2.0,Update
+com.itau,10,1,1.0,Customer service
+com.itau,10,1,5.0,Generic complaint
+com.itau,10,1,2.0,Performance
+com.itau,10,1,1.0,Card
+com.itau,10,1,2.0,Invoice
+com.itau,10,1,1.0,Performance
+com.itau,10,1,2.0,Update
+com.itau,10,2,1.0,Login
+com.itau,10,1,1.0,Card
+com.itau,10,1,3.0,Generic complaint
+com.itau,10,2,4.5,Generic compliment
+com.itau,10,1,5.0,Performance
+com.itau,10,1,5.0,Card
+com.itau,10,1,1.0,Customer service
+com.itau,10,2,5.0,Generic compliment
+com.itau,10,1,5.0,Card
+com.itau,10,1,5.0,Generic compliment
+com.itau,10,1,5.0,Generic compliment
+com.itau,10,1,5.0,Generic compliment
+com.itau,10,1,5.0,Usability
+com.itau,10,2,2.0,Card
+com.itau,10,1,2.0,Generic complaint
+com.itau,10,4,5.0,Generic compliment
+com.itau,10,1,1.0,Invoice
+com.itau,10,1,5.0,Customer service
+com.itau,10,1,5.0,Generic complaint
+com.itau,10,1,5.0,Generic compliment
+com.itau,10,1,1.0,Generic complaint
+com.itau,10,2,5.0,Generic compliment
+com.itau,10,1,1.0,Invoice
+com.itau,10,1,1.0,Login
+com.itau,10,1,1.0,Customer service
+com.itau,10,1,1.0,Login
+com.itau,10,1,5.0,nan
+com.itau,10,1,5.0,Generic compliment
+com.itau,10,1,1.0,Performance
+com.itau,11,1,5.0,Generic compliment
+com.itau,11,2,5.0,Usability
+com.itau,11,1,1.0,Card
+com.itau,11,1,1.0,Update
+com.itau,11,2,5.0,Generic compliment
+com.itau,11,1,1.0,Generic complaint
+com.itau,11,4,4.5,Generic compliment
+com.itau,11,1,1.0,Update
+com.itau,11,1,1.0,Invoice
+com.itau,11,1,4.0,Card
+com.itau,11,1,1.0,Generic complaint
+com.itau,11,2,5.0,Generic compliment
+com.itau,11,2,1.0,Generic complaint
+com.itau,11,1,1.0,Token
+com.itau,11,3,1.3,Card
+com.itau,11,1,5.0,Generic compliment
+com.itau,11,1,1.0,Card
+com.itau,11,1,3.0,Notifications
+com.itau,11,1,1.0,Customer service
+com.itau,11,1,5.0,Generic compliment
+com.itau,11,1,3.0,Customer service
+com.itau,11,1,3.0,Notifications
+com.itau,11,1,1.0,Generic complaint
+com.itau,11,1,1.0,Invoice
+com.itau,11,1,1.0,Performance
+com.itau,11,1,5.0,Generic complaint
+com.itau,11,1,5.0,Generic compliment
+com.itau,11,1,1.0,Login
+com.itau,11,1,5.0,Usability
+com.itau,11,1,1.0,Generic complaint
+com.itau,11,1,5.0,Generic compliment
+com.itau.empresas,3,1,5.0,Generic compliment
+com.itau.empresas,3,1,5.0,Card
+com.itau.empresas,6,1,1.0,Card
+com.itau.empresas,6,1,5.0,Generic complaint
+com.itau.empresas,6,1,5.0,Generic compliment
+com.itau.empresas,6,1,2.0,Login
+com.itau.empresas,7,1,5.0,Generic compliment
+com.itau.empresas,7,1,5.0,Generic complaint
+com.itau.empresas,7,1,5.0,Usability
+com.itau.empresas,8,1,1.0,Login
+com.itau.empresas,9,1,5.0,Generic compliment
+com.itau.empresas,9,1,4.0,Generic compliment
+com.itau.empresas,10,1,5.0,Generic compliment
+com.itau.investimentos,1,1,3.0,Performance
+com.itau.investimentos,1,1,5.0,Performance
+com.itau.investimentos,2,1,1.0,Customer service
+com.itau.investimentos,3,1,5.0,Generic compliment
+com.itau.investimentos,4,1,5.0,Generic compliment
+com.itau.investimentos,5,1,5.0,Generic compliment
+com.itau.investimentos,5,1,1.0,Login
+com.itau.investimentos,6,1,1.0,Login
+com.itau.investimentos,6,1,3.0,Investiment
+com.itau.investimentos,7,1,3.0,Generic compliment
+com.itau.investimentos,7,1,5.0,Generic compliment
+com.itau.investimentos,7,1,5.0,Card
+com.itau.investimentos,8,1,5.0,Generic compliment
+com.itau.investimentos,9,1,1.0,Customer service
+com.itau.investimentos,9,1,5.0,Generic compliment
+com.itau.investimentos,9,1,1.0,Login
+com.itau.iti,10,1,1.0,Card
+com.itau.iti,10,1,2.0,Customer service
+com.itau.iti,5,1,2.0,Notifications
+com.itau.iti,7,1,5.0,Card
+com.itau.iti,10,1,1.0,Notifications
+com.itau.iti,1,1,5.0,Generic compliment
+com.itau.iti,2,1,5.0,Generic compliment
+com.itau.iti,2,1,5.0,Generic compliment
+com.itau.iti,2,1,5.0,Generic compliment
+com.itau.iti,2,1,5.0,Generic compliment
+com.itau.iti,2,1,4.0,Generic complaint
+com.itau.iti,2,1,1.0,Login
+com.itau.iti,2,1,1.0,Registration
+com.itau.iti,2,1,4.0,Generic compliment
+com.itau.iti,2,1,4.0,Update
+com.itau.iti,3,1,5.0,Generic compliment
+com.itau.iti,3,1,5.0,Generic compliment
+com.itau.iti,3,1,5.0,Generic compliment
+com.itau.iti,3,1,1.0,Invoice
+com.itau.iti,3,1,1.0,Performance
+com.itau.iti,3,1,5.0,Usability
+com.itau.iti,4,1,5.0,Generic compliment
+com.itau.iti,4,1,4.0,Generic complaint
+com.itau.iti,4,1,1.0,Token
+com.itau.iti,4,2,5.0,Generic compliment
+com.itau.iti,4,1,5.0,Generic compliment
+com.itau.iti,4,1,5.0,Generic complaint
+com.itau.iti,4,1,5.0,Generic compliment
+com.itau.iti,5,1,5.0,Generic compliment
+com.itau.iti,5,1,5.0,Generic compliment
+com.itau.iti,5,1,5.0,Generic compliment
+com.itau.iti,5,1,4.0,Generic compliment
+com.itau.iti,5,1,5.0,Investiment
+com.itau.iti,6,1,1.0,Login
+com.itau.iti,6,1,5.0,Card
+com.itau.iti,6,1,5.0,Generic compliment
+com.itau.iti,6,1,1.0,Invoice
+com.itau.iti,7,1,5.0,Investiment
+com.itau.iti,8,1,1.0,Card
+com.itau.iti,8,1,1.0,Login
+com.itau.iti,8,1,5.0,Generic compliment
+com.itau.iti,8,1,5.0,Generic compliment
+com.itau.iti,8,1,5.0,Usability
+com.itau.iti,9,1,1.0,Card
+com.itau.iti,9,1,1.0,Invoice
+com.itau.iti,9,1,1.0,Generic complaint
+com.itau.iti,9,1,1.0,Card
+com.itau.iti,9,1,1.0,Invoice
+com.itau.iti,9,1,1.0,Card
+com.itau.iti,10,1,5.0,Generic compliment
+com.itau.iti,10,1,5.0,Generic compliment
+com.itau.iti,10,1,5.0,Generic compliment
+com.itau.iti,10,1,5.0,Customer service
+com.itau.iti,11,1,5.0,Generic compliment
+com.itau.pers,7,1,5.0,Generic compliment
+com.itau.pers,7,1,2.0,Invoice
+com.itau.pers,3,1,5.0,Generic compliment
+com.itau.pers,1,1,5.0,Generic compliment
+com.itau.pers,2,1,1.0,Customer service
+com.itau.pers,3,1,1.0,Generic complaint
+com.itau.pers,4,1,5.0,Generic compliment
+com.itau.pers,5,1,1.0,Card
+com.itau.pers,5,1,1.0,Token
+com.itau.pers,6,1,1.0,Customer service
+com.itau.pers,6,1,5.0,Generic compliment
+com.itau.pers,8,1,5.0,Usability
+com.itau.pers,8,1,5.0,Usability
+com.itau.pers,9,1,5.0,Generic compliment
+com.itau.pers,9,1,5.0,Generic complaint
+com.itau.pers,9,1,1.0,Login
+com.itau.pers,9,1,3.0,Usability
+com.itau.pers,10,1,5.0,Generic compliment
+com.itau.pers,10,1,1.0,Card
+com.itau.pers,11,1,1.0,Update
+com.itau.pers,11,1,2.0,Invoice
+com.itau.pers,11,1,5.0,Generic compliment
+com.itau.pers,11,1,1.0,Invoice
+com.itaucard.activity,6,1,3.0,Card
+com.itaucard.activity,6,2,1.0,Invoice
+com.itaucard.activity,6,1,4.0,Generic compliment
+com.itaucard.activity,6,3,2.3,Card
+com.itaucard.activity,6,1,5.0,Generic compliment
+com.itaucard.activity,6,1,3.0,Usability
+com.itaucard.activity,6,1,5.0,Card
+com.itaucard.activity,6,1,5.0,Usability
+com.itaucard.activity,7,1,5.0,Invoice
+com.itaucard.activity,7,4,2.3,Card
+com.itaucard.activity,7,1,2.0,Customer service
+com.itaucard.activity,7,4,5.0,Generic compliment
+com.itaucard.activity,7,1,3.0,Invoice
+com.itaucard.activity,7,4,2.3,Update
+com.itaucard.activity,7,1,5.0,Usability
+com.itaucard.activity,7,1,3.0,Login
+com.itaucard.activity,7,1,1.0,Invoice
+com.itaucard.activity,7,1,1.0,Update
+com.itaucard.activity,7,2,4.0,Generic compliment
+com.itaucard.activity,7,2,3.0,Update
+com.itaucard.activity,7,1,5.0,Generic compliment
+com.itaucard.activity,8,1,5.0,Generic compliment
+com.itaucard.activity,8,1,1.0,Card
+com.itaucard.activity,8,1,2.0,Login
+com.itaucard.activity,8,2,2.5,Invoice
+com.itaucard.activity,8,1,5.0,Performance
+com.itaucard.activity,8,1,4.0,Generic complaint
+com.itaucard.activity,8,1,1.0,Generic complaint
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,1,5.0,Usability
+com.itaucard.activity,9,1,5.0,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,1,5.0,Generic complaint
+com.itaucard.activity,9,1,4.0,Card
+com.itaucard.activity,10,1,3.0,Generic complaint
+com.itaucard.activity,10,1,1.0,Card
+com.itaucard.activity,11,1,5.0,Generic compliment
+com.itaucard.activity,11,1,1.0,Card
+com.itaucard.activity,11,1,1.0,Rewards program
+com.itaucard.activity,11,1,4.0,Login
+com.itaucard.activity,11,1,1.0,Performance
+com.itaucard.activity,11,1,1.0,Card
+com.itaucard.activity,12,1,1.0,Performance
+com.itaucard.activity,12,1,5.0,Generic compliment
+com.itaucard.activity,12,1,1.0,Update
+com.itaucard.activity,2,1,5.0,Generic compliment
+com.itaucard.activity,2,1,1.0,Customer service
+com.itaucard.activity,2,1,5.0,Token
+com.itaucard.activity,2,1,3.0,Invoice
+com.itaucard.activity,2,1,1.0,Notifications
+com.itaucard.activity,2,1,5.0,Generic compliment
+com.itaucard.activity,2,1,1.0,Card
+com.itaucard.activity,2,1,3.0,Update
+com.itaucard.activity,3,1,1.0,Token
+com.itaucard.activity,3,1,4.0,Generic compliment
+com.itaucard.activity,3,1,1.0,Invoice
+com.itaucard.activity,3,1,5.0,Usability
+com.itaucard.activity,3,1,2.0,Update
+com.itaucard.activity,3,1,5.0,Generic compliment
+com.itaucard.activity,3,1,5.0,Generic compliment
+com.itaucard.activity,3,1,1.0,Virtual card
+com.itaucard.activity,4,1,5.0,Generic compliment
+com.itaucard.activity,4,1,1.0,Update
+com.itaucard.activity,4,2,2.5,Card
+com.itaucard.activity,4,1,5.0,Generic compliment
+com.itaucard.activity,4,1,1.0,Virtual card
+com.itaucard.activity,4,1,1.0,Card
+com.itaucard.activity,5,1,4.0,Generic complaint
+com.itaucard.activity,5,1,1.0,Login
+com.itaucard.activity,5,1,4.0,Card
+com.itaucard.activity,5,1,2.0,Update
+com.itaucard.activity,5,1,3.0,Card
+com.itaucard.activity,5,1,1.0,Card
+com.itaucard.activity,6,1,4.0,Card
+com.itaucard.activity,6,1,5.0,Generic compliment
+com.itaucard.activity,6,1,2.0,Card
+com.itaucard.activity,6,1,1.0,Invoice
+com.itaucard.activity,6,1,4.0,Usability
+com.itaucard.activity,6,1,5.0,Generic compliment
+com.itaucard.activity,7,1,4.0,Generic compliment
+com.itaucard.activity,7,1,1.0,Update
+com.itaucard.activity,7,1,1.0,Card
+com.itaucard.activity,7,2,3.5,Update
+com.itaucard.activity,7,1,5.0,Generic compliment
+com.itaucard.activity,7,1,4.0,Performance
+com.itaucard.activity,7,1,1.0,Update
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,1,5.0,Generic compliment
+com.itaucard.activity,7,1,4.0,Update
+com.itaucard.activity,7,1,1.0,Token
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,2,2.0,Login
+com.itaucard.activity,8,4,2.0,Update
+com.itaucard.activity,8,1,1.0,Login
+com.itaucard.activity,8,2,1.5,Login
+com.itaucard.activity,8,1,1.0,Performance
+com.itaucard.activity,8,1,1.0,Card
+com.itaucard.activity,8,1,5.0,Update
+com.itaucard.activity,9,1,5.0,Notifications
+com.itaucard.activity,9,1,2.0,Invoice
+com.itaucard.activity,9,1,1.0,Login
+com.itaucard.activity,9,1,3.0,Update
+com.itaucard.activity,9,1,1.0,Token
+com.itaucard.activity,9,1,2.0,Update
+com.itaucard.activity,10,1,5.0,Update
+com.itaucard.activity,10,1,1.0,Invoice
+com.itaucard.activity,10,1,1.0,Card
+com.itaucard.activity,10,1,5.0,Card
+com.itaucard.activity,10,1,1.0,Customer service
+com.itaucard.activity,11,1,2.0,Invoice
+com.itaucard.activity,11,1,3.0,Rewards program
+com.itaucard.activity,11,1,1.0,Token
+com.itaucard.activity,11,1,1.0,Card
+com.itaucard.activity,11,1,4.0,Generic complaint
+com.itaucard.activity,11,1,1.0,Card
+com.itaucard.activity,11,1,2.0,Token
+com.itaucard.activity,11,1,3.0,Invoice
+com.itaucard.activity,11,1,4.0,Update
+com.itaucard.activity,11,1,1.0,Login
+com.itaucard.activity,11,1,3.0,Login
+com.itaucard.activity,11,1,1.0,Login
+com.itaucard.activity,11,1,1.0,Card
+com.itaucard.activity,11,1,1.0,Login
+com.itaucard.activity,11,1,1.0,Performance
+com.itaucard.activity,11,1,1.0,Customer service
+com.itaucard.activity,11,1,1.0,Notifications
+com.itaucard.activity,11,1,1.0,Usability
+com.itaucard.activity,11,1,2.0,Invoice
+com.itaucard.activity,11,2,5.0,Login
+com.itaucard.activity,11,1,4.0,Performance
+com.itaucard.activity,12,1,1.0,Customer service
+com.itaucard.activity,12,1,5.0,Usability
+com.itaucard.activity,12,1,5.0,Login
+com.itaucard.activity,12,1,5.0,Card
+com.itaucard.activity,12,1,5.0,Generic compliment
+com.itaucard.activity,12,1,4.0,Generic compliment
+com.itaucard.activity,12,1,3.0,Login
+com.itaucard.activity,12,1,5.0,Update
+com.itaucard.activity,12,1,5.0,Generic compliment
+com.itaucard.activity,12,1,5.0,Card
+com.itaucard.activity,12,1,5.0,Update
+com.itaucard.activity,12,1,1.0,Card
+com.itaucard.activity,12,1,5.0,Performance
+com.itaucard.activity,12,1,5.0,Card
+com.itaucard.activity,12,1,1.0,Card
+com.itaucard.activity,12,1,3.0,Generic complaint
+com.itaucard.activity,12,1,1.0,Notifications
+com.itaucard.activity,12,1,3.0,Update
+com.itaucard.activity,12,1,1.0,Card
+com.itaucard.activity,12,1,5.0,Card
+com.itaucard.activity,12,1,1.0,Notifications
+com.itaucard.activity,1,1,5.0,Usability
+com.itaucard.activity,1,3,2.3,Customer service
+com.itaucard.activity,1,3,3.0,Generic complaint
+com.itaucard.activity,1,14,4.9,Generic compliment
+com.itaucard.activity,1,1,2.0,Login
+com.itaucard.activity,1,2,5.0,Usability
+com.itaucard.activity,1,8,2.5,Card
+com.itaucard.activity,1,3,5.0,Customer service
+com.itaucard.activity,1,5,3.2,Generic complaint
+com.itaucard.activity,1,48,4.9,Generic compliment
+com.itaucard.activity,1,3,5.0,Invoice
+com.itaucard.activity,1,2,1.5,Login
+com.itaucard.activity,1,1,1.0,Performance
+com.itaucard.activity,1,2,1.0,Update
+com.itaucard.activity,1,5,5.0,Usability
+com.itaucard.activity,1,6,1.8,Card
+com.itaucard.activity,1,6,3.5,Customer service
+com.itaucard.activity,1,9,2.4,Generic complaint
+com.itaucard.activity,1,37,4.8,Generic compliment
+com.itaucard.activity,1,5,1.4,Invoice
+com.itaucard.activity,1,3,1.0,Login
+com.itaucard.activity,1,3,1.0,Performance
+com.itaucard.activity,1,1,3.0,Update
+com.itaucard.activity,1,6,4.5,Usability
+com.itaucard.activity,1,1,5.0,nan
+com.itaucard.activity,1,8,2.4,Card
+com.itaucard.activity,1,2,4.5,Customer service
+com.itaucard.activity,1,10,3.0,Generic complaint
+com.itaucard.activity,1,46,5.0,Generic compliment
+com.itaucard.activity,1,2,2.0,Invoice
+com.itaucard.activity,1,3,1.3,Login
+com.itaucard.activity,1,2,1.0,Performance
+com.itaucard.activity,1,3,4.0,Token
+com.itaucard.activity,1,4,2.0,Update
+com.itaucard.activity,1,1,5.0,Usability
+com.itaucard.activity,1,1,5.0,Card
+com.itaucard.activity,1,14,5.0,Generic compliment
+com.itaucard.activity,1,1,1.0,Invoice
+com.itaucard.activity,1,1,1.0,Login
+com.itaucard.activity,1,3,2.3,Performance
+com.itaucard.activity,1,5,2.2,Card
+com.itaucard.activity,1,2,5.0,Customer service
+com.itaucard.activity,1,7,2.4,Generic complaint
+com.itaucard.activity,1,43,4.9,Generic compliment
+com.itaucard.activity,1,2,1.0,Invoice
+com.itaucard.activity,1,3,2.3,Login
+com.itaucard.activity,1,2,2.5,Notifications
+com.itaucard.activity,1,1,1.0,Performance
+com.itaucard.activity,1,1,5.0,Rewards program
+com.itaucard.activity,1,1,1.0,Update
+com.itaucard.activity,1,3,5.0,Usability
+com.itaucard.activity,1,1,5.0,nan
+com.itaucard.activity,1,9,2.3,Card
+com.itaucard.activity,1,5,3.4,Customer service
+com.itaucard.activity,1,7,1.7,Generic complaint
+com.itaucard.activity,1,37,4.9,Generic compliment
+com.itaucard.activity,1,7,2.1,Invoice
+com.itaucard.activity,1,5,2.8,Login
+com.itaucard.activity,1,1,5.0,Notifications
+com.itaucard.activity,1,2,2.5,Performance
+com.itaucard.activity,1,1,1.0,Registration
+com.itaucard.activity,1,2,4.0,Update
+com.itaucard.activity,1,9,4.8,Usability
+com.itaucard.activity,1,1,2.0,Virtual card
+com.itaucard.activity,1,3,2.3,Card
+com.itaucard.activity,1,4,1.3,Generic complaint
+com.itaucard.activity,1,36,4.8,Generic compliment
+com.itaucard.activity,1,2,2.5,Invoice
+com.itaucard.activity,1,3,2.0,Login
+com.itaucard.activity,1,1,3.0,Notifications
+com.itaucard.activity,1,2,2.0,Update
+com.itaucard.activity,1,6,4.3,Usability
+com.itaucard.activity,1,2,2.5,Card
+com.itaucard.activity,1,6,2.8,Customer service
+com.itaucard.activity,1,9,3.1,Generic complaint
+com.itaucard.activity,1,43,4.8,Generic compliment
+com.itaucard.activity,1,8,2.0,Invoice
+com.itaucard.activity,1,3,1.3,Login
+com.itaucard.activity,1,1,3.0,Notifications
+com.itaucard.activity,1,1,1.0,Performance
+com.itaucard.activity,1,1,1.0,Token
+com.itaucard.activity,1,5,1.4,Update
+com.itaucard.activity,1,5,5.0,Usability
+com.itaucard.activity,1,1,1.0,Virtual card
+com.itaucard.activity,1,7,2.3,Card
+com.itaucard.activity,1,4,3.0,Customer service
+com.itaucard.activity,1,8,2.1,Generic complaint
+com.itaucard.activity,1,36,4.9,Generic compliment
+com.itaucard.activity,1,3,2.3,Invoice
+com.itaucard.activity,1,5,1.8,Login
+com.itaucard.activity,1,4,1.0,Performance
+com.itaucard.activity,1,1,1.0,Token
+com.itaucard.activity,1,8,4.8,Usability
+com.itaucard.activity,1,1,1.0,Virtual card
+com.itaucard.activity,1,5,3.0,Card
+com.itaucard.activity,1,6,3.7,Customer service
+com.itaucard.activity,1,9,3.8,Generic complaint
+com.itaucard.activity,1,35,4.9,Generic compliment
+com.itaucard.activity,1,1,1.0,Invoice
+com.itaucard.activity,1,2,1.5,Login
+com.itaucard.activity,1,4,1.0,Performance
+com.itaucard.activity,1,1,2.0,Token
+com.itaucard.activity,1,1,4.0,Update
+com.itaucard.activity,1,3,5.0,Usability
+com.itaucard.activity,1,1,5.0,nan
+com.itaucard.activity,1,3,2.3,Card
+com.itaucard.activity,1,1,5.0,Customer service
+com.itaucard.activity,1,2,3.0,Generic complaint
+com.itaucard.activity,1,7,5.0,Generic compliment
+com.itaucard.activity,1,1,5.0,Login
+com.itaucard.activity,1,1,5.0,Usability
+com.itaucard.activity,1,3,1.0,Card
+com.itaucard.activity,1,4,4.0,Customer service
+com.itaucard.activity,1,7,2.7,Generic complaint
+com.itaucard.activity,1,35,4.8,Generic compliment
+com.itaucard.activity,1,2,1.5,Invoice
+com.itaucard.activity,1,2,2.0,Login
+com.itaucard.activity,1,1,4.0,Rewards program
+com.itaucard.activity,1,4,5.0,Usability
+com.itaucard.activity,1,6,2.7,Card
+com.itaucard.activity,1,2,5.0,Customer service
+com.itaucard.activity,1,2,1.0,Generic complaint
+com.itaucard.activity,1,56,4.9,Generic compliment
+com.itaucard.activity,1,11,2.3,Invoice
+com.itaucard.activity,1,2,3.0,Login
+com.itaucard.activity,1,1,3.0,Notifications
+com.itaucard.activity,1,2,2.5,Registration
+com.itaucard.activity,1,2,1.5,Token
+com.itaucard.activity,1,3,2.0,Update
+com.itaucard.activity,1,16,4.9,Usability
+com.itaucard.activity,1,4,1.5,Card
+com.itaucard.activity,1,6,4.3,Customer service
+com.itaucard.activity,1,7,1.6,Generic complaint
+com.itaucard.activity,1,31,5.0,Generic compliment
+com.itaucard.activity,1,1,1.0,Investiment
+com.itaucard.activity,1,3,2.7,Login
+com.itaucard.activity,1,1,1.0,Notifications
+com.itaucard.activity,1,1,4.0,Performance
+com.itaucard.activity,1,1,3.0,Update
+com.itaucard.activity,1,6,5.0,Usability
+com.itaucard.activity,1,7,2.1,Card
+com.itaucard.activity,1,6,3.0,Customer service
+com.itaucard.activity,1,7,2.7,Generic complaint
+com.itaucard.activity,1,72,4.9,Generic compliment
+com.itaucard.activity,1,1,2.0,Invoice
+com.itaucard.activity,1,5,2.0,Login
+com.itaucard.activity,1,1,2.0,Notifications
+com.itaucard.activity,1,3,2.3,Performance
+com.itaucard.activity,1,1,1.0,Rewards program
+com.itaucard.activity,1,3,1.3,Update
+com.itaucard.activity,1,6,5.0,Usability
+com.itaucard.activity,1,9,2.3,Card
+com.itaucard.activity,1,2,2.5,Customer service
+com.itaucard.activity,1,4,2.8,Generic complaint
+com.itaucard.activity,1,56,4.8,Generic compliment
+com.itaucard.activity,1,6,1.7,Invoice
+com.itaucard.activity,1,5,1.2,Login
+com.itaucard.activity,1,1,5.0,Notifications
+com.itaucard.activity,1,1,1.0,Token
+com.itaucard.activity,1,1,3.0,Update
+com.itaucard.activity,1,5,5.0,Usability
+com.itaucard.activity,1,12,2.8,Card
+com.itaucard.activity,1,3,4.7,Customer service
+com.itaucard.activity,1,13,2.3,Generic complaint
+com.itaucard.activity,1,74,4.7,Generic compliment
+com.itaucard.activity,1,1,2.0,Investiment
+com.itaucard.activity,1,3,1.7,Invoice
+com.itaucard.activity,1,3,2.0,Login
+com.itaucard.activity,1,1,5.0,Notifications
+com.itaucard.activity,1,8,5.0,Usability
+com.itaucard.activity,1,1,5.0,Card
+com.itaucard.activity,1,16,4.9,Generic compliment
+com.itaucard.activity,1,2,2.5,Invoice
+com.itaucard.activity,1,1,1.0,Login
+com.itaucard.activity,1,1,4.0,Performance
+com.itaucard.activity,1,1,3.0,Update
+com.itaucard.activity,1,3,4.7,Usability
+com.itaucard.activity,1,5,2.4,Card
+com.itaucard.activity,1,4,4.0,Customer service
+com.itaucard.activity,1,10,2.8,Generic complaint
+com.itaucard.activity,1,46,4.9,Generic compliment
+com.itaucard.activity,1,3,1.0,Invoice
+com.itaucard.activity,1,3,1.3,Login
+com.itaucard.activity,1,1,1.0,Registration
+com.itaucard.activity,1,1,1.0,Rewards program
+com.itaucard.activity,1,3,2.0,Update
+com.itaucard.activity,1,3,5.0,Usability
+com.itaucard.activity,1,1,2.0,nan
+com.itaucard.activity,1,4,3.3,Card
+com.itaucard.activity,1,4,3.5,Customer service
+com.itaucard.activity,1,5,3.2,Generic complaint
+com.itaucard.activity,1,58,4.9,Generic compliment
+com.itaucard.activity,1,3,1.7,Invoice
+com.itaucard.activity,1,5,2.2,Login
+com.itaucard.activity,1,2,2.0,Performance
+com.itaucard.activity,1,10,4.3,Usability
+com.itaucard.activity,1,14,3.4,Card
+com.itaucard.activity,1,8,2.4,Customer service
+com.itaucard.activity,1,11,2.5,Generic complaint
+com.itaucard.activity,1,58,4.8,Generic compliment
+com.itaucard.activity,1,8,2.1,Invoice
+com.itaucard.activity,1,1,1.0,Notifications
+com.itaucard.activity,1,3,2.7,Performance
+com.itaucard.activity,1,2,1.5,Registration
+com.itaucard.activity,1,1,1.0,Update
+com.itaucard.activity,1,5,4.2,Usability
+com.itaucard.activity,1,1,3.0,Virtual card
+com.itaucard.activity,1,1,5.0,nan
+com.itaucard.activity,1,6,2.8,Card
+com.itaucard.activity,1,4,3.8,Customer service
+com.itaucard.activity,1,3,3.0,Generic complaint
+com.itaucard.activity,1,67,5.0,Generic compliment
+com.itaucard.activity,1,1,4.0,Investiment
+com.itaucard.activity,1,3,2.7,Invoice
+com.itaucard.activity,1,2,2.5,Login
+com.itaucard.activity,1,2,3.0,Performance
+com.itaucard.activity,1,12,4.8,Usability
+com.itaucard.activity,1,9,2.2,Card
+com.itaucard.activity,1,5,4.2,Customer service
+com.itaucard.activity,1,7,3.4,Generic complaint
+com.itaucard.activity,1,61,5.0,Generic compliment
+com.itaucard.activity,1,1,3.0,Invoice
+com.itaucard.activity,1,1,4.0,Login
+com.itaucard.activity,1,4,1.0,Performance
+com.itaucard.activity,1,1,3.0,Update
+com.itaucard.activity,1,7,5.0,Usability
+com.itaucard.activity,1,10,2.7,Card
+com.itaucard.activity,1,2,5.0,Customer service
+com.itaucard.activity,1,7,3.7,Generic complaint
+com.itaucard.activity,1,55,4.8,Generic compliment
+com.itaucard.activity,1,4,2.5,Login
+com.itaucard.activity,1,1,5.0,Performance
+com.itaucard.activity,1,1,2.0,Rewards program
+com.itaucard.activity,1,1,3.0,Update
+com.itaucard.activity,1,6,5.0,Usability
+com.itaucard.activity,1,1,1.0,nan
+com.itaucard.activity,1,3,1.3,Card
+com.itaucard.activity,1,1,5.0,Generic complaint
+com.itaucard.activity,1,12,4.8,Generic compliment
+com.itaucard.activity,1,1,3.0,Invoice
+com.itaucard.activity,1,1,1.0,Token
+com.itaucard.activity,1,1,5.0,Usability
+com.itaucard.activity,1,6,2.8,Card
+com.itaucard.activity,1,8,3.4,Customer service
+com.itaucard.activity,1,3,2.7,Generic complaint
+com.itaucard.activity,1,45,4.9,Generic compliment
+com.itaucard.activity,1,1,3.0,Invoice
+com.itaucard.activity,1,3,1.3,Login
+com.itaucard.activity,1,1,5.0,Notifications
+com.itaucard.activity,1,6,1.5,Performance
+com.itaucard.activity,1,1,1.0,Registration
+com.itaucard.activity,1,1,5.0,Rewards program
+com.itaucard.activity,1,1,2.0,Token
+com.itaucard.activity,1,6,4.8,Usability
+com.itaucard.activity,1,1,1.0,Virtual card
+com.itaucard.activity,1,7,1.9,Card
+com.itaucard.activity,1,3,3.7,Customer service
+com.itaucard.activity,1,10,2.6,Generic complaint
+com.itaucard.activity,1,65,4.9,Generic compliment
+com.itaucard.activity,1,1,5.0,Investiment
+com.itaucard.activity,1,2,2.5,Invoice
+com.itaucard.activity,1,3,3.7,Login
+com.itaucard.activity,1,2,3.0,Performance
+com.itaucard.activity,1,1,1.0,Token
+com.itaucard.activity,1,2,2.0,Update
+com.itaucard.activity,1,6,4.8,Usability
+com.itaucard.activity,1,1,4.0,nan
+com.itaucard.activity,1,10,2.1,Card
+com.itaucard.activity,1,8,4.8,Customer service
+com.itaucard.activity,1,6,2.0,Generic complaint
+com.itaucard.activity,1,75,4.9,Generic compliment
+com.itaucard.activity,1,6,2.3,Invoice
+com.itaucard.activity,1,1,5.0,Login
+com.itaucard.activity,1,2,2.0,Notifications
+com.itaucard.activity,1,3,2.0,Performance
+com.itaucard.activity,1,4,2.5,Update
+com.itaucard.activity,1,7,4.0,Usability
+com.itaucard.activity,1,15,2.2,Card
+com.itaucard.activity,1,7,4.3,Customer service
+com.itaucard.activity,1,15,2.9,Generic complaint
+com.itaucard.activity,1,81,4.8,Generic compliment
+com.itaucard.activity,1,7,2.1,Invoice
+com.itaucard.activity,1,6,2.5,Login
+com.itaucard.activity,1,1,4.0,Notifications
+com.itaucard.activity,1,4,2.3,Performance
+com.itaucard.activity,1,1,1.0,Registration
+com.itaucard.activity,1,2,4.0,Rewards program
+com.itaucard.activity,1,3,3.0,Update
+com.itaucard.activity,1,19,4.6,Usability
+com.itaucard.activity,1,1,3.0,Virtual card
+com.itaucard.activity,2,14,2.4,Card
+com.itaucard.activity,2,5,3.4,Customer service
+com.itaucard.activity,2,17,2.5,Generic complaint
+com.itaucard.activity,2,102,4.9,Generic compliment
+com.itaucard.activity,2,1,5.0,Investiment
+com.itaucard.activity,2,5,1.8,Invoice
+com.itaucard.activity,2,3,1.0,Login
+com.itaucard.activity,2,1,1.0,Performance
+com.itaucard.activity,2,1,2.0,Rewards program
+com.itaucard.activity,2,1,3.0,Token
+com.itaucard.activity,2,2,4.0,Update
+com.itaucard.activity,2,10,5.0,Usability
+com.itaucard.activity,2,10,2.7,Card
+com.itaucard.activity,2,4,3.3,Customer service
+com.itaucard.activity,2,8,3.5,Generic complaint
+com.itaucard.activity,2,98,4.9,Generic compliment
+com.itaucard.activity,2,1,5.0,Investiment
+com.itaucard.activity,2,11,2.2,Invoice
+com.itaucard.activity,2,2,1.0,Login
+com.itaucard.activity,2,5,1.8,Performance
+com.itaucard.activity,2,1,1.0,Registration
+com.itaucard.activity,2,1,1.0,Rewards program
+com.itaucard.activity,2,20,4.8,Usability
+com.itaucard.activity,2,2,1.0,Virtual card
+com.itaucard.activity,2,1,5.0,nan
+com.itaucard.activity,2,1,1.0,Card
+com.itaucard.activity,2,2,5.0,Customer service
+com.itaucard.activity,2,8,3.0,Generic complaint
+com.itaucard.activity,2,28,4.9,Generic compliment
+com.itaucard.activity,2,1,1.0,Invoice
+com.itaucard.activity,2,2,2.0,Login
+com.itaucard.activity,2,1,1.0,Token
+com.itaucard.activity,2,6,5.0,Usability
+com.itaucard.activity,2,6,2.3,Card
+com.itaucard.activity,2,7,4.0,Customer service
+com.itaucard.activity,2,16,3.4,Generic complaint
+com.itaucard.activity,2,93,4.8,Generic compliment
+com.itaucard.activity,2,4,1.8,Invoice
+com.itaucard.activity,2,8,2.8,Login
+com.itaucard.activity,2,3,2.7,Notifications
+com.itaucard.activity,2,1,3.0,Performance
+com.itaucard.activity,2,1,2.0,Registration
+com.itaucard.activity,2,2,2.5,Update
+com.itaucard.activity,2,14,5.0,Usability
+com.itaucard.activity,2,13,2.8,Card
+com.itaucard.activity,2,11,4.5,Customer service
+com.itaucard.activity,2,11,2.7,Generic complaint
+com.itaucard.activity,2,129,4.9,Generic compliment
+com.itaucard.activity,2,1,4.0,Investiment
+com.itaucard.activity,2,5,1.4,Invoice
+com.itaucard.activity,2,5,2.8,Login
+com.itaucard.activity,2,1,5.0,Notifications
+com.itaucard.activity,2,3,3.7,Performance
+com.itaucard.activity,2,2,2.0,Rewards program
+com.itaucard.activity,2,1,1.0,Update
+com.itaucard.activity,2,19,4.4,Usability
+com.itaucard.activity,2,1,2.0,Virtual card
+com.itaucard.activity,2,5,3.4,Card
+com.itaucard.activity,2,3,2.3,Customer service
+com.itaucard.activity,2,12,2.8,Generic complaint
+com.itaucard.activity,2,82,4.9,Generic compliment
+com.itaucard.activity,2,1,1.0,Investiment
+com.itaucard.activity,2,3,3.3,Invoice
+com.itaucard.activity,2,5,1.8,Login
+com.itaucard.activity,2,5,2.6,Performance
+com.itaucard.activity,2,1,1.0,Rewards program
+com.itaucard.activity,2,1,5.0,Token
+com.itaucard.activity,2,2,1.0,Update
+com.itaucard.activity,2,9,4.7,Usability
+com.itaucard.activity,2,1,4.0,nan
+com.itaucard.activity,2,10,2.9,Card
+com.itaucard.activity,2,8,3.8,Customer service
+com.itaucard.activity,2,9,2.6,Generic complaint
+com.itaucard.activity,2,77,4.9,Generic compliment
+com.itaucard.activity,2,1,5.0,Investiment
+com.itaucard.activity,2,8,1.6,Invoice
+com.itaucard.activity,2,2,1.0,Login
+com.itaucard.activity,2,1,5.0,Notifications
+com.itaucard.activity,2,1,1.0,Performance
+com.itaucard.activity,2,1,4.0,Rewards program
+com.itaucard.activity,2,2,3.0,Update
+com.itaucard.activity,2,12,4.6,Usability
+com.itaucard.activity,2,1,5.0,nan
+com.itaucard.activity,2,10,1.8,Card
+com.itaucard.activity,2,9,3.8,Customer service
+com.itaucard.activity,2,7,2.0,Generic complaint
+com.itaucard.activity,2,79,4.9,Generic compliment
+com.itaucard.activity,2,6,1.0,Invoice
+com.itaucard.activity,2,2,1.5,Login
+com.itaucard.activity,2,3,3.0,Performance
+com.itaucard.activity,2,1,1.0,Rewards program
+com.itaucard.activity,2,2,3.0,Update
+com.itaucard.activity,2,13,4.8,Usability
+com.itaucard.activity,2,2,2.0,Virtual card
+com.itaucard.activity,2,1,5.0,nan
+com.itaucard.activity,2,9,2.9,Card
+com.itaucard.activity,2,6,3.7,Customer service
+com.itaucard.activity,2,12,3.0,Generic complaint
+com.itaucard.activity,2,74,4.9,Generic compliment
+com.itaucard.activity,2,5,3.2,Invoice
+com.itaucard.activity,2,4,2.3,Login
+com.itaucard.activity,2,1,3.0,Performance
+com.itaucard.activity,2,1,1.0,Registration
+com.itaucard.activity,2,1,5.0,Update
+com.itaucard.activity,2,13,4.9,Usability
+com.itaucard.activity,2,1,5.0,nan
+com.itaucard.activity,2,3,2.0,Card
+com.itaucard.activity,2,3,3.7,Generic complaint
+com.itaucard.activity,2,13,4.9,Generic compliment
+com.itaucard.activity,2,2,4.0,Invoice
+com.itaucard.activity,2,2,1.0,Login
+com.itaucard.activity,2,1,5.0,Update
+com.itaucard.activity,2,1,5.0,Usability
+com.itaucard.activity,2,1,1.0,Card
+com.itaucard.activity,2,5,3.8,Customer service
+com.itaucard.activity,2,7,3.4,Generic complaint
+com.itaucard.activity,2,51,4.9,Generic compliment
+com.itaucard.activity,2,5,2.0,Invoice
+com.itaucard.activity,2,3,2.0,Login
+com.itaucard.activity,2,1,5.0,Registration
+com.itaucard.activity,2,1,3.0,Update
+com.itaucard.activity,2,2,4.5,Usability
+com.itaucard.activity,2,1,2.0,nan
+com.itaucard.activity,2,10,1.6,Card
+com.itaucard.activity,2,1,5.0,Customer service
+com.itaucard.activity,2,11,3.5,Generic complaint
+com.itaucard.activity,2,65,4.8,Generic compliment
+com.itaucard.activity,2,5,2.0,Invoice
+com.itaucard.activity,2,1,1.0,Notifications
+com.itaucard.activity,2,1,1.0,Performance
+com.itaucard.activity,2,1,1.0,Update
+com.itaucard.activity,2,11,4.6,Usability
+com.itaucard.activity,2,1,5.0,Virtual card
+com.itaucard.activity,2,3,2.7,Card
+com.itaucard.activity,2,1,5.0,Customer service
+com.itaucard.activity,2,6,2.7,Generic complaint
+com.itaucard.activity,2,27,4.8,Generic compliment
+com.itaucard.activity,2,1,4.0,Invoice
+com.itaucard.activity,2,2,1.0,Login
+com.itaucard.activity,2,1,1.0,Token
+com.itaucard.activity,2,5,4.8,Usability
+com.itaucard.activity,2,1,1.0,Virtual card
+com.itaucard.activity,2,6,2.7,Card
+com.itaucard.activity,2,1,5.0,Customer service
+com.itaucard.activity,2,4,3.3,Generic complaint
+com.itaucard.activity,2,40,5.0,Generic compliment
+com.itaucard.activity,2,2,1.0,Invoice
+com.itaucard.activity,2,1,1.0,Login
+com.itaucard.activity,2,1,1.0,Token
+com.itaucard.activity,2,1,3.0,Update
+com.itaucard.activity,2,6,4.3,Usability
+com.itaucard.activity,2,10,2.8,Card
+com.itaucard.activity,2,5,4.2,Customer service
+com.itaucard.activity,2,10,3.1,Generic complaint
+com.itaucard.activity,2,36,4.9,Generic compliment
+com.itaucard.activity,2,4,2.8,Invoice
+com.itaucard.activity,2,5,1.6,Login
+com.itaucard.activity,2,2,3.0,Performance
+com.itaucard.activity,2,3,3.0,Update
+com.itaucard.activity,2,6,4.7,Usability
+com.itaucard.activity,2,6,2.2,Card
+com.itaucard.activity,2,5,3.4,Customer service
+com.itaucard.activity,2,16,2.9,Generic complaint
+com.itaucard.activity,2,57,4.9,Generic compliment
+com.itaucard.activity,2,2,2.0,Invoice
+com.itaucard.activity,2,3,1.3,Login
+com.itaucard.activity,2,2,1.5,Performance
+com.itaucard.activity,2,1,2.0,Registration
+com.itaucard.activity,2,2,2.0,Token
+com.itaucard.activity,2,2,2.0,Update
+com.itaucard.activity,2,8,4.4,Usability
+com.itaucard.activity,2,1,1.0,Virtual card
+com.itaucard.activity,2,2,2.5,Card
+com.itaucard.activity,2,1,1.0,Customer service
+com.itaucard.activity,2,1,5.0,Generic complaint
+com.itaucard.activity,2,13,5.0,Generic compliment
+com.itaucard.activity,2,1,1.0,Update
+com.itaucard.activity,2,2,5.0,Usability
+com.itaucard.activity,2,7,2.1,Card
+com.itaucard.activity,2,2,3.0,Customer service
+com.itaucard.activity,2,5,1.8,Generic complaint
+com.itaucard.activity,2,54,4.9,Generic compliment
+com.itaucard.activity,2,1,2.0,Investiment
+com.itaucard.activity,2,1,1.0,Invoice
+com.itaucard.activity,2,3,1.0,Login
+com.itaucard.activity,2,1,2.0,Notifications
+com.itaucard.activity,2,1,1.0,Performance
+com.itaucard.activity,2,1,2.0,Token
+com.itaucard.activity,2,3,4.0,Update
+com.itaucard.activity,2,10,5.0,Usability
+com.itaucard.activity,2,8,2.1,Card
+com.itaucard.activity,2,5,3.4,Customer service
+com.itaucard.activity,2,9,3.6,Generic complaint
+com.itaucard.activity,2,57,4.9,Generic compliment
+com.itaucard.activity,2,6,3.2,Invoice
+com.itaucard.activity,2,5,2.2,Login
+com.itaucard.activity,2,1,3.0,Notifications
+com.itaucard.activity,2,1,2.0,Performance
+com.itaucard.activity,2,1,1.0,Rewards program
+com.itaucard.activity,2,1,1.0,Update
+com.itaucard.activity,2,13,4.8,Usability
+com.itaucard.activity,2,1,5.0,nan
+com.itaucard.activity,2,3,2.0,Card
+com.itaucard.activity,2,1,5.0,Customer service
+com.itaucard.activity,2,5,2.0,Generic complaint
+com.itaucard.activity,2,34,4.9,Generic compliment
+com.itaucard.activity,2,4,1.0,Invoice
+com.itaucard.activity,2,3,2.0,Login
+com.itaucard.activity,2,4,2.3,Performance
+com.itaucard.activity,2,3,3.0,Update
+com.itaucard.activity,2,3,3.7,Usability
+com.itaucard.activity,2,1,5.0,nan
+com.itaucard.activity,2,2,3.0,Card
+com.itaucard.activity,2,3,3.0,Customer service
+com.itaucard.activity,2,9,2.6,Generic complaint
+com.itaucard.activity,2,39,4.8,Generic compliment
+com.itaucard.activity,2,2,3.0,Invoice
+com.itaucard.activity,2,5,2.0,Login
+com.itaucard.activity,2,1,1.0,Notifications
+com.itaucard.activity,2,5,2.0,Performance
+com.itaucard.activity,2,1,1.0,Rewards program
+com.itaucard.activity,2,1,1.0,Update
+com.itaucard.activity,2,7,4.4,Usability
+com.itaucard.activity,2,9,2.6,Card
+com.itaucard.activity,2,3,1.7,Customer service
+com.itaucard.activity,2,3,1.3,Generic complaint
+com.itaucard.activity,2,37,4.7,Generic compliment
+com.itaucard.activity,2,2,3.0,Invoice
+com.itaucard.activity,2,5,1.8,Login
+com.itaucard.activity,2,1,5.0,Performance
+com.itaucard.activity,2,3,1.3,Update
+com.itaucard.activity,2,4,5.0,Usability
+com.itaucard.activity,2,1,3.0,Virtual card
+com.itaucard.activity,2,5,2.0,Card
+com.itaucard.activity,2,1,5.0,Customer service
+com.itaucard.activity,2,8,2.0,Generic complaint
+com.itaucard.activity,2,38,4.9,Generic compliment
+com.itaucard.activity,2,1,1.0,Invoice
+com.itaucard.activity,2,2,1.0,Login
+com.itaucard.activity,2,3,2.0,Performance
+com.itaucard.activity,2,1,2.0,Registration
+com.itaucard.activity,2,1,3.0,Update
+com.itaucard.activity,2,1,5.0,Usability
+com.itaucard.activity,2,1,5.0,nan
+com.itaucard.activity,2,1,2.0,Card
+com.itaucard.activity,2,1,5.0,Customer service
+com.itaucard.activity,2,2,4.5,Generic complaint
+com.itaucard.activity,2,14,4.9,Generic compliment
+com.itaucard.activity,2,3,2.7,Invoice
+com.itaucard.activity,2,1,5.0,Usability
+com.itaucard.activity,2,1,5.0,Card
+com.itaucard.activity,2,3,3.7,Customer service
+com.itaucard.activity,2,4,2.0,Generic complaint
+com.itaucard.activity,2,34,4.9,Generic compliment
+com.itaucard.activity,2,3,1.7,Invoice
+com.itaucard.activity,2,2,1.0,Login
+com.itaucard.activity,2,1,1.0,Performance
+com.itaucard.activity,2,1,1.0,Token
+com.itaucard.activity,2,1,3.0,Update
+com.itaucard.activity,2,7,4.4,Usability
+com.itaucard.activity,2,3,3.3,Card
+com.itaucard.activity,2,3,2.3,Customer service
+com.itaucard.activity,2,4,3.3,Generic complaint
+com.itaucard.activity,2,50,4.9,Generic compliment
+com.itaucard.activity,2,2,1.0,Invoice
+com.itaucard.activity,2,2,1.0,Login
+com.itaucard.activity,2,1,5.0,Notifications
+com.itaucard.activity,2,3,2.3,Performance
+com.itaucard.activity,2,1,3.0,Rewards program
+com.itaucard.activity,2,1,1.0,Token
+com.itaucard.activity,2,2,1.0,Update
+com.itaucard.activity,2,11,4.6,Usability
+com.itaucard.activity,2,3,2.3,Card
+com.itaucard.activity,2,4,4.0,Customer service
+com.itaucard.activity,2,5,3.6,Generic complaint
+com.itaucard.activity,2,32,4.9,Generic compliment
+com.itaucard.activity,2,2,2.5,Invoice
+com.itaucard.activity,2,4,1.0,Login
+com.itaucard.activity,2,1,4.0,Update
+com.itaucard.activity,2,6,5.0,Usability
+com.itaucard.activity,2,1,4.0,nan
+com.itaucard.activity,2,7,2.4,Card
+com.itaucard.activity,2,3,2.3,Customer service
+com.itaucard.activity,2,8,2.5,Generic complaint
+com.itaucard.activity,2,38,4.8,Generic compliment
+com.itaucard.activity,2,4,2.8,Invoice
+com.itaucard.activity,2,4,2.0,Login
+com.itaucard.activity,2,1,3.0,Performance
+com.itaucard.activity,2,6,4.2,Usability
+com.itaucard.activity,2,4,2.0,Card
+com.itaucard.activity,2,1,5.0,Customer service
+com.itaucard.activity,2,3,2.7,Generic complaint
+com.itaucard.activity,2,32,5.0,Generic compliment
+com.itaucard.activity,2,1,1.0,Login
+com.itaucard.activity,2,1,1.0,Performance
+com.itaucard.activity,2,1,5.0,Token
+com.itaucard.activity,2,2,1.5,Update
+com.itaucard.activity,2,1,5.0,Usability
+com.itaucard.activity,3,9,1.6,Card
+com.itaucard.activity,3,5,1.8,Customer service
+com.itaucard.activity,3,8,2.9,Generic complaint
+com.itaucard.activity,3,44,4.9,Generic compliment
+com.itaucard.activity,3,3,3.7,Invoice
+com.itaucard.activity,3,6,2.3,Login
+com.itaucard.activity,3,2,4.0,Performance
+com.itaucard.activity,3,2,2.5,Update
+com.itaucard.activity,3,3,5.0,Usability
+com.itaucard.activity,3,1,5.0,Virtual card
+com.itaucard.activity,3,1,4.0,nan
+com.itaucard.activity,3,4,2.8,Card
+com.itaucard.activity,3,1,5.0,Generic complaint
+com.itaucard.activity,3,15,5.0,Generic compliment
+com.itaucard.activity,3,1,4.0,Invoice
+com.itaucard.activity,3,1,3.0,Login
+com.itaucard.activity,3,2,5.0,Usability
+com.itaucard.activity,3,7,2.0,Card
+com.itaucard.activity,3,6,3.7,Customer service
+com.itaucard.activity,3,3,3.7,Generic complaint
+com.itaucard.activity,3,34,4.9,Generic compliment
+com.itaucard.activity,3,6,2.5,Invoice
+com.itaucard.activity,3,2,1.0,Login
+com.itaucard.activity,3,1,2.0,Notifications
+com.itaucard.activity,3,2,4.5,Usability
+com.itaucard.activity,3,4,2.3,Card
+com.itaucard.activity,3,4,3.0,Customer service
+com.itaucard.activity,3,3,2.7,Generic complaint
+com.itaucard.activity,3,39,4.8,Generic compliment
+com.itaucard.activity,3,6,2.2,Invoice
+com.itaucard.activity,3,3,1.7,Login
+com.itaucard.activity,3,3,1.3,Notifications
+com.itaucard.activity,3,1,5.0,Performance
+com.itaucard.activity,3,1,1.0,Rewards program
+com.itaucard.activity,3,1,4.0,Update
+com.itaucard.activity,3,10,4.7,Usability
+com.itaucard.activity,3,3,1.0,Card
+com.itaucard.activity,3,4,3.0,Customer service
+com.itaucard.activity,3,9,3.0,Generic complaint
+com.itaucard.activity,3,25,4.9,Generic compliment
+com.itaucard.activity,3,2,1.5,Invoice
+com.itaucard.activity,3,2,3.0,Login
+com.itaucard.activity,3,1,1.0,Performance
+com.itaucard.activity,3,1,3.0,Registration
+com.itaucard.activity,3,1,1.0,Update
+com.itaucard.activity,3,5,5.0,Usability
+com.itaucard.activity,3,9,2.3,Card
+com.itaucard.activity,3,8,1.8,Generic complaint
+com.itaucard.activity,3,39,4.9,Generic compliment
+com.itaucard.activity,3,1,2.0,Investiment
+com.itaucard.activity,3,2,1.0,Invoice
+com.itaucard.activity,3,5,1.0,Login
+com.itaucard.activity,3,2,1.5,Performance
+com.itaucard.activity,3,1,2.0,Token
+com.itaucard.activity,3,2,2.5,Update
+com.itaucard.activity,3,8,4.3,Usability
+com.itaucard.activity,3,2,1.0,Card
+com.itaucard.activity,3,4,4.8,Customer service
+com.itaucard.activity,3,7,3.9,Generic complaint
+com.itaucard.activity,3,35,4.9,Generic compliment
+com.itaucard.activity,3,2,2.0,Invoice
+com.itaucard.activity,3,2,1.0,Login
+com.itaucard.activity,3,2,1.5,Performance
+com.itaucard.activity,3,1,1.0,Registration
+com.itaucard.activity,3,1,1.0,Token
+com.itaucard.activity,3,1,2.0,Update
+com.itaucard.activity,3,7,4.6,Usability
+com.itaucard.activity,3,3,3.7,Card
+com.itaucard.activity,3,4,4.0,Customer service
+com.itaucard.activity,3,3,4.7,Generic complaint
+com.itaucard.activity,3,41,4.9,Generic compliment
+com.itaucard.activity,3,4,1.5,Invoice
+com.itaucard.activity,3,3,1.0,Login
+com.itaucard.activity,3,1,1.0,Performance
+com.itaucard.activity,3,1,4.0,Registration
+com.itaucard.activity,3,1,1.0,Update
+com.itaucard.activity,3,4,4.5,Usability
+com.itaucard.activity,3,3,3.0,Card
+com.itaucard.activity,3,2,2.5,Generic complaint
+com.itaucard.activity,3,6,5.0,Generic compliment
+com.itaucard.activity,3,1,1.0,Invoice
+com.itaucard.activity,3,1,4.0,Performance
+com.itaucard.activity,3,1,3.0,Rewards program
+com.itaucard.activity,3,1,1.0,Token
+com.itaucard.activity,3,1,5.0,Usability
+com.itaucard.activity,3,5,2.0,Card
+com.itaucard.activity,3,3,2.0,Customer service
+com.itaucard.activity,3,1,1.0,Generic complaint
+com.itaucard.activity,3,27,5.0,Generic compliment
+com.itaucard.activity,3,1,3.0,Invoice
+com.itaucard.activity,3,1,1.0,Login
+com.itaucard.activity,3,1,5.0,Notifications
+com.itaucard.activity,3,4,4.0,Usability
+com.itaucard.activity,3,4,2.3,Card
+com.itaucard.activity,3,3,2.7,Customer service
+com.itaucard.activity,3,2,3.0,Generic complaint
+com.itaucard.activity,3,40,4.7,Generic compliment
+com.itaucard.activity,3,1,1.0,Investiment
+com.itaucard.activity,3,2,1.0,Login
+com.itaucard.activity,3,1,2.0,Performance
+com.itaucard.activity,3,1,1.0,Rewards program
+com.itaucard.activity,3,2,1.0,Update
+com.itaucard.activity,3,4,5.0,Usability
+com.itaucard.activity,3,6,1.8,Card
+com.itaucard.activity,3,2,5.0,Customer service
+com.itaucard.activity,3,2,2.0,Generic complaint
+com.itaucard.activity,3,20,4.9,Generic compliment
+com.itaucard.activity,3,5,2.2,Invoice
+com.itaucard.activity,3,7,2.4,Login
+com.itaucard.activity,3,2,1.0,Performance
+com.itaucard.activity,3,1,2.0,Rewards program
+com.itaucard.activity,3,2,1.0,Virtual card
+com.itaucard.activity,3,8,1.8,Card
+com.itaucard.activity,3,1,5.0,Customer service
+com.itaucard.activity,3,3,2.7,Generic complaint
+com.itaucard.activity,3,34,4.9,Generic compliment
+com.itaucard.activity,3,1,2.0,Invoice
+com.itaucard.activity,3,4,3.5,Login
+com.itaucard.activity,3,2,1.0,Update
+com.itaucard.activity,3,5,5.0,Usability
+com.itaucard.activity,3,3,1.7,Card
+com.itaucard.activity,3,2,1.0,Customer service
+com.itaucard.activity,3,5,2.0,Generic complaint
+com.itaucard.activity,3,31,4.9,Generic compliment
+com.itaucard.activity,3,5,2.8,Invoice
+com.itaucard.activity,3,1,1.0,Login
+com.itaucard.activity,3,1,4.0,Notifications
+com.itaucard.activity,3,2,1.0,Rewards program
+com.itaucard.activity,3,2,3.0,Update
+com.itaucard.activity,3,4,4.8,Usability
+com.itaucard.activity,3,1,4.0,Virtual card
+com.itaucard.activity,3,1,1.0,nan
+com.itaucard.activity,3,3,2.3,Card
+com.itaucard.activity,3,1,1.0,Customer service
+com.itaucard.activity,3,4,3.8,Generic complaint
+com.itaucard.activity,3,24,5.0,Generic compliment
+com.itaucard.activity,3,1,5.0,Investiment
+com.itaucard.activity,3,2,1.0,Invoice
+com.itaucard.activity,3,3,2.0,Login
+com.itaucard.activity,3,2,2.5,Performance
+com.itaucard.activity,3,5,4.6,Usability
+com.itaucard.activity,3,2,2.5,Card
+com.itaucard.activity,3,1,3.0,Customer service
+com.itaucard.activity,3,2,3.0,Generic complaint
+com.itaucard.activity,3,7,5.0,Generic compliment
+com.itaucard.activity,3,2,2.0,Login
+com.itaucard.activity,3,1,1.0,Performance
+com.itaucard.activity,3,1,5.0,Update
+com.itaucard.activity,3,1,5.0,Usability
+com.itaucard.activity,3,1,5.0,nan
+com.itaucard.activity,3,2,4.5,Card
+com.itaucard.activity,3,4,3.0,Customer service
+com.itaucard.activity,3,5,2.8,Generic complaint
+com.itaucard.activity,3,22,4.9,Generic compliment
+com.itaucard.activity,3,3,3.7,Login
+com.itaucard.activity,3,1,2.0,Notifications
+com.itaucard.activity,3,1,1.0,Performance
+com.itaucard.activity,3,3,2.3,Update
+com.itaucard.activity,3,3,5.0,Usability
+com.itaucard.activity,3,2,2.0,Card
+com.itaucard.activity,3,3,2.7,Customer service
+com.itaucard.activity,3,7,3.0,Generic complaint
+com.itaucard.activity,3,44,4.9,Generic compliment
+com.itaucard.activity,3,1,1.0,Invoice
+com.itaucard.activity,3,1,1.0,Login
+com.itaucard.activity,3,2,2.0,Notifications
+com.itaucard.activity,3,1,5.0,Performance
+com.itaucard.activity,3,1,1.0,Registration
+com.itaucard.activity,3,1,1.0,Rewards program
+com.itaucard.activity,3,2,3.5,Token
+com.itaucard.activity,3,1,1.0,Update
+com.itaucard.activity,3,6,4.8,Usability
+com.itaucard.activity,3,4,3.0,Card
+com.itaucard.activity,3,1,5.0,Customer service
+com.itaucard.activity,3,5,2.2,Generic complaint
+com.itaucard.activity,3,26,4.8,Generic compliment
+com.itaucard.activity,3,1,1.0,Invoice
+com.itaucard.activity,3,2,1.0,Login
+com.itaucard.activity,3,1,1.0,Registration
+com.itaucard.activity,3,1,3.0,Rewards program
+com.itaucard.activity,3,4,5.0,Usability
+com.itaucard.activity,3,2,2.0,Card
+com.itaucard.activity,3,2,1.0,Customer service
+com.itaucard.activity,3,3,2.3,Generic complaint
+com.itaucard.activity,3,24,4.9,Generic compliment
+com.itaucard.activity,3,1,1.0,Invoice
+com.itaucard.activity,3,1,4.0,Login
+com.itaucard.activity,3,1,2.0,Notifications
+com.itaucard.activity,3,1,1.0,Performance
+com.itaucard.activity,3,1,5.0,Registration
+com.itaucard.activity,3,1,1.0,Update
+com.itaucard.activity,3,2,5.0,Usability
+com.itaucard.activity,3,2,5.0,Customer service
+com.itaucard.activity,3,2,3.0,Generic complaint
+com.itaucard.activity,3,23,5.0,Generic compliment
+com.itaucard.activity,3,1,1.0,Invoice
+com.itaucard.activity,3,1,1.0,Login
+com.itaucard.activity,3,1,5.0,Token
+com.itaucard.activity,3,3,4.7,Usability
+com.itaucard.activity,3,3,2.3,Card
+com.itaucard.activity,3,1,5.0,Customer service
+com.itaucard.activity,3,6,2.7,Generic complaint
+com.itaucard.activity,3,22,4.8,Generic compliment
+com.itaucard.activity,3,2,2.0,Invoice
+com.itaucard.activity,3,2,1.5,Login
+com.itaucard.activity,3,2,1.0,Performance
+com.itaucard.activity,3,1,2.0,Registration
+com.itaucard.activity,3,1,3.0,Rewards program
+com.itaucard.activity,3,1,5.0,Token
+com.itaucard.activity,3,1,5.0,Virtual card
+com.itaucard.activity,3,1,1.0,Card
+com.itaucard.activity,3,8,5.0,Generic compliment
+com.itaucard.activity,3,1,3.0,Invoice
+com.itaucard.activity,3,6,2.3,Card
+com.itaucard.activity,3,1,5.0,Customer service
+com.itaucard.activity,3,2,1.5,Generic complaint
+com.itaucard.activity,3,22,4.8,Generic compliment
+com.itaucard.activity,3,2,4.0,Invoice
+com.itaucard.activity,3,1,1.0,Login
+com.itaucard.activity,3,1,1.0,Notifications
+com.itaucard.activity,3,1,1.0,Update
+com.itaucard.activity,3,4,5.0,Usability
+com.itaucard.activity,3,1,2.0,Virtual card
+com.itaucard.activity,3,4,1.0,Card
+com.itaucard.activity,3,2,5.0,Customer service
+com.itaucard.activity,3,4,5.0,Generic complaint
+com.itaucard.activity,3,43,4.9,Generic compliment
+com.itaucard.activity,3,4,1.3,Login
+com.itaucard.activity,3,1,1.0,Notifications
+com.itaucard.activity,3,1,2.0,Performance
+com.itaucard.activity,3,2,4.0,Token
+com.itaucard.activity,3,3,2.0,Update
+com.itaucard.activity,3,3,5.0,Usability
+com.itaucard.activity,3,2,1.0,Card
+com.itaucard.activity,3,1,5.0,Customer service
+com.itaucard.activity,3,18,4.8,Generic compliment
+com.itaucard.activity,3,2,2.0,Invoice
+com.itaucard.activity,3,1,1.0,Performance
+com.itaucard.activity,3,1,3.0,Usability
+com.itaucard.activity,3,4,3.0,Card
+com.itaucard.activity,3,2,4.0,Customer service
+com.itaucard.activity,3,8,2.5,Generic complaint
+com.itaucard.activity,3,30,4.8,Generic compliment
+com.itaucard.activity,3,2,3.5,Invoice
+com.itaucard.activity,3,3,2.7,Login
+com.itaucard.activity,3,2,4.0,Notifications
+com.itaucard.activity,3,1,1.0,Performance
+com.itaucard.activity,3,1,5.0,Update
+com.itaucard.activity,3,7,5.0,Usability
+com.itaucard.activity,3,7,2.0,Card
+com.itaucard.activity,3,3,2.3,Customer service
+com.itaucard.activity,3,1,1.0,Generic complaint
+com.itaucard.activity,3,32,4.9,Generic compliment
+com.itaucard.activity,3,1,3.0,Invoice
+com.itaucard.activity,3,2,2.5,Login
+com.itaucard.activity,3,2,2.5,Rewards program
+com.itaucard.activity,3,5,4.4,Usability
+com.itaucard.activity,3,2,2.5,Card
+com.itaucard.activity,3,2,3.0,Customer service
+com.itaucard.activity,3,6,3.0,Generic complaint
+com.itaucard.activity,3,28,4.8,Generic compliment
+com.itaucard.activity,3,1,1.0,Invoice
+com.itaucard.activity,3,2,4.0,Performance
+com.itaucard.activity,3,2,5.0,Usability
+com.itaucard.activity,3,2,2.0,Card
+com.itaucard.activity,3,2,3.0,Generic complaint
+com.itaucard.activity,3,4,4.8,Generic compliment
+com.itaucard.activity,3,1,3.0,Invoice
+com.itaucard.activity,3,1,4.0,Usability
+com.itaucard.activity,3,1,1.0,Card
+com.itaucard.activity,3,4,4.0,Customer service
+com.itaucard.activity,3,23,4.7,Generic compliment
+com.itaucard.activity,3,2,1.5,Invoice
+com.itaucard.activity,3,1,1.0,Rewards program
+com.itaucard.activity,3,6,4.3,Usability
+com.itaucard.activity,4,5,1.8,Card
+com.itaucard.activity,4,1,5.0,Customer service
+com.itaucard.activity,4,2,3.0,Generic complaint
+com.itaucard.activity,4,31,4.8,Generic compliment
+com.itaucard.activity,4,1,5.0,Registration
+com.itaucard.activity,4,1,1.0,Rewards program
+com.itaucard.activity,4,1,1.0,Update
+com.itaucard.activity,4,9,4.6,Usability
+com.itaucard.activity,4,3,2.0,Card
+com.itaucard.activity,4,5,1.8,Generic complaint
+com.itaucard.activity,4,27,4.9,Generic compliment
+com.itaucard.activity,4,2,1.0,Login
+com.itaucard.activity,4,1,1.0,Performance
+com.itaucard.activity,4,1,1.0,Update
+com.itaucard.activity,4,2,5.0,Usability
+com.itaucard.activity,4,4,3.3,Card
+com.itaucard.activity,4,3,5.0,Customer service
+com.itaucard.activity,4,10,2.5,Generic complaint
+com.itaucard.activity,4,35,4.9,Generic compliment
+com.itaucard.activity,4,5,2.2,Invoice
+com.itaucard.activity,4,1,1.0,Login
+com.itaucard.activity,4,1,1.0,Notifications
+com.itaucard.activity,4,1,1.0,Rewards program
+com.itaucard.activity,4,2,5.0,Usability
+com.itaucard.activity,4,1,1.0,Virtual card
+com.itaucard.activity,4,2,1.0,Card
+com.itaucard.activity,4,3,3.3,Customer service
+com.itaucard.activity,4,1,1.0,Generic complaint
+com.itaucard.activity,4,29,4.8,Generic compliment
+com.itaucard.activity,4,1,3.0,Invoice
+com.itaucard.activity,4,1,3.0,Login
+com.itaucard.activity,4,2,2.5,Performance
+com.itaucard.activity,4,1,1.0,Registration
+com.itaucard.activity,4,1,5.0,Token
+com.itaucard.activity,4,1,1.0,Update
+com.itaucard.activity,4,4,5.0,Usability
+com.itaucard.activity,4,2,2.0,Card
+com.itaucard.activity,4,2,3.0,Customer service
+com.itaucard.activity,4,1,1.0,Generic complaint
+com.itaucard.activity,4,21,4.5,Generic compliment
+com.itaucard.activity,4,3,2.3,Invoice
+com.itaucard.activity,4,4,1.3,Login
+com.itaucard.activity,4,1,1.0,Notifications
+com.itaucard.activity,4,3,2.0,Token
+com.itaucard.activity,4,3,3.7,Usability
+com.itaucard.activity,4,2,1.0,Virtual card
+com.itaucard.activity,4,1,5.0,nan
+com.itaucard.activity,4,3,1.7,Card
+com.itaucard.activity,4,1,5.0,Generic complaint
+com.itaucard.activity,4,9,4.9,Generic compliment
+com.itaucard.activity,4,1,3.0,Invoice
+com.itaucard.activity,4,1,4.0,Login
+com.itaucard.activity,4,1,5.0,Usability
+com.itaucard.activity,4,4,2.8,Card
+com.itaucard.activity,4,3,2.3,Customer service
+com.itaucard.activity,4,2,3.0,Generic complaint
+com.itaucard.activity,4,28,4.8,Generic compliment
+com.itaucard.activity,4,3,1.3,Invoice
+com.itaucard.activity,4,1,1.0,Login
+com.itaucard.activity,4,1,1.0,Performance
+com.itaucard.activity,4,3,4.7,Usability
+com.itaucard.activity,4,4,2.0,Card
+com.itaucard.activity,4,4,3.0,Customer service
+com.itaucard.activity,4,2,3.0,Generic complaint
+com.itaucard.activity,4,29,4.9,Generic compliment
+com.itaucard.activity,4,1,5.0,Investiment
+com.itaucard.activity,4,4,1.3,Invoice
+com.itaucard.activity,4,4,2.3,Login
+com.itaucard.activity,4,1,1.0,Notifications
+com.itaucard.activity,4,1,1.0,Performance
+com.itaucard.activity,4,1,1.0,Update
+com.itaucard.activity,4,1,5.0,Usability
+com.itaucard.activity,4,1,3.0,Virtual card
+com.itaucard.activity,4,3,1.7,Card
+com.itaucard.activity,4,2,3.0,Customer service
+com.itaucard.activity,4,3,3.7,Generic complaint
+com.itaucard.activity,4,23,5.0,Generic compliment
+com.itaucard.activity,4,1,4.0,Investiment
+com.itaucard.activity,4,4,2.3,Invoice
+com.itaucard.activity,4,6,5.0,Usability
+com.itaucard.activity,4,2,4.0,nan
+com.itaucard.activity,4,3,2.3,Card
+com.itaucard.activity,4,2,3.0,Customer service
+com.itaucard.activity,4,3,4.0,Generic complaint
+com.itaucard.activity,4,26,4.9,Generic compliment
+com.itaucard.activity,4,2,1.0,Invoice
+com.itaucard.activity,4,3,2.3,Login
+com.itaucard.activity,4,1,1.0,Performance
+com.itaucard.activity,4,1,1.0,Rewards program
+com.itaucard.activity,4,5,5.0,Usability
+com.itaucard.activity,4,4,1.5,Card
+com.itaucard.activity,4,1,2.0,Customer service
+com.itaucard.activity,4,3,2.3,Generic complaint
+com.itaucard.activity,4,20,4.9,Generic compliment
+com.itaucard.activity,4,1,3.0,Investiment
+com.itaucard.activity,4,2,3.0,Invoice
+com.itaucard.activity,4,3,3.7,Login
+com.itaucard.activity,4,1,1.0,Performance
+com.itaucard.activity,4,2,1.0,Update
+com.itaucard.activity,4,5,5.0,Usability
+com.itaucard.activity,4,2,1.0,Card
+com.itaucard.activity,4,3,2.3,Customer service
+com.itaucard.activity,4,4,2.5,Generic complaint
+com.itaucard.activity,4,30,4.8,Generic compliment
+com.itaucard.activity,4,1,2.0,Investiment
+com.itaucard.activity,4,2,3.5,Invoice
+com.itaucard.activity,4,2,4.0,Login
+com.itaucard.activity,4,1,3.0,Performance
+com.itaucard.activity,4,1,3.0,Token
+com.itaucard.activity,4,2,4.5,Usability
+com.itaucard.activity,4,1,5.0,nan
+com.itaucard.activity,4,2,2.0,Card
+com.itaucard.activity,4,1,2.0,Generic complaint
+com.itaucard.activity,4,4,4.8,Generic compliment
+com.itaucard.activity,4,1,1.0,Login
+com.itaucard.activity,4,2,5.0,Usability
+com.itaucard.activity,4,5,2.0,Card
+com.itaucard.activity,4,2,5.0,Customer service
+com.itaucard.activity,4,22,4.9,Generic compliment
+com.itaucard.activity,4,1,5.0,Investiment
+com.itaucard.activity,4,1,5.0,Invoice
+com.itaucard.activity,4,1,1.0,Login
+com.itaucard.activity,4,1,3.0,Performance
+com.itaucard.activity,4,3,1.0,Card
+com.itaucard.activity,4,1,5.0,Customer service
+com.itaucard.activity,4,2,5.0,Generic complaint
+com.itaucard.activity,4,29,4.9,Generic compliment
+com.itaucard.activity,4,5,1.6,Invoice
+com.itaucard.activity,4,3,1.7,Performance
+com.itaucard.activity,4,1,1.0,Rewards program
+com.itaucard.activity,4,1,3.0,Update
+com.itaucard.activity,4,3,5.0,Usability
+com.itaucard.activity,4,3,2.3,Card
+com.itaucard.activity,4,2,3.0,Customer service
+com.itaucard.activity,4,2,1.5,Generic complaint
+com.itaucard.activity,4,26,4.9,Generic compliment
+com.itaucard.activity,4,1,4.0,Invoice
+com.itaucard.activity,4,1,1.0,Login
+com.itaucard.activity,4,4,4.8,Usability
+com.itaucard.activity,4,5,3.4,Card
+com.itaucard.activity,4,3,1.0,Customer service
+com.itaucard.activity,4,3,3.3,Generic complaint
+com.itaucard.activity,4,27,5.0,Generic compliment
+com.itaucard.activity,4,1,1.0,Invoice
+com.itaucard.activity,4,1,1.0,Update
+com.itaucard.activity,4,5,4.8,Usability
+com.itaucard.activity,4,1,5.0,nan
+com.itaucard.activity,4,1,1.0,Card
+com.itaucard.activity,4,1,1.0,Customer service
+com.itaucard.activity,4,2,2.5,Generic complaint
+com.itaucard.activity,4,13,4.9,Generic compliment
+com.itaucard.activity,4,2,1.5,Invoice
+com.itaucard.activity,4,2,5.0,Usability
+com.itaucard.activity,4,1,1.0,Virtual card
+com.itaucard.activity,4,2,3.0,Card
+com.itaucard.activity,4,1,5.0,Customer service
+com.itaucard.activity,4,4,1.0,Generic complaint
+com.itaucard.activity,4,26,4.7,Generic compliment
+com.itaucard.activity,4,5,4.8,Generic compliment
+com.itaucard.activity,4,1,1.0,Performance
+com.itaucard.activity,4,3,5.0,Usability
+com.itaucard.activity,4,3,2.3,Card
+com.itaucard.activity,4,3,3.0,Customer service
+com.itaucard.activity,4,3,3.3,Generic complaint
+com.itaucard.activity,4,24,5.0,Generic compliment
+com.itaucard.activity,4,2,3.0,Invoice
+com.itaucard.activity,4,1,1.0,Login
+com.itaucard.activity,4,1,2.0,Performance
+com.itaucard.activity,4,1,1.0,Token
+com.itaucard.activity,4,4,4.0,Usability
+com.itaucard.activity,4,1,2.0,Card
+com.itaucard.activity,4,1,5.0,Customer service
+com.itaucard.activity,4,2,1.5,Generic complaint
+com.itaucard.activity,4,32,4.8,Generic compliment
+com.itaucard.activity,4,2,3.5,Invoice
+com.itaucard.activity,4,2,1.5,Performance
+com.itaucard.activity,4,1,5.0,Registration
+com.itaucard.activity,4,1,1.0,Update
+com.itaucard.activity,4,5,5.0,Usability
+com.itaucard.activity,4,4,1.5,Card
+com.itaucard.activity,4,4,4.0,Customer service
+com.itaucard.activity,4,2,3.0,Generic complaint
+com.itaucard.activity,4,21,5.0,Generic compliment
+com.itaucard.activity,4,1,1.0,Investiment
+com.itaucard.activity,4,1,4.0,Invoice
+com.itaucard.activity,4,1,1.0,Login
+com.itaucard.activity,4,1,1.0,Notifications
+com.itaucard.activity,4,3,3.0,Registration
+com.itaucard.activity,4,2,1.5,Update
+com.itaucard.activity,4,1,5.0,Usability
+com.itaucard.activity,4,2,3.0,Card
+com.itaucard.activity,4,1,5.0,Customer service
+com.itaucard.activity,4,3,2.3,Generic complaint
+com.itaucard.activity,4,18,4.9,Generic compliment
+com.itaucard.activity,4,4,1.5,Invoice
+com.itaucard.activity,4,1,5.0,Usability
+com.itaucard.activity,4,1,5.0,nan
+com.itaucard.activity,4,1,1.0,Card
+com.itaucard.activity,4,2,3.0,Customer service
+com.itaucard.activity,4,4,1.0,Generic complaint
+com.itaucard.activity,4,21,4.9,Generic compliment
+com.itaucard.activity,4,1,1.0,Invoice
+com.itaucard.activity,4,4,2.0,Login
+com.itaucard.activity,4,1,5.0,Performance
+com.itaucard.activity,4,1,5.0,Update
+com.itaucard.activity,4,6,4.7,Usability
+com.itaucard.activity,4,1,3.0,Card
+com.itaucard.activity,4,1,5.0,Customer service
+com.itaucard.activity,4,2,1.0,Generic complaint
+com.itaucard.activity,4,15,4.9,Generic compliment
+com.itaucard.activity,4,3,1.0,Invoice
+com.itaucard.activity,4,1,5.0,Login
+com.itaucard.activity,4,1,2.0,Performance
+com.itaucard.activity,4,2,2.0,Update
+com.itaucard.activity,4,6,4.7,Usability
+com.itaucard.activity,4,5,4.8,Generic compliment
+com.itaucard.activity,4,1,3.0,Login
+com.itaucard.activity,4,1,5.0,Usability
+com.itaucard.activity,4,2,3.0,Card
+com.itaucard.activity,4,1,4.0,Customer service
+com.itaucard.activity,4,1,4.0,Generic complaint
+com.itaucard.activity,4,22,4.8,Generic compliment
+com.itaucard.activity,4,1,1.0,Invoice
+com.itaucard.activity,4,1,5.0,Performance
+com.itaucard.activity,4,1,5.0,Update
+com.itaucard.activity,4,7,4.9,Usability
+com.itaucard.activity,4,2,3.0,Card
+com.itaucard.activity,4,2,4.5,Customer service
+com.itaucard.activity,4,3,1.0,Generic complaint
+com.itaucard.activity,4,23,4.9,Generic compliment
+com.itaucard.activity,4,2,1.0,Invoice
+com.itaucard.activity,4,2,2.5,Login
+com.itaucard.activity,4,1,2.0,Performance
+com.itaucard.activity,4,1,2.0,Rewards program
+com.itaucard.activity,4,3,2.3,Update
+com.itaucard.activity,4,4,4.8,Usability
+com.itaucard.activity,4,3,2.3,Card
+com.itaucard.activity,4,1,1.0,Customer service
+com.itaucard.activity,4,1,1.0,Generic complaint
+com.itaucard.activity,4,21,5.0,Generic compliment
+com.itaucard.activity,4,1,4.0,Login
+com.itaucard.activity,4,1,1.0,Token
+com.itaucard.activity,4,2,5.0,Usability
+com.itaucard.activity,4,1,2.0,Virtual card
+com.itaucard.activity,5,3,2.3,Card
+com.itaucard.activity,5,2,1.0,Customer service
+com.itaucard.activity,5,1,5.0,Generic complaint
+com.itaucard.activity,5,19,4.7,Generic compliment
+com.itaucard.activity,5,2,2.0,Invoice
+com.itaucard.activity,5,5,2.0,Login
+com.itaucard.activity,5,2,1.0,Performance
+com.itaucard.activity,5,3,5.0,Usability
+com.itaucard.activity,5,1,1.0,Virtual card
+com.itaucard.activity,5,3,1.0,Card
+com.itaucard.activity,5,2,1.5,Generic complaint
+com.itaucard.activity,5,18,4.9,Generic compliment
+com.itaucard.activity,5,2,1.5,Invoice
+com.itaucard.activity,5,1,1.0,Login
+com.itaucard.activity,5,1,1.0,Performance
+com.itaucard.activity,5,1,1.0,Registration
+com.itaucard.activity,5,1,3.0,Token
+com.itaucard.activity,5,3,1.7,Update
+com.itaucard.activity,5,6,4.3,Usability
+com.itaucard.activity,5,1,1.0,Card
+com.itaucard.activity,5,4,1.0,Customer service
+com.itaucard.activity,5,3,1.7,Generic complaint
+com.itaucard.activity,5,30,4.9,Generic compliment
+com.itaucard.activity,5,2,2.5,Invoice
+com.itaucard.activity,5,3,1.7,Login
+com.itaucard.activity,5,2,2.5,Performance
+com.itaucard.activity,5,1,3.0,Update
+com.itaucard.activity,5,5,5.0,Usability
+com.itaucard.activity,5,1,1.0,Card
+com.itaucard.activity,5,7,4.7,Generic compliment
+com.itaucard.activity,5,1,3.0,Invoice
+com.itaucard.activity,5,2,1.5,Login
+com.itaucard.activity,5,1,1.0,Performance
+com.itaucard.activity,5,3,1.3,Card
+com.itaucard.activity,5,2,4.5,Customer service
+com.itaucard.activity,5,5,4.2,Generic complaint
+com.itaucard.activity,5,22,4.8,Generic compliment
+com.itaucard.activity,5,1,1.0,Invoice
+com.itaucard.activity,5,2,1.5,Login
+com.itaucard.activity,5,5,2.2,Performance
+com.itaucard.activity,5,1,1.0,Rewards program
+com.itaucard.activity,5,1,3.0,Update
+com.itaucard.activity,5,1,5.0,Usability
+com.itaucard.activity,5,3,3.7,Card
+com.itaucard.activity,5,1,5.0,Customer service
+com.itaucard.activity,5,3,3.3,Generic complaint
+com.itaucard.activity,5,26,5.0,Generic compliment
+com.itaucard.activity,5,2,2.5,Update
+com.itaucard.activity,5,6,5.0,Usability
+com.itaucard.activity,5,1,1.0,Virtual card
+com.itaucard.activity,5,3,1.7,Card
+com.itaucard.activity,5,1,5.0,Customer service
+com.itaucard.activity,5,3,2.7,Generic complaint
+com.itaucard.activity,5,23,5.0,Generic compliment
+com.itaucard.activity,5,3,1.0,Invoice
+com.itaucard.activity,5,2,3.5,Login
+com.itaucard.activity,5,1,1.0,Performance
+com.itaucard.activity,5,2,5.0,Usability
+com.itaucard.activity,5,3,1.7,Card
+com.itaucard.activity,5,2,5.0,Customer service
+com.itaucard.activity,5,1,1.0,Generic complaint
+com.itaucard.activity,5,25,4.8,Generic compliment
+com.itaucard.activity,5,9,2.1,Invoice
+com.itaucard.activity,5,1,1.0,Login
+com.itaucard.activity,5,2,2.5,Performance
+com.itaucard.activity,5,1,1.0,Token
+com.itaucard.activity,5,1,3.0,Update
+com.itaucard.activity,5,2,5.0,Usability
+com.itaucard.activity,5,5,2.0,Card
+com.itaucard.activity,5,6,3.0,Generic complaint
+com.itaucard.activity,5,31,5.0,Generic compliment
+com.itaucard.activity,5,1,1.0,Invoice
+com.itaucard.activity,5,1,5.0,Performance
+com.itaucard.activity,5,4,4.8,Usability
+com.itaucard.activity,5,6,1.7,Card
+com.itaucard.activity,5,3,3.7,Customer service
+com.itaucard.activity,5,2,1.5,Generic complaint
+com.itaucard.activity,5,26,4.5,Generic compliment
+com.itaucard.activity,5,1,1.0,Login
+com.itaucard.activity,5,1,1.0,Notifications
+com.itaucard.activity,5,1,1.0,Registration
+com.itaucard.activity,5,1,1.0,Token
+com.itaucard.activity,5,1,4.0,Update
+com.itaucard.activity,5,4,5.0,Usability
+com.itaucard.activity,5,1,3.0,Generic complaint
+com.itaucard.activity,5,4,5.0,Generic compliment
+com.itaucard.activity,5,1,5.0,Usability
+com.itaucard.activity,5,2,1.0,Card
+com.itaucard.activity,5,4,2.0,Generic complaint
+com.itaucard.activity,5,24,4.9,Generic compliment
+com.itaucard.activity,5,1,4.0,Notifications
+com.itaucard.activity,5,3,5.0,Usability
+com.itaucard.activity,5,2,4.0,Card
+com.itaucard.activity,5,1,5.0,Customer service
+com.itaucard.activity,5,2,3.0,Generic complaint
+com.itaucard.activity,5,30,5.0,Generic compliment
+com.itaucard.activity,5,1,2.0,Update
+com.itaucard.activity,5,4,5.0,Usability
+com.itaucard.activity,5,4,2.5,Card
+com.itaucard.activity,5,4,5.0,Customer service
+com.itaucard.activity,5,5,3.0,Generic complaint
+com.itaucard.activity,5,15,4.9,Generic compliment
+com.itaucard.activity,5,3,3.3,Invoice
+com.itaucard.activity,5,1,1.0,Token
+com.itaucard.activity,5,1,1.0,Usability
+com.itaucard.activity,5,1,5.0,Card
+com.itaucard.activity,5,2,5.0,Customer service
+com.itaucard.activity,5,6,3.3,Generic complaint
+com.itaucard.activity,5,21,4.8,Generic compliment
+com.itaucard.activity,5,1,1.0,Invoice
+com.itaucard.activity,5,1,1.0,Performance
+com.itaucard.activity,5,2,1.5,Token
+com.itaucard.activity,5,2,5.0,Usability
+com.itaucard.activity,5,3,2.3,Card
+com.itaucard.activity,5,6,3.5,Customer service
+com.itaucard.activity,5,2,1.0,Generic complaint
+com.itaucard.activity,5,33,4.8,Generic compliment
+com.itaucard.activity,5,5,1.6,Invoice
+com.itaucard.activity,5,3,3.0,Login
+com.itaucard.activity,5,2,2.5,Performance
+com.itaucard.activity,5,1,2.0,Registration
+com.itaucard.activity,5,3,5.0,Usability
+com.itaucard.activity,5,1,5.0,nan
+com.itaucard.activity,5,4,2.0,Card
+com.itaucard.activity,5,3,3.3,Customer service
+com.itaucard.activity,5,3,3.7,Generic complaint
+com.itaucard.activity,5,26,4.8,Generic compliment
+com.itaucard.activity,5,4,2.3,Invoice
+com.itaucard.activity,5,2,4.5,Performance
+com.itaucard.activity,5,1,4.0,Update
+com.itaucard.activity,5,5,5.0,Usability
+com.itaucard.activity,5,3,2.7,Card
+com.itaucard.activity,5,1,5.0,Customer service
+com.itaucard.activity,5,10,4.9,Generic compliment
+com.itaucard.activity,5,1,1.0,Login
+com.itaucard.activity,5,1,3.0,Token
+com.itaucard.activity,5,1,5.0,Usability
+com.itaucard.activity,5,5,2.8,Card
+com.itaucard.activity,5,2,3.0,Customer service
+com.itaucard.activity,5,3,2.7,Generic complaint
+com.itaucard.activity,5,31,4.9,Generic compliment
+com.itaucard.activity,5,1,2.0,Invoice
+com.itaucard.activity,5,1,5.0,Login
+com.itaucard.activity,5,1,1.0,Performance
+com.itaucard.activity,5,1,2.0,Registration
+com.itaucard.activity,5,2,2.5,Update
+com.itaucard.activity,5,5,5.0,Usability
+com.itaucard.activity,5,2,1.0,Card
+com.itaucard.activity,5,3,5.0,Customer service
+com.itaucard.activity,5,8,4.0,Generic complaint
+com.itaucard.activity,5,50,4.9,Generic compliment
+com.itaucard.activity,5,1,5.0,Investiment
+com.itaucard.activity,5,1,4.0,Invoice
+com.itaucard.activity,5,3,1.3,Login
+com.itaucard.activity,5,1,1.0,Performance
+com.itaucard.activity,5,1,4.0,Token
+com.itaucard.activity,5,6,4.8,Usability
+com.itaucard.activity,5,1,3.0,nan
+com.itaucard.activity,5,3,3.7,Card
+com.itaucard.activity,5,7,3.9,Customer service
+com.itaucard.activity,5,5,2.6,Generic complaint
+com.itaucard.activity,5,43,5.0,Generic compliment
+com.itaucard.activity,5,1,3.0,Update
+com.itaucard.activity,5,6,4.8,Usability
+com.itaucard.activity,5,3,3.3,Card
+com.itaucard.activity,5,1,3.0,Customer service
+com.itaucard.activity,5,5,2.6,Generic complaint
+com.itaucard.activity,5,40,4.9,Generic compliment
+com.itaucard.activity,5,1,4.0,Invoice
+com.itaucard.activity,5,1,2.0,Performance
+com.itaucard.activity,5,2,2.0,Update
+com.itaucard.activity,5,7,4.9,Usability
+com.itaucard.activity,5,1,4.0,nan
+com.itaucard.activity,5,3,2.7,Card
+com.itaucard.activity,5,2,5.0,Customer service
+com.itaucard.activity,5,4,4.0,Generic complaint
+com.itaucard.activity,5,39,4.9,Generic compliment
+com.itaucard.activity,5,1,3.0,Investiment
+com.itaucard.activity,5,1,5.0,Invoice
+com.itaucard.activity,5,1,5.0,Login
+com.itaucard.activity,5,1,1.0,Token
+com.itaucard.activity,5,1,1.0,Update
+com.itaucard.activity,5,8,4.5,Usability
+com.itaucard.activity,5,1,5.0,nan
+com.itaucard.activity,5,5,2.4,Card
+com.itaucard.activity,5,4,2.0,Customer service
+com.itaucard.activity,5,4,2.5,Generic complaint
+com.itaucard.activity,5,39,4.9,Generic compliment
+com.itaucard.activity,5,1,5.0,Invoice
+com.itaucard.activity,5,3,2.0,Login
+com.itaucard.activity,5,2,1.0,Performance
+com.itaucard.activity,5,1,5.0,Registration
+com.itaucard.activity,5,2,4.0,Token
+com.itaucard.activity,5,2,2.5,Update
+com.itaucard.activity,5,3,5.0,Usability
+com.itaucard.activity,5,1,1.0,Virtual card
+com.itaucard.activity,5,1,5.0,Customer service
+com.itaucard.activity,5,1,5.0,Generic complaint
+com.itaucard.activity,5,3,5.0,Generic compliment
+com.itaucard.activity,5,1,1.0,Investiment
+com.itaucard.activity,5,1,1.0,Invoice
+com.itaucard.activity,5,1,1.0,Token
+com.itaucard.activity,5,1,5.0,Usability
+com.itaucard.activity,5,9,2.3,Card
+com.itaucard.activity,5,5,2.6,Customer service
+com.itaucard.activity,5,3,2.3,Generic complaint
+com.itaucard.activity,5,37,4.8,Generic compliment
+com.itaucard.activity,5,1,1.0,Login
+com.itaucard.activity,5,1,1.0,Notifications
+com.itaucard.activity,5,2,1.5,Performance
+com.itaucard.activity,5,1,1.0,Rewards program
+com.itaucard.activity,5,1,1.0,Update
+com.itaucard.activity,5,3,5.0,Usability
+com.itaucard.activity,5,8,2.0,Card
+com.itaucard.activity,5,6,4.0,Customer service
+com.itaucard.activity,5,3,4.3,Generic complaint
+com.itaucard.activity,5,51,5.0,Generic compliment
+com.itaucard.activity,5,2,2.0,Invoice
+com.itaucard.activity,5,4,2.5,Login
+com.itaucard.activity,5,1,3.0,Notifications
+com.itaucard.activity,5,1,1.0,Rewards program
+com.itaucard.activity,5,3,3.3,Update
+com.itaucard.activity,5,8,5.0,Usability
+com.itaucard.activity,5,1,1.0,Virtual card
+com.itaucard.activity,5,6,2.7,Card
+com.itaucard.activity,5,5,3.4,Customer service
+com.itaucard.activity,5,8,2.9,Generic complaint
+com.itaucard.activity,5,47,4.9,Generic compliment
+com.itaucard.activity,5,1,3.0,Invoice
+com.itaucard.activity,5,2,1.0,Login
+com.itaucard.activity,5,1,5.0,Notifications
+com.itaucard.activity,5,2,2.0,Performance
+com.itaucard.activity,5,5,5.0,Usability
+com.itaucard.activity,5,2,4.5,Virtual card
+com.itaucard.activity,5,4,2.0,Card
+com.itaucard.activity,5,1,1.0,Customer service
+com.itaucard.activity,5,6,1.5,Generic complaint
+com.itaucard.activity,5,50,5.0,Generic compliment
+com.itaucard.activity,5,3,2.3,Invoice
+com.itaucard.activity,5,2,4.5,Performance
+com.itaucard.activity,5,10,4.3,Usability
+com.itaucard.activity,5,3,2.0,Card
+com.itaucard.activity,5,3,5.0,Customer service
+com.itaucard.activity,5,5,3.0,Generic complaint
+com.itaucard.activity,5,47,4.9,Generic compliment
+com.itaucard.activity,5,1,2.0,Invoice
+com.itaucard.activity,5,6,2.0,Login
+com.itaucard.activity,5,2,3.0,Update
+com.itaucard.activity,5,5,5.0,Usability
+com.itaucard.activity,5,1,5.0,nan
+com.itaucard.activity,5,8,1.4,Card
+com.itaucard.activity,5,2,3.0,Customer service
+com.itaucard.activity,5,2,1.0,Generic complaint
+com.itaucard.activity,5,38,4.9,Generic compliment
+com.itaucard.activity,5,3,2.0,Invoice
+com.itaucard.activity,5,2,1.5,Performance
+com.itaucard.activity,5,1,4.0,Update
+com.itaucard.activity,5,12,4.7,Usability
+com.itaucard.activity,5,1,5.0,nan
+com.itaucard.activity,6,2,4.0,Generic complaint
+com.itaucard.activity,6,8,5.0,Generic compliment
+com.itaucard.activity,6,2,1.5,Performance
+com.itaucard.activity,6,1,4.0,Update
+com.itaucard.activity,6,7,2.4,Card
+com.itaucard.activity,6,3,3.3,Customer service
+com.itaucard.activity,6,9,3.7,Generic complaint
+com.itaucard.activity,6,47,5.0,Generic compliment
+com.itaucard.activity,6,2,4.5,Invoice
+com.itaucard.activity,6,1,3.0,Login
+com.itaucard.activity,6,3,2.7,Notifications
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,2,2.0,Rewards program
+com.itaucard.activity,6,1,1.0,Update
+com.itaucard.activity,6,7,4.4,Usability
+com.itaucard.activity,6,1,1.0,Virtual card
+com.itaucard.activity,6,4,2.0,Card
+com.itaucard.activity,6,3,3.0,Customer service
+com.itaucard.activity,6,13,3.3,Generic complaint
+com.itaucard.activity,6,70,4.9,Generic compliment
+com.itaucard.activity,6,2,3.5,Investiment
+com.itaucard.activity,6,3,2.0,Invoice
+com.itaucard.activity,6,2,1.5,Login
+com.itaucard.activity,6,6,2.2,Performance
+com.itaucard.activity,6,5,2.4,Update
+com.itaucard.activity,6,14,5.0,Usability
+com.itaucard.activity,6,2,3.0,Card
+com.itaucard.activity,6,5,3.2,Customer service
+com.itaucard.activity,6,4,3.0,Generic complaint
+com.itaucard.activity,6,39,5.0,Generic compliment
+com.itaucard.activity,6,3,1.7,Invoice
+com.itaucard.activity,6,1,1.0,Notifications
+com.itaucard.activity,6,3,1.0,Performance
+com.itaucard.activity,6,1,1.0,Update
+com.itaucard.activity,6,5,5.0,Usability
+com.itaucard.activity,6,1,4.0,Virtual card
+com.itaucard.activity,6,2,1.0,Card
+com.itaucard.activity,6,9,3.1,Customer service
+com.itaucard.activity,6,11,3.2,Generic complaint
+com.itaucard.activity,6,50,5.0,Generic compliment
+com.itaucard.activity,6,2,3.0,Invoice
+com.itaucard.activity,6,3,1.0,Login
+com.itaucard.activity,6,2,5.0,Notifications
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,1,1.0,Update
+com.itaucard.activity,6,5,5.0,Usability
+com.itaucard.activity,6,7,3.3,Card
+com.itaucard.activity,6,5,3.8,Customer service
+com.itaucard.activity,6,11,3.5,Generic complaint
+com.itaucard.activity,6,68,4.9,Generic compliment
+com.itaucard.activity,6,3,2.0,Invoice
+com.itaucard.activity,6,1,5.0,Login
+com.itaucard.activity,6,1,5.0,Notifications
+com.itaucard.activity,6,1,5.0,Token
+com.itaucard.activity,6,1,1.0,Update
+com.itaucard.activity,6,13,4.5,Usability
+com.itaucard.activity,6,6,3.2,Card
+com.itaucard.activity,6,4,4.3,Customer service
+com.itaucard.activity,6,8,3.9,Generic complaint
+com.itaucard.activity,6,49,4.8,Generic compliment
+com.itaucard.activity,6,1,1.0,Investiment
+com.itaucard.activity,6,5,1.0,Invoice
+com.itaucard.activity,6,2,2.0,Login
+com.itaucard.activity,6,4,2.0,Performance
+com.itaucard.activity,6,1,1.0,Rewards program
+com.itaucard.activity,6,7,5.0,Usability
+com.itaucard.activity,6,3,2.3,Customer service
+com.itaucard.activity,6,3,1.3,Generic complaint
+com.itaucard.activity,6,10,4.6,Generic compliment
+com.itaucard.activity,6,1,1.0,Invoice
+com.itaucard.activity,6,2,3.0,Performance
+com.itaucard.activity,6,1,5.0,Token
+com.itaucard.activity,6,1,1.0,Update
+com.itaucard.activity,6,7,2.9,Card
+com.itaucard.activity,6,4,5.0,Customer service
+com.itaucard.activity,6,6,3.2,Generic complaint
+com.itaucard.activity,6,37,4.9,Generic compliment
+com.itaucard.activity,6,6,2.7,Invoice
+com.itaucard.activity,6,6,4.7,Usability
+com.itaucard.activity,6,1,2.0,Virtual card
+com.itaucard.activity,6,6,2.0,Card
+com.itaucard.activity,6,7,3.3,Customer service
+com.itaucard.activity,6,10,3.6,Generic complaint
+com.itaucard.activity,6,60,4.9,Generic compliment
+com.itaucard.activity,6,4,1.3,Invoice
+com.itaucard.activity,6,2,3.0,Login
+com.itaucard.activity,6,1,5.0,Performance
+com.itaucard.activity,6,2,3.0,Rewards program
+com.itaucard.activity,6,1,5.0,Update
+com.itaucard.activity,6,10,4.6,Usability
+com.itaucard.activity,6,2,1.5,Card
+com.itaucard.activity,6,6,3.0,Generic complaint
+com.itaucard.activity,6,40,5.0,Generic compliment
+com.itaucard.activity,6,6,1.7,Login
+com.itaucard.activity,6,2,2.0,Notifications
+com.itaucard.activity,6,1,2.0,Performance
+com.itaucard.activity,6,1,5.0,Token
+com.itaucard.activity,6,5,1.2,Update
+com.itaucard.activity,6,9,3.9,Usability
+com.itaucard.activity,6,1,3.0,nan
+com.itaucard.activity,6,6,2.7,Card
+com.itaucard.activity,6,6,5.0,Customer service
+com.itaucard.activity,6,5,1.8,Generic complaint
+com.itaucard.activity,6,44,4.9,Generic compliment
+com.itaucard.activity,6,1,1.0,Login
+com.itaucard.activity,6,1,1.0,Update
+com.itaucard.activity,6,10,4.8,Usability
+com.itaucard.activity,6,1,1.0,Virtual card
+com.itaucard.activity,6,7,2.0,Card
+com.itaucard.activity,6,2,1.5,Customer service
+com.itaucard.activity,6,7,2.7,Generic complaint
+com.itaucard.activity,6,45,4.9,Generic compliment
+com.itaucard.activity,6,4,2.5,Invoice
+com.itaucard.activity,6,1,5.0,Login
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,1,2.0,Token
+com.itaucard.activity,6,7,4.4,Usability
+com.itaucard.activity,6,5,2.4,Card
+com.itaucard.activity,6,4,4.0,Customer service
+com.itaucard.activity,6,6,2.5,Generic complaint
+com.itaucard.activity,6,35,4.8,Generic compliment
+com.itaucard.activity,6,5,4.0,Invoice
+com.itaucard.activity,6,1,1.0,Login
+com.itaucard.activity,6,1,1.0,Notifications
+com.itaucard.activity,6,2,2.0,Performance
+com.itaucard.activity,6,1,5.0,Token
+com.itaucard.activity,6,1,3.0,Update
+com.itaucard.activity,6,2,5.0,Usability
+com.itaucard.activity,6,4,2.3,Card
+com.itaucard.activity,6,2,5.0,Generic compliment
+com.itaucard.activity,6,1,1.0,Invoice
+com.itaucard.activity,6,1,3.0,Usability
+com.itaucard.activity,6,5,3.0,Card
+com.itaucard.activity,6,3,1.0,Customer service
+com.itaucard.activity,6,4,2.0,Generic complaint
+com.itaucard.activity,6,30,5.0,Generic compliment
+com.itaucard.activity,6,2,1.0,Invoice
+com.itaucard.activity,6,1,3.0,Login
+com.itaucard.activity,6,2,1.0,Performance
+com.itaucard.activity,6,1,1.0,Registration
+com.itaucard.activity,6,1,4.0,Token
+com.itaucard.activity,6,5,5.0,Usability
+com.itaucard.activity,6,1,1.0,Virtual card
+com.itaucard.activity,6,8,2.0,Card
+com.itaucard.activity,6,6,4.3,Customer service
+com.itaucard.activity,6,1,5.0,Generic complaint
+com.itaucard.activity,6,45,4.8,Generic compliment
+com.itaucard.activity,6,1,1.0,Investiment
+com.itaucard.activity,6,3,2.3,Invoice
+com.itaucard.activity,6,6,3.8,Login
+com.itaucard.activity,6,2,3.0,Notifications
+com.itaucard.activity,6,3,3.7,Performance
+com.itaucard.activity,6,1,1.0,Registration
+com.itaucard.activity,6,1,1.0,Rewards program
+com.itaucard.activity,6,6,5.0,Usability
+com.itaucard.activity,6,1,5.0,Virtual card
+com.itaucard.activity,6,7,3.0,Card
+com.itaucard.activity,6,5,4.2,Customer service
+com.itaucard.activity,6,7,3.3,Generic complaint
+com.itaucard.activity,6,22,4.7,Generic compliment
+com.itaucard.activity,6,3,2.0,Invoice
+com.itaucard.activity,6,2,2.0,Login
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,1,5.0,Token
+com.itaucard.activity,6,3,5.0,Usability
+com.itaucard.activity,6,1,5.0,nan
+com.itaucard.activity,6,4,2.8,Card
+com.itaucard.activity,6,1,5.0,Customer service
+com.itaucard.activity,6,6,3.0,Generic complaint
+com.itaucard.activity,6,32,4.9,Generic compliment
+com.itaucard.activity,6,1,1.0,Investiment
+com.itaucard.activity,6,2,3.0,Invoice
+com.itaucard.activity,6,1,1.0,Login
+com.itaucard.activity,6,1,2.0,Notifications
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,2,1.0,Update
+com.itaucard.activity,6,7,4.9,Usability
+com.itaucard.activity,6,1,5.0,nan
+com.itaucard.activity,6,3,3.0,Card
+com.itaucard.activity,6,2,3.0,Customer service
+com.itaucard.activity,6,6,2.5,Generic complaint
+com.itaucard.activity,6,37,4.9,Generic compliment
+com.itaucard.activity,6,1,1.0,Invoice
+com.itaucard.activity,6,1,4.0,Login
+com.itaucard.activity,6,1,4.0,Notifications
+com.itaucard.activity,6,2,2.5,Token
+com.itaucard.activity,6,6,4.8,Usability
+com.itaucard.activity,6,1,5.0,nan
+com.itaucard.activity,6,3,2.7,Card
+com.itaucard.activity,6,2,4.5,Customer service
+com.itaucard.activity,6,8,2.0,Generic complaint
+com.itaucard.activity,6,41,4.9,Generic compliment
+com.itaucard.activity,6,2,4.0,Invoice
+com.itaucard.activity,6,1,3.0,Performance
+com.itaucard.activity,6,1,1.0,Update
+com.itaucard.activity,6,3,3.3,Usability
+com.itaucard.activity,6,1,1.0,nan
+com.itaucard.activity,6,2,2.5,Card
+com.itaucard.activity,6,1,4.0,Customer service
+com.itaucard.activity,6,2,3.0,Generic complaint
+com.itaucard.activity,6,4,5.0,Generic compliment
+com.itaucard.activity,6,2,1.5,Card
+com.itaucard.activity,6,1,5.0,Customer service
+com.itaucard.activity,6,2,2.5,Generic complaint
+com.itaucard.activity,6,20,5.0,Generic compliment
+com.itaucard.activity,6,2,2.0,Invoice
+com.itaucard.activity,6,1,2.0,Performance
+com.itaucard.activity,6,1,1.0,Token
+com.itaucard.activity,6,1,2.0,Update
+com.itaucard.activity,6,6,4.5,Usability
+com.itaucard.activity,6,4,2.8,Card
+com.itaucard.activity,6,2,5.0,Customer service
+com.itaucard.activity,6,8,3.1,Generic complaint
+com.itaucard.activity,6,38,4.8,Generic compliment
+com.itaucard.activity,6,2,2.0,Invoice
+com.itaucard.activity,6,2,3.0,Login
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,1,1.0,Registration
+com.itaucard.activity,6,1,1.0,Token
+com.itaucard.activity,6,2,3.5,Update
+com.itaucard.activity,6,5,5.0,Usability
+com.itaucard.activity,6,1,3.0,Virtual card
+com.itaucard.activity,6,1,5.0,nan
+com.itaucard.activity,6,3,2.3,Card
+com.itaucard.activity,6,4,5.0,Customer service
+com.itaucard.activity,6,4,4.0,Generic complaint
+com.itaucard.activity,6,25,4.9,Generic compliment
+com.itaucard.activity,6,1,5.0,Notifications
+com.itaucard.activity,6,2,2.5,Performance
+com.itaucard.activity,6,1,2.0,Update
+com.itaucard.activity,6,7,5.0,Usability
+com.itaucard.activity,6,3,3.0,Card
+com.itaucard.activity,6,1,1.0,Customer service
+com.itaucard.activity,6,5,3.2,Generic complaint
+com.itaucard.activity,6,32,4.8,Generic compliment
+com.itaucard.activity,6,2,1.0,Invoice
+com.itaucard.activity,6,2,1.5,Login
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,1,1.0,Token
+com.itaucard.activity,6,2,2.0,Update
+com.itaucard.activity,6,6,4.2,Usability
+com.itaucard.activity,6,3,3.0,Card
+com.itaucard.activity,6,1,5.0,Customer service
+com.itaucard.activity,6,1,1.0,Generic complaint
+com.itaucard.activity,6,36,4.9,Generic compliment
+com.itaucard.activity,6,3,2.0,Invoice
+com.itaucard.activity,6,2,3.5,Login
+com.itaucard.activity,6,2,4.0,Performance
+com.itaucard.activity,6,2,3.5,Update
+com.itaucard.activity,6,5,4.8,Usability
+com.itaucard.activity,6,3,4.3,nan
+com.itaucard.activity,6,3,1.3,Card
+com.itaucard.activity,6,6,2.3,Customer service
+com.itaucard.activity,6,6,1.5,Generic complaint
+com.itaucard.activity,6,30,4.8,Generic compliment
+com.itaucard.activity,6,1,5.0,Investiment
+com.itaucard.activity,6,3,2.0,Invoice
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,2,2.0,Registration
+com.itaucard.activity,6,1,5.0,Token
+com.itaucard.activity,6,2,1.0,Update
+com.itaucard.activity,6,3,4.0,Usability
+com.itaucard.activity,6,2,5.0,Customer service
+com.itaucard.activity,6,1,2.0,Generic complaint
+com.itaucard.activity,6,5,4.8,Generic compliment
+com.itaucard.activity,6,2,3.0,Login
+com.itaucard.activity,6,1,1.0,Rewards program
+com.itaucard.activity,6,1,1.0,Token
+com.itaucard.activity,6,3,3.7,Card
+com.itaucard.activity,6,8,2.3,Generic complaint
+com.itaucard.activity,6,29,5.0,Generic compliment
+com.itaucard.activity,6,1,5.0,Investiment
+com.itaucard.activity,6,2,2.0,Invoice
+com.itaucard.activity,6,1,1.0,Performance
+com.itaucard.activity,6,2,1.0,Update
+com.itaucard.activity,6,3,5.0,Usability
+com.itaucard.activity,7,6,2.0,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,2,1.0,Generic complaint
+com.itaucard.activity,7,32,5.0,Generic compliment
+com.itaucard.activity,7,2,1.0,Invoice
+com.itaucard.activity,7,1,5.0,Login
+com.itaucard.activity,7,1,3.0,Notifications
+com.itaucard.activity,7,1,4.0,Performance
+com.itaucard.activity,7,1,2.0,Update
+com.itaucard.activity,7,6,5.0,Usability
+com.itaucard.activity,7,5,2.2,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,4,1.0,Generic complaint
+com.itaucard.activity,7,29,5.0,Generic compliment
+com.itaucard.activity,7,4,3.0,Invoice
+com.itaucard.activity,7,1,1.0,Registration
+com.itaucard.activity,7,1,5.0,Rewards program
+com.itaucard.activity,7,1,2.0,Update
+com.itaucard.activity,7,6,5.0,Usability
+com.itaucard.activity,7,7,3.1,Card
+com.itaucard.activity,7,3,2.3,Generic complaint
+com.itaucard.activity,7,21,4.9,Generic compliment
+com.itaucard.activity,7,5,2.4,Invoice
+com.itaucard.activity,7,1,5.0,Login
+com.itaucard.activity,7,1,3.0,Notifications
+com.itaucard.activity,7,1,3.0,Performance
+com.itaucard.activity,7,1,2.0,Registration
+com.itaucard.activity,7,1,1.0,Update
+com.itaucard.activity,7,7,4.3,Usability
+com.itaucard.activity,7,9,3.0,Card
+com.itaucard.activity,7,4,3.8,Customer service
+com.itaucard.activity,7,2,3.0,Generic complaint
+com.itaucard.activity,7,36,4.8,Generic compliment
+com.itaucard.activity,7,3,2.3,Invoice
+com.itaucard.activity,7,4,2.8,Login
+com.itaucard.activity,7,2,3.5,Notifications
+com.itaucard.activity,7,1,1.0,Performance
+com.itaucard.activity,7,9,4.4,Usability
+com.itaucard.activity,7,7,3.1,Card
+com.itaucard.activity,7,2,1.5,Customer service
+com.itaucard.activity,7,3,2.3,Generic complaint
+com.itaucard.activity,7,32,5.0,Generic compliment
+com.itaucard.activity,7,2,2.0,Invoice
+com.itaucard.activity,7,3,3.0,Login
+com.itaucard.activity,7,1,4.0,Notifications
+com.itaucard.activity,7,1,5.0,Performance
+com.itaucard.activity,7,6,4.8,Usability
+com.itaucard.activity,7,1,2.0,Card
+com.itaucard.activity,7,4,4.8,Generic complaint
+com.itaucard.activity,7,5,5.0,Generic compliment
+com.itaucard.activity,7,1,3.0,Performance
+com.itaucard.activity,7,5,1.8,Card
+com.itaucard.activity,7,1,1.0,Customer service
+com.itaucard.activity,7,3,1.7,Generic complaint
+com.itaucard.activity,7,26,4.9,Generic compliment
+com.itaucard.activity,7,1,3.0,Invoice
+com.itaucard.activity,7,1,3.0,Notifications
+com.itaucard.activity,7,2,2.5,Performance
+com.itaucard.activity,7,1,4.0,Registration
+com.itaucard.activity,7,1,1.0,Token
+com.itaucard.activity,7,2,1.5,Update
+com.itaucard.activity,7,2,3.5,Usability
+com.itaucard.activity,7,1,1.0,Virtual card
+com.itaucard.activity,7,1,5.0,nan
+com.itaucard.activity,7,5,2.0,Card
+com.itaucard.activity,7,3,2.3,Customer service
+com.itaucard.activity,7,7,2.4,Generic complaint
+com.itaucard.activity,7,37,4.7,Generic compliment
+com.itaucard.activity,7,2,3.0,Invoice
+com.itaucard.activity,7,1,3.0,Login
+com.itaucard.activity,7,4,5.0,Usability
+com.itaucard.activity,7,1,1.0,Virtual card
+com.itaucard.activity,7,1,5.0,nan
+com.itaucard.activity,7,4,1.0,Card
+com.itaucard.activity,7,4,4.0,Customer service
+com.itaucard.activity,7,7,3.6,Generic complaint
+com.itaucard.activity,7,35,4.9,Generic compliment
+com.itaucard.activity,7,3,1.3,Invoice
+com.itaucard.activity,7,1,1.0,Login
+com.itaucard.activity,7,1,2.0,Token
+com.itaucard.activity,7,3,2.3,Update
+com.itaucard.activity,7,2,4.5,Usability
+com.itaucard.activity,7,5,2.4,Card
+com.itaucard.activity,7,2,3.0,Customer service
+com.itaucard.activity,7,3,2.3,Generic complaint
+com.itaucard.activity,7,27,4.6,Generic compliment
+com.itaucard.activity,7,1,1.0,Investiment
+com.itaucard.activity,7,4,3.3,Login
+com.itaucard.activity,7,2,1.0,Performance
+com.itaucard.activity,7,1,1.0,Registration
+com.itaucard.activity,7,2,2.5,Update
+com.itaucard.activity,7,7,4.7,Usability
+com.itaucard.activity,7,1,4.0,Virtual card
+com.itaucard.activity,7,1,5.0,nan
+com.itaucard.activity,7,7,1.9,Card
+com.itaucard.activity,7,2,5.0,Customer service
+com.itaucard.activity,7,5,3.2,Generic complaint
+com.itaucard.activity,7,26,5.0,Generic compliment
+com.itaucard.activity,7,5,2.8,Invoice
+com.itaucard.activity,7,2,3.0,Login
+com.itaucard.activity,7,2,1.0,Performance
+com.itaucard.activity,7,4,4.0,Usability
+com.itaucard.activity,7,2,1.0,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,9,1.9,Generic complaint
+com.itaucard.activity,7,16,4.8,Generic compliment
+com.itaucard.activity,7,2,1.0,Invoice
+com.itaucard.activity,7,2,1.0,Login
+com.itaucard.activity,7,2,1.5,Performance
+com.itaucard.activity,7,1,1.0,Registration
+com.itaucard.activity,7,1,1.0,Token
+com.itaucard.activity,7,3,4.3,Usability
+com.itaucard.activity,7,9,5.0,Generic compliment
+com.itaucard.activity,7,1,2.0,Login
+com.itaucard.activity,7,3,1.0,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,27,5.0,Generic compliment
+com.itaucard.activity,7,1,5.0,Invoice
+com.itaucard.activity,7,2,3.0,Login
+com.itaucard.activity,7,3,1.0,Performance
+com.itaucard.activity,7,1,1.0,Token
+com.itaucard.activity,7,6,5.0,Usability
+com.itaucard.activity,7,3,3.7,Customer service
+com.itaucard.activity,7,3,3.7,Generic complaint
+com.itaucard.activity,7,16,5.0,Generic compliment
+com.itaucard.activity,7,1,3.0,Invoice
+com.itaucard.activity,7,1,2.0,Notifications
+com.itaucard.activity,7,4,4.8,Usability
+com.itaucard.activity,7,2,1.5,Card
+com.itaucard.activity,7,1,2.0,Customer service
+com.itaucard.activity,7,4,3.5,Generic complaint
+com.itaucard.activity,7,23,4.9,Generic compliment
+com.itaucard.activity,7,1,1.0,Investiment
+com.itaucard.activity,7,1,5.0,Invoice
+com.itaucard.activity,7,1,2.0,Token
+com.itaucard.activity,7,2,5.0,Usability
+com.itaucard.activity,7,6,2.8,Card
+com.itaucard.activity,7,3,2.3,Customer service
+com.itaucard.activity,7,3,3.7,Generic complaint
+com.itaucard.activity,7,20,4.9,Generic compliment
+com.itaucard.activity,7,2,1.5,Invoice
+com.itaucard.activity,7,3,1.7,Login
+com.itaucard.activity,7,3,5.0,Usability
+com.itaucard.activity,7,3,1.0,Card
+com.itaucard.activity,7,1,4.0,Customer service
+com.itaucard.activity,7,2,3.0,Generic complaint
+com.itaucard.activity,7,27,4.9,Generic compliment
+com.itaucard.activity,7,2,2.5,Invoice
+com.itaucard.activity,7,1,5.0,Performance
+com.itaucard.activity,7,2,1.0,Token
+com.itaucard.activity,7,5,5.0,Usability
+com.itaucard.activity,7,3,1.0,Card
+com.itaucard.activity,7,2,2.5,Customer service
+com.itaucard.activity,7,6,3.2,Generic complaint
+com.itaucard.activity,7,26,4.7,Generic compliment
+com.itaucard.activity,7,1,5.0,Invoice
+com.itaucard.activity,7,7,5.0,Usability
+com.itaucard.activity,7,1,1.0,Virtual card
+com.itaucard.activity,7,1,5.0,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,4,5.0,Generic compliment
+com.itaucard.activity,7,2,1.0,Login
+com.itaucard.activity,7,1,1.0,Rewards program
+com.itaucard.activity,7,2,3.0,Usability
+com.itaucard.activity,7,2,3.0,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,6,3.7,Generic complaint
+com.itaucard.activity,7,19,5.0,Generic compliment
+com.itaucard.activity,7,1,4.0,Login
+com.itaucard.activity,7,1,1.0,Notifications
+com.itaucard.activity,7,1,1.0,Performance
+com.itaucard.activity,7,1,2.0,Rewards program
+com.itaucard.activity,7,1,1.0,Token
+com.itaucard.activity,7,5,4.2,Usability
+com.itaucard.activity,7,7,1.7,Card
+com.itaucard.activity,7,2,3.0,Customer service
+com.itaucard.activity,7,4,3.0,Generic complaint
+com.itaucard.activity,7,39,4.9,Generic compliment
+com.itaucard.activity,7,1,2.0,Invoice
+com.itaucard.activity,7,1,1.0,Performance
+com.itaucard.activity,7,1,1.0,Update
+com.itaucard.activity,7,5,4.4,Usability
+com.itaucard.activity,7,1,2.0,Virtual card
+com.itaucard.activity,7,5,3.6,Card
+com.itaucard.activity,7,2,1.0,Customer service
+com.itaucard.activity,7,1,5.0,Generic complaint
+com.itaucard.activity,7,17,4.9,Generic compliment
+com.itaucard.activity,7,2,2.5,Invoice
+com.itaucard.activity,7,1,2.0,Performance
+com.itaucard.activity,7,6,4.2,Usability
+com.itaucard.activity,7,1,3.0,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,7,2.7,Generic complaint
+com.itaucard.activity,7,13,4.8,Generic compliment
+com.itaucard.activity,7,3,1.7,Invoice
+com.itaucard.activity,7,2,1.0,Performance
+com.itaucard.activity,7,5,5.0,Usability
+com.itaucard.activity,7,3,3.7,Card
+com.itaucard.activity,7,2,1.0,Generic complaint
+com.itaucard.activity,7,26,4.7,Generic compliment
+com.itaucard.activity,7,1,1.0,Login
+com.itaucard.activity,7,1,4.0,Performance
+com.itaucard.activity,7,1,1.0,Update
+com.itaucard.activity,7,2,5.0,Usability
+com.itaucard.activity,7,1,5.0,nan
+com.itaucard.activity,7,5,1.4,Card
+com.itaucard.activity,7,3,2.3,Customer service
+com.itaucard.activity,7,3,3.0,Generic complaint
+com.itaucard.activity,7,16,4.9,Generic compliment
+com.itaucard.activity,7,1,4.0,Invoice
+com.itaucard.activity,7,1,5.0,Login
+com.itaucard.activity,7,1,1.0,Performance
+com.itaucard.activity,7,1,1.0,Rewards program
+com.itaucard.activity,7,1,1.0,Token
+com.itaucard.activity,7,4,4.3,Usability
+com.itaucard.activity,7,1,3.0,Virtual card
+com.itaucard.activity,7,5,5.0,Generic compliment
+com.itaucard.activity,7,1,1.0,Rewards program
+com.itaucard.activity,7,1,4.0,Usability
+com.itaucard.activity,7,1,1.0,Card
+com.itaucard.activity,7,3,3.3,Customer service
+com.itaucard.activity,7,1,1.0,Generic complaint
+com.itaucard.activity,7,25,4.8,Generic compliment
+com.itaucard.activity,7,1,1.0,Performance
+com.itaucard.activity,7,1,1.0,Token
+com.itaucard.activity,7,1,5.0,Usability
+com.itaucard.activity,7,7,3.1,Card
+com.itaucard.activity,7,1,5.0,Customer service
+com.itaucard.activity,7,3,1.0,Generic complaint
+com.itaucard.activity,7,21,5.0,Generic compliment
+com.itaucard.activity,7,1,1.0,Invoice
+com.itaucard.activity,7,1,1.0,Performance
+com.itaucard.activity,7,1,1.0,Rewards program
+com.itaucard.activity,7,2,1.0,Token
+com.itaucard.activity,7,1,1.0,Update
+com.itaucard.activity,7,2,3.5,Usability
+com.itaucard.activity,7,3,2.3,Card
+com.itaucard.activity,7,1,2.0,Customer service
+com.itaucard.activity,7,5,3.4,Generic complaint
+com.itaucard.activity,7,15,4.9,Generic compliment
+com.itaucard.activity,7,4,1.8,Performance
+com.itaucard.activity,7,2,3.0,Token
+com.itaucard.activity,7,1,5.0,Update
+com.itaucard.activity,7,2,4.5,Usability
+com.itaucard.activity,7,5,1.6,Card
+com.itaucard.activity,7,2,5.0,Customer service
+com.itaucard.activity,7,4,3.5,Generic complaint
+com.itaucard.activity,7,17,4.6,Generic compliment
+com.itaucard.activity,7,5,2.0,Invoice
+com.itaucard.activity,7,2,2.5,Login
+com.itaucard.activity,7,1,1.0,Performance
+com.itaucard.activity,7,4,1.0,Token
+com.itaucard.activity,7,4,3.0,Usability
+com.itaucard.activity,8,6,1.7,Card
+com.itaucard.activity,8,4,2.3,Generic complaint
+com.itaucard.activity,8,21,5.0,Generic compliment
+com.itaucard.activity,8,2,1.5,Invoice
+com.itaucard.activity,8,1,3.0,Login
+com.itaucard.activity,8,3,1.7,Performance
+com.itaucard.activity,8,2,1.0,Token
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,3,5.0,Usability
+com.itaucard.activity,8,1,1.0,Virtual card
+com.itaucard.activity,8,4,3.0,Card
+com.itaucard.activity,8,1,1.0,Customer service
+com.itaucard.activity,8,3,3.7,Generic complaint
+com.itaucard.activity,8,24,4.9,Generic compliment
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,5,1.8,Login
+com.itaucard.activity,8,5,1.4,Performance
+com.itaucard.activity,8,1,3.0,Rewards program
+com.itaucard.activity,8,1,2.0,Token
+com.itaucard.activity,8,1,3.0,Update
+com.itaucard.activity,8,3,5.0,Usability
+com.itaucard.activity,8,6,5.0,Generic compliment
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,1,5.0,Token
+com.itaucard.activity,8,4,5.0,Usability
+com.itaucard.activity,8,2,2.0,Card
+com.itaucard.activity,8,2,5.0,Customer service
+com.itaucard.activity,8,1,5.0,Generic complaint
+com.itaucard.activity,8,22,4.9,Generic compliment
+com.itaucard.activity,8,1,1.0,Token
+com.itaucard.activity,8,2,3.0,Usability
+com.itaucard.activity,8,4,1.5,Card
+com.itaucard.activity,8,4,4.5,Customer service
+com.itaucard.activity,8,4,1.8,Generic complaint
+com.itaucard.activity,8,26,5.0,Generic compliment
+com.itaucard.activity,8,3,2.7,Invoice
+com.itaucard.activity,8,1,3.0,Notifications
+com.itaucard.activity,8,1,2.0,Performance
+com.itaucard.activity,8,1,2.0,Rewards program
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,4,1.8,Card
+com.itaucard.activity,8,1,5.0,Customer service
+com.itaucard.activity,8,1,5.0,Generic complaint
+com.itaucard.activity,8,20,4.9,Generic compliment
+com.itaucard.activity,8,1,4.0,Invoice
+com.itaucard.activity,8,1,1.0,Login
+com.itaucard.activity,8,1,3.0,Rewards program
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,3,2.7,Card
+com.itaucard.activity,8,2,5.0,Customer service
+com.itaucard.activity,8,4,3.3,Generic complaint
+com.itaucard.activity,8,30,4.9,Generic compliment
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,2,1.5,Login
+com.itaucard.activity,8,1,1.0,Performance
+com.itaucard.activity,8,2,1.0,Registration
+com.itaucard.activity,8,1,3.0,Update
+com.itaucard.activity,8,3,4.7,Usability
+com.itaucard.activity,8,5,2.0,Card
+com.itaucard.activity,8,1,1.0,Customer service
+com.itaucard.activity,8,2,4.5,Generic complaint
+com.itaucard.activity,8,25,4.6,Generic compliment
+com.itaucard.activity,8,2,1.5,Invoice
+com.itaucard.activity,8,1,1.0,Login
+com.itaucard.activity,8,1,3.0,Token
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,3,1.0,Card
+com.itaucard.activity,8,2,2.0,Customer service
+com.itaucard.activity,8,4,2.5,Generic complaint
+com.itaucard.activity,8,28,4.8,Generic compliment
+com.itaucard.activity,8,1,1.0,Login
+com.itaucard.activity,8,1,5.0,Registration
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,3,3.3,Usability
+com.itaucard.activity,8,1,1.0,Card
+com.itaucard.activity,8,1,1.0,Generic complaint
+com.itaucard.activity,8,2,5.0,Generic compliment
+com.itaucard.activity,8,1,3.0,Invoice
+com.itaucard.activity,8,1,1.0,Card
+com.itaucard.activity,8,2,4.0,Customer service
+com.itaucard.activity,8,1,5.0,Generic complaint
+com.itaucard.activity,8,25,5.0,Generic compliment
+com.itaucard.activity,8,4,2.8,Invoice
+com.itaucard.activity,8,1,1.0,Performance
+com.itaucard.activity,8,1,5.0,Usability
+com.itaucard.activity,8,5,1.0,Card
+com.itaucard.activity,8,1,4.0,Customer service
+com.itaucard.activity,8,7,4.0,Generic complaint
+com.itaucard.activity,8,25,4.9,Generic compliment
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,1,2.0,Login
+com.itaucard.activity,8,2,1.5,Notifications
+com.itaucard.activity,8,1,5.0,Performance
+com.itaucard.activity,8,6,4.8,Usability
+com.itaucard.activity,8,1,3.0,Card
+com.itaucard.activity,8,2,5.0,Customer service
+com.itaucard.activity,8,3,4.3,Generic complaint
+com.itaucard.activity,8,24,5.0,Generic compliment
+com.itaucard.activity,8,2,1.0,Login
+com.itaucard.activity,8,1,1.0,Performance
+com.itaucard.activity,8,1,5.0,Token
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,5,4.8,Usability
+com.itaucard.activity,8,4,3.0,Card
+com.itaucard.activity,8,4,3.0,Customer service
+com.itaucard.activity,8,3,1.7,Generic complaint
+com.itaucard.activity,8,16,4.9,Generic compliment
+com.itaucard.activity,8,1,2.0,Login
+com.itaucard.activity,8,1,2.0,Update
+com.itaucard.activity,8,5,4.2,Usability
+com.itaucard.activity,8,4,1.8,Card
+com.itaucard.activity,8,2,3.0,Customer service
+com.itaucard.activity,8,4,2.0,Generic complaint
+com.itaucard.activity,8,23,4.9,Generic compliment
+com.itaucard.activity,8,3,3.0,Invoice
+com.itaucard.activity,8,3,3.0,Login
+com.itaucard.activity,8,1,5.0,Rewards program
+com.itaucard.activity,8,1,1.0,Token
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,1,5.0,Usability
+com.itaucard.activity,8,1,1.0,Virtual card
+com.itaucard.activity,8,2,2.5,Card
+com.itaucard.activity,8,3,2.3,Generic complaint
+com.itaucard.activity,8,17,5.0,Generic compliment
+com.itaucard.activity,8,3,1.0,Invoice
+com.itaucard.activity,8,1,1.0,Notifications
+com.itaucard.activity,8,1,1.0,Token
+com.itaucard.activity,8,1,3.0,Update
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,1,5.0,Generic complaint
+com.itaucard.activity,8,8,5.0,Generic compliment
+com.itaucard.activity,8,1,5.0,nan
+com.itaucard.activity,8,3,3.7,Card
+com.itaucard.activity,8,3,3.7,Customer service
+com.itaucard.activity,8,22,4.9,Generic compliment
+com.itaucard.activity,8,1,3.0,Invoice
+com.itaucard.activity,8,2,3.0,Login
+com.itaucard.activity,8,1,3.0,Performance
+com.itaucard.activity,8,1,2.0,Update
+com.itaucard.activity,8,4,5.0,Usability
+com.itaucard.activity,8,2,3.5,Card
+com.itaucard.activity,8,5,4.0,Customer service
+com.itaucard.activity,8,2,2.5,Generic complaint
+com.itaucard.activity,8,33,5.0,Generic compliment
+com.itaucard.activity,8,2,3.0,Login
+com.itaucard.activity,8,1,1.0,Performance
+com.itaucard.activity,8,1,3.0,Rewards program
+com.itaucard.activity,8,5,5.0,Usability
+com.itaucard.activity,8,2,1.0,Card
+com.itaucard.activity,8,3,3.7,Generic complaint
+com.itaucard.activity,8,15,5.0,Generic compliment
+com.itaucard.activity,8,3,2.0,Invoice
+com.itaucard.activity,8,1,3.0,Performance
+com.itaucard.activity,8,1,5.0,Usability
+com.itaucard.activity,8,1,4.0,Card
+com.itaucard.activity,8,2,5.0,Customer service
+com.itaucard.activity,8,4,2.3,Generic complaint
+com.itaucard.activity,8,20,4.8,Generic compliment
+com.itaucard.activity,8,3,2.0,Invoice
+com.itaucard.activity,8,2,1.0,Rewards program
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,2,3.5,Usability
+com.itaucard.activity,8,1,4.0,nan
+com.itaucard.activity,8,4,1.8,Card
+com.itaucard.activity,8,4,3.8,Customer service
+com.itaucard.activity,8,20,5.0,Generic compliment
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,1,1.0,Token
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,3,2.3,Card
+com.itaucard.activity,8,5,4.4,Customer service
+com.itaucard.activity,8,3,1.7,Generic complaint
+com.itaucard.activity,8,19,4.9,Generic compliment
+com.itaucard.activity,8,1,5.0,Investiment
+com.itaucard.activity,8,2,1.0,Invoice
+com.itaucard.activity,8,1,5.0,Notifications
+com.itaucard.activity,8,1,1.0,Token
+com.itaucard.activity,8,2,4.5,Update
+com.itaucard.activity,8,1,5.0,Usability
+com.itaucard.activity,8,1,3.0,Card
+com.itaucard.activity,8,1,5.0,Generic compliment
+com.itaucard.activity,8,1,1.0,Token
+com.itaucard.activity,8,3,5.0,Usability
+com.itaucard.activity,8,2,1.0,Card
+com.itaucard.activity,8,2,3.0,Customer service
+com.itaucard.activity,8,3,3.7,Generic complaint
+com.itaucard.activity,8,21,5.0,Generic compliment
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,1,1.0,Login
+com.itaucard.activity,8,1,1.0,Registration
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,2,4.5,Usability
+com.itaucard.activity,8,4,1.8,Card
+com.itaucard.activity,8,2,3.0,Customer service
+com.itaucard.activity,8,4,4.8,Generic complaint
+com.itaucard.activity,8,17,5.0,Generic compliment
+com.itaucard.activity,8,1,1.0,Login
+com.itaucard.activity,8,1,4.0,Performance
+com.itaucard.activity,8,1,2.0,Update
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,1,3.0,nan
+com.itaucard.activity,8,3,3.7,Card
+com.itaucard.activity,8,2,3.0,Customer service
+com.itaucard.activity,8,5,1.0,Generic complaint
+com.itaucard.activity,8,19,5.0,Generic compliment
+com.itaucard.activity,8,2,2.0,Invoice
+com.itaucard.activity,8,2,1.0,Login
+com.itaucard.activity,8,1,3.0,Token
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,3,5.0,Usability
+com.itaucard.activity,8,4,1.0,Card
+com.itaucard.activity,8,4,3.5,Customer service
+com.itaucard.activity,8,17,5.0,Generic compliment
+com.itaucard.activity,8,2,2.0,Invoice
+com.itaucard.activity,8,3,2.0,Login
+com.itaucard.activity,8,1,4.0,Rewards program
+com.itaucard.activity,8,1,4.0,Update
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,2,4.5,Customer service
+com.itaucard.activity,8,1,1.0,Generic complaint
+com.itaucard.activity,8,20,5.0,Generic compliment
+com.itaucard.activity,8,2,2.5,Invoice
+com.itaucard.activity,8,2,1.5,Login
+com.itaucard.activity,8,5,5.0,Usability
+com.itaucard.activity,8,3,3.7,Card
+com.itaucard.activity,8,1,5.0,Customer service
+com.itaucard.activity,8,2,1.0,Generic complaint
+com.itaucard.activity,8,17,4.8,Generic compliment
+com.itaucard.activity,8,1,1.0,Invoice
+com.itaucard.activity,8,1,3.0,Login
+com.itaucard.activity,8,1,1.0,Update
+com.itaucard.activity,8,2,5.0,Usability
+com.itaucard.activity,8,1,5.0,Generic compliment
+com.itaucard.activity,8,1,1.0,Login
+com.itaucard.activity,8,1,1.0,Performance
+com.itaucard.activity,9,2,1.0,Card
+com.itaucard.activity,9,3,3.7,Generic complaint
+com.itaucard.activity,9,22,4.8,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,2,1.0,Login
+com.itaucard.activity,9,1,1.0,Notifications
+com.itaucard.activity,9,1,3.0,Rewards program
+com.itaucard.activity,9,2,5.0,Usability
+com.itaucard.activity,9,3,2.0,Card
+com.itaucard.activity,9,1,5.0,Customer service
+com.itaucard.activity,9,2,3.5,Generic complaint
+com.itaucard.activity,9,20,4.9,Generic compliment
+com.itaucard.activity,9,3,2.0,Invoice
+com.itaucard.activity,9,4,1.8,Login
+com.itaucard.activity,9,2,1.0,Notifications
+com.itaucard.activity,9,1,1.0,Token
+com.itaucard.activity,9,2,1.0,Update
+com.itaucard.activity,9,9,4.8,Usability
+com.itaucard.activity,9,1,5.0,Card
+com.itaucard.activity,9,2,1.0,Customer service
+com.itaucard.activity,9,5,3.4,Generic complaint
+com.itaucard.activity,9,15,5.0,Generic compliment
+com.itaucard.activity,9,3,1.3,Invoice
+com.itaucard.activity,9,1,3.0,Performance
+com.itaucard.activity,9,1,4.0,Update
+com.itaucard.activity,9,3,5.0,Usability
+com.itaucard.activity,9,1,4.0,Virtual card
+com.itaucard.activity,9,3,3.7,Customer service
+com.itaucard.activity,9,1,5.0,Generic complaint
+com.itaucard.activity,9,26,4.8,Generic compliment
+com.itaucard.activity,9,1,4.0,Invoice
+com.itaucard.activity,9,1,1.0,Login
+com.itaucard.activity,9,1,5.0,Performance
+com.itaucard.activity,9,1,3.0,Registration
+com.itaucard.activity,9,1,3.0,Update
+com.itaucard.activity,9,2,4.5,Usability
+com.itaucard.activity,9,1,1.0,Card
+com.itaucard.activity,9,3,5.0,Customer service
+com.itaucard.activity,9,3,1.0,Generic complaint
+com.itaucard.activity,9,22,5.0,Generic compliment
+com.itaucard.activity,9,2,1.0,Invoice
+com.itaucard.activity,9,1,2.0,Login
+com.itaucard.activity,9,1,1.0,Performance
+com.itaucard.activity,9,3,4.7,Usability
+com.itaucard.activity,9,3,2.3,Card
+com.itaucard.activity,9,5,2.0,Generic complaint
+com.itaucard.activity,9,15,4.8,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,2,2.5,Login
+com.itaucard.activity,9,3,3.7,Performance
+com.itaucard.activity,9,1,3.0,Rewards program
+com.itaucard.activity,9,1,1.0,Update
+com.itaucard.activity,9,2,4.5,Usability
+com.itaucard.activity,9,1,1.0,Generic complaint
+com.itaucard.activity,9,3,5.0,Generic compliment
+com.itaucard.activity,9,1,5.0,Usability
+com.itaucard.activity,9,2,1.0,Card
+com.itaucard.activity,9,1,5.0,Customer service
+com.itaucard.activity,9,3,3.3,Generic complaint
+com.itaucard.activity,9,19,4.9,Generic compliment
+com.itaucard.activity,9,2,1.0,Invoice
+com.itaucard.activity,9,2,2.0,Update
+com.itaucard.activity,9,4,5.0,Usability
+com.itaucard.activity,9,3,3.3,Card
+com.itaucard.activity,9,2,4.5,Customer service
+com.itaucard.activity,9,4,3.0,Generic complaint
+com.itaucard.activity,9,27,5.0,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,1,1.0,Login
+com.itaucard.activity,9,1,1.0,Performance
+com.itaucard.activity,9,2,5.0,Usability
+com.itaucard.activity,9,8,2.0,Card
+com.itaucard.activity,9,2,5.0,Generic complaint
+com.itaucard.activity,9,17,5.0,Generic compliment
+com.itaucard.activity,9,1,1.0,Login
+com.itaucard.activity,9,1,3.0,Notifications
+com.itaucard.activity,9,1,5.0,Token
+com.itaucard.activity,9,4,5.0,Usability
+com.itaucard.activity,9,2,1.5,Card
+com.itaucard.activity,9,3,5.0,Customer service
+com.itaucard.activity,9,3,5.0,Generic complaint
+com.itaucard.activity,9,21,5.0,Generic compliment
+com.itaucard.activity,9,2,1.5,Invoice
+com.itaucard.activity,9,3,2.0,Login
+com.itaucard.activity,9,2,4.0,Performance
+com.itaucard.activity,9,1,3.0,Rewards program
+com.itaucard.activity,9,2,2.5,Update
+com.itaucard.activity,9,4,5.0,Usability
+com.itaucard.activity,9,1,2.0,Card
+com.itaucard.activity,9,1,5.0,Customer service
+com.itaucard.activity,9,4,2.8,Generic complaint
+com.itaucard.activity,9,28,4.9,Generic compliment
+com.itaucard.activity,9,2,2.0,Invoice
+com.itaucard.activity,9,4,4.5,Login
+com.itaucard.activity,9,1,1.0,Performance
+com.itaucard.activity,9,5,5.0,Usability
+com.itaucard.activity,9,2,5.0,Customer service
+com.itaucard.activity,9,4,1.8,Generic complaint
+com.itaucard.activity,9,29,4.9,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,1,3.0,Login
+com.itaucard.activity,9,1,5.0,Usability
+com.itaucard.activity,9,1,1.0,Card
+com.itaucard.activity,9,1,5.0,Generic complaint
+com.itaucard.activity,9,4,5.0,Generic compliment
+com.itaucard.activity,9,2,5.0,Usability
+com.itaucard.activity,9,1,1.0,Card
+com.itaucard.activity,9,3,3.7,Customer service
+com.itaucard.activity,9,3,2.3,Generic complaint
+com.itaucard.activity,9,6,5.0,Generic compliment
+com.itaucard.activity,9,1,4.0,Invoice
+com.itaucard.activity,9,1,1.0,Login
+com.itaucard.activity,9,1,1.0,Update
+com.itaucard.activity,9,7,5.0,Usability
+com.itaucard.activity,9,1,5.0,Virtual card
+com.itaucard.activity,9,4,2.3,Card
+com.itaucard.activity,9,3,3.7,Customer service
+com.itaucard.activity,9,5,2.2,Generic complaint
+com.itaucard.activity,9,21,4.9,Generic compliment
+com.itaucard.activity,9,1,3.0,Invoice
+com.itaucard.activity,9,1,2.0,Login
+com.itaucard.activity,9,1,1.0,Notifications
+com.itaucard.activity,9,3,1.3,Performance
+com.itaucard.activity,9,1,5.0,Update
+com.itaucard.activity,9,2,5.0,Usability
+com.itaucard.activity,9,2,2.5,Card
+com.itaucard.activity,9,1,1.0,Customer service
+com.itaucard.activity,9,4,2.8,Generic complaint
+com.itaucard.activity,9,20,4.9,Generic compliment
+com.itaucard.activity,9,1,3.0,Login
+com.itaucard.activity,9,2,1.0,Update
+com.itaucard.activity,9,3,5.0,Usability
+com.itaucard.activity,9,3,2.3,Card
+com.itaucard.activity,9,2,3.0,Customer service
+com.itaucard.activity,9,2,3.5,Generic complaint
+com.itaucard.activity,9,27,4.8,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,1,3.0,Login
+com.itaucard.activity,9,2,1.0,Performance
+com.itaucard.activity,9,1,1.0,Token
+com.itaucard.activity,9,2,5.0,Usability
+com.itaucard.activity,9,4,2.5,Card
+com.itaucard.activity,9,4,4.0,Customer service
+com.itaucard.activity,9,3,3.3,Generic complaint
+com.itaucard.activity,9,26,4.8,Generic compliment
+com.itaucard.activity,9,1,2.0,Investiment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,3,2.7,Login
+com.itaucard.activity,9,1,1.0,Notifications
+com.itaucard.activity,9,1,3.0,Performance
+com.itaucard.activity,9,1,3.0,Update
+com.itaucard.activity,9,5,4.2,Usability
+com.itaucard.activity,9,2,5.0,Card
+com.itaucard.activity,9,2,5.0,Customer service
+com.itaucard.activity,9,2,3.0,Generic complaint
+com.itaucard.activity,9,27,4.8,Generic compliment
+com.itaucard.activity,9,1,3.0,Invoice
+com.itaucard.activity,9,2,2.5,Performance
+com.itaucard.activity,9,5,2.0,Update
+com.itaucard.activity,9,5,5.0,Usability
+com.itaucard.activity,9,1,5.0,Card
+com.itaucard.activity,9,1,5.0,Customer service
+com.itaucard.activity,9,7,5.0,Generic compliment
+com.itaucard.activity,9,1,5.0,Login
+com.itaucard.activity,9,2,1.5,Update
+com.itaucard.activity,9,1,5.0,Usability
+com.itaucard.activity,9,3,2.0,Card
+com.itaucard.activity,9,4,4.0,Customer service
+com.itaucard.activity,9,1,1.0,Generic complaint
+com.itaucard.activity,9,27,5.0,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,6,1.0,Login
+com.itaucard.activity,9,2,2.5,Performance
+com.itaucard.activity,9,1,1.0,Registration
+com.itaucard.activity,9,17,1.4,Update
+com.itaucard.activity,9,3,5.0,Usability
+com.itaucard.activity,9,6,1.7,Card
+com.itaucard.activity,9,3,2.7,Customer service
+com.itaucard.activity,9,7,3.1,Generic complaint
+com.itaucard.activity,9,30,4.9,Generic compliment
+com.itaucard.activity,9,1,1.0,Invoice
+com.itaucard.activity,9,11,1.9,Login
+com.itaucard.activity,9,1,4.0,Performance
+com.itaucard.activity,9,1,1.0,Token
+com.itaucard.activity,9,34,1.6,Update
+com.itaucard.activity,9,5,4.0,Usability
+com.itaucard.activity,9,3,4.3,Card
+com.itaucard.activity,9,4,4.0,Customer service
+com.itaucard.activity,9,10,3.4,Generic complaint
+com.itaucard.activity,9,28,4.8,Generic compliment
+com.itaucard.activity,9,5,1.8,Login
+com.itaucard.activity,9,1,4.0,Notifications
+com.itaucard.activity,9,1,1.0,Performance
+com.itaucard.activity,9,1,1.0,Registration
+com.itaucard.activity,9,3,1.3,Token
+com.itaucard.activity,9,26,1.5,Update
+com.itaucard.activity,9,4,5.0,Usability
+com.itaucard.activity,9,4,1.0,Card
+com.itaucard.activity,9,1,5.0,Customer service
+com.itaucard.activity,9,7,3.1,Generic complaint
+com.itaucard.activity,9,32,4.9,Generic compliment
+com.itaucard.activity,9,3,1.3,Invoice
+com.itaucard.activity,9,11,1.2,Login
+com.itaucard.activity,9,5,2.2,Performance
+com.itaucard.activity,9,1,1.0,Rewards program
+com.itaucard.activity,9,27,1.7,Update
+com.itaucard.activity,9,8,4.9,Usability
+com.itaucard.activity,9,7,2.7,Card
+com.itaucard.activity,9,2,4.5,Customer service
+com.itaucard.activity,9,10,2.5,Generic complaint
+com.itaucard.activity,9,34,4.9,Generic compliment
+com.itaucard.activity,9,8,1.9,Login
+com.itaucard.activity,9,1,2.0,Performance
+com.itaucard.activity,9,20,1.3,Update
+com.itaucard.activity,9,2,5.0,Usability
+com.itaucard.activity,9,7,1.9,Card
+com.itaucard.activity,9,3,4.7,Customer service
+com.itaucard.activity,9,4,2.3,Generic complaint
+com.itaucard.activity,9,42,5.0,Generic compliment
+com.itaucard.activity,9,5,2.4,Invoice
+com.itaucard.activity,9,13,2.3,Login
+com.itaucard.activity,9,1,3.0,Notifications
+com.itaucard.activity,9,4,1.0,Performance
+com.itaucard.activity,9,1,2.0,Rewards program
+com.itaucard.activity,9,1,1.0,Token
+com.itaucard.activity,9,23,1.7,Update
+com.itaucard.activity,9,3,3.7,Usability
+com.itaucard.activity,9,2,2.0,Card
+com.itaucard.activity,9,1,5.0,Customer service
+com.itaucard.activity,9,3,2.3,Generic complaint
+com.itaucard.activity,9,4,4.8,Generic compliment
+com.itaucard.activity,9,2,1.0,Login
+com.itaucard.activity,9,2,2.5,Performance
+com.itaucard.activity,9,1,5.0,Usability
+com.itaucard.activity,9,5,1.6,Card
+com.itaucard.activity,9,4,3.0,Customer service
+com.itaucard.activity,9,4,2.8,Generic complaint
+com.itaucard.activity,9,31,4.9,Generic compliment
+com.itaucard.activity,9,2,1.0,Invoice
+com.itaucard.activity,9,9,1.4,Login
+com.itaucard.activity,9,1,1.0,Notifications
+com.itaucard.activity,9,2,1.0,Performance
+com.itaucard.activity,9,1,1.0,Token
+com.itaucard.activity,9,25,1.8,Update
+com.itaucard.activity,9,3,3.7,Usability
+com.itaucard.activity,9,1,1.0,Virtual card
+com.itaucard.activity,9,4,2.5,Card
+com.itaucard.activity,9,2,5.0,Customer service
+com.itaucard.activity,9,2,1.0,Generic complaint
+com.itaucard.activity,9,33,4.8,Generic compliment
+com.itaucard.activity,9,2,2.0,Invoice
+com.itaucard.activity,9,12,1.2,Login
+com.itaucard.activity,9,1,2.0,Notifications
+com.itaucard.activity,9,5,3.6,Performance
+com.itaucard.activity,9,1,1.0,Token
+com.itaucard.activity,9,23,2.1,Update
+com.itaucard.activity,9,6,4.5,Usability
+com.itaucard.activity,10,6,2.7,Card
+com.itaucard.activity,10,3,2.3,Customer service
+com.itaucard.activity,10,8,2.1,Generic complaint
+com.itaucard.activity,10,32,4.8,Generic compliment
+com.itaucard.activity,10,1,1.0,Invoice
+com.itaucard.activity,10,16,2.3,Login
+com.itaucard.activity,10,3,1.0,Performance
+com.itaucard.activity,10,1,1.0,Token
+com.itaucard.activity,10,6,1.5,Update
+com.itaucard.activity,10,5,4.4,Usability
+com.itaucard.activity,10,1,1.0,Virtual card
+com.itaucard.activity,10,1,5.0,nan
+com.itaucard.activity,10,9,1.8,Card
+com.itaucard.activity,10,3,5.0,Customer service
+com.itaucard.activity,10,7,1.6,Generic complaint
+com.itaucard.activity,10,39,4.9,Generic compliment
+com.itaucard.activity,10,2,1.0,Invoice
+com.itaucard.activity,10,4,1.0,Login
+com.itaucard.activity,10,1,2.0,Notifications
+com.itaucard.activity,10,6,1.7,Performance
+com.itaucard.activity,10,1,1.0,Registration
+com.itaucard.activity,10,19,1.6,Update
+com.itaucard.activity,10,3,5.0,Usability
+com.itaucard.activity,10,4,1.8,Card
+com.itaucard.activity,10,1,1.0,Customer service
+com.itaucard.activity,10,8,2.1,Generic complaint
+com.itaucard.activity,10,35,4.7,Generic compliment
+com.itaucard.activity,10,9,2.0,Login
+com.itaucard.activity,10,2,1.0,Performance
+com.itaucard.activity,10,14,2.2,Update
+com.itaucard.activity,10,4,5.0,Usability
+com.itaucard.activity,10,1,1.0,Virtual card
+com.itaucard.activity,10,8,2.1,Card
+com.itaucard.activity,10,2,2.5,Customer service
+com.itaucard.activity,10,3,1.7,Generic complaint
+com.itaucard.activity,10,31,5.0,Generic compliment
+com.itaucard.activity,10,2,2.0,Invoice
+com.itaucard.activity,10,15,1.9,Login
+com.itaucard.activity,10,6,1.5,Performance
+com.itaucard.activity,10,1,3.0,Rewards program
+com.itaucard.activity,10,11,2.7,Update
+com.itaucard.activity,10,5,5.0,Usability
+com.itaucard.activity,10,1,1.0,Virtual card
+com.itaucard.activity,10,1,1.0,nan
+com.itaucard.activity,10,2,2.5,Card
+com.itaucard.activity,10,1,5.0,Customer service
+com.itaucard.activity,10,3,2.0,Generic complaint
+com.itaucard.activity,10,6,5.0,Generic compliment
+com.itaucard.activity,10,1,1.0,Investiment
+com.itaucard.activity,10,1,1.0,Invoice
+com.itaucard.activity,10,5,1.0,Login
+com.itaucard.activity,10,2,1.0,Performance
+com.itaucard.activity,10,4,1.3,Update
+com.itaucard.activity,10,6,2.3,Card
+com.itaucard.activity,10,2,3.0,Customer service
+com.itaucard.activity,10,5,3.8,Generic complaint
+com.itaucard.activity,10,26,4.8,Generic compliment
+com.itaucard.activity,10,4,1.8,Invoice
+com.itaucard.activity,10,6,1.0,Login
+com.itaucard.activity,10,2,1.5,Notifications
+com.itaucard.activity,10,7,1.3,Performance
+com.itaucard.activity,10,2,1.0,Token
+com.itaucard.activity,10,15,2.0,Update
+com.itaucard.activity,10,3,5.0,Usability
+com.itaucard.activity,10,6,2.2,Card
+com.itaucard.activity,10,16,1.8,Generic complaint
+com.itaucard.activity,10,36,4.9,Generic compliment
+com.itaucard.activity,10,7,1.9,Invoice
+com.itaucard.activity,10,11,1.5,Login
+com.itaucard.activity,10,5,2.6,Performance
+com.itaucard.activity,10,2,1.5,Token
+com.itaucard.activity,10,17,1.6,Update
+com.itaucard.activity,10,4,5.0,Usability
+com.itaucard.activity,10,2,3.0,nan
+com.itaucard.activity,10,4,2.8,Card
+com.itaucard.activity,10,4,4.0,Customer service
+com.itaucard.activity,10,2,1.0,Generic complaint
+com.itaucard.activity,10,17,4.9,Generic compliment
+com.itaucard.activity,10,1,1.0,Invoice
+com.itaucard.activity,10,3,1.0,Login
+com.itaucard.activity,10,1,3.0,Performance
+com.itaucard.activity,10,5,1.8,Update
+com.itaucard.activity,10,5,5.0,Usability
+com.itaucard.activity,10,7,3.4,Card
+com.itaucard.activity,10,5,2.6,Customer service
+com.itaucard.activity,10,7,2.9,Generic complaint
+com.itaucard.activity,10,42,4.9,Generic compliment
+com.itaucard.activity,10,2,2.5,Invoice
+com.itaucard.activity,10,10,1.2,Login
+com.itaucard.activity,10,4,1.5,Performance
+com.itaucard.activity,10,2,5.0,Token
+com.itaucard.activity,10,13,1.6,Update
+com.itaucard.activity,10,8,4.9,Usability
+com.itaucard.activity,10,5,3.0,Card
+com.itaucard.activity,10,2,1.5,Customer service
+com.itaucard.activity,10,3,2.3,Generic complaint
+com.itaucard.activity,10,29,4.9,Generic compliment
+com.itaucard.activity,10,7,1.9,Invoice
+com.itaucard.activity,10,9,1.7,Login
+com.itaucard.activity,10,3,1.0,Performance
+com.itaucard.activity,10,2,3.5,Registration
+com.itaucard.activity,10,1,1.0,Rewards program
+com.itaucard.activity,10,1,1.0,Token
+com.itaucard.activity,10,17,1.4,Update
+com.itaucard.activity,10,6,4.5,Usability
+com.itaucard.activity,10,2,2.5,Virtual card
+com.itaucard.activity,10,3,1.0,Card
+com.itaucard.activity,10,1,5.0,Customer service
+com.itaucard.activity,10,8,2.3,Generic complaint
+com.itaucard.activity,10,22,4.8,Generic compliment
+com.itaucard.activity,10,1,1.0,Invoice
+com.itaucard.activity,10,8,1.8,Login
+com.itaucard.activity,10,1,1.0,Notifications
+com.itaucard.activity,10,2,2.5,Performance
+com.itaucard.activity,10,2,1.0,Registration
+com.itaucard.activity,10,1,1.0,Rewards program
+com.itaucard.activity,10,10,2.3,Update
+com.itaucard.activity,10,3,5.0,Usability
+com.itaucard.activity,10,1,1.0,Card
+com.itaucard.activity,10,2,1.0,Generic complaint
+com.itaucard.activity,10,3,5.0,Generic compliment
+com.itaucard.activity,10,2,3.5,Invoice
+com.itaucard.activity,10,2,1.0,Login
+com.itaucard.activity,10,1,1.0,Update
+com.itaucard.activity,10,2,5.0,Usability
+com.itaucard.activity,10,1,5.0,Card
+com.itaucard.activity,10,1,5.0,Customer service
+com.itaucard.activity,10,3,4.0,Generic complaint
+com.itaucard.activity,10,23,5.0,Generic compliment
+com.itaucard.activity,10,1,1.0,Investiment
+com.itaucard.activity,10,7,1.7,Invoice
+com.itaucard.activity,10,5,1.2,Login
+com.itaucard.activity,10,3,2.0,Performance
+com.itaucard.activity,10,8,2.4,Update
+com.itaucard.activity,10,2,5.0,Usability
+com.itaucard.activity,10,1,3.0,nan
+com.itaucard.activity,10,4,3.5,Card
+com.itaucard.activity,10,3,4.7,Customer service
+com.itaucard.activity,10,5,2.0,Generic complaint
+com.itaucard.activity,10,31,4.8,Generic compliment
+com.itaucard.activity,10,3,1.7,Invoice
+com.itaucard.activity,10,9,1.9,Login
+com.itaucard.activity,10,4,1.0,Performance
+com.itaucard.activity,10,6,1.2,Update
+com.itaucard.activity,10,6,5.0,Usability
+com.itaucard.activity,10,1,1.0,nan
+com.itaucard.activity,10,5,2.6,Card
+com.itaucard.activity,10,1,5.0,Customer service
+com.itaucard.activity,10,3,1.7,Generic complaint
+com.itaucard.activity,10,22,5.0,Generic compliment
+com.itaucard.activity,10,2,1.0,Invoice
+com.itaucard.activity,10,9,1.9,Login
+com.itaucard.activity,10,1,1.0,Notifications
+com.itaucard.activity,10,1,3.0,Performance
+com.itaucard.activity,10,7,1.4,Update
+com.itaucard.activity,10,3,4.0,Usability
+com.itaucard.activity,10,4,1.8,Card
+com.itaucard.activity,10,1,1.0,Customer service
+com.itaucard.activity,10,4,3.8,Generic complaint
+com.itaucard.activity,10,23,4.8,Generic compliment
+com.itaucard.activity,10,5,1.4,Login
+com.itaucard.activity,10,2,3.0,Notifications
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,3,2.7,Update
+com.itaucard.activity,10,2,3.0,Usability
+com.itaucard.activity,10,1,5.0,nan
+com.itaucard.activity,10,1,5.0,Card
+com.itaucard.activity,10,2,1.5,Customer service
+com.itaucard.activity,10,5,2.2,Generic complaint
+com.itaucard.activity,10,30,4.8,Generic compliment
+com.itaucard.activity,10,2,3.0,Invoice
+com.itaucard.activity,10,9,3.0,Login
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,4,3.5,Update
+com.itaucard.activity,10,6,4.3,Usability
+com.itaucard.activity,10,3,4.0,Card
+com.itaucard.activity,10,5,2.8,Customer service
+com.itaucard.activity,10,5,2.6,Generic complaint
+com.itaucard.activity,10,18,4.9,Generic compliment
+com.itaucard.activity,10,1,4.0,Invoice
+com.itaucard.activity,10,2,1.0,Login
+com.itaucard.activity,10,1,1.0,Notifications
+com.itaucard.activity,10,1,2.0,Registration
+com.itaucard.activity,10,2,2.5,Rewards program
+com.itaucard.activity,10,5,4.6,Usability
+com.itaucard.activity,10,1,1.0,Card
+com.itaucard.activity,10,1,1.0,Customer service
+com.itaucard.activity,10,1,1.0,Generic complaint
+com.itaucard.activity,10,9,4.9,Generic compliment
+com.itaucard.activity,10,1,5.0,Investiment
+com.itaucard.activity,10,2,3.0,Invoice
+com.itaucard.activity,10,1,2.0,Update
+com.itaucard.activity,10,1,5.0,Usability
+com.itaucard.activity,10,4,1.0,Card
+com.itaucard.activity,10,2,5.0,Customer service
+com.itaucard.activity,10,6,2.8,Generic complaint
+com.itaucard.activity,10,28,4.6,Generic compliment
+com.itaucard.activity,10,3,1.7,Invoice
+com.itaucard.activity,10,3,2.3,Login
+com.itaucard.activity,10,1,3.0,Performance
+com.itaucard.activity,10,1,5.0,Rewards program
+com.itaucard.activity,10,2,1.0,Update
+com.itaucard.activity,10,3,3.7,Usability
+com.itaucard.activity,10,3,3.7,Card
+com.itaucard.activity,10,3,3.7,Customer service
+com.itaucard.activity,10,6,3.0,Generic complaint
+com.itaucard.activity,10,35,4.9,Generic compliment
+com.itaucard.activity,10,1,5.0,Investiment
+com.itaucard.activity,10,3,2.7,Invoice
+com.itaucard.activity,10,5,1.0,Login
+com.itaucard.activity,10,1,5.0,Token
+com.itaucard.activity,10,7,2.1,Update
+com.itaucard.activity,10,5,4.6,Usability
+com.itaucard.activity,10,2,4.5,Card
+com.itaucard.activity,10,1,5.0,Customer service
+com.itaucard.activity,10,3,2.0,Generic complaint
+com.itaucard.activity,10,25,5.0,Generic compliment
+com.itaucard.activity,10,1,1.0,Invoice
+com.itaucard.activity,10,1,1.0,Login
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,3,5.0,Usability
+com.itaucard.activity,10,1,1.0,Card
+com.itaucard.activity,10,6,2.7,Generic complaint
+com.itaucard.activity,10,30,4.9,Generic compliment
+com.itaucard.activity,10,2,4.5,Invoice
+com.itaucard.activity,10,4,3.3,Login
+com.itaucard.activity,10,2,1.0,Performance
+com.itaucard.activity,10,2,2.5,Update
+com.itaucard.activity,10,6,5.0,Usability
+com.itaucard.activity,10,4,2.3,Card
+com.itaucard.activity,10,3,5.0,Customer service
+com.itaucard.activity,10,8,1.8,Generic complaint
+com.itaucard.activity,10,29,4.9,Generic compliment
+com.itaucard.activity,10,3,1.0,Invoice
+com.itaucard.activity,10,2,1.0,Login
+com.itaucard.activity,10,8,1.9,Update
+com.itaucard.activity,10,5,5.0,Usability
+com.itaucard.activity,10,1,1.0,Virtual card
+com.itaucard.activity,10,5,1.2,Card
+com.itaucard.activity,10,1,5.0,Customer service
+com.itaucard.activity,10,6,3.3,Generic complaint
+com.itaucard.activity,10,41,4.9,Generic compliment
+com.itaucard.activity,10,3,1.3,Login
+com.itaucard.activity,10,1,5.0,Notifications
+com.itaucard.activity,10,1,3.0,Performance
+com.itaucard.activity,10,5,5.0,Usability
+com.itaucard.activity,10,1,1.0,Card
+com.itaucard.activity,10,3,5.0,Generic compliment
+com.itaucard.activity,10,2,1.5,Invoice
+com.itaucard.activity,10,1,1.0,Login
+com.itaucard.activity,10,1,2.0,Update
+com.itaucard.activity,10,4,1.3,Card
+com.itaucard.activity,10,2,5.0,Customer service
+com.itaucard.activity,10,4,1.8,Generic complaint
+com.itaucard.activity,10,15,5.0,Generic compliment
+com.itaucard.activity,10,3,2.7,Invoice
+com.itaucard.activity,10,4,1.5,Login
+com.itaucard.activity,10,1,3.0,Notifications
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,2,3.0,Update
+com.itaucard.activity,10,4,5.0,Usability
+com.itaucard.activity,10,6,1.8,Card
+com.itaucard.activity,10,2,5.0,Customer service
+com.itaucard.activity,10,3,1.7,Generic complaint
+com.itaucard.activity,10,25,4.6,Generic compliment
+com.itaucard.activity,10,2,1.0,Invoice
+com.itaucard.activity,10,3,1.0,Login
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,1,1.0,Rewards program
+com.itaucard.activity,10,4,1.5,Update
+com.itaucard.activity,10,1,5.0,Usability
+com.itaucard.activity,10,1,1.0,Card
+com.itaucard.activity,10,2,5.0,Customer service
+com.itaucard.activity,10,7,2.4,Generic complaint
+com.itaucard.activity,10,20,4.7,Generic compliment
+com.itaucard.activity,10,1,2.0,Login
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,2,5.0,Usability
+com.itaucard.activity,10,1,1.0,nan
+com.itaucard.activity,10,2,1.0,Card
+com.itaucard.activity,10,1,5.0,Generic complaint
+com.itaucard.activity,10,29,4.9,Generic compliment
+com.itaucard.activity,10,2,3.0,Invoice
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,1,2.0,Rewards program
+com.itaucard.activity,10,3,1.3,Update
+com.itaucard.activity,10,6,4.3,Usability
+com.itaucard.activity,10,1,5.0,Card
+com.itaucard.activity,10,1,5.0,Customer service
+com.itaucard.activity,10,4,3.8,Generic complaint
+com.itaucard.activity,10,14,5.0,Generic compliment
+com.itaucard.activity,10,2,2.5,Invoice
+com.itaucard.activity,10,2,1.0,Login
+com.itaucard.activity,10,1,1.0,Performance
+com.itaucard.activity,10,2,1.0,Update
+com.itaucard.activity,10,6,5.0,Usability
+com.itaucard.activity,11,4,3.5,Card
+com.itaucard.activity,11,5,2.0,Generic complaint
+com.itaucard.activity,11,22,4.9,Generic compliment
+com.itaucard.activity,11,4,1.0,Invoice
+com.itaucard.activity,11,1,1.0,Login
+com.itaucard.activity,11,2,2.0,Performance
+com.itaucard.activity,11,1,1.0,Token
+com.itaucard.activity,11,3,2.3,Update
+com.itaucard.activity,11,8,4.4,Usability
+com.itaucard.activity,11,2,1.5,Card
+com.itaucard.activity,11,1,1.0,Generic complaint
+com.itaucard.activity,11,4,5.0,Generic compliment
+com.itaucard.activity,11,1,5.0,Usability
+com.itaucard.activity,11,3,2.7,Card
+com.itaucard.activity,11,4,4.0,Customer service
+com.itaucard.activity,11,2,1.0,Generic complaint
+com.itaucard.activity,11,28,4.8,Generic compliment
+com.itaucard.activity,11,7,1.7,Login
+com.itaucard.activity,11,1,1.0,Update
+com.itaucard.activity,11,2,5.0,Usability
+com.itaucard.activity,11,2,1.5,Card
+com.itaucard.activity,11,4,4.8,Customer service
+com.itaucard.activity,11,13,2.3,Generic complaint
+com.itaucard.activity,11,38,4.9,Generic compliment
+com.itaucard.activity,11,4,2.3,Invoice
+com.itaucard.activity,11,4,1.5,Login
+com.itaucard.activity,11,1,1.0,Notifications
+com.itaucard.activity,11,3,2.7,Performance
+com.itaucard.activity,11,3,3.7,Update
+com.itaucard.activity,11,5,4.8,Usability
+com.itaucard.activity,11,2,5.0,Customer service
+com.itaucard.activity,11,6,3.2,Generic complaint
+com.itaucard.activity,11,25,4.9,Generic compliment
+com.itaucard.activity,11,2,2.0,Invoice
+com.itaucard.activity,11,2,1.5,Login
+com.itaucard.activity,11,3,2.7,Performance
+com.itaucard.activity,11,2,5.0,Usability
+com.itaucard.activity,11,1,1.0,Virtual card
+com.itaucard.activity,11,3,2.0,Card
+com.itaucard.activity,11,1,4.0,Customer service
+com.itaucard.activity,11,3,2.3,Generic complaint
+com.itaucard.activity,11,16,4.8,Generic compliment
+com.itaucard.activity,11,1,1.0,Invoice
+com.itaucard.activity,11,1,2.0,Login
+com.itaucard.activity,11,1,1.0,Token
+com.itaucard.activity,11,5,2.0,Update
+com.itaucard.activity,11,2,5.0,Usability
+com.itaucard.activity,11,2,1.0,Card
+com.itaucard.activity,11,3,4.7,Customer service
+com.itaucard.activity,11,2,3.5,Generic complaint
+com.itaucard.activity,11,27,5.0,Generic compliment
+com.itaucard.activity,11,3,2.0,Invoice
+com.itaucard.activity,11,2,1.0,Login
+com.itaucard.activity,11,3,2.3,Performance
+com.itaucard.activity,11,1,1.0,Token
+com.itaucard.activity,11,3,1.3,Update
+com.itaucard.activity,11,2,5.0,Usability
+com.itaucard.activity,11,1,4.0,Virtual card
+com.itaucard.activity,11,3,3.7,Card
+com.itaucard.activity,11,5,2.2,Generic complaint
+com.itaucard.activity,11,21,4.8,Generic compliment
+com.itaucard.activity,11,7,1.6,Invoice
+com.itaucard.activity,11,1,5.0,Login
+com.itaucard.activity,11,1,1.0,Update
+com.itaucard.activity,11,4,5.0,Usability
+com.itaucard.activity,11,1,1.0,Card
+com.itaucard.activity,11,1,5.0,Customer service
+com.itaucard.activity,11,1,1.0,Generic complaint
+com.itaucard.activity,11,5,4.2,Generic compliment
+com.itaucard.activity,11,1,5.0,Investiment
+com.itaucard.activity,11,2,1.0,Invoice
+com.itaucard.activity,11,1,1.0,Login
+com.itaucard.activity,11,1,5.0,Usability
+com.itaucard.activity,11,2,1.0,Card
+com.itaucard.activity,11,4,4.0,Customer service
+com.itaucard.activity,11,3,3.7,Generic complaint
+com.itaucard.activity,11,13,4.9,Generic compliment
+com.itaucard.activity,11,2,1.5,Invoice
+com.itaucard.activity,11,1,5.0,Token
+com.itaucard.activity,11,1,1.0,Update
+com.itaucard.activity,11,3,3.7,Usability
+com.itaucard.activity,11,3,2.0,Card
+com.itaucard.activity,11,2,5.0,Customer service
+com.itaucard.activity,11,4,3.0,Generic complaint
+com.itaucard.activity,11,34,4.8,Generic compliment
+com.itaucard.activity,11,1,5.0,Investiment
+com.itaucard.activity,11,11,2.9,Invoice
+com.itaucard.activity,11,5,3.2,Login
+com.itaucard.activity,11,1,5.0,Performance
+com.itaucard.activity,11,3,1.7,Update
+com.itaucard.activity,11,2,4.0,Usability
+com.itaucard.activity,11,5,2.4,Card
+com.itaucard.activity,11,4,3.0,Customer service
+com.itaucard.activity,11,5,3.2,Generic complaint
+com.itaucard.activity,11,25,5.0,Generic compliment
+com.itaucard.activity,11,13,2.2,Invoice
+com.itaucard.activity,11,1,1.0,Login
+com.itaucard.activity,11,1,4.0,Notifications
+com.itaucard.activity,11,6,1.5,Performance
+com.itaucard.activity,11,2,1.5,Update
+com.itaucard.activity,11,4,3.5,Usability
+com.itaucard.activity,11,4,2.0,Card
+com.itaucard.activity,11,4,4.0,Customer service
+com.itaucard.activity,11,10,2.5,Generic complaint
+com.itaucard.activity,11,26,4.6,Generic compliment
+com.itaucard.activity,11,10,1.8,Invoice
+com.itaucard.activity,11,2,3.5,Notifications
+com.itaucard.activity,11,1,1.0,Performance
+com.itaucard.activity,11,1,1.0,Registration
+com.itaucard.activity,11,1,1.0,Update
+com.itaucard.activity,11,1,5.0,Usability
+com.itaucard.activity,11,2,1.0,Card
+com.itaucard.activity,11,1,5.0,Customer service
+com.itaucard.activity,11,4,1.5,Generic complaint
+com.itaucard.activity,11,21,4.8,Generic compliment
+com.itaucard.activity,11,5,1.4,Invoice
+com.itaucard.activity,11,3,1.3,Login
+com.itaucard.activity,11,1,1.0,Performance
+com.itaucard.activity,11,2,5.0,Usability
+com.itaucard.activity,11,2,1.0,Card
+com.itaucard.activity,11,1,1.0,Customer service
+com.itaucard.activity,11,5,1.6,Generic complaint
+com.itaucard.activity,11,9,4.8,Generic compliment
+com.itaucard.activity,11,2,1.0,Invoice
+com.itaucard.activity,11,1,2.0,Login
+com.itaucard.activity,11,1,5.0,Update
+com.itaucard.activity,11,4,5.0,Usability
+com.itaucard.activity,11,1,5.0,Generic compliment

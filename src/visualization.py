@@ -23,6 +23,8 @@ app_titles = {
     "br.gov.caixa.fgts.trabalhador": "FGTS",
     "br.com.vivo": "Vivo",
     "com.mercadopago.wallet": "Mercado Pago: banco digital",
+    "com.itau":"Banco Itaú",
+    "com.whatsapp": "Whatsapp Messenger"
 }
 
 def plot_radar_chart(csv_file):
@@ -31,8 +33,8 @@ def plot_radar_chart(csv_file):
 
     # Processar os dados para o gráfico de radar
     df_grouped = df.groupby(['appId', 'subcategory']).agg(
-        avg_score=('avg(score)', 'mean'),
-        count=('count(id)', 'sum')  # Certifique-se de que 'count(id)' está no CSV
+        avg_score=('avgScore', 'mean'),
+        count=('count', 'sum')  # Certifique-se de que 'count(id)' está no CSV
     ).reset_index()
 
     # Pivotar para a visualização no radar
@@ -87,8 +89,8 @@ def plot_single_app_radar(app_id, csv_file):
 
     # Agrupar e calcular a média do rating e o volume para cada subcategoria
     df_grouped = df_app.groupby('subcategory').agg(
-        avg_score=('avg(score)', 'mean'),
-        count=('count(id)', 'sum')
+        avg_score=('avgScore', 'mean'),
+        count=('count', 'sum')
     ).reset_index()
 
     # Lista de subcategorias

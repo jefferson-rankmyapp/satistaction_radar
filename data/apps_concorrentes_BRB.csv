@@ -1,0 +1,905 @@
+appId,month,count(id),avg(score),subcategory
+br.com.brb.digitalflamengo,6,4,2.250,Atualização do App
+br.com.brb.digitalflamengo,6,7,1.000,Serviço ao Consumidor
+br.com.brb.digitalflamengo,6,1,1.000,Notificações
+br.com.brb.digitalflamengo,6,1,1.000,Cartão Virtual
+br.com.brb.digitalflamengo,6,7,1.571,Cadastros
+br.com.brb.digitalflamengo,6,19,4.789,Elogio geral
+br.com.brb.digitalflamengo,6,14,2.286,Reclamação geral
+br.com.brb.digitalflamengo,6,9,1.444,Cartão
+br.com.brb.digitalflamengo,6,3,1.000,Fatura e Boleto
+br.com.brb.digitalflamengo,6,6,1.333,Performance
+br.com.brb.digitalflamengo,6,1,5.000,Elogio geral
+br.com.brb.digitalflamengo,6,13,1.231,Acesso ao App
+br.com.brb.digitalflamengo,6,3,1.667,Investimentos
+br.com.brb.digitalflamengo,6,2,5.000,Usabilidade
+br.com.brb.digitalflamengo,7,1,2.000,Cartão Virtual
+br.com.brb.digitalflamengo,7,4,1.250,Cadastros
+br.com.brb.digitalflamengo,7,15,2.000,Cartão
+br.com.brb.digitalflamengo,7,7,1.857,Fatura e Boleto
+br.com.brb.digitalflamengo,7,1,1.000,Notificações
+br.com.brb.digitalflamengo,7,1,1.000,Investimentos
+br.com.brb.digitalflamengo,7,2,5.000,Usabilidade
+br.com.brb.digitalflamengo,7,20,1.350,Acesso ao App
+br.com.brb.digitalflamengo,7,1,1.000,Pontos e Cashback
+br.com.brb.digitalflamengo,7,1,1.000,Performance
+br.com.brb.digitalflamengo,7,10,2.900,Reclamação geral
+br.com.brb.digitalflamengo,7,33,4.970,Elogio geral
+br.com.brb.digitalflamengo,7,2,3.000,Serviço ao Consumidor
+br.com.brb.digitalflamengo,7,4,3.750,Atualização do App
+br.com.brb.digitalflamengo,8,2,4.500,Usabilidade
+br.com.brb.digitalflamengo,8,6,1.333,Performance
+br.com.brb.digitalflamengo,8,3,1.333,Cadastros
+br.com.brb.digitalflamengo,8,9,1.667,Reclamação geral
+br.com.brb.digitalflamengo,8,12,4.500,Elogio geral
+br.com.brb.digitalflamengo,8,7,1.429,Acesso ao App
+br.com.brb.digitalflamengo,8,2,1.000,Atualização do App
+br.com.brb.digitalflamengo,8,1,1.000,Investimentos
+br.com.brb.digitalflamengo,8,6,2.000,Serviço ao Consumidor
+br.com.brb.digitalflamengo,8,4,2.750,Fatura e Boleto
+br.com.brb.digitalflamengo,8,11,1.273,Cartão
+br.com.brb.digitalflamengo,9,142,4.908,Elogio geral
+br.com.brb.digitalflamengo,9,17,2.765,Cartão
+br.com.brb.digitalflamengo,9,4,3.000,Notificações
+br.com.brb.digitalflamengo,9,10,1.200,Acesso ao App
+br.com.brb.digitalflamengo,9,5,1.000,Cadastros
+br.com.brb.digitalflamengo,9,19,4.526,Usabilidade
+br.com.brb.digitalflamengo,9,1,1.000,Performance
+br.com.brb.digitalflamengo,9,2,3.000,Fatura e Boleto
+br.com.brb.digitalflamengo,9,1,2.000,Investimentos
+br.com.brb.digitalflamengo,9,1,5.000,Elogio geral
+br.com.brb.digitalflamengo,9,18,3.389,Atualização do App
+br.com.brb.digitalflamengo,9,22,3.091,Reclamação geral
+br.com.brb.digitalflamengo,9,5,3.800,Serviço ao Consumidor
+br.com.brb.digitalflamengo,9,1,3.000,Token
+br.com.brb.digitalflamengo,9,2,1.000,Pontos e Cashback
+br.com.brb.digitalflamengo,10,2,3.000,Investimentos
+br.com.brb.digitalflamengo,10,10,4.500,Usabilidade
+br.com.brb.digitalflamengo,10,2,3.000,Notificações
+br.com.brb.digitalflamengo,10,9,2.111,Atualização do App
+br.com.brb.digitalflamengo,10,13,2.846,Reclamação geral
+br.com.brb.digitalflamengo,10,16,1.875,Acesso ao App
+br.com.brb.digitalflamengo,10,4,2.000,Performance
+br.com.brb.digitalflamengo,10,10,3.000,Serviço ao Consumidor
+br.com.brb.digitalflamengo,10,18,2.722,Cartão
+br.com.brb.digitalflamengo,10,84,4.845,Elogio geral
+br.com.brb.digitalflamengo,10,3,2.333,Fatura e Boleto
+br.com.brb.digitalflamengo,11,4,2.250,Fatura e Boleto
+br.com.brb.digitalflamengo,11,8,4.375,Usabilidade
+br.com.brb.digitalflamengo,11,4,1.000,Cadastros
+br.com.brb.digitalflamengo,11,6,1.833,Atualização do App
+br.com.brb.digitalflamengo,11,46,4.761,Elogio geral
+br.com.brb.digitalflamengo,11,15,2.400,Cartão
+br.com.brb.digitalflamengo,11,6,1.000,Performance
+br.com.brb.digitalflamengo,11,9,1.444,Acesso ao App
+br.com.brb.digitalflamengo,11,10,2.600,Reclamação geral
+br.com.brb.digitalflamengo,11,4,1.000,Serviço ao Consumidor
+br.com.moringadigital.cartaobrbapp,6,5,1.200,Reclamação geral
+br.com.moringadigital.cartaobrbapp,6,11,1.000,Cartão
+br.com.moringadigital.cartaobrbapp,6,1,1.000,Notificações
+br.com.moringadigital.cartaobrbapp,6,10,5.000,Elogio geral
+br.com.moringadigital.cartaobrbapp,6,6,1.167,Acesso ao App
+br.com.moringadigital.cartaobrbapp,6,4,1.250,Cadastros
+br.com.moringadigital.cartaobrbapp,6,2,2.000,Fatura e Boleto
+br.com.moringadigital.cartaobrbapp,6,4,1.250,Performance
+br.com.moringadigital.cartaobrbapp,7,6,1.167,Performance
+br.com.moringadigital.cartaobrbapp,7,4,1.750,Acesso ao App
+br.com.moringadigital.cartaobrbapp,7,1,1.000,Cartão Virtual
+br.com.moringadigital.cartaobrbapp,7,1,1.000,Notificações
+br.com.moringadigital.cartaobrbapp,7,1,1.000,Serviço ao Consumidor
+br.com.moringadigital.cartaobrbapp,7,9,1.667,Cartão
+br.com.moringadigital.cartaobrbapp,7,1,1.000,Usabilidade
+br.com.moringadigital.cartaobrbapp,7,4,1.500,Cadastros
+br.com.moringadigital.cartaobrbapp,7,4,5.000,Elogio geral
+br.com.moringadigital.cartaobrbapp,7,4,1.500,Reclamação geral
+br.com.moringadigital.cartaobrbapp,7,1,5.000,Elogio geral
+br.com.moringadigital.cartaobrbapp,7,3,3.000,Atualização do App
+br.com.moringadigital.cartaobrbapp,7,4,1.750,Fatura e Boleto
+br.com.moringadigital.cartaobrbapp,8,1,1.000,Investimentos
+br.com.moringadigital.cartaobrbapp,8,2,3.500,Atualização do App
+br.com.moringadigital.cartaobrbapp,8,2,1.500,Fatura e Boleto
+br.com.moringadigital.cartaobrbapp,8,1,1.000,Notificações
+br.com.moringadigital.cartaobrbapp,8,1,4.000,Performance
+br.com.moringadigital.cartaobrbapp,8,2,3.000,Reclamação geral
+br.com.moringadigital.cartaobrbapp,8,1,5.000,Elogio geral
+br.com.moringadigital.cartaobrbapp,8,8,1.625,Cartão
+br.com.moringadigital.cartaobrbapp,8,7,1.000,Cadastros
+br.com.moringadigital.cartaobrbapp,9,3,1.000,Fatura e Boleto
+br.com.moringadigital.cartaobrbapp,9,1,4.000,Usabilidade
+br.com.moringadigital.cartaobrbapp,9,3,1.333,Cadastros
+br.com.moringadigital.cartaobrbapp,9,5,2.800,Performance
+br.com.moringadigital.cartaobrbapp,9,2,5.000,Notificações
+br.com.moringadigital.cartaobrbapp,9,8,1.875,Cartão
+br.com.moringadigital.cartaobrbapp,9,1,1.000,Serviço ao Consumidor
+br.com.moringadigital.cartaobrbapp,9,7,1.000,Reclamação geral
+br.com.moringadigital.cartaobrbapp,9,5,5.000,Elogio geral
+br.com.moringadigital.cartaobrbapp,9,4,1.500,Acesso ao App
+br.com.moringadigital.cartaobrbapp,10,4,1.000,Reclamação geral
+br.com.moringadigital.cartaobrbapp,10,4,1.000,Serviço ao Consumidor
+br.com.moringadigital.cartaobrbapp,10,2,2.500,Fatura e Boleto
+br.com.moringadigital.cartaobrbapp,10,12,1.333,Acesso ao App
+br.com.moringadigital.cartaobrbapp,10,4,4.500,Elogio geral
+br.com.moringadigital.cartaobrbapp,10,15,1.600,Cartão
+br.com.moringadigital.cartaobrbapp,10,7,1.000,Performance
+br.com.moringadigital.cartaobrbapp,10,1,1.000,Investimentos
+br.com.moringadigital.cartaobrbapp,10,3,1.000,Cadastros
+br.com.moringadigital.cartaobrbapp,10,1,2.000,Notificações
+br.com.moringadigital.cartaobrbapp,10,2,4.500,Usabilidade
+br.com.moringadigital.cartaobrbapp,10,4,1.250,Atualização do App
+br.com.moringadigital.cartaobrbapp,10,3,1.333,Pontos e Cashback
+br.com.moringadigital.cartaobrbapp,11,11,2.182,Cartão
+br.com.moringadigital.cartaobrbapp,11,2,1.000,Serviço ao Consumidor
+br.com.moringadigital.cartaobrbapp,11,1,1.000,Fatura e Boleto
+br.com.moringadigital.cartaobrbapp,11,6,1.667,Acesso ao App
+br.com.moringadigital.cartaobrbapp,11,2,3.000,Atualização do App
+br.com.moringadigital.cartaobrbapp,11,4,1.000,Reclamação geral
+br.com.moringadigital.cartaobrbapp,11,5,5.000,Elogio geral
+br.com.moringadigital.cartaobrbapp,11,5,1.200,Performance
+br.com.moringadigital.cartaobrbapp,11,1,4.000,Notificações
+br.com.moringadigital.cartaobrbapp,11,5,1.400,Cadastros
+br.com.uol.ps.myaccount,6,50,2.620,Performance
+br.com.uol.ps.myaccount,6,358,4.874,Usabilidade
+br.com.uol.ps.myaccount,6,204,2.181,Acesso ao App
+br.com.uol.ps.myaccount,6,3437,4.869,Elogio geral
+br.com.uol.ps.myaccount,6,4,2.000,Pontos e Cashback
+br.com.uol.ps.myaccount,6,146,2.247,Cartão
+br.com.uol.ps.myaccount,6,3,1.667,Cartão Virtual
+br.com.uol.ps.myaccount,6,434,3.433,Reclamação geral
+br.com.uol.ps.myaccount,6,55,2.600,Fatura e Boleto
+br.com.uol.ps.myaccount,6,4,2.250,Token
+br.com.uol.ps.myaccount,6,23,2.087,Notificações
+br.com.uol.ps.myaccount,6,34,2.118,Cadastros
+br.com.uol.ps.myaccount,6,122,2.131,Investimentos
+br.com.uol.ps.myaccount,6,69,2.696,Atualização do App
+br.com.uol.ps.myaccount,6,177,3.090,Serviço ao Consumidor
+br.com.uol.ps.myaccount,7,3,2.333,Cartão Virtual
+br.com.uol.ps.myaccount,7,469,3.441,Reclamação geral
+br.com.uol.ps.myaccount,7,13,2.846,Notificações
+br.com.uol.ps.myaccount,7,104,2.519,Performance
+br.com.uol.ps.myaccount,7,145,2.283,Atualização do App
+br.com.uol.ps.myaccount,7,194,2.521,Cartão
+br.com.uol.ps.myaccount,7,69,2.304,Fatura e Boleto
+br.com.uol.ps.myaccount,7,371,4.873,Usabilidade
+br.com.uol.ps.myaccount,7,27,1.519,Cadastros
+br.com.uol.ps.myaccount,7,3,2.333,Pontos e Cashback
+br.com.uol.ps.myaccount,7,124,2.153,Investimentos
+br.com.uol.ps.myaccount,7,3722,4.869,Elogio geral
+br.com.uol.ps.myaccount,7,199,2.794,Serviço ao Consumidor
+br.com.uol.ps.myaccount,7,389,2.226,Acesso ao App
+br.com.uol.ps.myaccount,7,1,1.000,Token
+br.com.uol.ps.myaccount,8,9,2.000,Pontos e Cashback
+br.com.uol.ps.myaccount,8,368,4.788,Usabilidade
+br.com.uol.ps.myaccount,8,76,2.605,Fatura e Boleto
+br.com.uol.ps.myaccount,8,465,3.099,Reclamação geral
+br.com.uol.ps.myaccount,8,211,2.986,Serviço ao Consumidor
+br.com.uol.ps.myaccount,8,34,2.118,Cadastros
+br.com.uol.ps.myaccount,8,25,2.080,Notificações
+br.com.uol.ps.myaccount,8,99,1.949,Investimentos
+br.com.uol.ps.myaccount,8,414,2.374,Acesso ao App
+br.com.uol.ps.myaccount,8,109,2.349,Performance
+br.com.uol.ps.myaccount,8,183,2.120,Cartão
+br.com.uol.ps.myaccount,8,104,2.298,Atualização do App
+br.com.uol.ps.myaccount,8,3587,4.865,Elogio geral
+br.com.uol.ps.myaccount,8,1,5.000,Token
+br.com.uol.ps.myaccount,9,2,3.500,Token
+br.com.uol.ps.myaccount,9,3180,4.880,Elogio geral
+br.com.uol.ps.myaccount,9,247,2.275,Acesso ao App
+br.com.uol.ps.myaccount,9,15,2.000,Cadastros
+br.com.uol.ps.myaccount,9,9,2.222,Pontos e Cashback
+br.com.uol.ps.myaccount,9,396,3.452,Reclamação geral
+br.com.uol.ps.myaccount,9,326,4.877,Usabilidade
+br.com.uol.ps.myaccount,9,18,5.000,Elogio geral
+br.com.uol.ps.myaccount,9,146,2.404,Cartão
+br.com.uol.ps.myaccount,9,49,1.898,Fatura e Boleto
+br.com.uol.ps.myaccount,9,111,3.090,Serviço ao Consumidor
+br.com.uol.ps.myaccount,9,55,2.291,Atualização do App
+br.com.uol.ps.myaccount,9,115,1.957,Investimentos
+br.com.uol.ps.myaccount,9,51,2.686,Notificações
+br.com.uol.ps.myaccount,9,53,2.075,Performance
+br.com.uol.ps.myaccount,10,60,2.650,Fatura e Boleto
+br.com.uol.ps.myaccount,10,88,2.341,Investimentos
+br.com.uol.ps.myaccount,10,23,2.565,Cadastros
+br.com.uol.ps.myaccount,10,11,4.909,Elogio geral
+br.com.uol.ps.myaccount,10,109,2.413,Atualização do App
+br.com.uol.ps.myaccount,10,63,2.429,Performance
+br.com.uol.ps.myaccount,10,148,2.946,Serviço ao Consumidor
+br.com.uol.ps.myaccount,10,395,4.841,Usabilidade
+br.com.uol.ps.myaccount,10,11,2.182,Pontos e Cashback
+br.com.uol.ps.myaccount,10,166,2.464,Cartão
+br.com.uol.ps.myaccount,10,17,2.353,Notificações
+br.com.uol.ps.myaccount,10,371,3.407,Reclamação geral
+br.com.uol.ps.myaccount,10,1,5.000,Cartão Virtual
+br.com.uol.ps.myaccount,10,3362,4.873,Elogio geral
+br.com.uol.ps.myaccount,10,229,2.188,Acesso ao App
+br.com.uol.ps.myaccount,11,323,3.474,Reclamação geral
+br.com.uol.ps.myaccount,11,12,1.583,Notificações
+br.com.uol.ps.myaccount,11,159,2.899,Serviço ao Consumidor
+br.com.uol.ps.myaccount,11,51,2.510,Fatura e Boleto
+br.com.uol.ps.myaccount,11,163,2.399,Acesso ao App
+br.com.uol.ps.myaccount,11,88,2.432,Atualização do App
+br.com.uol.ps.myaccount,11,5,1.400,Pontos e Cashback
+br.com.uol.ps.myaccount,11,70,2.086,Investimentos
+br.com.uol.ps.myaccount,11,44,2.114,Performance
+br.com.uol.ps.myaccount,11,6,2.667,Cartão Virtual
+br.com.uol.ps.myaccount,11,5,4.200,Token
+br.com.uol.ps.myaccount,11,20,2.350,Cadastros
+br.com.uol.ps.myaccount,11,135,2.393,Cartão
+br.com.uol.ps.myaccount,11,267,4.888,Usabilidade
+br.com.uol.ps.myaccount,11,2528,4.866,Elogio geral
+com.bradesco,6,17,1.765,Notificações
+com.bradesco,6,273,1.875,Performance
+com.bradesco,6,75,2.053,Cartão
+com.bradesco,6,89,2.247,Fatura e Boleto
+com.bradesco,6,401,1.798,Acesso ao App
+com.bradesco,6,209,4.148,Usabilidade
+com.bradesco,6,183,2.874,Serviço ao Consumidor
+com.bradesco,6,5,2.000,Token
+com.bradesco,6,1429,4.823,Elogio geral
+com.bradesco,6,4,1.500,Cartão Virtual
+com.bradesco,6,564,2.172,Reclamação geral
+com.bradesco,6,3,2.667,Pontos e Cashback
+com.bradesco,6,46,1.804,Cadastros
+com.bradesco,6,179,1.888,Atualização do App
+com.bradesco,6,31,2.258,Investimentos
+com.bradesco,7,530,1.715,Performance
+com.bradesco,7,1103,1.985,Atualização do App
+com.bradesco,7,930,2.125,Reclamação geral
+com.bradesco,7,132,2.114,Fatura e Boleto
+com.bradesco,7,16,1.875,Pontos e Cashback
+com.bradesco,7,7,1.571,Token
+com.bradesco,7,43,1.837,Investimentos
+com.bradesco,7,755,1.922,Acesso ao App
+com.bradesco,7,1,1.000,Cartão Virtual
+com.bradesco,7,56,1.768,Cadastros
+com.bradesco,7,2330,4.751,Elogio geral
+com.bradesco,7,31,2.032,Notificações
+com.bradesco,7,106,1.906,Cartão
+com.bradesco,7,314,3.955,Usabilidade
+com.bradesco,7,245,3.180,Serviço ao Consumidor
+com.bradesco,8,411,1.749,Acesso ao App
+com.bradesco,8,2,3.000,Cartão Virtual
+com.bradesco,8,242,1.868,Atualização do App
+com.bradesco,8,144,3.042,Serviço ao Consumidor
+com.bradesco,8,27,1.852,Investimentos
+com.bradesco,8,6,3.667,Token
+com.bradesco,8,44,1.545,Cadastros
+com.bradesco,8,291,1.567,Performance
+com.bradesco,8,65,1.892,Fatura e Boleto
+com.bradesco,8,77,2.117,Cartão
+com.bradesco,8,1160,4.849,Elogio geral
+com.bradesco,8,30,2.133,Notificações
+com.bradesco,8,12,1.583,Pontos e Cashback
+com.bradesco,8,552,1.973,Reclamação geral
+com.bradesco,8,174,4.052,Usabilidade
+com.bradesco,9,231,1.662,Performance
+com.bradesco,9,369,1.696,Acesso ao App
+com.bradesco,9,78,2.167,Fatura e Boleto
+com.bradesco,9,42,2.024,Notificações
+com.bradesco,9,154,2.727,Serviço ao Consumidor
+com.bradesco,9,55,1.636,Cadastros
+com.bradesco,9,502,2.090,Reclamação geral
+com.bradesco,9,3,2.333,Pontos e Cashback
+com.bradesco,9,148,2.061,Atualização do App
+com.bradesco,9,33,2.212,Investimentos
+com.bradesco,9,5,1.800,Cartão Virtual
+com.bradesco,9,2,2.000,Token
+com.bradesco,9,79,1.886,Cartão
+com.bradesco,9,1132,4.824,Elogio geral
+com.bradesco,9,144,4.042,Usabilidade
+com.bradesco,10,597,2.111,Reclamação geral
+com.bradesco,10,66,1.864,Notificações
+com.bradesco,10,274,1.825,Atualização do App
+com.bradesco,10,7,1.286,Token
+com.bradesco,10,332,1.560,Performance
+com.bradesco,10,454,1.762,Acesso ao App
+com.bradesco,10,187,2.920,Serviço ao Consumidor
+com.bradesco,10,8,1.875,Pontos e Cashback
+com.bradesco,10,1348,4.819,Elogio geral
+com.bradesco,10,8,1.875,Cartão Virtual
+com.bradesco,10,63,1.889,Investimentos
+com.bradesco,10,69,1.667,Cadastros
+com.bradesco,10,117,1.812,Fatura e Boleto
+com.bradesco,10,95,1.884,Cartão
+com.bradesco,10,185,4.092,Usabilidade
+com.bradesco,11,108,2.593,Fatura e Boleto
+com.bradesco,11,15,3.133,Token
+com.bradesco,11,41,2.000,Notificações
+com.bradesco,11,190,3.168,Serviço ao Consumidor
+com.bradesco,11,44,2.568,Investimentos
+com.bradesco,11,359,1.961,Acesso ao App
+com.bradesco,11,624,2.361,Reclamação geral
+com.bradesco,11,4,2.000,Cartão Virtual
+com.bradesco,11,285,4.533,Usabilidade
+com.bradesco,11,78,2.128,Cartão
+com.bradesco,11,245,1.955,Performance
+com.bradesco,11,5,1.600,Pontos e Cashback
+com.bradesco,11,277,2.079,Atualização do App
+com.bradesco,11,48,1.646,Cadastros
+com.bradesco,11,2059,4.808,Elogio geral
+com.c6bank.app,6,66,1.500,Performance
+com.c6bank.app,6,370,1.973,Reclamação geral
+com.c6bank.app,6,134,1.664,Atualização do App
+com.c6bank.app,6,44,1.591,Cadastros
+com.c6bank.app,6,1,5.000,Token
+com.c6bank.app,6,16,1.813,Notificações
+com.c6bank.app,6,271,1.779,Acesso ao App
+com.c6bank.app,6,18,1.778,Pontos e Cashback
+com.c6bank.app,6,469,4.797,Elogio geral
+com.c6bank.app,6,53,3.962,Usabilidade
+com.c6bank.app,6,10,1.900,Cartão Virtual
+com.c6bank.app,6,77,1.623,Fatura e Boleto
+com.c6bank.app,6,105,1.476,Investimentos
+com.c6bank.app,6,211,1.725,Serviço ao Consumidor
+com.c6bank.app,6,244,1.902,Cartão
+com.c6bank.app,7,162,2.105,Atualização do App
+com.c6bank.app,7,4,2.250,Cartão Virtual
+com.c6bank.app,7,264,2.189,Acesso ao App
+com.c6bank.app,7,187,1.770,Serviço ao Consumidor
+com.c6bank.app,7,56,1.839,Fatura e Boleto
+com.c6bank.app,7,44,1.886,Cadastros
+com.c6bank.app,7,230,2.170,Cartão
+com.c6bank.app,7,64,2.000,Performance
+com.c6bank.app,7,45,3.978,Usabilidade
+com.c6bank.app,7,380,2.403,Reclamação geral
+com.c6bank.app,7,3,4.333,Token
+com.c6bank.app,7,58,1.448,Investimentos
+com.c6bank.app,7,14,1.214,Notificações
+com.c6bank.app,7,677,4.722,Elogio geral
+com.c6bank.app,7,20,1.850,Pontos e Cashback
+com.c6bank.app,8,2,3.500,Token
+com.c6bank.app,8,345,2.345,Reclamação geral
+com.c6bank.app,8,48,2.021,Performance
+com.c6bank.app,8,10,2.100,Cartão Virtual
+com.c6bank.app,8,10,1.600,Notificações
+com.c6bank.app,8,691,4.732,Elogio geral
+com.c6bank.app,8,154,1.864,Serviço ao Consumidor
+com.c6bank.app,8,212,2.099,Acesso ao App
+com.c6bank.app,8,157,2.038,Atualização do App
+com.c6bank.app,8,1,5.000,Elogio geral
+com.c6bank.app,8,42,1.524,Cadastros
+com.c6bank.app,8,52,4.250,Usabilidade
+com.c6bank.app,8,7,1.714,Pontos e Cashback
+com.c6bank.app,8,169,2.189,Cartão
+com.c6bank.app,8,51,2.020,Investimentos
+com.c6bank.app,8,33,2.182,Fatura e Boleto
+com.c6bank.app,9,153,1.935,Cartão
+com.c6bank.app,9,139,1.978,Serviço ao Consumidor
+com.c6bank.app,9,49,1.776,Fatura e Boleto
+com.c6bank.app,9,59,1.831,Investimentos
+com.c6bank.app,9,25,1.840,Performance
+com.c6bank.app,9,13,1.231,Pontos e Cashback
+com.c6bank.app,9,11,1.091,Notificações
+com.c6bank.app,9,100,2.080,Atualização do App
+com.c6bank.app,9,3,3.333,Token
+com.c6bank.app,9,638,4.795,Elogio geral
+com.c6bank.app,9,2,1.000,Cartão Virtual
+com.c6bank.app,9,52,4.404,Usabilidade
+com.c6bank.app,9,51,1.569,Cadastros
+com.c6bank.app,9,339,2.572,Reclamação geral
+com.c6bank.app,9,220,2.118,Acesso ao App
+com.c6bank.app,10,38,4.105,Usabilidade
+com.c6bank.app,10,41,1.829,Atualização do App
+com.c6bank.app,10,172,2.041,Acesso ao App
+com.c6bank.app,10,1,1.000,Token
+com.c6bank.app,10,421,4.831,Elogio geral
+com.c6bank.app,10,5,1.600,Cartão Virtual
+com.c6bank.app,10,10,2.000,Pontos e Cashback
+com.c6bank.app,10,52,1.558,Investimentos
+com.c6bank.app,10,282,2.145,Reclamação geral
+com.c6bank.app,10,45,1.467,Fatura e Boleto
+com.c6bank.app,10,167,1.934,Cartão
+com.c6bank.app,10,36,2.306,Performance
+com.c6bank.app,10,152,1.875,Serviço ao Consumidor
+com.c6bank.app,10,13,2.154,Notificações
+com.c6bank.app,10,34,1.324,Cadastros
+com.c6bank.app,11,8,2.000,Cartão Virtual
+com.c6bank.app,11,29,1.759,Cadastros
+com.c6bank.app,11,42,2.286,Investimentos
+com.c6bank.app,11,9,2.000,Pontos e Cashback
+com.c6bank.app,11,23,4.478,Usabilidade
+com.c6bank.app,11,127,1.953,Cartão
+com.c6bank.app,11,5,2.800,Token
+com.c6bank.app,11,132,2.114,Acesso ao App
+com.c6bank.app,11,332,4.840,Elogio geral
+com.c6bank.app,11,11,2.182,Notificações
+com.c6bank.app,11,185,2.054,Reclamação geral
+com.c6bank.app,11,41,1.634,Fatura e Boleto
+com.c6bank.app,11,29,2.448,Atualização do App
+com.c6bank.app,11,99,1.919,Serviço ao Consumidor
+com.c6bank.app,11,16,2.125,Performance
+com.c6bank.app.yellow,6,1,1.000,Cadastros
+com.c6bank.app.yellow,6,1,4.000,Atualização do App
+com.c6bank.app.yellow,6,4,3.500,Reclamação geral
+com.c6bank.app.yellow,6,5,1.800,Serviço ao Consumidor
+com.c6bank.app.yellow,6,1,4.000,Notificações
+com.c6bank.app.yellow,6,9,1.556,Investimentos
+com.c6bank.app.yellow,6,4,1.500,Acesso ao App
+com.c6bank.app.yellow,6,8,4.375,Elogio geral
+com.c6bank.app.yellow,6,1,1.000,Performance
+com.c6bank.app.yellow,6,5,1.600,Cartão
+com.c6bank.app.yellow,6,2,5.000,Usabilidade
+com.c6bank.app.yellow,6,1,1.000,Pontos e Cashback
+com.c6bank.app.yellow,7,1,5.000,Elogio geral
+com.c6bank.app.yellow,7,3,2.333,Cadastros
+com.c6bank.app.yellow,7,3,2.333,Cartão
+com.c6bank.app.yellow,7,7,1.714,Acesso ao App
+com.c6bank.app.yellow,7,4,2.500,Notificações
+com.c6bank.app.yellow,7,7,2.143,Investimentos
+com.c6bank.app.yellow,7,1,1.000,Usabilidade
+com.c6bank.app.yellow,7,7,1.571,Reclamação geral
+com.c6bank.app.yellow,7,2,3.000,Performance
+com.c6bank.app.yellow,7,14,4.714,Elogio geral
+com.c6bank.app.yellow,8,1,1.000,Cadastros
+com.c6bank.app.yellow,8,1,1.000,Atualização do App
+com.c6bank.app.yellow,8,2,2.500,Cartão
+com.c6bank.app.yellow,8,3,1.000,Serviço ao Consumidor
+com.c6bank.app.yellow,8,2,3.000,Notificações
+com.c6bank.app.yellow,8,8,1.625,Acesso ao App
+com.c6bank.app.yellow,8,2,2.000,Reclamação geral
+com.c6bank.app.yellow,8,7,4.571,Elogio geral
+com.c6bank.app.yellow,8,3,4.333,Usabilidade
+com.c6bank.app.yellow,8,2,1.500,Investimentos
+com.c6bank.app.yellow,9,18,1.722,Acesso ao App
+com.c6bank.app.yellow,9,1,2.000,Token
+com.c6bank.app.yellow,9,3,1.000,Reclamação geral
+com.c6bank.app.yellow,9,2,1.500,Atualização do App
+com.c6bank.app.yellow,9,5,2.600,Serviço ao Consumidor
+com.c6bank.app.yellow,9,4,1.750,Cartão
+com.c6bank.app.yellow,9,3,3.000,Investimentos
+com.c6bank.app.yellow,9,1,3.000,Cadastros
+com.c6bank.app.yellow,9,3,4.667,Elogio geral
+com.c6bank.app.yellow,10,1,1.000,Token
+com.c6bank.app.yellow,10,8,4.500,Elogio geral
+com.c6bank.app.yellow,10,1,1.000,Cadastros
+com.c6bank.app.yellow,10,1,1.000,Cartão
+com.c6bank.app.yellow,10,7,2.571,Acesso ao App
+com.c6bank.app.yellow,10,1,3.000,Cartão Virtual
+com.c6bank.app.yellow,10,2,1.000,Serviço ao Consumidor
+com.c6bank.app.yellow,10,5,1.000,Reclamação geral
+com.c6bank.app.yellow,10,1,4.000,Notificações
+com.c6bank.app.yellow,10,1,1.000,Performance
+com.c6bank.app.yellow,10,2,1.000,Atualização do App
+com.c6bank.app.yellow,10,3,2.000,Investimentos
+com.c6bank.app.yellow,11,1,2.000,Atualização do App
+com.c6bank.app.yellow,11,3,2.333,Reclamação geral
+com.c6bank.app.yellow,11,6,1.500,Acesso ao App
+com.c6bank.app.yellow,11,1,2.000,Serviço ao Consumidor
+com.c6bank.app.yellow,11,2,5.000,Usabilidade
+com.c6bank.app.yellow,11,1,1.000,Investimentos
+com.c6bank.app.yellow,11,2,1.000,Performance
+com.c6bank.app.yellow,11,3,5.000,Elogio geral
+com.c6bank.app.yellow,11,3,2.000,Cadastros
+com.c6bank.app.yellow,11,1,1.000,Token
+com.itau,6,446,4.767,Elogio geral
+com.itau,6,47,1.638,Cadastros
+com.itau,6,26,2.077,Notificações
+com.itau,6,142,1.690,Cartão
+com.itau,6,107,1.607,Token
+com.itau,6,125,2.008,Fatura e Boleto
+com.itau,6,30,2.000,Investimentos
+com.itau,6,382,1.955,Reclamação geral
+com.itau,6,94,3.532,Usabilidade
+com.itau,6,133,2.429,Serviço ao Consumidor
+com.itau,6,435,1.775,Acesso ao App
+com.itau,6,4,2.250,Pontos e Cashback
+com.itau,6,7,1.143,Cartão Virtual
+com.itau,6,474,1.631,Atualização do App
+com.itau,6,196,1.719,Performance
+com.itau,7,33,2.152,Notificações
+com.itau,7,34,1.941,Investimentos
+com.itau,7,106,3.066,Usabilidade
+com.itau,7,133,2.481,Serviço ao Consumidor
+com.itau,7,454,1.689,Acesso ao App
+com.itau,7,430,1.774,Reclamação geral
+com.itau,7,135,1.800,Fatura e Boleto
+com.itau,7,45,1.822,Cadastros
+com.itau,7,143,1.895,Cartão
+com.itau,7,237,1.515,Performance
+com.itau,7,7,2.857,Pontos e Cashback
+com.itau,7,251,1.514,Token
+com.itau,7,404,1.661,Atualização do App
+com.itau,7,396,4.732,Elogio geral
+com.itau,7,6,1.667,Cartão Virtual
+com.itau,8,40,2.150,Cadastros
+com.itau,8,1394,4.888,Elogio geral
+com.itau,8,315,4.352,Usabilidade
+com.itau,8,51,2.569,Notificações
+com.itau,8,77,1.610,Token
+com.itau,8,37,2.486,Investimentos
+com.itau,8,198,2.990,Serviço ao Consumidor
+com.itau,8,162,1.778,Cartão
+com.itau,8,452,1.743,Acesso ao App
+com.itau,8,217,1.811,Atualização do App
+com.itau,8,7,1.714,Cartão Virtual
+com.itau,8,13,1.923,Pontos e Cashback
+com.itau,8,87,1.828,Fatura e Boleto
+com.itau,8,210,1.762,Performance
+com.itau,8,527,2.231,Reclamação geral
+com.itau,9,16,2.188,Cartão Virtual
+com.itau,9,58,1.810,Token
+com.itau,9,43,2.535,Investimentos
+com.itau,9,2082,4.844,Elogio geral
+com.itau,9,35,2.057,Notificações
+com.itau,9,352,4.284,Usabilidade
+com.itau,9,325,1.742,Performance
+com.itau,9,338,1.929,Atualização do App
+com.itau,9,15,2.133,Pontos e Cashback
+com.itau,9,55,1.564,Cadastros
+com.itau,9,188,1.761,Cartão
+com.itau,9,542,1.782,Acesso ao App
+com.itau,9,150,1.880,Fatura e Boleto
+com.itau,9,242,3.500,Serviço ao Consumidor
+com.itau,9,722,2.209,Reclamação geral
+com.itau,10,9,1.222,Cartão Virtual
+com.itau,10,490,1.980,Acesso ao App
+com.itau,10,29,2.069,Notificações
+com.itau,10,12,2.083,Pontos e Cashback
+com.itau,10,287,2.087,Cartão
+com.itau,10,277,1.866,Performance
+com.itau,10,48,2.479,Investimentos
+com.itau,10,222,3.167,Serviço ao Consumidor
+com.itau,10,54,1.796,Cadastros
+com.itau,10,684,2.346,Reclamação geral
+com.itau,10,2244,4.831,Elogio geral
+com.itau,10,455,4.200,Usabilidade
+com.itau,10,198,1.924,Atualização do App
+com.itau,10,43,2.209,Token
+com.itau,10,198,1.838,Fatura e Boleto
+com.itau,11,764,1.982,Reclamação geral
+com.itau,11,233,1.906,Atualização do App
+com.itau,11,174,2.782,Serviço ao Consumidor
+com.itau,11,1681,4.809,Elogio geral
+com.itau,11,33,2.333,Investimentos
+com.itau,11,24,1.750,Cadastros
+com.itau,11,306,1.683,Cartão
+com.itau,11,287,1.843,Performance
+com.itau,11,33,2.424,Notificações
+com.itau,11,34,1.265,Token
+com.itau,11,10,1.800,Pontos e Cashback
+com.itau,11,9,2.111,Cartão Virtual
+com.itau,11,438,1.858,Acesso ao App
+com.itau,11,284,3.863,Usabilidade
+com.itau,11,427,1.670,Fatura e Boleto
+com.nu.production,6,28,3.000,Pontos e Cashback
+com.nu.production,6,14,3.786,Token
+com.nu.production,6,1451,2.097,Acesso ao App
+com.nu.production,6,565,3.832,Serviço ao Consumidor
+com.nu.production,6,507,2.142,Performance
+com.nu.production,6,20,3.150,Cartão Virtual
+com.nu.production,6,735,2.765,Cartão
+com.nu.production,6,313,2.473,Investimentos
+com.nu.production,6,1944,3.049,Reclamação geral
+com.nu.production,6,379,2.602,Fatura e Boleto
+com.nu.production,6,1422,4.762,Usabilidade
+com.nu.production,6,386,2.404,Atualização do App
+com.nu.production,6,45,2.400,Notificações
+com.nu.production,6,9406,4.890,Elogio geral
+com.nu.production,6,135,1.896,Cadastros
+com.nu.production,7,898,2.820,Cartão
+com.nu.production,7,1446,2.066,Acesso ao App
+com.nu.production,7,1299,4.746,Usabilidade
+com.nu.production,7,38,2.921,Notificações
+com.nu.production,7,644,3.790,Serviço ao Consumidor
+com.nu.production,7,426,2.690,Fatura e Boleto
+com.nu.production,7,31,3.000,Pontos e Cashback
+com.nu.production,7,359,2.540,Atualização do App
+com.nu.production,7,11,4.273,Token
+com.nu.production,7,283,2.633,Investimentos
+com.nu.production,7,2255,3.294,Reclamação geral
+com.nu.production,7,153,2.033,Cadastros
+com.nu.production,7,15,3.267,Cartão Virtual
+com.nu.production,7,12811,4.896,Elogio geral
+com.nu.production,7,444,2.187,Performance
+com.nu.production,8,1751,3.414,Reclamação geral
+com.nu.production,8,950,4.761,Usabilidade
+com.nu.production,8,751,2.854,Cartão
+com.nu.production,8,209,2.694,Investimentos
+com.nu.production,8,184,2.326,Atualização do App
+com.nu.production,8,48,2.458,Notificações
+com.nu.production,8,560,3.927,Serviço ao Consumidor
+com.nu.production,8,343,2.583,Fatura e Boleto
+com.nu.production,8,18,2.167,Pontos e Cashback
+com.nu.production,8,775,2.337,Acesso ao App
+com.nu.production,8,10199,4.894,Elogio geral
+com.nu.production,8,251,2.446,Performance
+com.nu.production,8,7,4.571,Token
+com.nu.production,8,15,3.000,Cartão Virtual
+com.nu.production,8,120,1.767,Cadastros
+com.nu.production,9,138,2.116,Cadastros
+com.nu.production,9,1561,2.119,Acesso ao App
+com.nu.production,9,439,3.804,Serviço ao Consumidor
+com.nu.production,9,218,2.606,Investimentos
+com.nu.production,9,1630,3.100,Reclamação geral
+com.nu.production,9,355,1.992,Performance
+com.nu.production,9,324,2.583,Fatura e Boleto
+com.nu.production,9,27,2.407,Pontos e Cashback
+com.nu.production,9,18,3.667,Cartão Virtual
+com.nu.production,9,386,2.135,Atualização do App
+com.nu.production,9,621,2.757,Cartão
+com.nu.production,9,32,2.938,Notificações
+com.nu.production,9,7717,4.895,Elogio geral
+com.nu.production,9,753,4.712,Usabilidade
+com.nu.production,9,11,3.818,Token
+com.nu.production,10,34,2.647,Notificações
+com.nu.production,10,1520,3.195,Reclamação geral
+com.nu.production,10,7,2.714,Token
+com.nu.production,10,327,2.018,Performance
+com.nu.production,10,580,2.705,Cartão
+com.nu.production,10,428,3.666,Serviço ao Consumidor
+com.nu.production,10,204,2.314,Investimentos
+com.nu.production,10,17,3.882,Cartão Virtual
+com.nu.production,10,763,4.717,Usabilidade
+com.nu.production,10,1140,2.082,Acesso ao App
+com.nu.production,10,132,1.811,Cadastros
+com.nu.production,10,315,2.435,Fatura e Boleto
+com.nu.production,10,7730,4.881,Elogio geral
+com.nu.production,10,28,3.107,Pontos e Cashback
+com.nu.production,10,329,2.328,Atualização do App
+com.nu.production,11,471,2.376,Acesso ao App
+com.nu.production,11,137,2.380,Atualização do App
+com.nu.production,11,17,3.529,Pontos e Cashback
+com.nu.production,11,28,2.643,Notificações
+com.nu.production,11,9,4.333,Token
+com.nu.production,11,89,1.843,Cadastros
+com.nu.production,11,408,3.993,Serviço ao Consumidor
+com.nu.production,11,15,3.133,Cartão Virtual
+com.nu.production,11,248,2.794,Fatura e Boleto
+com.nu.production,11,728,4.809,Usabilidade
+com.nu.production,11,225,2.329,Performance
+com.nu.production,11,1369,3.432,Reclamação geral
+com.nu.production,11,553,2.734,Cartão
+com.nu.production,11,7674,4.894,Elogio geral
+com.nu.production,11,155,2.697,Investimentos
+com.picpay,6,9,2.222,Cartão Virtual
+com.picpay,6,355,2.099,Acesso ao App
+com.picpay,6,248,2.790,Cadastros
+com.picpay,6,4,4.000,Token
+com.picpay,6,125,2.608,Investimentos
+com.picpay,6,829,3.187,Reclamação geral
+com.picpay,6,539,4.683,Usabilidade
+com.picpay,6,155,2.194,Atualização do App
+com.picpay,6,31,3.065,Notificações
+com.picpay,6,217,3.636,Serviço ao Consumidor
+com.picpay,6,365,2.751,Cartão
+com.picpay,6,183,1.907,Performance
+com.picpay,6,4784,4.875,Elogio geral
+com.picpay,6,34,2.235,Pontos e Cashback
+com.picpay,6,160,2.275,Fatura e Boleto
+com.picpay,7,1076,3.365,Reclamação geral
+com.picpay,7,182,2.489,Fatura e Boleto
+com.picpay,7,147,2.605,Atualização do App
+com.picpay,7,414,2.213,Acesso ao App
+com.picpay,7,11,2.636,Cartão Virtual
+com.picpay,7,309,3.003,Cadastros
+com.picpay,7,37,2.189,Pontos e Cashback
+com.picpay,7,7019,4.877,Elogio geral
+com.picpay,7,134,2.866,Investimentos
+com.picpay,7,777,4.801,Usabilidade
+com.picpay,7,445,2.760,Cartão
+com.picpay,7,181,2.199,Performance
+com.picpay,7,43,2.558,Notificações
+com.picpay,7,2,4.500,Token
+com.picpay,7,321,3.654,Serviço ao Consumidor
+com.picpay,8,200,2.315,Serviço ao Consumidor
+com.picpay,8,126,2.325,Fatura e Boleto
+com.picpay,8,424,2.026,Acesso ao App
+com.picpay,8,106,2.057,Atualização do App
+com.picpay,8,2024,4.852,Elogio geral
+com.picpay,8,4,2.750,Token
+com.picpay,8,207,4.585,Usabilidade
+com.picpay,8,95,2.211,Investimentos
+com.picpay,8,133,1.910,Performance
+com.picpay,8,264,2.117,Cartão
+com.picpay,8,192,2.568,Cadastros
+com.picpay,8,6,1.500,Cartão Virtual
+com.picpay,8,24,2.292,Notificações
+com.picpay,8,537,2.959,Reclamação geral
+com.picpay,8,11,3.091,Pontos e Cashback
+com.picpay,9,436,2.798,Reclamação geral
+com.picpay,9,135,2.496,Serviço ao Consumidor
+com.picpay,9,89,1.966,Investimentos
+com.picpay,9,297,1.869,Acesso ao App
+com.picpay,9,161,2.037,Cadastros
+com.picpay,9,8,3.000,Token
+com.picpay,9,10,2.800,Notificações
+com.picpay,9,1534,4.817,Elogio geral
+com.picpay,9,117,1.880,Fatura e Boleto
+com.picpay,9,10,1.400,Pontos e Cashback
+com.picpay,9,119,2.286,Performance
+com.picpay,9,12,1.667,Cartão Virtual
+com.picpay,9,287,2.136,Cartão
+com.picpay,9,85,2.188,Atualização do App
+com.picpay,9,137,4.591,Usabilidade
+com.picpay,10,237,3.122,Serviço ao Consumidor
+com.picpay,10,3969,4.892,Elogio geral
+com.picpay,10,316,2.168,Acesso ao App
+com.picpay,10,743,3.307,Reclamação geral
+com.picpay,10,172,2.407,Fatura e Boleto
+com.picpay,10,5,1.600,Cartão Virtual
+com.picpay,10,7,4.714,Token
+com.picpay,10,19,2.684,Pontos e Cashback
+com.picpay,10,111,2.198,Performance
+com.picpay,10,210,2.610,Cadastros
+com.picpay,10,417,2.451,Cartão
+com.picpay,10,424,4.809,Usabilidade
+com.picpay,10,102,2.559,Atualização do App
+com.picpay,10,103,2.330,Investimentos
+com.picpay,10,21,2.571,Notificações
+com.picpay,11,67,2.403,Atualização do App
+com.picpay,11,153,2.869,Fatura e Boleto
+com.picpay,11,5,2.600,Token
+com.picpay,11,573,3.529,Reclamação geral
+com.picpay,11,9,2.556,Cartão Virtual
+com.picpay,11,11,3.182,Pontos e Cashback
+com.picpay,11,104,2.529,Investimentos
+com.picpay,11,16,2.313,Notificações
+com.picpay,11,4473,4.899,Elogio geral
+com.picpay,11,105,2.171,Performance
+com.picpay,11,234,2.252,Acesso ao App
+com.picpay,11,186,3.011,Cadastros
+com.picpay,11,440,2.639,Cartão
+com.picpay,11,586,4.862,Usabilidade
+com.picpay,11,243,3.551,Serviço ao Consumidor
+com.santander.app,6,2158,4.872,Elogio geral
+com.santander.app,6,17,4.824,Elogio geral
+com.santander.app,6,1,2.000,Pontos e Cashback
+com.santander.app,6,31,2.161,Notificações
+com.santander.app,6,577,2.381,Reclamação geral
+com.santander.app,6,320,3.288,Serviço ao Consumidor
+com.santander.app,6,38,1.737,Investimentos
+com.santander.app,6,189,1.587,Performance
+com.santander.app,6,122,1.959,Atualização do App
+com.santander.app,6,296,4.517,Usabilidade
+com.santander.app,6,60,1.767,Cadastros
+com.santander.app,6,134,2.015,Cartão
+com.santander.app,6,413,1.692,Acesso ao App
+com.santander.app,6,73,1.836,Fatura e Boleto
+com.santander.app,6,7,2.571,Token
+com.santander.app,6,6,2.833,Cartão Virtual
+com.santander.app,7,51,1.765,Cadastros
+com.santander.app,7,69,2.130,Fatura e Boleto
+com.santander.app,7,4,2.000,Cartão Virtual
+com.santander.app,7,358,3.162,Serviço ao Consumidor
+com.santander.app,7,260,4.535,Usabilidade
+com.santander.app,7,153,2.105,Atualização do App
+com.santander.app,7,9,2.778,Pontos e Cashback
+com.santander.app,7,634,1.866,Acesso ao App
+com.santander.app,7,708,2.219,Reclamação geral
+com.santander.app,7,8,2.500,Token
+com.santander.app,7,49,2.306,Notificações
+com.santander.app,7,30,2.667,Investimentos
+com.santander.app,7,150,2.180,Cartão
+com.santander.app,7,247,1.773,Performance
+com.santander.app,7,2247,4.886,Elogio geral
+com.santander.app,8,2138,4.886,Elogio geral
+com.santander.app,8,225,4.493,Usabilidade
+com.santander.app,8,71,2.268,Fatura e Boleto
+com.santander.app,8,127,2.071,Cartão
+com.santander.app,8,284,1.884,Acesso ao App
+com.santander.app,8,11,2.091,Token
+com.santander.app,8,51,1.373,Cadastros
+com.santander.app,8,4,3.250,Cartão Virtual
+com.santander.app,8,50,2.300,Notificações
+com.santander.app,8,3,2.333,Pontos e Cashback
+com.santander.app,8,277,3.708,Serviço ao Consumidor
+com.santander.app,8,107,1.935,Atualização do App
+com.santander.app,8,132,1.773,Performance
+com.santander.app,8,30,2.533,Investimentos
+com.santander.app,8,498,2.424,Reclamação geral
+com.santander.app,9,256,3.473,Serviço ao Consumidor
+com.santander.app,9,51,2.059,Cadastros
+com.santander.app,9,182,2.176,Notificações
+com.santander.app,9,76,2.263,Fatura e Boleto
+com.santander.app,9,522,2.544,Reclamação geral
+com.santander.app,9,1,2.000,Cartão Virtual
+com.santander.app,9,202,4.614,Usabilidade
+com.santander.app,9,113,2.186,Cartão
+com.santander.app,9,31,2.742,Investimentos
+com.santander.app,9,175,1.811,Performance
+com.santander.app,9,190,1.895,Atualização do App
+com.santander.app,9,5,2.400,Token
+com.santander.app,9,377,1.950,Acesso ao App
+com.santander.app,9,3,2.333,Pontos e Cashback
+com.santander.app,9,2142,4.865,Elogio geral
+com.santander.app,10,40,2.050,Investimentos
+com.santander.app,10,315,1.835,Acesso ao App
+com.santander.app,10,2,1.500,Cartão Virtual
+com.santander.app,10,519,2.484,Reclamação geral
+com.santander.app,10,2209,4.874,Elogio geral
+com.santander.app,10,42,2.048,Notificações
+com.santander.app,10,7,1.714,Pontos e Cashback
+com.santander.app,10,93,2.022,Atualização do App
+com.santander.app,10,34,1.882,Cadastros
+com.santander.app,10,146,2.034,Cartão
+com.santander.app,10,86,1.872,Fatura e Boleto
+com.santander.app,10,198,1.788,Performance
+com.santander.app,10,237,3.342,Serviço ao Consumidor
+com.santander.app,10,258,4.682,Usabilidade
+com.santander.app,10,6,2.167,Token
+com.santander.app,11,58,2.034,Fatura e Boleto
+com.santander.app,11,5,2.000,Pontos e Cashback
+com.santander.app,11,4,2.000,Token
+com.santander.app,11,219,1.840,Acesso ao App
+com.santander.app,11,2,1.000,Cartão Virtual
+com.santander.app,11,74,2.122,Atualização do App
+com.santander.app,11,187,3.487,Serviço ao Consumidor
+com.santander.app,11,86,1.849,Performance
+com.santander.app,11,87,2.034,Cartão
+com.santander.app,11,1768,4.883,Elogio geral
+com.santander.app,11,317,2.694,Reclamação geral
+com.santander.app,11,33,1.455,Cadastros
+com.santander.app,11,46,2.043,Notificações
+com.santander.app,11,184,4.636,Usabilidade
+com.santander.app,11,22,2.591,Investimentos
+la.foton.brb.myphone,6,6,4.333,Serviço ao Consumidor
+la.foton.brb.myphone,6,5,1.200,Cadastros
+la.foton.brb.myphone,6,1,5.000,Elogio geral
+la.foton.brb.myphone,6,3,1.333,Fatura e Boleto
+la.foton.brb.myphone,6,3,1.333,Atualização do App
+la.foton.brb.myphone,6,17,1.941,Acesso ao App
+la.foton.brb.myphone,6,15,4.733,Usabilidade
+la.foton.brb.myphone,6,68,4.868,Elogio geral
+la.foton.brb.myphone,6,6,1.667,Performance
+la.foton.brb.myphone,6,4,2.250,Cartão
+la.foton.brb.myphone,6,1,5.000,Investimentos
+la.foton.brb.myphone,6,10,3.200,Reclamação geral
+la.foton.brb.myphone,7,3,1.667,Investimentos
+la.foton.brb.myphone,7,6,3.000,Cartão
+la.foton.brb.myphone,7,57,4.912,Elogio geral
+la.foton.brb.myphone,7,5,2.000,Acesso ao App
+la.foton.brb.myphone,7,8,2.000,Performance
+la.foton.brb.myphone,7,2,3.000,Fatura e Boleto
+la.foton.brb.myphone,7,8,4.375,Usabilidade
+la.foton.brb.myphone,7,1,1.000,Notificações
+la.foton.brb.myphone,7,8,1.375,Serviço ao Consumidor
+la.foton.brb.myphone,7,7,2.143,Reclamação geral
+la.foton.brb.myphone,7,3,2.333,Atualização do App
+la.foton.brb.myphone,8,3,2.333,Atualização do App
+la.foton.brb.myphone,8,5,3.000,Acesso ao App
+la.foton.brb.myphone,8,2,1.000,Cadastros
+la.foton.brb.myphone,8,30,4.800,Elogio geral
+la.foton.brb.myphone,8,5,1.200,Performance
+la.foton.brb.myphone,8,14,2.714,Reclamação geral
+la.foton.brb.myphone,8,2,1.500,Notificações
+la.foton.brb.myphone,8,6,3.000,Serviço ao Consumidor
+la.foton.brb.myphone,8,11,4.636,Usabilidade
+la.foton.brb.myphone,8,1,5.000,Investimentos
+la.foton.brb.myphone,8,1,5.000,Fatura e Boleto
+la.foton.brb.myphone,8,6,1.833,Cartão
+la.foton.brb.myphone,9,5,3.400,Cadastros
+la.foton.brb.myphone,9,7,2.286,Acesso ao App
+la.foton.brb.myphone,9,1,3.000,Pontos e Cashback
+la.foton.brb.myphone,9,5,1.800,Cartão
+la.foton.brb.myphone,9,66,4.924,Elogio geral
+la.foton.brb.myphone,9,5,2.000,Performance
+la.foton.brb.myphone,9,2,5.000,Elogio geral
+la.foton.brb.myphone,9,10,3.300,Reclamação geral
+la.foton.brb.myphone,9,8,2.875,Atualização do App
+la.foton.brb.myphone,9,5,3.000,Notificações
+la.foton.brb.myphone,9,23,5.000,Usabilidade
+la.foton.brb.myphone,9,2,3.000,Investimentos
+la.foton.brb.myphone,9,5,4.200,Serviço ao Consumidor
+la.foton.brb.myphone,9,5,2.600,Fatura e Boleto
+la.foton.brb.myphone,10,5,2.600,Cartão
+la.foton.brb.myphone,10,4,2.500,Fatura e Boleto
+la.foton.brb.myphone,10,9,2.778,Performance
+la.foton.brb.myphone,10,13,2.923,Reclamação geral
+la.foton.brb.myphone,10,8,2.750,Acesso ao App
+la.foton.brb.myphone,10,1,1.000,Cadastros
+la.foton.brb.myphone,10,1,1.000,Investimentos
+la.foton.brb.myphone,10,60,4.833,Elogio geral
+la.foton.brb.myphone,10,1,5.000,Elogio geral
+la.foton.brb.myphone,10,2,1.500,Atualização do App
+la.foton.brb.myphone,10,14,4.571,Usabilidade
+la.foton.brb.myphone,10,2,3.000,Serviço ao Consumidor
+la.foton.brb.myphone,11,1,1.000,Cartão Virtual
+la.foton.brb.myphone,11,34,4.853,Elogio geral
+la.foton.brb.myphone,11,4,5.000,Serviço ao Consumidor
+la.foton.brb.myphone,11,4,1.000,Cartão
+la.foton.brb.myphone,11,2,1.000,Fatura e Boleto
+la.foton.brb.myphone,11,13,2.462,Acesso ao App
+la.foton.brb.myphone,11,2,3.000,Investimentos
+la.foton.brb.myphone,11,3,3.000,Atualização do App
+la.foton.brb.myphone,11,6,1.667,Performance
+la.foton.brb.myphone,11,5,3.400,Usabilidade
+la.foton.brb.myphone,11,11,2.909,Reclamação geral
