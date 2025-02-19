@@ -1,1703 +1,1703 @@
 appId,month,subcategory,count,avgScore
-br.com.gabba.Caixa,1,Invoice,392,3.2831632653061225
+br.com.gabba.Caixa,1,Fatura,392,3.2831632653061225
 br.com.gabba.Caixa,1,,1331,4.154019534184823
-br.com.gabba.Caixa,1,Registration,208,2.2451923076923075
-br.com.gabba.Caixa,1,Usability,5076,4.866430260047282
-br.com.gabba.Caixa,1,Card,191,2.7853403141361257
-br.com.gabba.Caixa,1,Login,1762,2.5085130533484676
-br.com.gabba.Caixa,1,Generic complaint,2250,3.6404444444444444
-br.com.gabba.Caixa,1,Generic compliment,19622,4.871215982060952
-br.com.gabba.Caixa,1,Virtual card,8,3.25
-br.com.gabba.Caixa,1,Investiment,153,3.3594771241830066
+br.com.gabba.Caixa,1,Cadastro/Registro,208,2.2451923076923075
+br.com.gabba.Caixa,1,Usabilidade,5076,4.866430260047282
+br.com.gabba.Caixa,1,Cartão,191,2.7853403141361257
+br.com.gabba.Caixa,1,Acesso/Login,1762,2.5085130533484676
+br.com.gabba.Caixa,1,Reclamação genérica,2250,3.6404444444444444
+br.com.gabba.Caixa,1,Elogio genérico,19622,4.871215982060952
+br.com.gabba.Caixa,1,Cartão virtual,8,3.25
+br.com.gabba.Caixa,1,Investimento,153,3.3594771241830066
 br.com.gabba.Caixa,1,,129,4.666666666666667
-br.com.gabba.Caixa,1,Customer service,1111,4.142214221422142
-br.com.gabba.Caixa,1,Performance,887,2.6234498308906424
+br.com.gabba.Caixa,1,Atendimento ao cliente,1111,4.142214221422142
+br.com.gabba.Caixa,1,Desempenho,887,2.6234498308906424
 br.com.gabba.Caixa,1,Token,433,4.006928406466512
-br.com.gabba.Caixa,1,Notifications,60,3.6666666666666665
-br.com.gabba.Caixa,1,Update,598,2.911371237458194
-br.com.gabba.Caixa,1,Rewards program,19,4
-br.com.gabba.Caixa,2,Generic compliment,16242,4.878278537125969
-br.com.gabba.Caixa,2,Virtual card,7,4.142857142857143
-br.com.gabba.Caixa,2,Investiment,75,3.933333333333333
-br.com.gabba.Caixa,2,Performance,356,3.2275280898876404
+br.com.gabba.Caixa,1,Notificações,60,3.6666666666666665
+br.com.gabba.Caixa,1,Atualização,598,2.911371237458194
+br.com.gabba.Caixa,1,Programa de recompensas,19,4
+br.com.gabba.Caixa,2,Elogio genérico,16242,4.878278537125969
+br.com.gabba.Caixa,2,Cartão virtual,7,4.142857142857143
+br.com.gabba.Caixa,2,Investimento,75,3.933333333333333
+br.com.gabba.Caixa,2,Desempenho,356,3.2275280898876404
 br.com.gabba.Caixa,2,Token,268,4.298507462686567
-br.com.gabba.Caixa,2,Login,717,2.9637377963737794
-br.com.gabba.Caixa,2,Rewards program,13,4.538461538461538
+br.com.gabba.Caixa,2,Acesso/Login,717,2.9637377963737794
+br.com.gabba.Caixa,2,Programa de recompensas,13,4.538461538461538
 br.com.gabba.Caixa,2,,690,4.205797101449275
-br.com.gabba.Caixa,2,Customer service,790,4.520253164556962
-br.com.gabba.Caixa,2,Usability,4317,4.87630298818624
-br.com.gabba.Caixa,2,Generic complaint,1358,4.156848306332843
-br.com.gabba.Caixa,2,Card,112,3.5267857142857144
-br.com.gabba.Caixa,2,Invoice,257,3.859922178988327
-br.com.gabba.Caixa,2,Registration,79,3.367088607594937
-br.com.gabba.Caixa,2,Update,273,3.4432234432234434
-br.com.gabba.Caixa,2,Notifications,36,3.5
+br.com.gabba.Caixa,2,Atendimento ao cliente,790,4.520253164556962
+br.com.gabba.Caixa,2,Usabilidade,4317,4.87630298818624
+br.com.gabba.Caixa,2,Reclamação genérica,1358,4.156848306332843
+br.com.gabba.Caixa,2,Cartão,112,3.5267857142857144
+br.com.gabba.Caixa,2,Fatura,257,3.859922178988327
+br.com.gabba.Caixa,2,Cadastro/Registro,79,3.367088607594937
+br.com.gabba.Caixa,2,Atualização,273,3.4432234432234434
+br.com.gabba.Caixa,2,Notificações,36,3.5
 br.com.gabba.Caixa,2,,131,4.885496183206107
 br.com.gabba.Caixa,3,,104,4.75
-br.com.gabba.Caixa,3,Performance,228,3.3157894736842106
-br.com.gabba.Caixa,3,Generic compliment,9556,4.8759941398074504
-br.com.gabba.Caixa,3,Investiment,54,3.8518518518518516
-br.com.gabba.Caixa,3,Card,61,3.098360655737705
-br.com.gabba.Caixa,3,Usability,2508,4.876794258373206
-br.com.gabba.Caixa,3,Rewards program,8,3.375
-br.com.gabba.Caixa,3,Customer service,454,4.3215859030837
-br.com.gabba.Caixa,3,Login,498,3.0461847389558234
+br.com.gabba.Caixa,3,Desempenho,228,3.3157894736842106
+br.com.gabba.Caixa,3,Elogio genérico,9556,4.8759941398074504
+br.com.gabba.Caixa,3,Investimento,54,3.8518518518518516
+br.com.gabba.Caixa,3,Cartão,61,3.098360655737705
+br.com.gabba.Caixa,3,Usabilidade,2508,4.876794258373206
+br.com.gabba.Caixa,3,Programa de recompensas,8,3.375
+br.com.gabba.Caixa,3,Atendimento ao cliente,454,4.3215859030837
+br.com.gabba.Caixa,3,Acesso/Login,498,3.0461847389558234
 br.com.gabba.Caixa,3,,416,4.199519230769231
 br.com.gabba.Caixa,3,Token,154,4.025974025974026
-br.com.gabba.Caixa,3,Generic complaint,764,4.134816753926701
-br.com.gabba.Caixa,3,Virtual card,4,2.75
-br.com.gabba.Caixa,3,Invoice,135,3.9555555555555557
-br.com.gabba.Caixa,3,Registration,54,2.9444444444444446
-br.com.gabba.Caixa,3,Update,174,3.1206896551724137
-br.com.gabba.Caixa,3,Notifications,29,3.2758620689655173
-br.com.gabba.Caixa,4,Generic complaint,739,4.100135317997293
+br.com.gabba.Caixa,3,Reclamação genérica,764,4.134816753926701
+br.com.gabba.Caixa,3,Cartão virtual,4,2.75
+br.com.gabba.Caixa,3,Fatura,135,3.9555555555555557
+br.com.gabba.Caixa,3,Cadastro/Registro,54,2.9444444444444446
+br.com.gabba.Caixa,3,Atualização,174,3.1206896551724137
+br.com.gabba.Caixa,3,Notificações,29,3.2758620689655173
+br.com.gabba.Caixa,4,Reclamação genérica,739,4.100135317997293
 br.com.gabba.Caixa,4,,398,4.349246231155779
-br.com.gabba.Caixa,4,Registration,37,3
-br.com.gabba.Caixa,4,Performance,226,3.331858407079646
-br.com.gabba.Caixa,4,Update,133,3.481203007518797
-br.com.gabba.Caixa,4,Virtual card,5,3
-br.com.gabba.Caixa,4,Card,76,3.526315789473684
+br.com.gabba.Caixa,4,Cadastro/Registro,37,3
+br.com.gabba.Caixa,4,Desempenho,226,3.331858407079646
+br.com.gabba.Caixa,4,Atualização,133,3.481203007518797
+br.com.gabba.Caixa,4,Cartão virtual,5,3
+br.com.gabba.Caixa,4,Cartão,76,3.526315789473684
 br.com.gabba.Caixa,4,,93,4.838709677419355
 br.com.gabba.Caixa,4,Token,173,4.011560693641618
-br.com.gabba.Caixa,4,Usability,2596,4.8844375963020035
-br.com.gabba.Caixa,4,Notifications,15,3.8
-br.com.gabba.Caixa,4,Login,399,2.9974937343358397
-br.com.gabba.Caixa,4,Generic compliment,8728,4.881416131989001
-br.com.gabba.Caixa,4,Investiment,50,3.58
-br.com.gabba.Caixa,4,Customer service,436,4.545871559633028
-br.com.gabba.Caixa,4,Invoice,130,4.230769230769231
-br.com.gabba.Caixa,4,Rewards program,8,3.625
-br.com.gabba.Caixa,5,Rewards program,8,4.5
-br.com.gabba.Caixa,5,Generic compliment,8701,4.886449833352488
-br.com.gabba.Caixa,5,Performance,189,3.3492063492063493
-br.com.gabba.Caixa,5,Update,148,3.4054054054054053
-br.com.gabba.Caixa,5,Virtual card,1,1
-br.com.gabba.Caixa,5,Notifications,20,3.7
+br.com.gabba.Caixa,4,Usabilidade,2596,4.8844375963020035
+br.com.gabba.Caixa,4,Notificações,15,3.8
+br.com.gabba.Caixa,4,Acesso/Login,399,2.9974937343358397
+br.com.gabba.Caixa,4,Elogio genérico,8728,4.881416131989001
+br.com.gabba.Caixa,4,Investimento,50,3.58
+br.com.gabba.Caixa,4,Atendimento ao cliente,436,4.545871559633028
+br.com.gabba.Caixa,4,Fatura,130,4.230769230769231
+br.com.gabba.Caixa,4,Programa de recompensas,8,3.625
+br.com.gabba.Caixa,5,Programa de recompensas,8,4.5
+br.com.gabba.Caixa,5,Elogio genérico,8701,4.886449833352488
+br.com.gabba.Caixa,5,Desempenho,189,3.3492063492063493
+br.com.gabba.Caixa,5,Atualização,148,3.4054054054054053
+br.com.gabba.Caixa,5,Cartão virtual,1,1
+br.com.gabba.Caixa,5,Notificações,20,3.7
 br.com.gabba.Caixa,5,,418,4.327751196172249
-br.com.gabba.Caixa,5,Generic complaint,701,4.164051355206848
-br.com.gabba.Caixa,5,Invoice,148,3.6283783783783785
-br.com.gabba.Caixa,5,Card,65,3.353846153846154
-br.com.gabba.Caixa,5,Customer service,426,4.462441314553991
-br.com.gabba.Caixa,5,Usability,2596,4.890215716486903
+br.com.gabba.Caixa,5,Reclamação genérica,701,4.164051355206848
+br.com.gabba.Caixa,5,Fatura,148,3.6283783783783785
+br.com.gabba.Caixa,5,Cartão,65,3.353846153846154
+br.com.gabba.Caixa,5,Atendimento ao cliente,426,4.462441314553991
+br.com.gabba.Caixa,5,Usabilidade,2596,4.890215716486903
 br.com.gabba.Caixa,5,Token,160,4.25
-br.com.gabba.Caixa,5,Login,355,3.064788732394366
-br.com.gabba.Caixa,5,Investiment,54,3.611111111111111
+br.com.gabba.Caixa,5,Acesso/Login,355,3.064788732394366
+br.com.gabba.Caixa,5,Investimento,54,3.611111111111111
 br.com.gabba.Caixa,5,,83,4.771084337349397
-br.com.gabba.Caixa,5,Registration,45,3.066666666666667
+br.com.gabba.Caixa,5,Cadastro/Registro,45,3.066666666666667
 br.com.gabba.Caixa,6,,596,4.281879194630872
-br.com.gabba.Caixa,6,Virtual card,9,4.444444444444445
-br.com.gabba.Caixa,6,Invoice,224,3.9330357142857144
-br.com.gabba.Caixa,6,Generic compliment,13035,4.88837744533947
-br.com.gabba.Caixa,6,Performance,277,3.5487364620938626
-br.com.gabba.Caixa,6,Notifications,32,4.3125
-br.com.gabba.Caixa,6,Usability,3771,4.893396976929196
-br.com.gabba.Caixa,6,Registration,51,3.392156862745098
-br.com.gabba.Caixa,6,Card,92,3.4347826086956523
-br.com.gabba.Caixa,6,Customer service,620,4.622580645161291
-br.com.gabba.Caixa,6,Investiment,82,3.9390243902439024
-br.com.gabba.Caixa,6,Generic complaint,1017,4.222222222222222
-br.com.gabba.Caixa,6,Login,557,3.317773788150808
-br.com.gabba.Caixa,6,Rewards program,11,4
+br.com.gabba.Caixa,6,Cartão virtual,9,4.444444444444445
+br.com.gabba.Caixa,6,Fatura,224,3.9330357142857144
+br.com.gabba.Caixa,6,Elogio genérico,13035,4.88837744533947
+br.com.gabba.Caixa,6,Desempenho,277,3.5487364620938626
+br.com.gabba.Caixa,6,Notificações,32,4.3125
+br.com.gabba.Caixa,6,Usabilidade,3771,4.893396976929196
+br.com.gabba.Caixa,6,Cadastro/Registro,51,3.392156862745098
+br.com.gabba.Caixa,6,Cartão,92,3.4347826086956523
+br.com.gabba.Caixa,6,Atendimento ao cliente,620,4.622580645161291
+br.com.gabba.Caixa,6,Investimento,82,3.9390243902439024
+br.com.gabba.Caixa,6,Reclamação genérica,1017,4.222222222222222
+br.com.gabba.Caixa,6,Acesso/Login,557,3.317773788150808
+br.com.gabba.Caixa,6,Programa de recompensas,11,4
 br.com.gabba.Caixa,6,Token,189,4.116402116402116
-br.com.gabba.Caixa,6,Update,196,3.683673469387755
+br.com.gabba.Caixa,6,Atualização,196,3.683673469387755
 br.com.gabba.Caixa,6,,105,4.847619047619047
-br.com.gabba.Caixa,7,Login,683,3.1185944363103952
-br.com.gabba.Caixa,7,Investiment,81,4.1234567901234565
-br.com.gabba.Caixa,7,Virtual card,2,1
-br.com.gabba.Caixa,7,Invoice,237,3.8649789029535864
-br.com.gabba.Caixa,7,Performance,343,3.323615160349854
-br.com.gabba.Caixa,7,Rewards program,8,3.875
+br.com.gabba.Caixa,7,Acesso/Login,683,3.1185944363103952
+br.com.gabba.Caixa,7,Investimento,81,4.1234567901234565
+br.com.gabba.Caixa,7,Cartão virtual,2,1
+br.com.gabba.Caixa,7,Fatura,237,3.8649789029535864
+br.com.gabba.Caixa,7,Desempenho,343,3.323615160349854
+br.com.gabba.Caixa,7,Programa de recompensas,8,3.875
 br.com.gabba.Caixa,7,Token,261,4.160919540229885
-br.com.gabba.Caixa,7,Notifications,29,3.9310344827586206
-br.com.gabba.Caixa,7,Usability,4390,4.897722095671981
+br.com.gabba.Caixa,7,Notificações,29,3.9310344827586206
+br.com.gabba.Caixa,7,Usabilidade,4390,4.897722095671981
 br.com.gabba.Caixa,7,,680,4.275
-br.com.gabba.Caixa,7,Customer service,673,4.628528974739971
-br.com.gabba.Caixa,7,Card,105,3.342857142857143
-br.com.gabba.Caixa,7,Update,231,3.4718614718614718
-br.com.gabba.Caixa,7,Registration,79,3.1265822784810124
-br.com.gabba.Caixa,7,Generic compliment,14788,4.892480389505004
-br.com.gabba.Caixa,7,Generic complaint,1243,4.1263073209975865
+br.com.gabba.Caixa,7,Atendimento ao cliente,673,4.628528974739971
+br.com.gabba.Caixa,7,Cartão,105,3.342857142857143
+br.com.gabba.Caixa,7,Atualização,231,3.4718614718614718
+br.com.gabba.Caixa,7,Cadastro/Registro,79,3.1265822784810124
+br.com.gabba.Caixa,7,Elogio genérico,14788,4.892480389505004
+br.com.gabba.Caixa,7,Reclamação genérica,1243,4.1263073209975865
 br.com.gabba.Caixa,7,,102,4.794117647058823
 br.com.gabba.Caixa,8,Token,248,4.044354838709677
-br.com.gabba.Caixa,8,Customer service,667,4.494752623688156
-br.com.gabba.Caixa,8,Invoice,232,3.711206896551724
+br.com.gabba.Caixa,8,Atendimento ao cliente,667,4.494752623688156
+br.com.gabba.Caixa,8,Fatura,232,3.711206896551724
 br.com.gabba.Caixa,8,,99,4.828282828282828
-br.com.gabba.Caixa,8,Performance,575,2.7756521739130435
+br.com.gabba.Caixa,8,Desempenho,575,2.7756521739130435
 br.com.gabba.Caixa,8,,634,4.315457413249211
-br.com.gabba.Caixa,8,Update,287,3.2195121951219514
-br.com.gabba.Caixa,8,Notifications,39,3.6923076923076925
-br.com.gabba.Caixa,8,Generic compliment,14249,4.89234332233841
-br.com.gabba.Caixa,8,Virtual card,6,3.8333333333333335
-br.com.gabba.Caixa,8,Rewards program,9,3.5555555555555554
-br.com.gabba.Caixa,8,Generic complaint,1333,3.9587396849212304
-br.com.gabba.Caixa,8,Registration,90,2.7333333333333334
-br.com.gabba.Caixa,8,Login,869,2.7836593785960875
-br.com.gabba.Caixa,8,Usability,4179,4.891840153146686
-br.com.gabba.Caixa,8,Investiment,72,3.75
-br.com.gabba.Caixa,8,Card,111,3.4774774774774775
-br.com.gabba.Caixa,9,Generic compliment,13275,4.890094161958569
-br.com.gabba.Caixa,9,Card,130,3
-br.com.gabba.Caixa,9,Usability,3714,4.880721593968767
-br.com.gabba.Caixa,9,Invoice,248,3.471774193548387
-br.com.gabba.Caixa,9,Performance,483,3.0041407867494825
-br.com.gabba.Caixa,9,Rewards program,19,4.315789473684211
-br.com.gabba.Caixa,9,Login,854,2.8372365339578454
+br.com.gabba.Caixa,8,Atualização,287,3.2195121951219514
+br.com.gabba.Caixa,8,Notificações,39,3.6923076923076925
+br.com.gabba.Caixa,8,Elogio genérico,14249,4.89234332233841
+br.com.gabba.Caixa,8,Cartão virtual,6,3.8333333333333335
+br.com.gabba.Caixa,8,Programa de recompensas,9,3.5555555555555554
+br.com.gabba.Caixa,8,Reclamação genérica,1333,3.9587396849212304
+br.com.gabba.Caixa,8,Cadastro/Registro,90,2.7333333333333334
+br.com.gabba.Caixa,8,Acesso/Login,869,2.7836593785960875
+br.com.gabba.Caixa,8,Usabilidade,4179,4.891840153146686
+br.com.gabba.Caixa,8,Investimento,72,3.75
+br.com.gabba.Caixa,8,Cartão,111,3.4774774774774775
+br.com.gabba.Caixa,9,Elogio genérico,13275,4.890094161958569
+br.com.gabba.Caixa,9,Cartão,130,3
+br.com.gabba.Caixa,9,Usabilidade,3714,4.880721593968767
+br.com.gabba.Caixa,9,Fatura,248,3.471774193548387
+br.com.gabba.Caixa,9,Desempenho,483,3.0041407867494825
+br.com.gabba.Caixa,9,Programa de recompensas,19,4.315789473684211
+br.com.gabba.Caixa,9,Acesso/Login,854,2.8372365339578454
 br.com.gabba.Caixa,9,,102,4.7254901960784315
-br.com.gabba.Caixa,9,Customer service,664,4.469879518072289
-br.com.gabba.Caixa,9,Investiment,104,3.7115384615384617
-br.com.gabba.Caixa,9,Registration,84,2.7023809523809526
-br.com.gabba.Caixa,9,Update,475,2.477894736842105
-br.com.gabba.Caixa,9,Notifications,37,3.4054054054054053
-br.com.gabba.Caixa,9,Generic complaint,1251,3.7817745803357314
+br.com.gabba.Caixa,9,Atendimento ao cliente,664,4.469879518072289
+br.com.gabba.Caixa,9,Investimento,104,3.7115384615384617
+br.com.gabba.Caixa,9,Cadastro/Registro,84,2.7023809523809526
+br.com.gabba.Caixa,9,Atualização,475,2.477894736842105
+br.com.gabba.Caixa,9,Notificações,37,3.4054054054054053
+br.com.gabba.Caixa,9,Reclamação genérica,1251,3.7817745803357314
 br.com.gabba.Caixa,9,,605,4.148760330578512
-br.com.gabba.Caixa,9,Virtual card,5,3.2
+br.com.gabba.Caixa,9,Cartão virtual,5,3.2
 br.com.gabba.Caixa,9,Token,241,3.904564315352697
-br.com.gabba.Caixa,10,Update,1319,1.938589840788476
-br.com.gabba.Caixa,10,Card,124,3.064516129032258
-br.com.gabba.Caixa,10,Registration,105,2.142857142857143
-br.com.gabba.Caixa,10,Generic complaint,1164,3.468213058419244
-br.com.gabba.Caixa,10,Login,1423,2.195361911454673
-br.com.gabba.Caixa,10,Investiment,76,3.1710526315789473
+br.com.gabba.Caixa,10,Atualização,1319,1.938589840788476
+br.com.gabba.Caixa,10,Cartão,124,3.064516129032258
+br.com.gabba.Caixa,10,Cadastro/Registro,105,2.142857142857143
+br.com.gabba.Caixa,10,Reclamação genérica,1164,3.468213058419244
+br.com.gabba.Caixa,10,Acesso/Login,1423,2.195361911454673
+br.com.gabba.Caixa,10,Investimento,76,3.1710526315789473
 br.com.gabba.Caixa,10,,86,4.627906976744186
 br.com.gabba.Caixa,10,Token,240,3.575
-br.com.gabba.Caixa,10,Generic compliment,10112,4.8833069620253164
-br.com.gabba.Caixa,10,Usability,2816,4.855113636363637
-br.com.gabba.Caixa,10,Virtual card,6,2.8333333333333335
-br.com.gabba.Caixa,10,Notifications,68,2.6470588235294117
-br.com.gabba.Caixa,10,Rewards program,14,3.2857142857142856
-br.com.gabba.Caixa,10,Invoice,200,3.27
+br.com.gabba.Caixa,10,Elogio genérico,10112,4.8833069620253164
+br.com.gabba.Caixa,10,Usabilidade,2816,4.855113636363637
+br.com.gabba.Caixa,10,Cartão virtual,6,2.8333333333333335
+br.com.gabba.Caixa,10,Notificações,68,2.6470588235294117
+br.com.gabba.Caixa,10,Programa de recompensas,14,3.2857142857142856
+br.com.gabba.Caixa,10,Fatura,200,3.27
 br.com.gabba.Caixa,10,,548,4
-br.com.gabba.Caixa,10,Customer service,566,4.229681978798586
-br.com.gabba.Caixa,10,Performance,557,2.3877917414721725
+br.com.gabba.Caixa,10,Atendimento ao cliente,566,4.229681978798586
+br.com.gabba.Caixa,10,Desempenho,557,2.3877917414721725
 br.com.gabba.Caixa,11,,386,3.8419689119170983
-br.com.gabba.Caixa,11,Customer service,458,3.482532751091703
-br.com.gabba.Caixa,11,Performance,922,1.729934924078091
+br.com.gabba.Caixa,11,Atendimento ao cliente,458,3.482532751091703
+br.com.gabba.Caixa,11,Desempenho,922,1.729934924078091
 br.com.gabba.Caixa,11,,56,4.178571428571429
 br.com.gabba.Caixa,11,Token,232,2.7370689655172415
-br.com.gabba.Caixa,11,Generic complaint,1380,2.393478260869565
-br.com.gabba.Caixa,11,Registration,154,1.7857142857142858
-br.com.gabba.Caixa,11,Usability,1502,4.769640479360852
-br.com.gabba.Caixa,11,Notifications,58,2.5
-br.com.gabba.Caixa,11,Investiment,96,2.3645833333333335
-br.com.gabba.Caixa,11,Virtual card,3,1
-br.com.gabba.Caixa,11,Update,2328,1.7186426116838487
-br.com.gabba.Caixa,11,Rewards program,16,2.875
-br.com.gabba.Caixa,11,Login,2278,1.8849868305531168
-br.com.gabba.Caixa,11,Card,173,2.1502890173410405
-br.com.gabba.Caixa,11,Invoice,212,2.5283018867924527
-br.com.gabba.Caixa,11,Generic compliment,5449,4.8667645439530185
-br.com.gabba.Caixa,12,Generic complaint,912,2.9594298245614037
-br.com.gabba.Caixa,12,Virtual card,11,1.7272727272727273
-br.com.gabba.Caixa,12,Usability,1396,4.792979942693409
-br.com.gabba.Caixa,12,Customer service,342,3.8421052631578947
+br.com.gabba.Caixa,11,Reclamação genérica,1380,2.393478260869565
+br.com.gabba.Caixa,11,Cadastro/Registro,154,1.7857142857142858
+br.com.gabba.Caixa,11,Usabilidade,1502,4.769640479360852
+br.com.gabba.Caixa,11,Notificações,58,2.5
+br.com.gabba.Caixa,11,Investimento,96,2.3645833333333335
+br.com.gabba.Caixa,11,Cartão virtual,3,1
+br.com.gabba.Caixa,11,Atualização,2328,1.7186426116838487
+br.com.gabba.Caixa,11,Programa de recompensas,16,2.875
+br.com.gabba.Caixa,11,Acesso/Login,2278,1.8849868305531168
+br.com.gabba.Caixa,11,Cartão,173,2.1502890173410405
+br.com.gabba.Caixa,11,Fatura,212,2.5283018867924527
+br.com.gabba.Caixa,11,Elogio genérico,5449,4.8667645439530185
+br.com.gabba.Caixa,12,Reclamação genérica,912,2.9594298245614037
+br.com.gabba.Caixa,12,Cartão virtual,11,1.7272727272727273
+br.com.gabba.Caixa,12,Usabilidade,1396,4.792979942693409
+br.com.gabba.Caixa,12,Atendimento ao cliente,342,3.8421052631578947
 br.com.gabba.Caixa,12,,45,4.711111111111111
-br.com.gabba.Caixa,12,Registration,123,2.0813008130081303
-br.com.gabba.Caixa,12,Update,599,1.9599332220367278
-br.com.gabba.Caixa,12,Rewards program,15,3.066666666666667
+br.com.gabba.Caixa,12,Cadastro/Registro,123,2.0813008130081303
+br.com.gabba.Caixa,12,Atualização,599,1.9599332220367278
+br.com.gabba.Caixa,12,Programa de recompensas,15,3.066666666666667
 br.com.gabba.Caixa,12,,313,4.006389776357827
-br.com.gabba.Caixa,12,Login,1109,2.011722272317403
+br.com.gabba.Caixa,12,Acesso/Login,1109,2.011722272317403
 br.com.gabba.Caixa,12,Token,170,3.2588235294117647
-br.com.gabba.Caixa,12,Generic compliment,5499,4.876341152936898
-br.com.gabba.Caixa,12,Invoice,155,2.587096774193548
-br.com.gabba.Caixa,12,Card,116,2.5258620689655173
-br.com.gabba.Caixa,12,Performance,551,1.9637023593466425
-br.com.gabba.Caixa,12,Notifications,39,2.076923076923077
-br.com.gabba.Caixa,12,Investiment,66,2.5606060606060606
-br.gov.meugovbr,1,Customer service,403,3.503722084367246
-br.gov.meugovbr,1,Generic compliment,16570,4.775377187688594
+br.com.gabba.Caixa,12,Elogio genérico,5499,4.876341152936898
+br.com.gabba.Caixa,12,Fatura,155,2.587096774193548
+br.com.gabba.Caixa,12,Cartão,116,2.5258620689655173
+br.com.gabba.Caixa,12,Desempenho,551,1.9637023593466425
+br.com.gabba.Caixa,12,Notificações,39,2.076923076923077
+br.com.gabba.Caixa,12,Investimento,66,2.5606060606060606
+br.gov.meugovbr,1,Atendimento ao cliente,403,3.503722084367246
+br.gov.meugovbr,1,Elogio genérico,16570,4.775377187688594
 br.gov.meugovbr,1,,64,3.6875
-br.gov.meugovbr,1,Generic complaint,4927,2.4223665516541506
+br.gov.meugovbr,1,Reclamação genérica,4927,2.4223665516541506
 br.gov.meugovbr,1,,1282,3.277691107644306
-br.gov.meugovbr,1,Features,497,2.3118712273641853
-br.gov.meugovbr,1,Performance,2532,1.514612954186414
-br.gov.meugovbr,1,Usability,1173,4.261722080136402
-br.gov.meugovbr,1,Login,6692,1.6947101016138673
-br.gov.meugovbr,1,Charging,75,2.5733333333333333
-br.gov.meugovbr,1,Servicess,237,2.451476793248945
-br.gov.meugovbr,2,Usability,676,4.428994082840236
+br.gov.meugovbr,1,Funcionalidades,497,2.3118712273641853
+br.gov.meugovbr,1,Desempenho,2532,1.514612954186414
+br.gov.meugovbr,1,Usabilidade,1173,4.261722080136402
+br.gov.meugovbr,1,Acesso/Login,6692,1.6947101016138673
+br.gov.meugovbr,1,Cobrança,75,2.5733333333333333
+br.gov.meugovbr,1,Serviços,237,2.451476793248945
+br.gov.meugovbr,2,Usabilidade,676,4.428994082840236
 br.gov.meugovbr,2,,39,3.7948717948717947
-br.gov.meugovbr,2,Servicess,136,2.9338235294117645
-br.gov.meugovbr,2,Generic complaint,2476,2.6066235864297256
-br.gov.meugovbr,2,Customer service,217,3.654377880184332
-br.gov.meugovbr,2,Charging,44,2.8181818181818183
-br.gov.meugovbr,2,Features,265,2.422641509433962
+br.gov.meugovbr,2,Serviços,136,2.9338235294117645
+br.gov.meugovbr,2,Reclamação genérica,2476,2.6066235864297256
+br.gov.meugovbr,2,Atendimento ao cliente,217,3.654377880184332
+br.gov.meugovbr,2,Cobrança,44,2.8181818181818183
+br.gov.meugovbr,2,Funcionalidades,265,2.422641509433962
 br.gov.meugovbr,2,,410,3.6682926829268294
-br.gov.meugovbr,2,Performance,1164,1.5197594501718212
-br.gov.meugovbr,2,Generic compliment,11056,4.734442836468886
-br.gov.meugovbr,2,Login,3222,1.814090626939789
+br.gov.meugovbr,2,Desempenho,1164,1.5197594501718212
+br.gov.meugovbr,2,Elogio genérico,11056,4.734442836468886
+br.gov.meugovbr,2,Acesso/Login,3222,1.814090626939789
 br.gov.meugovbr,3,,300,3.486666666666667
-br.gov.meugovbr,3,Features,209,2.277511961722488
-br.gov.meugovbr,3,Charging,29,2.6206896551724137
-br.gov.meugovbr,3,Customer service,159,3.4654088050314464
-br.gov.meugovbr,3,Generic complaint,1760,2.684659090909091
-br.gov.meugovbr,3,Login,2327,1.7928663515255694
-br.gov.meugovbr,3,Performance,926,1.490280777537797
-br.gov.meugovbr,3,Usability,493,4.36105476673428
-br.gov.meugovbr,3,Servicess,78,2.6666666666666665
-br.gov.meugovbr,3,Generic compliment,7820,4.756010230179029
+br.gov.meugovbr,3,Funcionalidades,209,2.277511961722488
+br.gov.meugovbr,3,Cobrança,29,2.6206896551724137
+br.gov.meugovbr,3,Atendimento ao cliente,159,3.4654088050314464
+br.gov.meugovbr,3,Reclamação genérica,1760,2.684659090909091
+br.gov.meugovbr,3,Acesso/Login,2327,1.7928663515255694
+br.gov.meugovbr,3,Desempenho,926,1.490280777537797
+br.gov.meugovbr,3,Usabilidade,493,4.36105476673428
+br.gov.meugovbr,3,Serviços,78,2.6666666666666665
+br.gov.meugovbr,3,Elogio genérico,7820,4.756010230179029
 br.gov.meugovbr,3,,134,4.432835820895522
 br.gov.meugovbr,4,,30,3.966666666666667
-br.gov.meugovbr,4,Features,212,2.3820754716981134
+br.gov.meugovbr,4,Funcionalidades,212,2.3820754716981134
 br.gov.meugovbr,4,,316,3.5411392405063293
-br.gov.meugovbr,4,Login,2257,1.7687195392113424
-br.gov.meugovbr,4,Performance,996,1.5
-br.gov.meugovbr,4,Charging,29,3.2413793103448274
-br.gov.meugovbr,4,Servicess,96,2.71875
-br.gov.meugovbr,4,Customer service,162,3.3518518518518516
-br.gov.meugovbr,4,Usability,514,4.285992217898833
-br.gov.meugovbr,4,Generic compliment,7523,4.7478399574637775
-br.gov.meugovbr,4,Generic complaint,1946,2.4578622816032887
-br.gov.meugovbr,5,Features,155,2.832258064516129
-br.gov.meugovbr,5,Charging,26,2.5
+br.gov.meugovbr,4,Acesso/Login,2257,1.7687195392113424
+br.gov.meugovbr,4,Desempenho,996,1.5
+br.gov.meugovbr,4,Cobrança,29,3.2413793103448274
+br.gov.meugovbr,4,Serviços,96,2.71875
+br.gov.meugovbr,4,Atendimento ao cliente,162,3.3518518518518516
+br.gov.meugovbr,4,Usabilidade,514,4.285992217898833
+br.gov.meugovbr,4,Elogio genérico,7523,4.7478399574637775
+br.gov.meugovbr,4,Reclamação genérica,1946,2.4578622816032887
+br.gov.meugovbr,5,Funcionalidades,155,2.832258064516129
+br.gov.meugovbr,5,Cobrança,26,2.5
 br.gov.meugovbr,5,,278,3.5215827338129495
-br.gov.meugovbr,5,Login,1981,1.784957092377587
+br.gov.meugovbr,5,Acesso/Login,1981,1.784957092377587
 br.gov.meugovbr,5,,28,3.642857142857143
-br.gov.meugovbr,5,Performance,862,1.5452436194895591
-br.gov.meugovbr,5,Servicess,81,2.876543209876543
-br.gov.meugovbr,5,Customer service,168,3.5
-br.gov.meugovbr,5,Generic compliment,6123,4.810060427894823
-br.gov.meugovbr,5,Usability,436,4.353211009174312
-br.gov.meugovbr,5,Generic complaint,1681,2.5276621058893514
-br.gov.meugovbr,6,Usability,418,4.282296650717703
-br.gov.meugovbr,6,Charging,32,2.40625
+br.gov.meugovbr,5,Desempenho,862,1.5452436194895591
+br.gov.meugovbr,5,Serviços,81,2.876543209876543
+br.gov.meugovbr,5,Atendimento ao cliente,168,3.5
+br.gov.meugovbr,5,Elogio genérico,6123,4.810060427894823
+br.gov.meugovbr,5,Usabilidade,436,4.353211009174312
+br.gov.meugovbr,5,Reclamação genérica,1681,2.5276621058893514
+br.gov.meugovbr,6,Usabilidade,418,4.282296650717703
+br.gov.meugovbr,6,Cobrança,32,2.40625
 br.gov.meugovbr,6,,304,3.4309210526315788
-br.gov.meugovbr,6,Performance,858,1.5326340326340326
+br.gov.meugovbr,6,Desempenho,858,1.5326340326340326
 br.gov.meugovbr,6,,27,3.7777777777777777
-br.gov.meugovbr,6,Generic compliment,6303,4.786133587180708
-br.gov.meugovbr,6,Generic complaint,1897,2.452293094359515
-br.gov.meugovbr,6,Features,189,2.6984126984126986
-br.gov.meugovbr,6,Servicess,110,2.272727272727273
-br.gov.meugovbr,6,Login,2314,1.6970613656006914
-br.gov.meugovbr,6,Customer service,181,3.458563535911602
+br.gov.meugovbr,6,Elogio genérico,6303,4.786133587180708
+br.gov.meugovbr,6,Reclamação genérica,1897,2.452293094359515
+br.gov.meugovbr,6,Funcionalidades,189,2.6984126984126986
+br.gov.meugovbr,6,Serviços,110,2.272727272727273
+br.gov.meugovbr,6,Acesso/Login,2314,1.6970613656006914
+br.gov.meugovbr,6,Atendimento ao cliente,181,3.458563535911602
 br.gov.meugovbr,7,,34,3.911764705882353
-br.gov.meugovbr,7,Customer service,230,3.143478260869565
-br.gov.meugovbr,7,Generic complaint,2230,2.339013452914798
-br.gov.meugovbr,7,Login,2315,1.7252699784017278
-br.gov.meugovbr,7,Generic compliment,6781,4.80061937767291
-br.gov.meugovbr,7,Performance,1045,1.5157894736842106
+br.gov.meugovbr,7,Atendimento ao cliente,230,3.143478260869565
+br.gov.meugovbr,7,Reclamação genérica,2230,2.339013452914798
+br.gov.meugovbr,7,Acesso/Login,2315,1.7252699784017278
+br.gov.meugovbr,7,Elogio genérico,6781,4.80061937767291
+br.gov.meugovbr,7,Desempenho,1045,1.5157894736842106
 br.gov.meugovbr,7,,270,3.5481481481481483
-br.gov.meugovbr,7,Features,200,2.27
-br.gov.meugovbr,7,Charging,44,2.9545454545454546
-br.gov.meugovbr,7,Usability,448,4.296875
-br.gov.meugovbr,7,Servicess,95,2.663157894736842
+br.gov.meugovbr,7,Funcionalidades,200,2.27
+br.gov.meugovbr,7,Cobrança,44,2.9545454545454546
+br.gov.meugovbr,7,Usabilidade,448,4.296875
+br.gov.meugovbr,7,Serviços,95,2.663157894736842
 br.gov.meugovbr,8,,32,4.25
-br.gov.meugovbr,8,Login,1980,1.7818181818181817
-br.gov.meugovbr,8,Servicess,73,2.547945205479452
-br.gov.meugovbr,8,Customer service,185,3.6486486486486487
+br.gov.meugovbr,8,Acesso/Login,1980,1.7818181818181817
+br.gov.meugovbr,8,Serviços,73,2.547945205479452
+br.gov.meugovbr,8,Atendimento ao cliente,185,3.6486486486486487
 br.gov.meugovbr,8,,257,3.5058365758754864
-br.gov.meugovbr,8,Features,157,2.445859872611465
-br.gov.meugovbr,8,Performance,762,1.5892388451443569
-br.gov.meugovbr,8,Generic compliment,6788,4.812757807896287
-br.gov.meugovbr,8,Usability,457,4.301969365426696
-br.gov.meugovbr,8,Charging,40,2.95
-br.gov.meugovbr,8,Generic complaint,1762,2.5238365493757096
-br.gov.meugovbr,9,Login,2190,1.9200913242009132
-br.gov.meugovbr,9,Generic compliment,7215,4.823977823977824
-br.gov.meugovbr,9,Features,153,2.411764705882353
-br.gov.meugovbr,9,Performance,893,1.6942889137737962
+br.gov.meugovbr,8,Funcionalidades,157,2.445859872611465
+br.gov.meugovbr,8,Desempenho,762,1.5892388451443569
+br.gov.meugovbr,8,Elogio genérico,6788,4.812757807896287
+br.gov.meugovbr,8,Usabilidade,457,4.301969365426696
+br.gov.meugovbr,8,Cobrança,40,2.95
+br.gov.meugovbr,8,Reclamação genérica,1762,2.5238365493757096
+br.gov.meugovbr,9,Acesso/Login,2190,1.9200913242009132
+br.gov.meugovbr,9,Elogio genérico,7215,4.823977823977824
+br.gov.meugovbr,9,Funcionalidades,153,2.411764705882353
+br.gov.meugovbr,9,Desempenho,893,1.6942889137737962
 br.gov.meugovbr,9,,36,3.8055555555555554
-br.gov.meugovbr,9,Generic complaint,1838,2.5794341675734493
-br.gov.meugovbr,9,Customer service,215,3.627906976744186
+br.gov.meugovbr,9,Reclamação genérica,1838,2.5794341675734493
+br.gov.meugovbr,9,Atendimento ao cliente,215,3.627906976744186
 br.gov.meugovbr,9,,288,3.6458333333333335
-br.gov.meugovbr,9,Charging,24,2.5416666666666665
-br.gov.meugovbr,9,Servicess,99,2.474747474747475
-br.gov.meugovbr,9,Usability,455,4.386813186813187
-br.gov.meugovbr,10,Generic complaint,2038,2.5932286555446518
-br.gov.meugovbr,10,Generic compliment,8202,4.8056571567910265
-br.gov.meugovbr,10,Performance,831,1.7292418772563176
-br.gov.meugovbr,10,Customer service,259,3.718146718146718
+br.gov.meugovbr,9,Cobrança,24,2.5416666666666665
+br.gov.meugovbr,9,Serviços,99,2.474747474747475
+br.gov.meugovbr,9,Usabilidade,455,4.386813186813187
+br.gov.meugovbr,10,Reclamação genérica,2038,2.5932286555446518
+br.gov.meugovbr,10,Elogio genérico,8202,4.8056571567910265
+br.gov.meugovbr,10,Desempenho,831,1.7292418772563176
+br.gov.meugovbr,10,Atendimento ao cliente,259,3.718146718146718
 br.gov.meugovbr,10,,37,3.8378378378378377
-br.gov.meugovbr,10,Charging,45,3.0444444444444443
+br.gov.meugovbr,10,Cobrança,45,3.0444444444444443
 br.gov.meugovbr,10,,344,3.622093023255814
-br.gov.meugovbr,10,Servicess,94,2.9361702127659575
-br.gov.meugovbr,10,Features,230,2.5739130434782607
-br.gov.meugovbr,10,Login,2313,1.9571984435797665
-br.gov.meugovbr,10,Usability,525,4.304761904761905
-br.gov.meugovbr,11,Performance,919,1.5995647442872687
+br.gov.meugovbr,10,Serviços,94,2.9361702127659575
+br.gov.meugovbr,10,Funcionalidades,230,2.5739130434782607
+br.gov.meugovbr,10,Acesso/Login,2313,1.9571984435797665
+br.gov.meugovbr,10,Usabilidade,525,4.304761904761905
+br.gov.meugovbr,11,Desempenho,919,1.5995647442872687
 br.gov.meugovbr,11,,40,3.875
-br.gov.meugovbr,11,Servicess,104,2.298076923076923
-br.gov.meugovbr,11,Usability,417,4.316546762589928
-br.gov.meugovbr,11,Charging,30,2.6666666666666665
-br.gov.meugovbr,11,Customer service,172,3.744186046511628
-br.gov.meugovbr,11,Login,2081,1.8865929841422393
+br.gov.meugovbr,11,Serviços,104,2.298076923076923
+br.gov.meugovbr,11,Usabilidade,417,4.316546762589928
+br.gov.meugovbr,11,Cobrança,30,2.6666666666666665
+br.gov.meugovbr,11,Atendimento ao cliente,172,3.744186046511628
+br.gov.meugovbr,11,Acesso/Login,2081,1.8865929841422393
 br.gov.meugovbr,11,,283,3.1024734982332154
-br.gov.meugovbr,11,Generic complaint,1766,2.4830124575311436
-br.gov.meugovbr,11,Generic compliment,6149,4.809074646283949
-br.gov.meugovbr,11,Features,192,2.4114583333333335
-br.gov.meugovbr,12,Login,1921,1.9021343050494535
-br.gov.meugovbr,12,Features,171,2.3684210526315788
-br.gov.meugovbr,12,Customer service,157,3.5605095541401273
-br.gov.meugovbr,12,Generic complaint,1831,2.310212998361551
+br.gov.meugovbr,11,Reclamação genérica,1766,2.4830124575311436
+br.gov.meugovbr,11,Elogio genérico,6149,4.809074646283949
+br.gov.meugovbr,11,Funcionalidades,192,2.4114583333333335
+br.gov.meugovbr,12,Acesso/Login,1921,1.9021343050494535
+br.gov.meugovbr,12,Funcionalidades,171,2.3684210526315788
+br.gov.meugovbr,12,Atendimento ao cliente,157,3.5605095541401273
+br.gov.meugovbr,12,Reclamação genérica,1831,2.310212998361551
 br.gov.meugovbr,12,,33,3.727272727272727
 br.gov.meugovbr,12,,292,3.267123287671233
-br.gov.meugovbr,12,Servicess,96,2.6041666666666665
-br.gov.meugovbr,12,Charging,34,3.0294117647058822
-br.gov.meugovbr,12,Generic compliment,5496,4.787481804949054
-br.gov.meugovbr,12,Performance,858,1.5606060606060606
-br.gov.meugovbr,12,Usability,376,4.23404255319149
-com.nu.production,1,Login,1657,2.179843089921545
-com.nu.production,1,Customer service,636,3.380503144654088
-com.nu.production,1,Generic complaint,2243,3.137761925991975
-com.nu.production,1,Virtual card,26,2.730769230769231
-com.nu.production,1,Registration,288,2.0277777777777777
-com.nu.production,1,Notifications,57,2.736842105263158
-com.nu.production,1,Generic compliment,8645,4.8667437825332565
-com.nu.production,1,Card,924,2.5865800865800868
-com.nu.production,1,Usability,822,4.653284671532846
+br.gov.meugovbr,12,Serviços,96,2.6041666666666665
+br.gov.meugovbr,12,Cobrança,34,3.0294117647058822
+br.gov.meugovbr,12,Elogio genérico,5496,4.787481804949054
+br.gov.meugovbr,12,Desempenho,858,1.5606060606060606
+br.gov.meugovbr,12,Usabilidade,376,4.23404255319149
+com.nu.production,1,Acesso/Login,1657,2.179843089921545
+com.nu.production,1,Atendimento ao cliente,636,3.380503144654088
+com.nu.production,1,Reclamação genérica,2243,3.137761925991975
+com.nu.production,1,Cartão virtual,26,2.730769230769231
+com.nu.production,1,Cadastro/Registro,288,2.0277777777777777
+com.nu.production,1,Notificações,57,2.736842105263158
+com.nu.production,1,Elogio genérico,8645,4.8667437825332565
+com.nu.production,1,Cartão,924,2.5865800865800868
+com.nu.production,1,Usabilidade,822,4.653284671532846
 com.nu.production,1,,51,3.5098039215686274
 com.nu.production,1,,1595,3.9768025078369904
-com.nu.production,1,Update,480,2.3666666666666667
-com.nu.production,1,Investiment,322,2.372670807453416
-com.nu.production,1,Invoice,454,2.6145374449339207
+com.nu.production,1,Atualização,480,2.3666666666666667
+com.nu.production,1,Investimento,322,2.372670807453416
+com.nu.production,1,Fatura,454,2.6145374449339207
 com.nu.production,1,Token,15,3.2
-com.nu.production,1,Rewards program,29,2.586206896551724
-com.nu.production,1,Performance,537,2.1266294227188083
-com.nu.production,2,Investiment,155,2.303225806451613
+com.nu.production,1,Programa de recompensas,29,2.586206896551724
+com.nu.production,1,Desempenho,537,2.1266294227188083
+com.nu.production,2,Investimento,155,2.303225806451613
 com.nu.production,2,,23,4.3478260869565215
-com.nu.production,2,Rewards program,11,3
-com.nu.production,2,Login,698,2.141833810888252
-com.nu.production,2,Generic compliment,2993,4.833277647844971
+com.nu.production,2,Programa de recompensas,11,3
+com.nu.production,2,Acesso/Login,698,2.141833810888252
+com.nu.production,2,Elogio genérico,2993,4.833277647844971
 com.nu.production,2,,395,3.6481012658227847
-com.nu.production,2,Card,495,2.404040404040404
-com.nu.production,2,Notifications,17,1.4705882352941178
-com.nu.production,2,Virtual card,13,2.1538461538461537
-com.nu.production,2,Invoice,216,2.375
-com.nu.production,2,Generic complaint,951,2.9705573080967405
+com.nu.production,2,Cartão,495,2.404040404040404
+com.nu.production,2,Notificações,17,1.4705882352941178
+com.nu.production,2,Cartão virtual,13,2.1538461538461537
+com.nu.production,2,Fatura,216,2.375
+com.nu.production,2,Reclamação genérica,951,2.9705573080967405
 com.nu.production,2,Token,7,2.857142857142857
-com.nu.production,2,Performance,162,2.1790123456790123
-com.nu.production,2,Update,157,2.2229299363057327
-com.nu.production,2,Usability,287,4.529616724738676
-com.nu.production,2,Registration,152,1.9210526315789473
-com.nu.production,2,Customer service,257,3.1089494163424125
-com.nu.production,3,Usability,246,4.40650406504065
-com.nu.production,3,Login,898,1.9276169265033407
+com.nu.production,2,Desempenho,162,2.1790123456790123
+com.nu.production,2,Atualização,157,2.2229299363057327
+com.nu.production,2,Usabilidade,287,4.529616724738676
+com.nu.production,2,Cadastro/Registro,152,1.9210526315789473
+com.nu.production,2,Atendimento ao cliente,257,3.1089494163424125
+com.nu.production,3,Usabilidade,246,4.40650406504065
+com.nu.production,3,Acesso/Login,898,1.9276169265033407
 com.nu.production,3,,28,4.035714285714286
-com.nu.production,3,Performance,277,1.8592057761732852
-com.nu.production,3,Card,433,2.258660508083141
-com.nu.production,3,Generic complaint,1004,2.8247011952191237
-com.nu.production,3,Investiment,121,2.0661157024793386
-com.nu.production,3,Customer service,271,3.1918819188191883
-com.nu.production,3,Notifications,33,2.696969696969697
+com.nu.production,3,Desempenho,277,1.8592057761732852
+com.nu.production,3,Cartão,433,2.258660508083141
+com.nu.production,3,Reclamação genérica,1004,2.8247011952191237
+com.nu.production,3,Investimento,121,2.0661157024793386
+com.nu.production,3,Atendimento ao cliente,271,3.1918819188191883
+com.nu.production,3,Notificações,33,2.696969696969697
 com.nu.production,3,,369,3.707317073170732
-com.nu.production,3,Update,241,2.211618257261411
-com.nu.production,3,Invoice,245,2.1755102040816325
-com.nu.production,3,Virtual card,14,1.7857142857142858
+com.nu.production,3,Atualização,241,2.211618257261411
+com.nu.production,3,Fatura,245,2.1755102040816325
+com.nu.production,3,Cartão virtual,14,1.7857142857142858
 com.nu.production,3,Token,3,4.666666666666667
-com.nu.production,3,Rewards program,7,2.5714285714285716
-com.nu.production,3,Generic compliment,3011,4.82929259382265
-com.nu.production,3,Registration,183,1.6612021857923498
-com.nu.production,4,Customer service,333,3.4534534534534536
-com.nu.production,4,Usability,750,4.725333333333333
-com.nu.production,4,Investiment,165,2.3333333333333335
+com.nu.production,3,Programa de recompensas,7,2.5714285714285716
+com.nu.production,3,Elogio genérico,3011,4.82929259382265
+com.nu.production,3,Cadastro/Registro,183,1.6612021857923498
+com.nu.production,4,Atendimento ao cliente,333,3.4534534534534536
+com.nu.production,4,Usabilidade,750,4.725333333333333
+com.nu.production,4,Investimento,165,2.3333333333333335
 com.nu.production,4,,479,3.933194154488518
-com.nu.production,4,Rewards program,9,2.5555555555555554
-com.nu.production,4,Performance,262,2.2595419847328246
-com.nu.production,4,Registration,131,2.0610687022900764
-com.nu.production,4,Generic complaint,1119,3.0786416443252906
-com.nu.production,4,Generic compliment,5321,4.858109377936478
-com.nu.production,4,Update,203,2.2413793103448274
+com.nu.production,4,Programa de recompensas,9,2.5555555555555554
+com.nu.production,4,Desempenho,262,2.2595419847328246
+com.nu.production,4,Cadastro/Registro,131,2.0610687022900764
+com.nu.production,4,Reclamação genérica,1119,3.0786416443252906
+com.nu.production,4,Elogio genérico,5321,4.858109377936478
+com.nu.production,4,Atualização,203,2.2413793103448274
 com.nu.production,4,,35,4.571428571428571
-com.nu.production,4,Invoice,222,2.5315315315315314
+com.nu.production,4,Fatura,222,2.5315315315315314
 com.nu.production,4,Token,8,3.75
-com.nu.production,4,Virtual card,17,2.2941176470588234
-com.nu.production,4,Notifications,22,2.3181818181818183
-com.nu.production,4,Login,764,2.06151832460733
-com.nu.production,4,Card,523,2.7093690248565965
+com.nu.production,4,Cartão virtual,17,2.2941176470588234
+com.nu.production,4,Notificações,22,2.3181818181818183
+com.nu.production,4,Acesso/Login,764,2.06151832460733
+com.nu.production,4,Cartão,523,2.7093690248565965
 com.nu.production,5,,419,3.727923627684964
-com.nu.production,5,Investiment,465,1.8494623655913978
-com.nu.production,5,Generic complaint,1170,2.8555555555555556
-com.nu.production,5,Notifications,24,2.6666666666666665
-com.nu.production,5,Usability,332,3.8855421686746987
-com.nu.production,5,Login,828,1.9275362318840579
-com.nu.production,5,Invoice,246,2.1341463414634148
-com.nu.production,5,Generic compliment,3305,4.832980332829047
-com.nu.production,5,Performance,279,2.003584229390681
-com.nu.production,5,Card,497,2.4788732394366195
-com.nu.production,5,Rewards program,11,2.272727272727273
-com.nu.production,5,Update,310,1.9935483870967743
-com.nu.production,5,Customer service,242,2.946280991735537
-com.nu.production,5,Virtual card,9,2.4444444444444446
+com.nu.production,5,Investimento,465,1.8494623655913978
+com.nu.production,5,Reclamação genérica,1170,2.8555555555555556
+com.nu.production,5,Notificações,24,2.6666666666666665
+com.nu.production,5,Usabilidade,332,3.8855421686746987
+com.nu.production,5,Acesso/Login,828,1.9275362318840579
+com.nu.production,5,Fatura,246,2.1341463414634148
+com.nu.production,5,Elogio genérico,3305,4.832980332829047
+com.nu.production,5,Desempenho,279,2.003584229390681
+com.nu.production,5,Cartão,497,2.4788732394366195
+com.nu.production,5,Programa de recompensas,11,2.272727272727273
+com.nu.production,5,Atualização,310,1.9935483870967743
+com.nu.production,5,Atendimento ao cliente,242,2.946280991735537
+com.nu.production,5,Cartão virtual,9,2.4444444444444446
 com.nu.production,5,Token,4,2.5
 com.nu.production,5,,17,3.823529411764706
-com.nu.production,5,Registration,128,1.7265625
-com.nu.production,6,Card,729,2.7626886145404663
-com.nu.production,6,Generic complaint,1936,3.0485537190082646
+com.nu.production,5,Cadastro/Registro,128,1.7265625
+com.nu.production,6,Cartão,729,2.7626886145404663
+com.nu.production,6,Reclamação genérica,1936,3.0485537190082646
 com.nu.production,6,Token,14,3.7857142857142856
-com.nu.production,6,Customer service,563,3.8330373001776197
-com.nu.production,6,Virtual card,20,3.15
+com.nu.production,6,Atendimento ao cliente,563,3.8330373001776197
+com.nu.production,6,Cartão virtual,20,3.15
 com.nu.production,6,,58,3.689655172413793
-com.nu.production,6,Login,1444,2.093490304709141
-com.nu.production,6,Generic compliment,9392,4.890332197614992
-com.nu.production,6,Rewards program,28,3
-com.nu.production,6,Registration,135,1.8962962962962964
-com.nu.production,6,Invoice,377,2.6047745358090184
-com.nu.production,6,Update,385,2.4077922077922076
+com.nu.production,6,Acesso/Login,1444,2.093490304709141
+com.nu.production,6,Elogio genérico,9392,4.890332197614992
+com.nu.production,6,Programa de recompensas,28,3
+com.nu.production,6,Cadastro/Registro,135,1.8962962962962964
+com.nu.production,6,Fatura,377,2.6047745358090184
+com.nu.production,6,Atualização,385,2.4077922077922076
 com.nu.production,6,,778,3.974293059125964
-com.nu.production,6,Investiment,311,2.472668810289389
-com.nu.production,6,Usability,1419,4.767441860465116
-com.nu.production,6,Performance,506,2.1363636363636362
-com.nu.production,6,Notifications,45,2.4
-com.nu.production,7,Generic compliment,12802,4.896734885174191
-com.nu.production,7,Registration,153,2.0326797385620914
-com.nu.production,7,Usability,1299,4.745958429561201
-com.nu.production,7,Update,359,2.5403899721448466
-com.nu.production,7,Performance,442,2.1923076923076925
-com.nu.production,7,Customer service,642,3.7866043613707165
-com.nu.production,7,Login,1440,2.0652777777777778
-com.nu.production,7,Investiment,280,2.6392857142857142
-com.nu.production,7,Card,892,2.8251121076233185
-com.nu.production,7,Notifications,38,2.9210526315789473
+com.nu.production,6,Investimento,311,2.472668810289389
+com.nu.production,6,Usabilidade,1419,4.767441860465116
+com.nu.production,6,Desempenho,506,2.1363636363636362
+com.nu.production,6,Notificações,45,2.4
+com.nu.production,7,Elogio genérico,12802,4.896734885174191
+com.nu.production,7,Cadastro/Registro,153,2.0326797385620914
+com.nu.production,7,Usabilidade,1299,4.745958429561201
+com.nu.production,7,Atualização,359,2.5403899721448466
+com.nu.production,7,Desempenho,442,2.1923076923076925
+com.nu.production,7,Atendimento ao cliente,642,3.7866043613707165
+com.nu.production,7,Acesso/Login,1440,2.0652777777777778
+com.nu.production,7,Investimento,280,2.6392857142857142
+com.nu.production,7,Cartão,892,2.8251121076233185
+com.nu.production,7,Notificações,38,2.9210526315789473
 com.nu.production,7,Token,11,4.2727272727272725
-com.nu.production,7,Rewards program,31,3
-com.nu.production,7,Invoice,424,2.6957547169811322
+com.nu.production,7,Programa de recompensas,31,3
+com.nu.production,7,Fatura,424,2.6957547169811322
 com.nu.production,7,,46,4.239130434782608
-com.nu.production,7,Generic complaint,2247,3.2968402314196705
-com.nu.production,7,Virtual card,15,3.2666666666666666
+com.nu.production,7,Reclamação genérica,2247,3.2968402314196705
+com.nu.production,7,Cartão virtual,15,3.2666666666666666
 com.nu.production,7,,1013,4.188548864758144
-com.nu.production,8,Performance,246,2.459349593495935
-com.nu.production,8,Registration,119,1.7394957983193278
-com.nu.production,8,Generic complaint,1743,3.4182444061962136
+com.nu.production,8,Desempenho,246,2.459349593495935
+com.nu.production,8,Cadastro/Registro,119,1.7394957983193278
+com.nu.production,8,Reclamação genérica,1743,3.4182444061962136
 com.nu.production,8,,843,4.117437722419929
-com.nu.production,8,Login,770,2.338961038961039
+com.nu.production,8,Acesso/Login,770,2.338961038961039
 com.nu.production,8,,52,4.096153846153846
-com.nu.production,8,Investiment,206,2.679611650485437
-com.nu.production,8,Card,745,2.865771812080537
+com.nu.production,8,Investimento,206,2.679611650485437
+com.nu.production,8,Cartão,745,2.865771812080537
 com.nu.production,8,Token,7,4.571428571428571
-com.nu.production,8,Virtual card,15,3
-com.nu.production,8,Generic compliment,10180,4.894891944990177
-com.nu.production,8,Notifications,48,2.4583333333333335
-com.nu.production,8,Invoice,343,2.5830903790087465
-com.nu.production,8,Usability,950,4.761052631578948
-com.nu.production,8,Rewards program,18,2.1666666666666665
-com.nu.production,8,Customer service,557,3.9281867145421905
-com.nu.production,8,Update,182,2.32967032967033
+com.nu.production,8,Cartão virtual,15,3
+com.nu.production,8,Elogio genérico,10180,4.894891944990177
+com.nu.production,8,Notificações,48,2.4583333333333335
+com.nu.production,8,Fatura,343,2.5830903790087465
+com.nu.production,8,Usabilidade,950,4.761052631578948
+com.nu.production,8,Programa de recompensas,18,2.1666666666666665
+com.nu.production,8,Atendimento ao cliente,557,3.9281867145421905
+com.nu.production,8,Atualização,182,2.32967032967033
 com.nu.production,9,,31,4.096774193548387
-com.nu.production,9,Rewards program,26,2.4615384615384617
-com.nu.production,9,Card,610,2.762295081967213
+com.nu.production,9,Programa de recompensas,26,2.4615384615384617
+com.nu.production,9,Cartão,610,2.762295081967213
 com.nu.production,9,,652,3.8849693251533743
-com.nu.production,9,Generic complaint,1627,3.102642901044868
-com.nu.production,9,Notifications,32,2.9375
-com.nu.production,9,Registration,136,2.1176470588235294
-com.nu.production,9,Usability,751,4.7163781624500665
+com.nu.production,9,Reclamação genérica,1627,3.102642901044868
+com.nu.production,9,Notificações,32,2.9375
+com.nu.production,9,Cadastro/Registro,136,2.1176470588235294
+com.nu.production,9,Usabilidade,751,4.7163781624500665
 com.nu.production,9,Token,11,3.8181818181818183
-com.nu.production,9,Virtual card,18,3.6666666666666665
-com.nu.production,9,Investiment,217,2.6129032258064515
-com.nu.production,9,Customer service,435,3.8229885057471265
-com.nu.production,9,Performance,352,1.9971590909090908
-com.nu.production,9,Invoice,322,2.5745341614906834
-com.nu.production,9,Login,1549,2.1245965138799225
-com.nu.production,9,Update,381,2.120734908136483
-com.nu.production,9,Generic compliment,7708,4.895303580695382
-com.nu.production,10,Invoice,305,2.439344262295082
-com.nu.production,10,Investiment,203,2.3004926108374386
+com.nu.production,9,Cartão virtual,18,3.6666666666666665
+com.nu.production,9,Investimento,217,2.6129032258064515
+com.nu.production,9,Atendimento ao cliente,435,3.8229885057471265
+com.nu.production,9,Desempenho,352,1.9971590909090908
+com.nu.production,9,Fatura,322,2.5745341614906834
+com.nu.production,9,Acesso/Login,1549,2.1245965138799225
+com.nu.production,9,Atualização,381,2.120734908136483
+com.nu.production,9,Elogio genérico,7708,4.895303580695382
+com.nu.production,10,Fatura,305,2.439344262295082
+com.nu.production,10,Investimento,203,2.3004926108374386
 com.nu.production,10,,27,3.5555555555555554
-com.nu.production,10,Customer service,426,3.6619718309859155
-com.nu.production,10,Virtual card,17,3.8823529411764706
-com.nu.production,10,Registration,129,1.813953488372093
-com.nu.production,10,Generic compliment,7715,4.88049254698639
+com.nu.production,10,Atendimento ao cliente,426,3.6619718309859155
+com.nu.production,10,Cartão virtual,17,3.8823529411764706
+com.nu.production,10,Cadastro/Registro,129,1.813953488372093
+com.nu.production,10,Elogio genérico,7715,4.88049254698639
 com.nu.production,10,Token,7,2.7142857142857144
-com.nu.production,10,Performance,323,2.021671826625387
-com.nu.production,10,Rewards program,27,3.074074074074074
-com.nu.production,10,Login,1135,2.081938325991189
-com.nu.production,10,Update,328,2.332317073170732
-com.nu.production,10,Generic complaint,1512,3.1997354497354498
+com.nu.production,10,Desempenho,323,2.021671826625387
+com.nu.production,10,Programa de recompensas,27,3.074074074074074
+com.nu.production,10,Acesso/Login,1135,2.081938325991189
+com.nu.production,10,Atualização,328,2.332317073170732
+com.nu.production,10,Reclamação genérica,1512,3.1997354497354498
 com.nu.production,10,,607,3.973640856672158
-com.nu.production,10,Notifications,33,2.696969696969697
-com.nu.production,10,Usability,757,4.71994715984148
-com.nu.production,10,Card,570,2.712280701754386
+com.nu.production,10,Notificações,33,2.696969696969697
+com.nu.production,10,Usabilidade,757,4.71994715984148
+com.nu.production,10,Cartão,570,2.712280701754386
 com.nu.production,11,,739,4.125845737483085
-com.nu.production,11,Login,590,2.3915254237288135
+com.nu.production,11,Acesso/Login,590,2.3915254237288135
 com.nu.production,11,Token,13,4.153846153846154
-com.nu.production,11,Update,161,2.459627329192547
-com.nu.production,11,Investiment,197,2.761421319796954
-com.nu.production,11,Customer service,496,4.01008064516129
-com.nu.production,11,Rewards program,20,3.25
-com.nu.production,11,Invoice,302,2.7913907284768213
-com.nu.production,11,Generic complaint,1750,3.4497142857142857
-com.nu.production,11,Generic compliment,10075,4.8960794044665015
+com.nu.production,11,Atualização,161,2.459627329192547
+com.nu.production,11,Investimento,197,2.761421319796954
+com.nu.production,11,Atendimento ao cliente,496,4.01008064516129
+com.nu.production,11,Programa de recompensas,20,3.25
+com.nu.production,11,Fatura,302,2.7913907284768213
+com.nu.production,11,Reclamação genérica,1750,3.4497142857142857
+com.nu.production,11,Elogio genérico,10075,4.8960794044665015
 com.nu.production,11,,45,4
-com.nu.production,11,Notifications,35,2.742857142857143
-com.nu.production,11,Card,687,2.8049490538573507
-com.nu.production,11,Registration,112,1.8571428571428572
-com.nu.production,11,Usability,984,4.82520325203252
-com.nu.production,11,Performance,294,2.4115646258503403
-com.nu.production,11,Virtual card,16,3.125
-com.nu.production,12,Generic compliment,7423,4.890610265391351
-com.nu.production,12,Invoice,271,2.6826568265682655
-com.nu.production,12,Performance,279,2.197132616487455
+com.nu.production,11,Notificações,35,2.742857142857143
+com.nu.production,11,Cartão,687,2.8049490538573507
+com.nu.production,11,Cadastro/Registro,112,1.8571428571428572
+com.nu.production,11,Usabilidade,984,4.82520325203252
+com.nu.production,11,Desempenho,294,2.4115646258503403
+com.nu.production,11,Cartão virtual,16,3.125
+com.nu.production,12,Elogio genérico,7423,4.890610265391351
+com.nu.production,12,Fatura,271,2.6826568265682655
+com.nu.production,12,Desempenho,279,2.197132616487455
 com.nu.production,12,,46,3.9130434782608696
-com.nu.production,12,Login,832,2.2908653846153846
-com.nu.production,12,Update,199,2.4120603015075375
-com.nu.production,12,Investiment,157,2.6178343949044587
-com.nu.production,12,Usability,666,4.773273273273273
-com.nu.production,12,Card,563,2.7158081705150976
+com.nu.production,12,Acesso/Login,832,2.2908653846153846
+com.nu.production,12,Atualização,199,2.4120603015075375
+com.nu.production,12,Investimento,157,2.6178343949044587
+com.nu.production,12,Usabilidade,666,4.773273273273273
+com.nu.production,12,Cartão,563,2.7158081705150976
 com.nu.production,12,Token,7,4.285714285714286
-com.nu.production,12,Rewards program,25,2.84
-com.nu.production,12,Virtual card,9,3.3333333333333335
-com.nu.production,12,Generic complaint,1260,3.31984126984127
+com.nu.production,12,Programa de recompensas,25,2.84
+com.nu.production,12,Cartão virtual,9,3.3333333333333335
+com.nu.production,12,Reclamação genérica,1260,3.31984126984127
 com.nu.production,12,,563,4.145648312611012
-com.nu.production,12,Registration,110,2.1272727272727274
-com.nu.production,12,Customer service,425,3.9529411764705884
-com.nu.production,12,Notifications,25,2.44
-com.shopee.br,1,Generic compliment,53463,4.940070703103081
-com.shopee.br,1,Login,395,2.8531645569620254
-com.shopee.br,1,Delivery,2442,3.3931203931203933
-com.shopee.br,1,Usability,5027,4.845235727073802
-com.shopee.br,1,Product,1664,3.8876201923076925
+com.nu.production,12,Cadastro/Registro,110,2.1272727272727274
+com.nu.production,12,Atendimento ao cliente,425,3.9529411764705884
+com.nu.production,12,Notificações,25,2.44
+com.shopee.br,1,Elogio genérico,53463,4.940070703103081
+com.shopee.br,1,Acesso/Login,395,2.8531645569620254
+com.shopee.br,1,Entrega,2442,3.3931203931203933
+com.shopee.br,1,Usabilidade,5027,4.845235727073802
+com.shopee.br,1,Produto,1664,3.8876201923076925
 com.shopee.br,1,,174,4.827586206896552
-com.shopee.br,1,Customer service,5324,4.550901577761082
+com.shopee.br,1,Atendimento ao cliente,5324,4.550901577761082
 com.shopee.br,1,,3254,4.546711739397664
-com.shopee.br,1,Performance,1071,3.723622782446312
-com.shopee.br,1,Generic complaint,3027,4.417905517013545
-com.shopee.br,1,Discount,1267,3.841357537490134
-com.shopee.br,1,Payment,1022,3.1702544031311155
-com.shopee.br,1,Purchase,2870,3.9198606271777003
-com.shopee.br,2,Purchase,1147,3.882301656495205
-com.shopee.br,2,Customer service,2500,4.5728
-com.shopee.br,2,Generic compliment,24767,4.930552751645335
-com.shopee.br,2,Performance,452,3.559734513274336
-com.shopee.br,2,Login,224,2.5669642857142856
+com.shopee.br,1,Desempenho,1071,3.723622782446312
+com.shopee.br,1,Reclamação genérica,3027,4.417905517013545
+com.shopee.br,1,Desconto,1267,3.841357537490134
+com.shopee.br,1,Pagamento,1022,3.1702544031311155
+com.shopee.br,1,Compra/Pedido,2870,3.9198606271777003
+com.shopee.br,2,Compra/Pedido,1147,3.882301656495205
+com.shopee.br,2,Atendimento ao cliente,2500,4.5728
+com.shopee.br,2,Elogio genérico,24767,4.930552751645335
+com.shopee.br,2,Desempenho,452,3.559734513274336
+com.shopee.br,2,Acesso/Login,224,2.5669642857142856
 com.shopee.br,2,,782,4.381074168797954
-com.shopee.br,2,Generic complaint,1415,4.337809187279152
-com.shopee.br,2,Delivery,1025,3.2897560975609754
-com.shopee.br,2,Usability,2176,4.846507352941177
-com.shopee.br,2,Payment,420,3.0023809523809524
-com.shopee.br,2,Product,695,3.647482014388489
-com.shopee.br,2,Discount,612,3.593137254901961
+com.shopee.br,2,Reclamação genérica,1415,4.337809187279152
+com.shopee.br,2,Entrega,1025,3.2897560975609754
+com.shopee.br,2,Usabilidade,2176,4.846507352941177
+com.shopee.br,2,Pagamento,420,3.0023809523809524
+com.shopee.br,2,Produto,695,3.647482014388489
+com.shopee.br,2,Desconto,612,3.593137254901961
 com.shopee.br,2,,95,4.463157894736842
-com.shopee.br,3,Payment,241,2.8464730290456433
+com.shopee.br,3,Pagamento,241,2.8464730290456433
 com.shopee.br,3,,68,4.735294117647059
-com.shopee.br,3,Performance,233,3.4377682403433476
+com.shopee.br,3,Desempenho,233,3.4377682403433476
 com.shopee.br,3,,395,4.3544303797468356
-com.shopee.br,3,Generic compliment,10883,4.929798768721859
-com.shopee.br,3,Delivery,412,3.296116504854369
-com.shopee.br,3,Product,306,3.7058823529411766
-com.shopee.br,3,Generic complaint,621,4.268921095008052
-com.shopee.br,3,Purchase,525,3.664761904761905
-com.shopee.br,3,Usability,962,4.794178794178794
-com.shopee.br,3,Discount,296,3.7364864864864864
-com.shopee.br,3,Login,106,2.358490566037736
-com.shopee.br,3,Customer service,1092,4.539377289377289
-com.shopee.br,4,Generic compliment,10090,4.936570862239841
+com.shopee.br,3,Elogio genérico,10883,4.929798768721859
+com.shopee.br,3,Entrega,412,3.296116504854369
+com.shopee.br,3,Produto,306,3.7058823529411766
+com.shopee.br,3,Reclamação genérica,621,4.268921095008052
+com.shopee.br,3,Compra/Pedido,525,3.664761904761905
+com.shopee.br,3,Usabilidade,962,4.794178794178794
+com.shopee.br,3,Desconto,296,3.7364864864864864
+com.shopee.br,3,Acesso/Login,106,2.358490566037736
+com.shopee.br,3,Atendimento ao cliente,1092,4.539377289377289
+com.shopee.br,4,Elogio genérico,10090,4.936570862239841
 com.shopee.br,4,,315,4.333333333333333
 com.shopee.br,4,,99,4.808080808080808
-com.shopee.br,4,Discount,316,3.2468354430379747
-com.shopee.br,4,Customer service,984,4.526422764227642
-com.shopee.br,4,Delivery,398,3.1959798994974875
-com.shopee.br,4,Product,299,3.6020066889632107
-com.shopee.br,4,Generic complaint,563,4.319715808170515
-com.shopee.br,4,Purchase,543,3.561694290976059
-com.shopee.br,4,Performance,261,3.260536398467433
-com.shopee.br,4,Payment,178,3.056179775280899
-com.shopee.br,4,Login,129,2.627906976744186
-com.shopee.br,4,Usability,920,4.770652173913043
-com.shopee.br,5,Payment,173,3.0289017341040463
-com.shopee.br,5,Purchase,569,3.704745166959578
-com.shopee.br,5,Product,311,3.6688102893890675
-com.shopee.br,5,Customer service,1000,4.601
+com.shopee.br,4,Desconto,316,3.2468354430379747
+com.shopee.br,4,Atendimento ao cliente,984,4.526422764227642
+com.shopee.br,4,Entrega,398,3.1959798994974875
+com.shopee.br,4,Produto,299,3.6020066889632107
+com.shopee.br,4,Reclamação genérica,563,4.319715808170515
+com.shopee.br,4,Compra/Pedido,543,3.561694290976059
+com.shopee.br,4,Desempenho,261,3.260536398467433
+com.shopee.br,4,Pagamento,178,3.056179775280899
+com.shopee.br,4,Acesso/Login,129,2.627906976744186
+com.shopee.br,4,Usabilidade,920,4.770652173913043
+com.shopee.br,5,Pagamento,173,3.0289017341040463
+com.shopee.br,5,Compra/Pedido,569,3.704745166959578
+com.shopee.br,5,Produto,311,3.6688102893890675
+com.shopee.br,5,Atendimento ao cliente,1000,4.601
 com.shopee.br,5,,41,4.7317073170731705
-com.shopee.br,5,Performance,198,3.2474747474747474
+com.shopee.br,5,Desempenho,198,3.2474747474747474
 com.shopee.br,5,,359,4.350974930362117
-com.shopee.br,5,Delivery,381,3.3307086614173227
-com.shopee.br,5,Generic compliment,10633,4.940562400075238
-com.shopee.br,5,Generic complaint,587,4.531516183986372
-com.shopee.br,5,Usability,927,4.818770226537217
-com.shopee.br,5,Discount,245,3.5142857142857142
-com.shopee.br,5,Login,122,2.442622950819672
-com.shopee.br,6,Payment,417,3.2182254196642686
-com.shopee.br,6,Performance,547,3.2193784277879343
-com.shopee.br,6,Generic compliment,23775,4.94018927444795
-com.shopee.br,6,Generic complaint,1255,4.435059760956175
-com.shopee.br,6,Usability,2191,4.841624828845276
-com.shopee.br,6,Login,239,2.506276150627615
-com.shopee.br,6,Product,654,3.7339449541284404
-com.shopee.br,6,Purchase,1210,3.9421487603305785
-com.shopee.br,6,Customer service,2291,4.5914447839371455
-com.shopee.br,6,Delivery,866,3.371824480369515
+com.shopee.br,5,Entrega,381,3.3307086614173227
+com.shopee.br,5,Elogio genérico,10633,4.940562400075238
+com.shopee.br,5,Reclamação genérica,587,4.531516183986372
+com.shopee.br,5,Usabilidade,927,4.818770226537217
+com.shopee.br,5,Desconto,245,3.5142857142857142
+com.shopee.br,5,Acesso/Login,122,2.442622950819672
+com.shopee.br,6,Pagamento,417,3.2182254196642686
+com.shopee.br,6,Desempenho,547,3.2193784277879343
+com.shopee.br,6,Elogio genérico,23775,4.94018927444795
+com.shopee.br,6,Reclamação genérica,1255,4.435059760956175
+com.shopee.br,6,Usabilidade,2191,4.841624828845276
+com.shopee.br,6,Acesso/Login,239,2.506276150627615
+com.shopee.br,6,Produto,654,3.7339449541284404
+com.shopee.br,6,Compra/Pedido,1210,3.9421487603305785
+com.shopee.br,6,Atendimento ao cliente,2291,4.5914447839371455
+com.shopee.br,6,Entrega,866,3.371824480369515
 com.shopee.br,6,,81,4.753086419753086
 com.shopee.br,6,,1084,4.527675276752768
-com.shopee.br,6,Discount,530,3.8169811320754716
-com.shopee.br,7,Performance,546,3.5238095238095237
-com.shopee.br,7,Payment,500,3.21
-com.shopee.br,7,Delivery,1099,3.4740673339399453
-com.shopee.br,7,Product,737,3.8412483039348713
-com.shopee.br,7,Login,320,2.5125
-com.shopee.br,7,Generic complaint,1673,4.436939629408249
-com.shopee.br,7,Discount,622,3.8810289389067525
-com.shopee.br,7,Generic compliment,30856,4.94318771065595
+com.shopee.br,6,Desconto,530,3.8169811320754716
+com.shopee.br,7,Desempenho,546,3.5238095238095237
+com.shopee.br,7,Pagamento,500,3.21
+com.shopee.br,7,Entrega,1099,3.4740673339399453
+com.shopee.br,7,Produto,737,3.8412483039348713
+com.shopee.br,7,Acesso/Login,320,2.5125
+com.shopee.br,7,Reclamação genérica,1673,4.436939629408249
+com.shopee.br,7,Desconto,622,3.8810289389067525
+com.shopee.br,7,Elogio genérico,30856,4.94318771065595
 com.shopee.br,7,,1645,4.612158054711246
-com.shopee.br,7,Customer service,3021,4.609731876861966
-com.shopee.br,7,Purchase,1440,3.888888888888889
+com.shopee.br,7,Atendimento ao cliente,3021,4.609731876861966
+com.shopee.br,7,Compra/Pedido,1440,3.888888888888889
 com.shopee.br,7,,107,4.794392523364486
-com.shopee.br,7,Usability,2818,4.848119233498935
-com.shopee.br,8,Login,277,2.5992779783393503
-com.shopee.br,8,Performance,536,3.328358208955224
-com.shopee.br,8,Generic complaint,1312,4.411585365853658
-com.shopee.br,8,Generic compliment,25193,4.944429008057794
-com.shopee.br,8,Purchase,1278,3.86697965571205
-com.shopee.br,8,Discount,553,3.7233273056057867
+com.shopee.br,7,Usabilidade,2818,4.848119233498935
+com.shopee.br,8,Acesso/Login,277,2.5992779783393503
+com.shopee.br,8,Desempenho,536,3.328358208955224
+com.shopee.br,8,Reclamação genérica,1312,4.411585365853658
+com.shopee.br,8,Elogio genérico,25193,4.944429008057794
+com.shopee.br,8,Compra/Pedido,1278,3.86697965571205
+com.shopee.br,8,Desconto,553,3.7233273056057867
 com.shopee.br,8,,81,4.864197530864198
-com.shopee.br,8,Delivery,872,3.3910550458715596
-com.shopee.br,8,Payment,547,3.082266910420475
-com.shopee.br,8,Customer service,2474,4.568310428455942
-com.shopee.br,8,Product,662,3.800604229607251
+com.shopee.br,8,Entrega,872,3.3910550458715596
+com.shopee.br,8,Pagamento,547,3.082266910420475
+com.shopee.br,8,Atendimento ao cliente,2474,4.568310428455942
+com.shopee.br,8,Produto,662,3.800604229607251
 com.shopee.br,8,,750,4.386666666666667
-com.shopee.br,8,Usability,2432,4.8359375
-com.shopee.br,9,Discount,588,3.989795918367347
-com.shopee.br,9,Purchase,1339,3.9596713965646004
-com.shopee.br,9,Generic complaint,1440,4.454861111111111
-com.shopee.br,9,Performance,465,3.372043010752688
-com.shopee.br,9,Usability,2746,4.871449380917698
-com.shopee.br,9,Customer service,2772,4.608585858585859
-com.shopee.br,9,Login,263,2.596958174904943
+com.shopee.br,8,Usabilidade,2432,4.8359375
+com.shopee.br,9,Desconto,588,3.989795918367347
+com.shopee.br,9,Compra/Pedido,1339,3.9596713965646004
+com.shopee.br,9,Reclamação genérica,1440,4.454861111111111
+com.shopee.br,9,Desempenho,465,3.372043010752688
+com.shopee.br,9,Usabilidade,2746,4.871449380917698
+com.shopee.br,9,Atendimento ao cliente,2772,4.608585858585859
+com.shopee.br,9,Acesso/Login,263,2.596958174904943
 com.shopee.br,9,,87,4.724137931034483
 com.shopee.br,9,,1251,4.5603517186251
-com.shopee.br,9,Payment,514,3.245136186770428
-com.shopee.br,9,Generic compliment,27660,4.95119305856833
-com.shopee.br,9,Product,728,3.927197802197802
-com.shopee.br,9,Delivery,895,3.6279329608938546
-com.shopee.br,10,Generic compliment,33792,4.9499289772727275
-com.shopee.br,10,Customer service,3472,4.685771889400922
-com.shopee.br,10,Usability,3143,4.86032453070315
-com.shopee.br,10,Product,780,3.953846153846154
-com.shopee.br,10,Login,264,2.9393939393939394
-com.shopee.br,10,Discount,697,3.903873744619799
+com.shopee.br,9,Pagamento,514,3.245136186770428
+com.shopee.br,9,Elogio genérico,27660,4.95119305856833
+com.shopee.br,9,Produto,728,3.927197802197802
+com.shopee.br,9,Entrega,895,3.6279329608938546
+com.shopee.br,10,Elogio genérico,33792,4.9499289772727275
+com.shopee.br,10,Atendimento ao cliente,3472,4.685771889400922
+com.shopee.br,10,Usabilidade,3143,4.86032453070315
+com.shopee.br,10,Produto,780,3.953846153846154
+com.shopee.br,10,Acesso/Login,264,2.9393939393939394
+com.shopee.br,10,Desconto,697,3.903873744619799
 com.shopee.br,10,,1000,4.281
-com.shopee.br,10,Performance,531,3.623352165725047
-com.shopee.br,10,Payment,593,3.215851602023609
-com.shopee.br,10,Purchase,1481,4.112086428089129
-com.shopee.br,10,Generic complaint,1758,4.500568828213879
+com.shopee.br,10,Desempenho,531,3.623352165725047
+com.shopee.br,10,Pagamento,593,3.215851602023609
+com.shopee.br,10,Compra/Pedido,1481,4.112086428089129
+com.shopee.br,10,Reclamação genérica,1758,4.500568828213879
 com.shopee.br,10,,92,4.717391304347826
-com.shopee.br,10,Delivery,950,3.718947368421053
+com.shopee.br,10,Entrega,950,3.718947368421053
 com.shopee.br,11,,95,4.8
-com.shopee.br,11,Delivery,978,3.6267893660531696
-com.shopee.br,11,Usability,3149,4.870117497618292
-com.shopee.br,11,Generic compliment,31641,4.952308713378212
+com.shopee.br,11,Entrega,978,3.6267893660531696
+com.shopee.br,11,Usabilidade,3149,4.870117497618292
+com.shopee.br,11,Elogio genérico,31641,4.952308713378212
 com.shopee.br,11,,975,4.4451282051282055
-com.shopee.br,11,Discount,743,3.8963660834454914
-com.shopee.br,11,Purchase,1425,4.132631578947368
-com.shopee.br,11,Performance,495,3.7737373737373736
-com.shopee.br,11,Generic complaint,1633,4.503980404164115
-com.shopee.br,11,Customer service,3331,4.652356649654759
-com.shopee.br,11,Payment,528,3.4015151515151514
-com.shopee.br,11,Login,267,2.764044943820225
-com.shopee.br,11,Product,761,3.943495400788436
+com.shopee.br,11,Desconto,743,3.8963660834454914
+com.shopee.br,11,Compra/Pedido,1425,4.132631578947368
+com.shopee.br,11,Desempenho,495,3.7737373737373736
+com.shopee.br,11,Reclamação genérica,1633,4.503980404164115
+com.shopee.br,11,Atendimento ao cliente,3331,4.652356649654759
+com.shopee.br,11,Pagamento,528,3.4015151515151514
+com.shopee.br,11,Acesso/Login,267,2.764044943820225
+com.shopee.br,11,Produto,761,3.943495400788436
 com.shopee.br,12,,612,4.753267973856209
-com.shopee.br,12,Generic compliment,33332,4.949567982719309
-com.shopee.br,12,Performance,494,3.7874493927125505
-com.shopee.br,12,Login,186,3.172043010752688
-com.shopee.br,12,Purchase,1560,4.057051282051282
-com.shopee.br,12,Delivery,1303,3.3860322333077515
-com.shopee.br,12,Payment,510,3.4411764705882355
-com.shopee.br,12,Usability,3479,4.88876113825812
-com.shopee.br,12,Customer service,3637,4.670607643662359
-com.shopee.br,12,Product,861,3.8687572590011614
-com.shopee.br,12,Generic complaint,1680,4.467261904761905
+com.shopee.br,12,Elogio genérico,33332,4.949567982719309
+com.shopee.br,12,Desempenho,494,3.7874493927125505
+com.shopee.br,12,Acesso/Login,186,3.172043010752688
+com.shopee.br,12,Compra/Pedido,1560,4.057051282051282
+com.shopee.br,12,Entrega,1303,3.3860322333077515
+com.shopee.br,12,Pagamento,510,3.4411764705882355
+com.shopee.br,12,Usabilidade,3479,4.88876113825812
+com.shopee.br,12,Atendimento ao cliente,3637,4.670607643662359
+com.shopee.br,12,Produto,861,3.8687572590011614
+com.shopee.br,12,Reclamação genérica,1680,4.467261904761905
 com.shopee.br,12,,1020,4.4450980392156865
-com.shopee.br,12,Discount,701,3.8459343794579173
-com.ubercab,1,Servicess,519,2.51252408477842
+com.shopee.br,12,Desconto,701,3.8459343794579173
+com.ubercab,1,Serviços,519,2.51252408477842
 com.ubercab,1,,56,4.535714285714286
-com.ubercab,1,Usability,958,4.8789144050104385
-com.ubercab,1,Login,855,2.08187134502924
-com.ubercab,1,Customer service,1758,3.7866894197952217
-com.ubercab,1,Features,776,2.1597938144329896
+com.ubercab,1,Usabilidade,958,4.8789144050104385
+com.ubercab,1,Acesso/Login,855,2.08187134502924
+com.ubercab,1,Atendimento ao cliente,1758,3.7866894197952217
+com.ubercab,1,Funcionalidades,776,2.1597938144329896
 com.ubercab,1,,808,3.9443069306930694
-com.ubercab,1,Generic complaint,2325,3.12
-com.ubercab,1,Performance,800,2.15625
-com.ubercab,1,Charging,834,1.9040767386091126
-com.ubercab,1,Generic compliment,12335,4.931738954195379
-com.ubercab,2,Generic compliment,8255,4.926226529376136
-com.ubercab,2,Features,439,2.0478359908883825
-com.ubercab,2,Performance,431,2.2088167053364267
-com.ubercab,2,Usability,567,4.881834215167548
-com.ubercab,2,Login,525,2.0285714285714285
-com.ubercab,2,Charging,413,1.9588377723970944
-com.ubercab,2,Servicess,332,2.7439759036144578
-com.ubercab,2,Customer service,1110,3.890990990990991
+com.ubercab,1,Reclamação genérica,2325,3.12
+com.ubercab,1,Desempenho,800,2.15625
+com.ubercab,1,Cobrança,834,1.9040767386091126
+com.ubercab,1,Elogio genérico,12335,4.931738954195379
+com.ubercab,2,Elogio genérico,8255,4.926226529376136
+com.ubercab,2,Funcionalidades,439,2.0478359908883825
+com.ubercab,2,Desempenho,431,2.2088167053364267
+com.ubercab,2,Usabilidade,567,4.881834215167548
+com.ubercab,2,Acesso/Login,525,2.0285714285714285
+com.ubercab,2,Cobrança,413,1.9588377723970944
+com.ubercab,2,Serviços,332,2.7439759036144578
+com.ubercab,2,Atendimento ao cliente,1110,3.890990990990991
 com.ubercab,2,,34,4.235294117647059
 com.ubercab,2,,359,3.84958217270195
-com.ubercab,2,Generic complaint,1512,3.183201058201058
-com.ubercab,3,Charging,501,1.8243512974051896
-com.ubercab,3,Usability,537,4.834264432029795
-com.ubercab,3,Generic compliment,7388,4.926367081754196
+com.ubercab,2,Reclamação genérica,1512,3.183201058201058
+com.ubercab,3,Cobrança,501,1.8243512974051896
+com.ubercab,3,Usabilidade,537,4.834264432029795
+com.ubercab,3,Elogio genérico,7388,4.926367081754196
 com.ubercab,3,,712,4.264044943820225
 com.ubercab,3,,25,4.6
-com.ubercab,3,Performance,562,2.2455516014234878
-com.ubercab,3,Features,502,1.9342629482071714
-com.ubercab,3,Generic complaint,1471,2.940176750509857
-com.ubercab,3,Customer service,1111,3.6417641764176416
-com.ubercab,3,Login,680,1.9544117647058823
-com.ubercab,3,Servicess,388,2.304123711340206
-com.ubercab,4,Login,650,1.8784615384615384
-com.ubercab,4,Performance,558,2.0376344086021505
-com.ubercab,4,Features,505,1.9722772277227723
-com.ubercab,4,Generic complaint,1285,2.9883268482490273
-com.ubercab,4,Customer service,1038,3.6396917148362236
-com.ubercab,4,Charging,467,1.8436830835117772
-com.ubercab,4,Servicess,329,2.316109422492401
-com.ubercab,4,Usability,513,4.87719298245614
+com.ubercab,3,Desempenho,562,2.2455516014234878
+com.ubercab,3,Funcionalidades,502,1.9342629482071714
+com.ubercab,3,Reclamação genérica,1471,2.940176750509857
+com.ubercab,3,Atendimento ao cliente,1111,3.6417641764176416
+com.ubercab,3,Acesso/Login,680,1.9544117647058823
+com.ubercab,3,Serviços,388,2.304123711340206
+com.ubercab,4,Acesso/Login,650,1.8784615384615384
+com.ubercab,4,Desempenho,558,2.0376344086021505
+com.ubercab,4,Funcionalidades,505,1.9722772277227723
+com.ubercab,4,Reclamação genérica,1285,2.9883268482490273
+com.ubercab,4,Atendimento ao cliente,1038,3.6396917148362236
+com.ubercab,4,Cobrança,467,1.8436830835117772
+com.ubercab,4,Serviços,329,2.316109422492401
+com.ubercab,4,Usabilidade,513,4.87719298245614
 com.ubercab,4,,30,4.566666666666666
 com.ubercab,4,,782,4.364450127877238
-com.ubercab,4,Generic compliment,6581,4.92098465278833
-com.ubercab,5,Generic compliment,6895,4.917766497461929
-com.ubercab,5,Charging,488,1.7540983606557377
-com.ubercab,5,Login,709,1.8702397743300423
-com.ubercab,5,Customer service,1118,3.400715563506261
-com.ubercab,5,Usability,526,4.866920152091255
+com.ubercab,4,Elogio genérico,6581,4.92098465278833
+com.ubercab,5,Elogio genérico,6895,4.917766497461929
+com.ubercab,5,Cobrança,488,1.7540983606557377
+com.ubercab,5,Acesso/Login,709,1.8702397743300423
+com.ubercab,5,Atendimento ao cliente,1118,3.400715563506261
+com.ubercab,5,Usabilidade,526,4.866920152091255
 com.ubercab,5,,328,3.5060975609756095
-com.ubercab,5,Features,579,1.9447322970639034
-com.ubercab,5,Generic complaint,1529,2.9025506867233486
+com.ubercab,5,Funcionalidades,579,1.9447322970639034
+com.ubercab,5,Reclamação genérica,1529,2.9025506867233486
 com.ubercab,5,,20,3.85
-com.ubercab,5,Performance,527,1.8994307400379506
-com.ubercab,5,Servicess,374,2.4251336898395723
-com.ubercab,6,Performance,548,2.021897810218978
-com.ubercab,6,Usability,557,4.861759425493716
+com.ubercab,5,Desempenho,527,1.8994307400379506
+com.ubercab,5,Serviços,374,2.4251336898395723
+com.ubercab,6,Desempenho,548,2.021897810218978
+com.ubercab,6,Usabilidade,557,4.861759425493716
 com.ubercab,6,,33,4.575757575757576
-com.ubercab,6,Charging,499,1.8837675350701404
+com.ubercab,6,Cobrança,499,1.8837675350701404
 com.ubercab,6,,545,4.133944954128441
-com.ubercab,6,Customer service,1144,3.4895104895104896
-com.ubercab,6,Login,700,1.87
-com.ubercab,6,Generic compliment,7432,4.922766415500538
-com.ubercab,6,Servicess,354,2.310734463276836
-com.ubercab,6,Features,532,1.9718045112781954
-com.ubercab,6,Generic complaint,1414,2.975954738330976
+com.ubercab,6,Atendimento ao cliente,1144,3.4895104895104896
+com.ubercab,6,Acesso/Login,700,1.87
+com.ubercab,6,Elogio genérico,7432,4.922766415500538
+com.ubercab,6,Serviços,354,2.310734463276836
+com.ubercab,6,Funcionalidades,532,1.9718045112781954
+com.ubercab,6,Reclamação genérica,1414,2.975954738330976
 com.ubercab,7,,372,3.7688172043010755
-com.ubercab,7,Charging,524,1.7232824427480915
-com.ubercab,7,Features,515,1.970873786407767
-com.ubercab,7,Customer service,1163,3.767841788478074
-com.ubercab,7,Generic compliment,7552,4.930614406779661
+com.ubercab,7,Cobrança,524,1.7232824427480915
+com.ubercab,7,Funcionalidades,515,1.970873786407767
+com.ubercab,7,Atendimento ao cliente,1163,3.767841788478074
+com.ubercab,7,Elogio genérico,7552,4.930614406779661
 com.ubercab,7,,31,4.709677419354839
-com.ubercab,7,Login,626,1.9808306709265175
-com.ubercab,7,Servicess,338,2.239644970414201
-com.ubercab,7,Performance,550,2.1054545454545455
-com.ubercab,7,Generic complaint,1306,3.094180704441041
-com.ubercab,7,Usability,576,4.859375
-com.ubercab,8,Generic compliment,7128,4.927328843995511
-com.ubercab,8,Performance,460,2.1826086956521737
-com.ubercab,8,Generic complaint,1228,3.211726384364821
-com.ubercab,8,Features,500,2.004
-com.ubercab,8,Login,577,1.9428076256499134
+com.ubercab,7,Acesso/Login,626,1.9808306709265175
+com.ubercab,7,Serviços,338,2.239644970414201
+com.ubercab,7,Desempenho,550,2.1054545454545455
+com.ubercab,7,Reclamação genérica,1306,3.094180704441041
+com.ubercab,7,Usabilidade,576,4.859375
+com.ubercab,8,Elogio genérico,7128,4.927328843995511
+com.ubercab,8,Desempenho,460,2.1826086956521737
+com.ubercab,8,Reclamação genérica,1228,3.211726384364821
+com.ubercab,8,Funcionalidades,500,2.004
+com.ubercab,8,Acesso/Login,577,1.9428076256499134
 com.ubercab,8,,28,4.714285714285714
-com.ubercab,8,Charging,569,1.6291739894551844
+com.ubercab,8,Cobrança,569,1.6291739894551844
 com.ubercab,8,,345,3.8550724637681157
-com.ubercab,8,Usability,517,4.854932301740813
-com.ubercab,8,Customer service,1120,3.585714285714286
-com.ubercab,8,Servicess,336,2.294642857142857
+com.ubercab,8,Usabilidade,517,4.854932301740813
+com.ubercab,8,Atendimento ao cliente,1120,3.585714285714286
+com.ubercab,8,Serviços,336,2.294642857142857
 com.ubercab,9,,24,4.375
-com.ubercab,9,Generic complaint,1296,3.070216049382716
-com.ubercab,9,Servicess,372,2.3844086021505375
-com.ubercab,9,Performance,442,2.2126696832579187
-com.ubercab,9,Login,596,1.9479865771812082
-com.ubercab,9,Generic compliment,6659,4.93542573960054
-com.ubercab,9,Features,534,2.0767790262172285
-com.ubercab,9,Charging,512,1.740234375
-com.ubercab,9,Customer service,1071,3.5275443510737627
+com.ubercab,9,Reclamação genérica,1296,3.070216049382716
+com.ubercab,9,Serviços,372,2.3844086021505375
+com.ubercab,9,Desempenho,442,2.2126696832579187
+com.ubercab,9,Acesso/Login,596,1.9479865771812082
+com.ubercab,9,Elogio genérico,6659,4.93542573960054
+com.ubercab,9,Funcionalidades,534,2.0767790262172285
+com.ubercab,9,Cobrança,512,1.740234375
+com.ubercab,9,Atendimento ao cliente,1071,3.5275443510737627
 com.ubercab,9,,350,3.7
-com.ubercab,9,Usability,467,4.869379014989294
-com.ubercab,10,Servicess,367,2.1498637602179835
-com.ubercab,10,Generic complaint,1229,2.935720097640358
+com.ubercab,9,Usabilidade,467,4.869379014989294
+com.ubercab,10,Serviços,367,2.1498637602179835
+com.ubercab,10,Reclamação genérica,1229,2.935720097640358
 com.ubercab,10,,25,4.52
-com.ubercab,10,Performance,494,1.9959514170040487
+com.ubercab,10,Desempenho,494,1.9959514170040487
 com.ubercab,10,,492,4.126016260162602
-com.ubercab,10,Generic compliment,6552,4.938034188034188
-com.ubercab,10,Usability,446,4.827354260089686
-com.ubercab,10,Login,525,1.859047619047619
-com.ubercab,10,Charging,481,1.6777546777546777
-com.ubercab,10,Customer service,1078,3.4805194805194803
-com.ubercab,10,Features,481,1.995841995841996
-com.ubercab,11,Login,465,1.7483870967741935
-com.ubercab,11,Generic complaint,963,2.7642782969885773
+com.ubercab,10,Elogio genérico,6552,4.938034188034188
+com.ubercab,10,Usabilidade,446,4.827354260089686
+com.ubercab,10,Acesso/Login,525,1.859047619047619
+com.ubercab,10,Cobrança,481,1.6777546777546777
+com.ubercab,10,Atendimento ao cliente,1078,3.4805194805194803
+com.ubercab,10,Funcionalidades,481,1.995841995841996
+com.ubercab,11,Acesso/Login,465,1.7483870967741935
+com.ubercab,11,Reclamação genérica,963,2.7642782969885773
 com.ubercab,11,,216,3.615740740740741
-com.ubercab,11,Generic compliment,3750,4.9093333333333335
-com.ubercab,11,Performance,405,2.11358024691358
-com.ubercab,11,Customer service,736,3.1942934782608696
-com.ubercab,11,Charging,460,1.691304347826087
-com.ubercab,11,Servicess,275,1.96
-com.ubercab,11,Features,436,1.811926605504587
-com.ubercab,11,Usability,286,4.895104895104895
+com.ubercab,11,Elogio genérico,3750,4.9093333333333335
+com.ubercab,11,Desempenho,405,2.11358024691358
+com.ubercab,11,Atendimento ao cliente,736,3.1942934782608696
+com.ubercab,11,Cobrança,460,1.691304347826087
+com.ubercab,11,Serviços,275,1.96
+com.ubercab,11,Funcionalidades,436,1.811926605504587
+com.ubercab,11,Usabilidade,286,4.895104895104895
 com.ubercab,11,,20,3.8
-com.ubercab,12,Charging,593,1.7133220910623945
-com.ubercab,12,Performance,491,1.9714867617107943
+com.ubercab,12,Cobrança,593,1.7133220910623945
+com.ubercab,12,Desempenho,491,1.9714867617107943
 com.ubercab,12,,286,3.5734265734265733
-com.ubercab,12,Customer service,1040,3.3211538461538463
-com.ubercab,12,Generic compliment,5890,4.922580645161291
-com.ubercab,12,Servicess,362,2.0138121546961325
-com.ubercab,12,Usability,441,4.81859410430839
-com.ubercab,12,Login,533,1.949343339587242
-com.ubercab,12,Features,517,1.8897485493230175
-com.ubercab,12,Generic complaint,1251,2.8377298161470823
+com.ubercab,12,Atendimento ao cliente,1040,3.3211538461538463
+com.ubercab,12,Elogio genérico,5890,4.922580645161291
+com.ubercab,12,Serviços,362,2.0138121546961325
+com.ubercab,12,Usabilidade,441,4.81859410430839
+com.ubercab,12,Acesso/Login,533,1.949343339587242
+com.ubercab,12,Funcionalidades,517,1.8897485493230175
+com.ubercab,12,Reclamação genérica,1251,2.8377298161470823
 com.ubercab,12,,26,4.615384615384615
-br.com.vivo,1,Customer service,464,3.4827586206896552
-br.com.vivo,1,Generic compliment,8197,4.8844699280224475
-br.com.vivo,1,Generic complaint,1470,3.126530612244898
-br.com.vivo,1,Charging,122,2.7950819672131146
-br.com.vivo,1,Usability,1011,4.879327398615232
+br.com.vivo,1,Atendimento ao cliente,464,3.4827586206896552
+br.com.vivo,1,Elogio genérico,8197,4.8844699280224475
+br.com.vivo,1,Reclamação genérica,1470,3.126530612244898
+br.com.vivo,1,Cobrança,122,2.7950819672131146
+br.com.vivo,1,Usabilidade,1011,4.879327398615232
 br.com.vivo,1,,696,3.956896551724138
-br.com.vivo,1,Features,749,2.197596795727637
-br.com.vivo,1,Login,899,1.8309232480533926
+br.com.vivo,1,Funcionalidades,749,2.197596795727637
+br.com.vivo,1,Acesso/Login,899,1.8309232480533926
 br.com.vivo,1,,49,4.510204081632653
-br.com.vivo,1,Servicess,771,2.6108949416342413
-br.com.vivo,1,Performance,794,1.9937027707808563
-br.com.vivo,2,Performance,478,1.698744769874477
+br.com.vivo,1,Serviços,771,2.6108949416342413
+br.com.vivo,1,Desempenho,794,1.9937027707808563
+br.com.vivo,2,Desempenho,478,1.698744769874477
 br.com.vivo,2,,187,3.550802139037433
-br.com.vivo,2,Generic complaint,761,2.8764783180026283
-br.com.vivo,2,Features,377,2.1114058355437666
-br.com.vivo,2,Generic compliment,3780,4.855026455026455
-br.com.vivo,2,Usability,494,4.813765182186235
-br.com.vivo,2,Login,491,1.7820773930753564
-br.com.vivo,2,Servicess,464,2.398706896551724
-br.com.vivo,2,Customer service,221,3.257918552036199
-br.com.vivo,2,Charging,70,2.8
+br.com.vivo,2,Reclamação genérica,761,2.8764783180026283
+br.com.vivo,2,Funcionalidades,377,2.1114058355437666
+br.com.vivo,2,Elogio genérico,3780,4.855026455026455
+br.com.vivo,2,Usabilidade,494,4.813765182186235
+br.com.vivo,2,Acesso/Login,491,1.7820773930753564
+br.com.vivo,2,Serviços,464,2.398706896551724
+br.com.vivo,2,Atendimento ao cliente,221,3.257918552036199
+br.com.vivo,2,Cobrança,70,2.8
 br.com.vivo,2,,20,4.25
 br.com.vivo,3,,239,4.100418410041841
-br.com.vivo,3,Customer service,204,3.485294117647059
-br.com.vivo,3,Generic compliment,3295,4.877086494688923
-br.com.vivo,3,Servicess,383,2.4281984334203655
-br.com.vivo,3,Features,373,2.2493297587131367
-br.com.vivo,3,Performance,347,1.8097982708933718
-br.com.vivo,3,Login,402,1.63681592039801
+br.com.vivo,3,Atendimento ao cliente,204,3.485294117647059
+br.com.vivo,3,Elogio genérico,3295,4.877086494688923
+br.com.vivo,3,Serviços,383,2.4281984334203655
+br.com.vivo,3,Funcionalidades,373,2.2493297587131367
+br.com.vivo,3,Desempenho,347,1.8097982708933718
+br.com.vivo,3,Acesso/Login,402,1.63681592039801
 br.com.vivo,3,,19,4.578947368421052
-br.com.vivo,3,Charging,57,2.7017543859649122
-br.com.vivo,3,Usability,436,4.853211009174312
-br.com.vivo,3,Generic complaint,671,2.9746646795827125
-br.com.vivo,4,Performance,370,1.7594594594594595
+br.com.vivo,3,Cobrança,57,2.7017543859649122
+br.com.vivo,3,Usabilidade,436,4.853211009174312
+br.com.vivo,3,Reclamação genérica,671,2.9746646795827125
+br.com.vivo,4,Desempenho,370,1.7594594594594595
 br.com.vivo,4,,18,4.5
-br.com.vivo,4,Generic compliment,2923,4.868628121792678
-br.com.vivo,4,Servicess,367,2.242506811989101
-br.com.vivo,4,Features,414,2.132850241545894
-br.com.vivo,4,Login,418,1.6578947368421053
-br.com.vivo,4,Usability,394,4.842639593908629
-br.com.vivo,4,Customer service,217,3.161290322580645
-br.com.vivo,4,Generic complaint,635,2.88503937007874
-br.com.vivo,4,Charging,63,2.5238095238095237
+br.com.vivo,4,Elogio genérico,2923,4.868628121792678
+br.com.vivo,4,Serviços,367,2.242506811989101
+br.com.vivo,4,Funcionalidades,414,2.132850241545894
+br.com.vivo,4,Acesso/Login,418,1.6578947368421053
+br.com.vivo,4,Usabilidade,394,4.842639593908629
+br.com.vivo,4,Atendimento ao cliente,217,3.161290322580645
+br.com.vivo,4,Reclamação genérica,635,2.88503937007874
+br.com.vivo,4,Cobrança,63,2.5238095238095237
 br.com.vivo,4,,468,4.352564102564102
-br.com.vivo,5,Usability,405,4.792592592592593
-br.com.vivo,5,Generic complaint,730,2.6534246575342464
-br.com.vivo,5,Performance,355,1.8394366197183099
-br.com.vivo,5,Customer service,197,3.213197969543147
-br.com.vivo,5,Charging,65,2.169230769230769
+br.com.vivo,5,Usabilidade,405,4.792592592592593
+br.com.vivo,5,Reclamação genérica,730,2.6534246575342464
+br.com.vivo,5,Desempenho,355,1.8394366197183099
+br.com.vivo,5,Atendimento ao cliente,197,3.213197969543147
+br.com.vivo,5,Cobrança,65,2.169230769230769
 br.com.vivo,5,,188,3.74468085106383
-br.com.vivo,5,Login,424,1.849056603773585
-br.com.vivo,5,Servicess,439,2.305239179954442
-br.com.vivo,5,Features,482,1.9854771784232366
+br.com.vivo,5,Acesso/Login,424,1.849056603773585
+br.com.vivo,5,Serviços,439,2.305239179954442
+br.com.vivo,5,Funcionalidades,482,1.9854771784232366
 br.com.vivo,5,,25,4.4
-br.com.vivo,5,Generic compliment,2971,4.847862672500842
-br.com.vivo,6,Servicess,480,2.308333333333333
-br.com.vivo,6,Performance,398,1.8366834170854272
+br.com.vivo,5,Elogio genérico,2971,4.847862672500842
+br.com.vivo,6,Serviços,480,2.308333333333333
+br.com.vivo,6,Desempenho,398,1.8366834170854272
 br.com.vivo,6,,10,3.8
-br.com.vivo,6,Generic compliment,2954,4.860866621530128
-br.com.vivo,6,Customer service,159,3.1761006289308176
-br.com.vivo,6,Charging,51,2.2745098039215685
+br.com.vivo,6,Elogio genérico,2954,4.860866621530128
+br.com.vivo,6,Atendimento ao cliente,159,3.1761006289308176
+br.com.vivo,6,Cobrança,51,2.2745098039215685
 br.com.vivo,6,,182,3.7637362637362637
-br.com.vivo,6,Features,603,1.9983416252072967
-br.com.vivo,6,Usability,354,4.6892655367231635
-br.com.vivo,6,Login,470,1.8148936170212766
-br.com.vivo,6,Generic complaint,798,2.6203007518796992
-br.com.vivo,7,Charging,62,2.096774193548387
+br.com.vivo,6,Funcionalidades,603,1.9983416252072967
+br.com.vivo,6,Usabilidade,354,4.6892655367231635
+br.com.vivo,6,Acesso/Login,470,1.8148936170212766
+br.com.vivo,6,Reclamação genérica,798,2.6203007518796992
+br.com.vivo,7,Cobrança,62,2.096774193548387
 br.com.vivo,7,,12,4
-br.com.vivo,7,Login,445,1.7101123595505618
-br.com.vivo,7,Usability,324,4.685185185185185
-br.com.vivo,7,Servicess,401,2.311720698254364
-br.com.vivo,7,Customer service,189,2.8465608465608465
-br.com.vivo,7,Generic compliment,2640,4.8977272727272725
-br.com.vivo,7,Generic complaint,684,2.66812865497076
-br.com.vivo,7,Performance,439,1.5649202733485195
-br.com.vivo,7,Features,562,1.8523131672597866
+br.com.vivo,7,Acesso/Login,445,1.7101123595505618
+br.com.vivo,7,Usabilidade,324,4.685185185185185
+br.com.vivo,7,Serviços,401,2.311720698254364
+br.com.vivo,7,Atendimento ao cliente,189,2.8465608465608465
+br.com.vivo,7,Elogio genérico,2640,4.8977272727272725
+br.com.vivo,7,Reclamação genérica,684,2.66812865497076
+br.com.vivo,7,Desempenho,439,1.5649202733485195
+br.com.vivo,7,Funcionalidades,562,1.8523131672597866
 br.com.vivo,7,,156,3.6346153846153846
-br.com.vivo,8,Customer service,192,3.0729166666666665
-br.com.vivo,8,Generic complaint,614,2.8615635179153096
-br.com.vivo,8,Performance,416,1.6033653846153846
-br.com.vivo,8,Charging,47,2.6808510638297873
+br.com.vivo,8,Atendimento ao cliente,192,3.0729166666666665
+br.com.vivo,8,Reclamação genérica,614,2.8615635179153096
+br.com.vivo,8,Desempenho,416,1.6033653846153846
+br.com.vivo,8,Cobrança,47,2.6808510638297873
 br.com.vivo,8,,13,4.769230769230769
-br.com.vivo,8,Generic compliment,2365,4.879915433403806
-br.com.vivo,8,Usability,297,4.693602693602694
+br.com.vivo,8,Elogio genérico,2365,4.879915433403806
+br.com.vivo,8,Usabilidade,297,4.693602693602694
 br.com.vivo,8,,173,3.8497109826589595
-br.com.vivo,8,Features,467,1.7237687366167023
-br.com.vivo,8,Login,449,1.6681514476614698
-br.com.vivo,8,Servicess,421,2.192399049881235
-br.com.vivo,9,Servicess,405,2.1876543209876544
-br.com.vivo,9,Features,504,1.8214285714285714
-br.com.vivo,9,Charging,61,2.2131147540983607
-br.com.vivo,9,Login,536,1.6194029850746268
-br.com.vivo,9,Performance,480,1.5125
-br.com.vivo,9,Usability,234,4.777777777777778
+br.com.vivo,8,Funcionalidades,467,1.7237687366167023
+br.com.vivo,8,Acesso/Login,449,1.6681514476614698
+br.com.vivo,8,Serviços,421,2.192399049881235
+br.com.vivo,9,Serviços,405,2.1876543209876544
+br.com.vivo,9,Funcionalidades,504,1.8214285714285714
+br.com.vivo,9,Cobrança,61,2.2131147540983607
+br.com.vivo,9,Acesso/Login,536,1.6194029850746268
+br.com.vivo,9,Desempenho,480,1.5125
+br.com.vivo,9,Usabilidade,234,4.777777777777778
 br.com.vivo,9,,222,3.864864864864865
 br.com.vivo,9,,17,3.7058823529411766
-br.com.vivo,9,Generic complaint,621,2.3059581320450886
-br.com.vivo,9,Generic compliment,1894,4.874340021119324
-br.com.vivo,9,Customer service,199,2.849246231155779
-br.com.vivo,10,Performance,446,1.6973094170403586
-br.com.vivo,10,Servicess,430,2.4348837209302325
-br.com.vivo,10,Usability,498,4.817269076305221
-br.com.vivo,10,Generic compliment,3509,4.8882872613280135
-br.com.vivo,10,Generic complaint,722,2.724376731301939
+br.com.vivo,9,Reclamação genérica,621,2.3059581320450886
+br.com.vivo,9,Elogio genérico,1894,4.874340021119324
+br.com.vivo,9,Atendimento ao cliente,199,2.849246231155779
+br.com.vivo,10,Desempenho,446,1.6973094170403586
+br.com.vivo,10,Serviços,430,2.4348837209302325
+br.com.vivo,10,Usabilidade,498,4.817269076305221
+br.com.vivo,10,Elogio genérico,3509,4.8882872613280135
+br.com.vivo,10,Reclamação genérica,722,2.724376731301939
 br.com.vivo,10,,195,3.4923076923076923
-br.com.vivo,10,Features,442,2.1538461538461537
+br.com.vivo,10,Funcionalidades,442,2.1538461538461537
 br.com.vivo,10,,30,4.1
-br.com.vivo,10,Charging,65,2.769230769230769
-br.com.vivo,10,Login,519,1.811175337186898
-br.com.vivo,10,Customer service,234,3.02991452991453
-br.com.vivo,11,Customer service,250,3.592
-br.com.vivo,11,Generic compliment,4090,4.900244498777506
+br.com.vivo,10,Cobrança,65,2.769230769230769
+br.com.vivo,10,Acesso/Login,519,1.811175337186898
+br.com.vivo,10,Atendimento ao cliente,234,3.02991452991453
+br.com.vivo,11,Atendimento ao cliente,250,3.592
+br.com.vivo,11,Elogio genérico,4090,4.900244498777506
 br.com.vivo,11,,344,4.133720930232558
 br.com.vivo,11,,29,4.482758620689655
-br.com.vivo,11,Login,404,1.948019801980198
-br.com.vivo,11,Generic complaint,684,3.2149122807017543
-br.com.vivo,11,Charging,58,3.1724137931034484
-br.com.vivo,11,Servicess,394,2.736040609137056
-br.com.vivo,11,Features,432,2.2337962962962963
-br.com.vivo,11,Performance,415,1.927710843373494
-br.com.vivo,11,Usability,634,4.858044164037855
-br.com.vivo,12,Servicess,455,2.6505494505494505
-br.com.vivo,12,Customer service,236,3.5254237288135593
-br.com.vivo,12,Usability,599,4.864774624373957
-br.com.vivo,12,Generic complaint,862,2.879350348027842
-br.com.vivo,12,Features,520,2.1384615384615384
+br.com.vivo,11,Acesso/Login,404,1.948019801980198
+br.com.vivo,11,Reclamação genérica,684,3.2149122807017543
+br.com.vivo,11,Cobrança,58,3.1724137931034484
+br.com.vivo,11,Serviços,394,2.736040609137056
+br.com.vivo,11,Funcionalidades,432,2.2337962962962963
+br.com.vivo,11,Desempenho,415,1.927710843373494
+br.com.vivo,11,Usabilidade,634,4.858044164037855
+br.com.vivo,12,Serviços,455,2.6505494505494505
+br.com.vivo,12,Atendimento ao cliente,236,3.5254237288135593
+br.com.vivo,12,Usabilidade,599,4.864774624373957
+br.com.vivo,12,Reclamação genérica,862,2.879350348027842
+br.com.vivo,12,Funcionalidades,520,2.1384615384615384
 br.com.vivo,12,,34,3.911764705882353
-br.com.vivo,12,Login,673,1.736998514115899
-br.com.vivo,12,Charging,62,2.7096774193548385
-br.com.vivo,12,Performance,693,1.606060606060606
+br.com.vivo,12,Acesso/Login,673,1.736998514115899
+br.com.vivo,12,Cobrança,62,2.7096774193548385
+br.com.vivo,12,Desempenho,693,1.606060606060606
 br.com.vivo,12,,195,3.953846153846154
-br.com.vivo,12,Generic compliment,4155,4.892418772563177
-br.gov.caixa.fgts.trabalhador,1,Customer service,433,3.07621247113164
-br.gov.caixa.fgts.trabalhador,1,Card,29,2.0344827586206895
-br.gov.caixa.fgts.trabalhador,1,Registration,315,1.6253968253968254
-br.gov.caixa.fgts.trabalhador,1,Invoice,149,2.214765100671141
+br.com.vivo,12,Elogio genérico,4155,4.892418772563177
+br.gov.caixa.fgts.trabalhador,1,Atendimento ao cliente,433,3.07621247113164
+br.gov.caixa.fgts.trabalhador,1,Cartão,29,2.0344827586206895
+br.gov.caixa.fgts.trabalhador,1,Cadastro/Registro,315,1.6253968253968254
+br.gov.caixa.fgts.trabalhador,1,Fatura,149,2.214765100671141
 br.gov.caixa.fgts.trabalhador,1,,42,4.214285714285714
 br.gov.caixa.fgts.trabalhador,1,,497,3.41046277665996
-br.gov.caixa.fgts.trabalhador,1,Rewards program,15,1.6666666666666667
-br.gov.caixa.fgts.trabalhador,1,Investiment,69,2.6666666666666665
-br.gov.caixa.fgts.trabalhador,1,Generic complaint,1599,2.5809881175734835
-br.gov.caixa.fgts.trabalhador,1,Update,725,1.5420689655172415
-br.gov.caixa.fgts.trabalhador,1,Performance,867,1.4763552479815456
-br.gov.caixa.fgts.trabalhador,1,Virtual card,14,1.7857142857142858
-br.gov.caixa.fgts.trabalhador,1,Usability,1236,4.793689320388349
-br.gov.caixa.fgts.trabalhador,1,Login,1313,1.5902513328255903
-br.gov.caixa.fgts.trabalhador,1,Notifications,34,2.176470588235294
-br.gov.caixa.fgts.trabalhador,1,Generic compliment,7900,4.844430379746836
+br.gov.caixa.fgts.trabalhador,1,Programa de recompensas,15,1.6666666666666667
+br.gov.caixa.fgts.trabalhador,1,Investimento,69,2.6666666666666665
+br.gov.caixa.fgts.trabalhador,1,Reclamação genérica,1599,2.5809881175734835
+br.gov.caixa.fgts.trabalhador,1,Atualização,725,1.5420689655172415
+br.gov.caixa.fgts.trabalhador,1,Desempenho,867,1.4763552479815456
+br.gov.caixa.fgts.trabalhador,1,Cartão virtual,14,1.7857142857142858
+br.gov.caixa.fgts.trabalhador,1,Usabilidade,1236,4.793689320388349
+br.gov.caixa.fgts.trabalhador,1,Acesso/Login,1313,1.5902513328255903
+br.gov.caixa.fgts.trabalhador,1,Notificações,34,2.176470588235294
+br.gov.caixa.fgts.trabalhador,1,Elogio genérico,7900,4.844430379746836
 br.gov.caixa.fgts.trabalhador,1,Token,89,1.853932584269663
-br.gov.caixa.fgts.trabalhador,2,Rewards program,7,2.7142857142857144
+br.gov.caixa.fgts.trabalhador,2,Programa de recompensas,7,2.7142857142857144
 br.gov.caixa.fgts.trabalhador,2,,29,4.310344827586207
-br.gov.caixa.fgts.trabalhador,2,Performance,355,1.7690140845070423
-br.gov.caixa.fgts.trabalhador,2,Card,24,2.9166666666666665
-br.gov.caixa.fgts.trabalhador,2,Login,504,1.9543650793650793
-br.gov.caixa.fgts.trabalhador,2,Usability,1071,4.824463118580765
-br.gov.caixa.fgts.trabalhador,2,Notifications,27,2.6666666666666665
-br.gov.caixa.fgts.trabalhador,2,Virtual card,1,1
-br.gov.caixa.fgts.trabalhador,2,Generic complaint,992,2.5524193548387095
-br.gov.caixa.fgts.trabalhador,2,Invoice,87,2.1379310344827585
-br.gov.caixa.fgts.trabalhador,2,Customer service,266,3.5150375939849625
-br.gov.caixa.fgts.trabalhador,2,Generic compliment,5761,4.8432563791008505
+br.gov.caixa.fgts.trabalhador,2,Desempenho,355,1.7690140845070423
+br.gov.caixa.fgts.trabalhador,2,Cartão,24,2.9166666666666665
+br.gov.caixa.fgts.trabalhador,2,Acesso/Login,504,1.9543650793650793
+br.gov.caixa.fgts.trabalhador,2,Usabilidade,1071,4.824463118580765
+br.gov.caixa.fgts.trabalhador,2,Notificações,27,2.6666666666666665
+br.gov.caixa.fgts.trabalhador,2,Cartão virtual,1,1
+br.gov.caixa.fgts.trabalhador,2,Reclamação genérica,992,2.5524193548387095
+br.gov.caixa.fgts.trabalhador,2,Fatura,87,2.1379310344827585
+br.gov.caixa.fgts.trabalhador,2,Atendimento ao cliente,266,3.5150375939849625
+br.gov.caixa.fgts.trabalhador,2,Elogio genérico,5761,4.8432563791008505
 br.gov.caixa.fgts.trabalhador,2,Token,52,1.9807692307692308
 br.gov.caixa.fgts.trabalhador,2,,213,3.7652582159624415
-br.gov.caixa.fgts.trabalhador,2,Registration,235,1.7574468085106383
-br.gov.caixa.fgts.trabalhador,2,Update,257,1.9221789883268483
-br.gov.caixa.fgts.trabalhador,2,Investiment,31,2.903225806451613
-br.gov.caixa.fgts.trabalhador,3,Customer service,250,3.092
-br.gov.caixa.fgts.trabalhador,3,Card,23,2.347826086956522
-br.gov.caixa.fgts.trabalhador,3,Investiment,52,2.980769230769231
-br.gov.caixa.fgts.trabalhador,3,Usability,887,4.8286358511837655
-br.gov.caixa.fgts.trabalhador,3,Rewards program,13,3.1538461538461537
-br.gov.caixa.fgts.trabalhador,3,Notifications,18,2.111111111111111
-br.gov.caixa.fgts.trabalhador,3,Registration,182,1.8131868131868132
+br.gov.caixa.fgts.trabalhador,2,Cadastro/Registro,235,1.7574468085106383
+br.gov.caixa.fgts.trabalhador,2,Atualização,257,1.9221789883268483
+br.gov.caixa.fgts.trabalhador,2,Investimento,31,2.903225806451613
+br.gov.caixa.fgts.trabalhador,3,Atendimento ao cliente,250,3.092
+br.gov.caixa.fgts.trabalhador,3,Cartão,23,2.347826086956522
+br.gov.caixa.fgts.trabalhador,3,Investimento,52,2.980769230769231
+br.gov.caixa.fgts.trabalhador,3,Usabilidade,887,4.8286358511837655
+br.gov.caixa.fgts.trabalhador,3,Programa de recompensas,13,3.1538461538461537
+br.gov.caixa.fgts.trabalhador,3,Notificações,18,2.111111111111111
+br.gov.caixa.fgts.trabalhador,3,Cadastro/Registro,182,1.8131868131868132
 br.gov.caixa.fgts.trabalhador,3,Token,50,2.14
-br.gov.caixa.fgts.trabalhador,3,Generic compliment,5186,4.842267643655997
-br.gov.caixa.fgts.trabalhador,3,Virtual card,3,2.3333333333333335
+br.gov.caixa.fgts.trabalhador,3,Elogio genérico,5186,4.842267643655997
+br.gov.caixa.fgts.trabalhador,3,Cartão virtual,3,2.3333333333333335
 br.gov.caixa.fgts.trabalhador,3,,209,3.9043062200956937
-br.gov.caixa.fgts.trabalhador,3,Invoice,86,2.2906976744186047
+br.gov.caixa.fgts.trabalhador,3,Fatura,86,2.2906976744186047
 br.gov.caixa.fgts.trabalhador,3,,24,4.333333333333333
-br.gov.caixa.fgts.trabalhador,3,Performance,322,1.5434782608695652
-br.gov.caixa.fgts.trabalhador,3,Login,471,1.9256900212314225
-br.gov.caixa.fgts.trabalhador,3,Update,291,1.9518900343642611
-br.gov.caixa.fgts.trabalhador,3,Generic complaint,907,2.6383682469680263
-br.gov.caixa.fgts.trabalhador,4,Invoice,85,1.9176470588235295
-br.gov.caixa.fgts.trabalhador,4,Notifications,18,2.388888888888889
-br.gov.caixa.fgts.trabalhador,4,Rewards program,7,1.7142857142857142
+br.gov.caixa.fgts.trabalhador,3,Desempenho,322,1.5434782608695652
+br.gov.caixa.fgts.trabalhador,3,Acesso/Login,471,1.9256900212314225
+br.gov.caixa.fgts.trabalhador,3,Atualização,291,1.9518900343642611
+br.gov.caixa.fgts.trabalhador,3,Reclamação genérica,907,2.6383682469680263
+br.gov.caixa.fgts.trabalhador,4,Fatura,85,1.9176470588235295
+br.gov.caixa.fgts.trabalhador,4,Notificações,18,2.388888888888889
+br.gov.caixa.fgts.trabalhador,4,Programa de recompensas,7,1.7142857142857142
 br.gov.caixa.fgts.trabalhador,4,,23,4.782608695652174
-br.gov.caixa.fgts.trabalhador,4,Update,493,1.8356997971602433
+br.gov.caixa.fgts.trabalhador,4,Atualização,493,1.8356997971602433
 br.gov.caixa.fgts.trabalhador,4,Token,50,2.12
-br.gov.caixa.fgts.trabalhador,4,Card,18,2.9444444444444446
-br.gov.caixa.fgts.trabalhador,4,Usability,843,4.867141162514828
-br.gov.caixa.fgts.trabalhador,4,Login,547,1.9305301645338209
-br.gov.caixa.fgts.trabalhador,4,Customer service,220,3.286363636363636
-br.gov.caixa.fgts.trabalhador,4,Generic compliment,4776,4.859505862646566
-br.gov.caixa.fgts.trabalhador,4,Investiment,53,3.1132075471698113
-br.gov.caixa.fgts.trabalhador,4,Performance,252,1.7698412698412698
-br.gov.caixa.fgts.trabalhador,4,Virtual card,9,1.4444444444444444
-br.gov.caixa.fgts.trabalhador,4,Registration,161,1.9192546583850931
-br.gov.caixa.fgts.trabalhador,4,Generic complaint,769,2.719115734720416
+br.gov.caixa.fgts.trabalhador,4,Cartão,18,2.9444444444444446
+br.gov.caixa.fgts.trabalhador,4,Usabilidade,843,4.867141162514828
+br.gov.caixa.fgts.trabalhador,4,Acesso/Login,547,1.9305301645338209
+br.gov.caixa.fgts.trabalhador,4,Atendimento ao cliente,220,3.286363636363636
+br.gov.caixa.fgts.trabalhador,4,Elogio genérico,4776,4.859505862646566
+br.gov.caixa.fgts.trabalhador,4,Investimento,53,3.1132075471698113
+br.gov.caixa.fgts.trabalhador,4,Desempenho,252,1.7698412698412698
+br.gov.caixa.fgts.trabalhador,4,Cartão virtual,9,1.4444444444444444
+br.gov.caixa.fgts.trabalhador,4,Cadastro/Registro,161,1.9192546583850931
+br.gov.caixa.fgts.trabalhador,4,Reclamação genérica,769,2.719115734720416
 br.gov.caixa.fgts.trabalhador,4,,188,3.8404255319148937
-br.gov.caixa.fgts.trabalhador,5,Performance,169,1.5976331360946745
+br.gov.caixa.fgts.trabalhador,5,Desempenho,169,1.5976331360946745
 br.gov.caixa.fgts.trabalhador,5,,98,3.3469387755102042
-br.gov.caixa.fgts.trabalhador,5,Virtual card,14,2
+br.gov.caixa.fgts.trabalhador,5,Cartão virtual,14,2
 br.gov.caixa.fgts.trabalhador,5,,4,5
-br.gov.caixa.fgts.trabalhador,5,Investiment,40,2.475
-br.gov.caixa.fgts.trabalhador,5,Customer service,86,2.4302325581395348
-br.gov.caixa.fgts.trabalhador,5,Generic compliment,912,4.848684210526316
-br.gov.caixa.fgts.trabalhador,5,Generic complaint,340,2.764705882352941
-br.gov.caixa.fgts.trabalhador,5,Usability,93,4.193548387096774
-br.gov.caixa.fgts.trabalhador,5,Update,297,1.754208754208754
-br.gov.caixa.fgts.trabalhador,5,Notifications,14,1.8571428571428572
-br.gov.caixa.fgts.trabalhador,5,Login,307,1.8241042345276872
+br.gov.caixa.fgts.trabalhador,5,Investimento,40,2.475
+br.gov.caixa.fgts.trabalhador,5,Atendimento ao cliente,86,2.4302325581395348
+br.gov.caixa.fgts.trabalhador,5,Elogio genérico,912,4.848684210526316
+br.gov.caixa.fgts.trabalhador,5,Reclamação genérica,340,2.764705882352941
+br.gov.caixa.fgts.trabalhador,5,Usabilidade,93,4.193548387096774
+br.gov.caixa.fgts.trabalhador,5,Atualização,297,1.754208754208754
+br.gov.caixa.fgts.trabalhador,5,Notificações,14,1.8571428571428572
+br.gov.caixa.fgts.trabalhador,5,Acesso/Login,307,1.8241042345276872
 br.gov.caixa.fgts.trabalhador,5,Token,28,1.9642857142857142
-br.gov.caixa.fgts.trabalhador,5,Card,13,2.1538461538461537
-br.gov.caixa.fgts.trabalhador,5,Rewards program,5,4
-br.gov.caixa.fgts.trabalhador,5,Registration,70,1.3428571428571427
-br.gov.caixa.fgts.trabalhador,5,Invoice,102,2.0098039215686274
-br.gov.caixa.fgts.trabalhador,6,Generic complaint,296,2.972972972972973
-br.gov.caixa.fgts.trabalhador,6,Update,165,1.812121212121212
-br.gov.caixa.fgts.trabalhador,6,Customer service,75,2.52
+br.gov.caixa.fgts.trabalhador,5,Cartão,13,2.1538461538461537
+br.gov.caixa.fgts.trabalhador,5,Programa de recompensas,5,4
+br.gov.caixa.fgts.trabalhador,5,Cadastro/Registro,70,1.3428571428571427
+br.gov.caixa.fgts.trabalhador,5,Fatura,102,2.0098039215686274
+br.gov.caixa.fgts.trabalhador,6,Reclamação genérica,296,2.972972972972973
+br.gov.caixa.fgts.trabalhador,6,Atualização,165,1.812121212121212
+br.gov.caixa.fgts.trabalhador,6,Atendimento ao cliente,75,2.52
 br.gov.caixa.fgts.trabalhador,6,Token,16,1.3125
-br.gov.caixa.fgts.trabalhador,6,Login,279,1.967741935483871
-br.gov.caixa.fgts.trabalhador,6,Notifications,7,1.2857142857142858
-br.gov.caixa.fgts.trabalhador,6,Performance,148,1.6216216216216217
-br.gov.caixa.fgts.trabalhador,6,Rewards program,3,2.3333333333333335
-br.gov.caixa.fgts.trabalhador,6,Card,7,2.857142857142857
-br.gov.caixa.fgts.trabalhador,6,Generic compliment,782,4.854219948849105
-br.gov.caixa.fgts.trabalhador,6,Invoice,43,1.813953488372093
+br.gov.caixa.fgts.trabalhador,6,Acesso/Login,279,1.967741935483871
+br.gov.caixa.fgts.trabalhador,6,Notificações,7,1.2857142857142858
+br.gov.caixa.fgts.trabalhador,6,Desempenho,148,1.6216216216216217
+br.gov.caixa.fgts.trabalhador,6,Programa de recompensas,3,2.3333333333333335
+br.gov.caixa.fgts.trabalhador,6,Cartão,7,2.857142857142857
+br.gov.caixa.fgts.trabalhador,6,Elogio genérico,782,4.854219948849105
+br.gov.caixa.fgts.trabalhador,6,Fatura,43,1.813953488372093
 br.gov.caixa.fgts.trabalhador,6,,8,3.25
-br.gov.caixa.fgts.trabalhador,6,Registration,64,1.671875
-br.gov.caixa.fgts.trabalhador,6,Virtual card,1,1
-br.gov.caixa.fgts.trabalhador,6,Investiment,23,3.130434782608696
-br.gov.caixa.fgts.trabalhador,6,Usability,70,4.228571428571429
+br.gov.caixa.fgts.trabalhador,6,Cadastro/Registro,64,1.671875
+br.gov.caixa.fgts.trabalhador,6,Cartão virtual,1,1
+br.gov.caixa.fgts.trabalhador,6,Investimento,23,3.130434782608696
+br.gov.caixa.fgts.trabalhador,6,Usabilidade,70,4.228571428571429
 br.gov.caixa.fgts.trabalhador,6,,78,3.576923076923077
-br.gov.caixa.fgts.trabalhador,7,Invoice,30,2.533333333333333
+br.gov.caixa.fgts.trabalhador,7,Fatura,30,2.533333333333333
 br.gov.caixa.fgts.trabalhador,7,,3,5
-br.gov.caixa.fgts.trabalhador,7,Login,398,1.92964824120603
-br.gov.caixa.fgts.trabalhador,7,Performance,129,1.7596899224806202
-br.gov.caixa.fgts.trabalhador,7,Notifications,7,3.7142857142857144
+br.gov.caixa.fgts.trabalhador,7,Acesso/Login,398,1.92964824120603
+br.gov.caixa.fgts.trabalhador,7,Desempenho,129,1.7596899224806202
+br.gov.caixa.fgts.trabalhador,7,Notificações,7,3.7142857142857144
 br.gov.caixa.fgts.trabalhador,7,,90,3.6666666666666665
-br.gov.caixa.fgts.trabalhador,7,Virtual card,2,3
-br.gov.caixa.fgts.trabalhador,7,Investiment,28,3.25
-br.gov.caixa.fgts.trabalhador,7,Rewards program,6,2.1666666666666665
+br.gov.caixa.fgts.trabalhador,7,Cartão virtual,2,3
+br.gov.caixa.fgts.trabalhador,7,Investimento,28,3.25
+br.gov.caixa.fgts.trabalhador,7,Programa de recompensas,6,2.1666666666666665
 br.gov.caixa.fgts.trabalhador,7,Token,18,1.9444444444444444
-br.gov.caixa.fgts.trabalhador,7,Customer service,57,3.017543859649123
-br.gov.caixa.fgts.trabalhador,7,Registration,72,1.6527777777777777
-br.gov.caixa.fgts.trabalhador,7,Update,129,1.8294573643410852
-br.gov.caixa.fgts.trabalhador,7,Card,11,2.8181818181818183
-br.gov.caixa.fgts.trabalhador,7,Usability,71,4.577464788732394
-br.gov.caixa.fgts.trabalhador,7,Generic compliment,825,4.865454545454545
-br.gov.caixa.fgts.trabalhador,7,Generic complaint,315,2.806349206349206
-br.gov.caixa.fgts.trabalhador,8,Login,387,1.8397932816537468
-br.gov.caixa.fgts.trabalhador,8,Update,146,1.7397260273972603
-br.gov.caixa.fgts.trabalhador,8,Investiment,23,3.1739130434782608
-br.gov.caixa.fgts.trabalhador,8,Performance,159,1.6163522012578617
+br.gov.caixa.fgts.trabalhador,7,Atendimento ao cliente,57,3.017543859649123
+br.gov.caixa.fgts.trabalhador,7,Cadastro/Registro,72,1.6527777777777777
+br.gov.caixa.fgts.trabalhador,7,Atualização,129,1.8294573643410852
+br.gov.caixa.fgts.trabalhador,7,Cartão,11,2.8181818181818183
+br.gov.caixa.fgts.trabalhador,7,Usabilidade,71,4.577464788732394
+br.gov.caixa.fgts.trabalhador,7,Elogio genérico,825,4.865454545454545
+br.gov.caixa.fgts.trabalhador,7,Reclamação genérica,315,2.806349206349206
+br.gov.caixa.fgts.trabalhador,8,Acesso/Login,387,1.8397932816537468
+br.gov.caixa.fgts.trabalhador,8,Atualização,146,1.7397260273972603
+br.gov.caixa.fgts.trabalhador,8,Investimento,23,3.1739130434782608
+br.gov.caixa.fgts.trabalhador,8,Desempenho,159,1.6163522012578617
 br.gov.caixa.fgts.trabalhador,8,,70,4.257142857142857
-br.gov.caixa.fgts.trabalhador,8,Rewards program,4,3
-br.gov.caixa.fgts.trabalhador,8,Generic complaint,335,3.08955223880597
-br.gov.caixa.fgts.trabalhador,8,Customer service,56,2.8035714285714284
-br.gov.caixa.fgts.trabalhador,8,Invoice,27,2.7037037037037037
-br.gov.caixa.fgts.trabalhador,8,Registration,54,1.6111111111111112
-br.gov.caixa.fgts.trabalhador,8,Card,5,2.8
-br.gov.caixa.fgts.trabalhador,8,Notifications,6,2.3333333333333335
+br.gov.caixa.fgts.trabalhador,8,Programa de recompensas,4,3
+br.gov.caixa.fgts.trabalhador,8,Reclamação genérica,335,3.08955223880597
+br.gov.caixa.fgts.trabalhador,8,Atendimento ao cliente,56,2.8035714285714284
+br.gov.caixa.fgts.trabalhador,8,Fatura,27,2.7037037037037037
+br.gov.caixa.fgts.trabalhador,8,Cadastro/Registro,54,1.6111111111111112
+br.gov.caixa.fgts.trabalhador,8,Cartão,5,2.8
+br.gov.caixa.fgts.trabalhador,8,Notificações,6,2.3333333333333335
 br.gov.caixa.fgts.trabalhador,8,,8,3.75
-br.gov.caixa.fgts.trabalhador,8,Usability,62,4.725806451612903
+br.gov.caixa.fgts.trabalhador,8,Usabilidade,62,4.725806451612903
 br.gov.caixa.fgts.trabalhador,8,Token,22,2.4545454545454546
-br.gov.caixa.fgts.trabalhador,8,Generic compliment,918,4.808278867102397
-br.gov.caixa.fgts.trabalhador,9,Login,347,1.8674351585014408
-br.gov.caixa.fgts.trabalhador,9,Notifications,8,1.5
-br.gov.caixa.fgts.trabalhador,9,Generic compliment,1037,4.867888138862102
-br.gov.caixa.fgts.trabalhador,9,Update,114,1.7894736842105263
-br.gov.caixa.fgts.trabalhador,9,Performance,157,1.5414012738853504
+br.gov.caixa.fgts.trabalhador,8,Elogio genérico,918,4.808278867102397
+br.gov.caixa.fgts.trabalhador,9,Acesso/Login,347,1.8674351585014408
+br.gov.caixa.fgts.trabalhador,9,Notificações,8,1.5
+br.gov.caixa.fgts.trabalhador,9,Elogio genérico,1037,4.867888138862102
+br.gov.caixa.fgts.trabalhador,9,Atualização,114,1.7894736842105263
+br.gov.caixa.fgts.trabalhador,9,Desempenho,157,1.5414012738853504
 br.gov.caixa.fgts.trabalhador,9,,5,4.2
 br.gov.caixa.fgts.trabalhador,9,,72,3.8194444444444446
-br.gov.caixa.fgts.trabalhador,9,Investiment,28,3.25
-br.gov.caixa.fgts.trabalhador,9,Invoice,26,2.4615384615384617
-br.gov.caixa.fgts.trabalhador,9,Usability,71,4.619718309859155
+br.gov.caixa.fgts.trabalhador,9,Investimento,28,3.25
+br.gov.caixa.fgts.trabalhador,9,Fatura,26,2.4615384615384617
+br.gov.caixa.fgts.trabalhador,9,Usabilidade,71,4.619718309859155
 br.gov.caixa.fgts.trabalhador,9,Token,15,2
-br.gov.caixa.fgts.trabalhador,9,Card,8,3.5
-br.gov.caixa.fgts.trabalhador,9,Rewards program,8,2.5
-br.gov.caixa.fgts.trabalhador,9,Generic complaint,327,2.9174311926605503
-br.gov.caixa.fgts.trabalhador,9,Customer service,72,2.611111111111111
-br.gov.caixa.fgts.trabalhador,9,Virtual card,2,1.5
-br.gov.caixa.fgts.trabalhador,9,Registration,68,1.5588235294117647
-br.gov.caixa.fgts.trabalhador,10,Registration,65,1.876923076923077
-br.gov.caixa.fgts.trabalhador,10,Performance,188,1.372340425531915
-br.gov.caixa.fgts.trabalhador,10,Card,10,2.6
-br.gov.caixa.fgts.trabalhador,10,Notifications,7,3.4285714285714284
+br.gov.caixa.fgts.trabalhador,9,Cartão,8,3.5
+br.gov.caixa.fgts.trabalhador,9,Programa de recompensas,8,2.5
+br.gov.caixa.fgts.trabalhador,9,Reclamação genérica,327,2.9174311926605503
+br.gov.caixa.fgts.trabalhador,9,Atendimento ao cliente,72,2.611111111111111
+br.gov.caixa.fgts.trabalhador,9,Cartão virtual,2,1.5
+br.gov.caixa.fgts.trabalhador,9,Cadastro/Registro,68,1.5588235294117647
+br.gov.caixa.fgts.trabalhador,10,Cadastro/Registro,65,1.876923076923077
+br.gov.caixa.fgts.trabalhador,10,Desempenho,188,1.372340425531915
+br.gov.caixa.fgts.trabalhador,10,Cartão,10,2.6
+br.gov.caixa.fgts.trabalhador,10,Notificações,7,3.4285714285714284
 br.gov.caixa.fgts.trabalhador,10,,98,4.030612244897959
-br.gov.caixa.fgts.trabalhador,10,Update,113,1.8407079646017699
-br.gov.caixa.fgts.trabalhador,10,Login,341,1.7771260997067448
-br.gov.caixa.fgts.trabalhador,10,Generic compliment,1111,4.868586858685869
+br.gov.caixa.fgts.trabalhador,10,Atualização,113,1.8407079646017699
+br.gov.caixa.fgts.trabalhador,10,Acesso/Login,341,1.7771260997067448
+br.gov.caixa.fgts.trabalhador,10,Elogio genérico,1111,4.868586858685869
 br.gov.caixa.fgts.trabalhador,10,,6,3.8333333333333335
-br.gov.caixa.fgts.trabalhador,10,Customer service,86,2.6744186046511627
-br.gov.caixa.fgts.trabalhador,10,Usability,89,4.606741573033708
-br.gov.caixa.fgts.trabalhador,10,Generic complaint,341,2.935483870967742
-br.gov.caixa.fgts.trabalhador,10,Investiment,32,2.90625
-br.gov.caixa.fgts.trabalhador,10,Virtual card,1,1
-br.gov.caixa.fgts.trabalhador,10,Rewards program,5,2.8
-br.gov.caixa.fgts.trabalhador,10,Invoice,26,2.6923076923076925
+br.gov.caixa.fgts.trabalhador,10,Atendimento ao cliente,86,2.6744186046511627
+br.gov.caixa.fgts.trabalhador,10,Usabilidade,89,4.606741573033708
+br.gov.caixa.fgts.trabalhador,10,Reclamação genérica,341,2.935483870967742
+br.gov.caixa.fgts.trabalhador,10,Investimento,32,2.90625
+br.gov.caixa.fgts.trabalhador,10,Cartão virtual,1,1
+br.gov.caixa.fgts.trabalhador,10,Programa de recompensas,5,2.8
+br.gov.caixa.fgts.trabalhador,10,Fatura,26,2.6923076923076925
 br.gov.caixa.fgts.trabalhador,10,Token,14,2.7857142857142856
-br.gov.caixa.fgts.trabalhador,11,Registration,73,1.5068493150684932
-br.gov.caixa.fgts.trabalhador,11,Customer service,57,2.7017543859649122
+br.gov.caixa.fgts.trabalhador,11,Cadastro/Registro,73,1.5068493150684932
+br.gov.caixa.fgts.trabalhador,11,Atendimento ao cliente,57,2.7017543859649122
 br.gov.caixa.fgts.trabalhador,11,,8,4.25
-br.gov.caixa.fgts.trabalhador,11,Investiment,38,3.6315789473684212
-br.gov.caixa.fgts.trabalhador,11,Rewards program,3,5
-br.gov.caixa.fgts.trabalhador,11,Notifications,3,1.3333333333333333
-br.gov.caixa.fgts.trabalhador,11,Invoice,21,2.0476190476190474
-br.gov.caixa.fgts.trabalhador,11,Generic complaint,340,3.052941176470588
-br.gov.caixa.fgts.trabalhador,11,Generic compliment,1033,4.879961277831558
-br.gov.caixa.fgts.trabalhador,11,Login,241,1.900414937759336
-br.gov.caixa.fgts.trabalhador,11,Performance,146,1.4863013698630136
+br.gov.caixa.fgts.trabalhador,11,Investimento,38,3.6315789473684212
+br.gov.caixa.fgts.trabalhador,11,Programa de recompensas,3,5
+br.gov.caixa.fgts.trabalhador,11,Notificações,3,1.3333333333333333
+br.gov.caixa.fgts.trabalhador,11,Fatura,21,2.0476190476190474
+br.gov.caixa.fgts.trabalhador,11,Reclamação genérica,340,3.052941176470588
+br.gov.caixa.fgts.trabalhador,11,Elogio genérico,1033,4.879961277831558
+br.gov.caixa.fgts.trabalhador,11,Acesso/Login,241,1.900414937759336
+br.gov.caixa.fgts.trabalhador,11,Desempenho,146,1.4863013698630136
 br.gov.caixa.fgts.trabalhador,11,Token,23,2.0869565217391304
 br.gov.caixa.fgts.trabalhador,11,,79,3.848101265822785
-br.gov.caixa.fgts.trabalhador,11,Usability,70,4.371428571428571
-br.gov.caixa.fgts.trabalhador,11,Update,75,2.1733333333333333
-br.gov.caixa.fgts.trabalhador,11,Card,13,3.769230769230769
-br.gov.caixa.fgts.trabalhador,12,Investiment,49,2.63265306122449
-br.gov.caixa.fgts.trabalhador,12,Login,1111,1.3798379837983799
-br.gov.caixa.fgts.trabalhador,12,Rewards program,9,2.3333333333333335
-br.gov.caixa.fgts.trabalhador,12,Virtual card,2,1
-br.gov.caixa.fgts.trabalhador,12,Invoice,51,1.9607843137254901
-br.gov.caixa.fgts.trabalhador,12,Notifications,181,1.1933701657458564
-br.gov.caixa.fgts.trabalhador,12,Generic compliment,1403,4.832501781895937
+br.gov.caixa.fgts.trabalhador,11,Usabilidade,70,4.371428571428571
+br.gov.caixa.fgts.trabalhador,11,Atualização,75,2.1733333333333333
+br.gov.caixa.fgts.trabalhador,11,Cartão,13,3.769230769230769
+br.gov.caixa.fgts.trabalhador,12,Investimento,49,2.63265306122449
+br.gov.caixa.fgts.trabalhador,12,Acesso/Login,1111,1.3798379837983799
+br.gov.caixa.fgts.trabalhador,12,Programa de recompensas,9,2.3333333333333335
+br.gov.caixa.fgts.trabalhador,12,Cartão virtual,2,1
+br.gov.caixa.fgts.trabalhador,12,Fatura,51,1.9607843137254901
+br.gov.caixa.fgts.trabalhador,12,Notificações,181,1.1933701657458564
+br.gov.caixa.fgts.trabalhador,12,Elogio genérico,1403,4.832501781895937
 br.gov.caixa.fgts.trabalhador,12,,18,4.333333333333333
-br.gov.caixa.fgts.trabalhador,12,Usability,110,3.9909090909090907
-br.gov.caixa.fgts.trabalhador,12,Card,16,2.3125
+br.gov.caixa.fgts.trabalhador,12,Usabilidade,110,3.9909090909090907
+br.gov.caixa.fgts.trabalhador,12,Cartão,16,2.3125
 br.gov.caixa.fgts.trabalhador,12,Token,36,1.9166666666666667
-br.gov.caixa.fgts.trabalhador,12,Update,522,1.264367816091954
+br.gov.caixa.fgts.trabalhador,12,Atualização,522,1.264367816091954
 br.gov.caixa.fgts.trabalhador,12,,208,2.1875
-br.gov.caixa.fgts.trabalhador,12,Performance,332,1.3253012048192772
-br.gov.caixa.fgts.trabalhador,12,Registration,79,1.5443037974683544
-br.gov.caixa.fgts.trabalhador,12,Customer service,110,2.018181818181818
-br.gov.caixa.fgts.trabalhador,12,Generic complaint,599,2.3906510851419034
-br.gov.caixa.tem,1,Virtual card,9,2.111111111111111
-br.gov.caixa.tem,1,Performance,781,1.8028169014084507
-br.gov.caixa.tem,1,Card,81,2.5925925925925926
-br.gov.caixa.tem,1,Usability,1115,4.752466367713004
-br.gov.caixa.tem,1,Generic complaint,1779,2.716132658797077
-br.gov.caixa.tem,1,Investiment,76,2.539473684210526
+br.gov.caixa.fgts.trabalhador,12,Desempenho,332,1.3253012048192772
+br.gov.caixa.fgts.trabalhador,12,Cadastro/Registro,79,1.5443037974683544
+br.gov.caixa.fgts.trabalhador,12,Atendimento ao cliente,110,2.018181818181818
+br.gov.caixa.fgts.trabalhador,12,Reclamação genérica,599,2.3906510851419034
+br.gov.caixa.tem,1,Cartão virtual,9,2.111111111111111
+br.gov.caixa.tem,1,Desempenho,781,1.8028169014084507
+br.gov.caixa.tem,1,Cartão,81,2.5925925925925926
+br.gov.caixa.tem,1,Usabilidade,1115,4.752466367713004
+br.gov.caixa.tem,1,Reclamação genérica,1779,2.716132658797077
+br.gov.caixa.tem,1,Investimento,76,2.539473684210526
 br.gov.caixa.tem,1,,754,3.6074270557029178
 br.gov.caixa.tem,1,Token,300,2.6
-br.gov.caixa.tem,1,Login,2592,1.7974537037037037
+br.gov.caixa.tem,1,Acesso/Login,2592,1.7974537037037037
 br.gov.caixa.tem,1,,33,4.242424242424242
-br.gov.caixa.tem,1,Notifications,52,1.6538461538461537
-br.gov.caixa.tem,1,Rewards program,30,2.933333333333333
-br.gov.caixa.tem,1,Generic compliment,8440,4.856516587677725
-br.gov.caixa.tem,1,Registration,331,1.595166163141994
-br.gov.caixa.tem,1,Customer service,452,2.940265486725664
-br.gov.caixa.tem,1,Invoice,193,2.2746113989637307
-br.gov.caixa.tem,1,Update,1447,1.855563234277816
-br.gov.caixa.tem,2,Update,758,1.5989445910290236
-br.gov.caixa.tem,2,Usability,509,4.699410609037328
-br.gov.caixa.tem,2,Investiment,54,2.685185185185185
-br.gov.caixa.tem,2,Card,48,2.5833333333333335
-br.gov.caixa.tem,2,Notifications,25,1.8
+br.gov.caixa.tem,1,Notificações,52,1.6538461538461537
+br.gov.caixa.tem,1,Programa de recompensas,30,2.933333333333333
+br.gov.caixa.tem,1,Elogio genérico,8440,4.856516587677725
+br.gov.caixa.tem,1,Cadastro/Registro,331,1.595166163141994
+br.gov.caixa.tem,1,Atendimento ao cliente,452,2.940265486725664
+br.gov.caixa.tem,1,Fatura,193,2.2746113989637307
+br.gov.caixa.tem,1,Atualização,1447,1.855563234277816
+br.gov.caixa.tem,2,Atualização,758,1.5989445910290236
+br.gov.caixa.tem,2,Usabilidade,509,4.699410609037328
+br.gov.caixa.tem,2,Investimento,54,2.685185185185185
+br.gov.caixa.tem,2,Cartão,48,2.5833333333333335
+br.gov.caixa.tem,2,Notificações,25,1.8
 br.gov.caixa.tem,2,,12,4.25
 br.gov.caixa.tem,2,Token,130,2.4615384615384617
-br.gov.caixa.tem,2,Customer service,243,3.1358024691358026
-br.gov.caixa.tem,2,Generic complaint,745,2.6
-br.gov.caixa.tem,2,Invoice,146,2.0273972602739727
-br.gov.caixa.tem,2,Login,780,1.8038461538461539
+br.gov.caixa.tem,2,Atendimento ao cliente,243,3.1358024691358026
+br.gov.caixa.tem,2,Reclamação genérica,745,2.6
+br.gov.caixa.tem,2,Fatura,146,2.0273972602739727
+br.gov.caixa.tem,2,Acesso/Login,780,1.8038461538461539
 br.gov.caixa.tem,2,,196,3.438775510204082
-br.gov.caixa.tem,2,Generic compliment,3982,4.844801607232546
-br.gov.caixa.tem,2,Registration,165,1.6727272727272726
-br.gov.caixa.tem,2,Virtual card,6,2.5
-br.gov.caixa.tem,2,Rewards program,15,2.2
-br.gov.caixa.tem,2,Performance,291,1.7594501718213058
-br.gov.caixa.tem,3,Card,57,2.3508771929824563
+br.gov.caixa.tem,2,Elogio genérico,3982,4.844801607232546
+br.gov.caixa.tem,2,Cadastro/Registro,165,1.6727272727272726
+br.gov.caixa.tem,2,Cartão virtual,6,2.5
+br.gov.caixa.tem,2,Programa de recompensas,15,2.2
+br.gov.caixa.tem,2,Desempenho,291,1.7594501718213058
+br.gov.caixa.tem,3,Cartão,57,2.3508771929824563
 br.gov.caixa.tem,3,,272,3.3345588235294117
 br.gov.caixa.tem,3,Token,165,2.5575757575757576
-br.gov.caixa.tem,3,Performance,517,1.746615087040619
-br.gov.caixa.tem,3,Virtual card,5,1
-br.gov.caixa.tem,3,Usability,490,4.702040816326531
-br.gov.caixa.tem,3,Rewards program,36,1.8888888888888888
-br.gov.caixa.tem,3,Generic compliment,3553,4.821840698001688
-br.gov.caixa.tem,3,Registration,298,1.4429530201342282
-br.gov.caixa.tem,3,Update,975,1.643076923076923
-br.gov.caixa.tem,3,Invoice,153,1.7777777777777777
+br.gov.caixa.tem,3,Desempenho,517,1.746615087040619
+br.gov.caixa.tem,3,Cartão virtual,5,1
+br.gov.caixa.tem,3,Usabilidade,490,4.702040816326531
+br.gov.caixa.tem,3,Programa de recompensas,36,1.8888888888888888
+br.gov.caixa.tem,3,Elogio genérico,3553,4.821840698001688
+br.gov.caixa.tem,3,Cadastro/Registro,298,1.4429530201342282
+br.gov.caixa.tem,3,Atualização,975,1.643076923076923
+br.gov.caixa.tem,3,Fatura,153,1.7777777777777777
 br.gov.caixa.tem,3,,21,4.238095238095238
-br.gov.caixa.tem,3,Login,1208,1.755794701986755
-br.gov.caixa.tem,3,Customer service,249,2.4939759036144578
-br.gov.caixa.tem,3,Investiment,64,2.203125
-br.gov.caixa.tem,3,Generic complaint,963,2.2741433021806854
-br.gov.caixa.tem,3,Notifications,40,1.75
-br.gov.caixa.tem,4,Customer service,385,2.1792207792207794
-br.gov.caixa.tem,4,Generic complaint,1385,2.251263537906137
-br.gov.caixa.tem,4,Card,72,2.111111111111111
-br.gov.caixa.tem,4,Registration,365,1.4383561643835616
+br.gov.caixa.tem,3,Acesso/Login,1208,1.755794701986755
+br.gov.caixa.tem,3,Atendimento ao cliente,249,2.4939759036144578
+br.gov.caixa.tem,3,Investimento,64,2.203125
+br.gov.caixa.tem,3,Reclamação genérica,963,2.2741433021806854
+br.gov.caixa.tem,3,Notificações,40,1.75
+br.gov.caixa.tem,4,Atendimento ao cliente,385,2.1792207792207794
+br.gov.caixa.tem,4,Reclamação genérica,1385,2.251263537906137
+br.gov.caixa.tem,4,Cartão,72,2.111111111111111
+br.gov.caixa.tem,4,Cadastro/Registro,365,1.4383561643835616
 br.gov.caixa.tem,4,Token,202,2.262376237623762
-br.gov.caixa.tem,4,Performance,823,1.577156743620899
+br.gov.caixa.tem,4,Desempenho,823,1.577156743620899
 br.gov.caixa.tem,4,,19,3.8947368421052633
-br.gov.caixa.tem,4,Invoice,220,1.809090909090909
-br.gov.caixa.tem,4,Login,1675,1.7349253731343284
-br.gov.caixa.tem,4,Investiment,64,2.40625
-br.gov.caixa.tem,4,Virtual card,4,2
-br.gov.caixa.tem,4,Rewards program,64,2.1875
-br.gov.caixa.tem,4,Generic compliment,4215,4.8244365361803085
-br.gov.caixa.tem,4,Update,1359,1.5813097866077999
-br.gov.caixa.tem,4,Usability,503,4.646123260437376
+br.gov.caixa.tem,4,Fatura,220,1.809090909090909
+br.gov.caixa.tem,4,Acesso/Login,1675,1.7349253731343284
+br.gov.caixa.tem,4,Investimento,64,2.40625
+br.gov.caixa.tem,4,Cartão virtual,4,2
+br.gov.caixa.tem,4,Programa de recompensas,64,2.1875
+br.gov.caixa.tem,4,Elogio genérico,4215,4.8244365361803085
+br.gov.caixa.tem,4,Atualização,1359,1.5813097866077999
+br.gov.caixa.tem,4,Usabilidade,503,4.646123260437376
 br.gov.caixa.tem,4,,267,3.033707865168539
-br.gov.caixa.tem,4,Notifications,47,2.1702127659574466
+br.gov.caixa.tem,4,Notificações,47,2.1702127659574466
 br.gov.caixa.tem,5,,264,3.4886363636363638
-br.gov.caixa.tem,5,Usability,621,4.698872785829308
-br.gov.caixa.tem,5,Rewards program,35,2.2285714285714286
-br.gov.caixa.tem,5,Notifications,24,2.5
-br.gov.caixa.tem,5,Investiment,68,2.3088235294117645
-br.gov.caixa.tem,5,Update,677,1.6469719350073855
+br.gov.caixa.tem,5,Usabilidade,621,4.698872785829308
+br.gov.caixa.tem,5,Programa de recompensas,35,2.2285714285714286
+br.gov.caixa.tem,5,Notificações,24,2.5
+br.gov.caixa.tem,5,Investimento,68,2.3088235294117645
+br.gov.caixa.tem,5,Atualização,677,1.6469719350073855
 br.gov.caixa.tem,5,Token,201,2.537313432835821
-br.gov.caixa.tem,5,Generic complaint,917,2.5768811341330427
-br.gov.caixa.tem,5,Generic compliment,4323,4.833448993754337
-br.gov.caixa.tem,5,Login,1542,1.8715953307392996
-br.gov.caixa.tem,5,Customer service,266,2.68796992481203
-br.gov.caixa.tem,5,Card,43,2.8372093023255816
-br.gov.caixa.tem,5,Invoice,126,2.1984126984126986
-br.gov.caixa.tem,5,Virtual card,7,2.5714285714285716
-br.gov.caixa.tem,5,Registration,194,1.7835051546391754
+br.gov.caixa.tem,5,Reclamação genérica,917,2.5768811341330427
+br.gov.caixa.tem,5,Elogio genérico,4323,4.833448993754337
+br.gov.caixa.tem,5,Acesso/Login,1542,1.8715953307392996
+br.gov.caixa.tem,5,Atendimento ao cliente,266,2.68796992481203
+br.gov.caixa.tem,5,Cartão,43,2.8372093023255816
+br.gov.caixa.tem,5,Fatura,126,2.1984126984126986
+br.gov.caixa.tem,5,Cartão virtual,7,2.5714285714285716
+br.gov.caixa.tem,5,Cadastro/Registro,194,1.7835051546391754
 br.gov.caixa.tem,5,,22,3.8636363636363638
-br.gov.caixa.tem,5,Performance,392,1.6454081632653061
-br.gov.caixa.tem,6,Virtual card,3,2.6666666666666665
-br.gov.caixa.tem,6,Registration,210,1.5904761904761904
-br.gov.caixa.tem,6,Performance,387,1.7803617571059431
-br.gov.caixa.tem,6,Customer service,265,2.8641509433962264
-br.gov.caixa.tem,6,Invoice,90,2.577777777777778
-br.gov.caixa.tem,6,Card,52,2.423076923076923
-br.gov.caixa.tem,6,Investiment,56,2.732142857142857
-br.gov.caixa.tem,6,Rewards program,19,2.210526315789474
-br.gov.caixa.tem,6,Generic compliment,4420,4.820814479638009
+br.gov.caixa.tem,5,Desempenho,392,1.6454081632653061
+br.gov.caixa.tem,6,Cartão virtual,3,2.6666666666666665
+br.gov.caixa.tem,6,Cadastro/Registro,210,1.5904761904761904
+br.gov.caixa.tem,6,Desempenho,387,1.7803617571059431
+br.gov.caixa.tem,6,Atendimento ao cliente,265,2.8641509433962264
+br.gov.caixa.tem,6,Fatura,90,2.577777777777778
+br.gov.caixa.tem,6,Cartão,52,2.423076923076923
+br.gov.caixa.tem,6,Investimento,56,2.732142857142857
+br.gov.caixa.tem,6,Programa de recompensas,19,2.210526315789474
+br.gov.caixa.tem,6,Elogio genérico,4420,4.820814479638009
 br.gov.caixa.tem,6,Token,175,2.5828571428571427
 br.gov.caixa.tem,6,,12,4.666666666666667
-br.gov.caixa.tem,6,Update,785,1.6229299363057326
-br.gov.caixa.tem,6,Generic complaint,900,2.6433333333333335
+br.gov.caixa.tem,6,Atualização,785,1.6229299363057326
+br.gov.caixa.tem,6,Reclamação genérica,900,2.6433333333333335
 br.gov.caixa.tem,6,,255,3.380392156862745
-br.gov.caixa.tem,6,Usability,609,4.747126436781609
-br.gov.caixa.tem,6,Login,1259,1.9062748212867355
-br.gov.caixa.tem,6,Notifications,30,1.7666666666666666
-br.gov.caixa.tem,7,Generic compliment,4841,4.8591200165255115
-br.gov.caixa.tem,7,Invoice,107,2.514018691588785
+br.gov.caixa.tem,6,Usabilidade,609,4.747126436781609
+br.gov.caixa.tem,6,Acesso/Login,1259,1.9062748212867355
+br.gov.caixa.tem,6,Notificações,30,1.7666666666666666
+br.gov.caixa.tem,7,Elogio genérico,4841,4.8591200165255115
+br.gov.caixa.tem,7,Fatura,107,2.514018691588785
 br.gov.caixa.tem,7,Token,187,2.4919786096256686
-br.gov.caixa.tem,7,Rewards program,24,2.7916666666666665
+br.gov.caixa.tem,7,Programa de recompensas,24,2.7916666666666665
 br.gov.caixa.tem,7,,235,3.5531914893617023
-br.gov.caixa.tem,7,Usability,653,4.721286370597244
-br.gov.caixa.tem,7,Registration,248,1.5806451612903225
-br.gov.caixa.tem,7,Investiment,56,2.4464285714285716
-br.gov.caixa.tem,7,Virtual card,7,3.142857142857143
-br.gov.caixa.tem,7,Card,44,2.4545454545454546
-br.gov.caixa.tem,7,Performance,475,1.7157894736842105
-br.gov.caixa.tem,7,Generic complaint,938,2.556503198294243
+br.gov.caixa.tem,7,Usabilidade,653,4.721286370597244
+br.gov.caixa.tem,7,Cadastro/Registro,248,1.5806451612903225
+br.gov.caixa.tem,7,Investimento,56,2.4464285714285716
+br.gov.caixa.tem,7,Cartão virtual,7,3.142857142857143
+br.gov.caixa.tem,7,Cartão,44,2.4545454545454546
+br.gov.caixa.tem,7,Desempenho,475,1.7157894736842105
+br.gov.caixa.tem,7,Reclamação genérica,938,2.556503198294243
 br.gov.caixa.tem,7,,15,3.7333333333333334
-br.gov.caixa.tem,7,Customer service,304,2.575657894736842
-br.gov.caixa.tem,7,Notifications,24,2.0833333333333335
-br.gov.caixa.tem,7,Update,731,1.6538987688098494
-br.gov.caixa.tem,7,Login,1359,1.8896247240618103
-br.gov.caixa.tem,8,Usability,668,4.769461077844311
-br.gov.caixa.tem,8,Generic compliment,4470,4.842281879194631
-br.gov.caixa.tem,8,Invoice,77,1.9350649350649352
+br.gov.caixa.tem,7,Atendimento ao cliente,304,2.575657894736842
+br.gov.caixa.tem,7,Notificações,24,2.0833333333333335
+br.gov.caixa.tem,7,Atualização,731,1.6538987688098494
+br.gov.caixa.tem,7,Acesso/Login,1359,1.8896247240618103
+br.gov.caixa.tem,8,Usabilidade,668,4.769461077844311
+br.gov.caixa.tem,8,Elogio genérico,4470,4.842281879194631
+br.gov.caixa.tem,8,Fatura,77,1.9350649350649352
 br.gov.caixa.tem,8,,231,3.4805194805194803
-br.gov.caixa.tem,8,Rewards program,22,2.090909090909091
-br.gov.caixa.tem,8,Performance,395,1.7544303797468355
+br.gov.caixa.tem,8,Programa de recompensas,22,2.090909090909091
+br.gov.caixa.tem,8,Desempenho,395,1.7544303797468355
 br.gov.caixa.tem,8,,26,4.269230769230769
-br.gov.caixa.tem,8,Generic complaint,935,2.583957219251337
-br.gov.caixa.tem,8,Investiment,60,2.25
-br.gov.caixa.tem,8,Card,46,2.4130434782608696
-br.gov.caixa.tem,8,Update,682,1.687683284457478
-br.gov.caixa.tem,8,Customer service,261,2.888888888888889
-br.gov.caixa.tem,8,Login,1118,1.834525939177102
-br.gov.caixa.tem,8,Virtual card,4,1.25
-br.gov.caixa.tem,8,Notifications,34,2.4705882352941178
-br.gov.caixa.tem,8,Registration,180,1.4666666666666666
+br.gov.caixa.tem,8,Reclamação genérica,935,2.583957219251337
+br.gov.caixa.tem,8,Investimento,60,2.25
+br.gov.caixa.tem,8,Cartão,46,2.4130434782608696
+br.gov.caixa.tem,8,Atualização,682,1.687683284457478
+br.gov.caixa.tem,8,Atendimento ao cliente,261,2.888888888888889
+br.gov.caixa.tem,8,Acesso/Login,1118,1.834525939177102
+br.gov.caixa.tem,8,Cartão virtual,4,1.25
+br.gov.caixa.tem,8,Notificações,34,2.4705882352941178
+br.gov.caixa.tem,8,Cadastro/Registro,180,1.4666666666666666
 br.gov.caixa.tem,8,Token,172,2.9011627906976742
-br.gov.caixa.tem,9,Usability,473,4.710359408033827
-br.gov.caixa.tem,9,Invoice,91,2.032967032967033
-br.gov.caixa.tem,9,Customer service,214,2.663551401869159
-br.gov.caixa.tem,9,Investiment,61,2.278688524590164
-br.gov.caixa.tem,9,Card,32,2.875
-br.gov.caixa.tem,9,Generic complaint,957,2.2497387669801463
+br.gov.caixa.tem,9,Usabilidade,473,4.710359408033827
+br.gov.caixa.tem,9,Fatura,91,2.032967032967033
+br.gov.caixa.tem,9,Atendimento ao cliente,214,2.663551401869159
+br.gov.caixa.tem,9,Investimento,61,2.278688524590164
+br.gov.caixa.tem,9,Cartão,32,2.875
+br.gov.caixa.tem,9,Reclamação genérica,957,2.2497387669801463
 br.gov.caixa.tem,9,,179,3.541899441340782
-br.gov.caixa.tem,9,Notifications,31,2.032258064516129
+br.gov.caixa.tem,9,Notificações,31,2.032258064516129
 br.gov.caixa.tem,9,Token,151,2.2847682119205297
-br.gov.caixa.tem,9,Performance,415,1.6626506024096386
-br.gov.caixa.tem,9,Update,515,1.5728155339805825
+br.gov.caixa.tem,9,Desempenho,415,1.6626506024096386
+br.gov.caixa.tem,9,Atualização,515,1.5728155339805825
 br.gov.caixa.tem,9,,15,3.6666666666666665
-br.gov.caixa.tem,9,Login,1097,1.7429352780309937
-br.gov.caixa.tem,9,Registration,198,1.606060606060606
-br.gov.caixa.tem,9,Rewards program,21,1.619047619047619
-br.gov.caixa.tem,9,Generic compliment,3360,4.841369047619048
-br.gov.caixa.tem,9,Virtual card,1,1
+br.gov.caixa.tem,9,Acesso/Login,1097,1.7429352780309937
+br.gov.caixa.tem,9,Cadastro/Registro,198,1.606060606060606
+br.gov.caixa.tem,9,Programa de recompensas,21,1.619047619047619
+br.gov.caixa.tem,9,Elogio genérico,3360,4.841369047619048
+br.gov.caixa.tem,9,Cartão virtual,1,1
 br.gov.caixa.tem,10,,187,3.3529411764705883
-br.gov.caixa.tem,10,Generic complaint,848,2.384433962264151
-br.gov.caixa.tem,10,Investiment,58,2.8448275862068964
+br.gov.caixa.tem,10,Reclamação genérica,848,2.384433962264151
+br.gov.caixa.tem,10,Investimento,58,2.8448275862068964
 br.gov.caixa.tem,10,Token,137,2.7445255474452557
-br.gov.caixa.tem,10,Update,488,1.8032786885245902
-br.gov.caixa.tem,10,Notifications,34,1.6764705882352942
-br.gov.caixa.tem,10,Card,41,1.975609756097561
-br.gov.caixa.tem,10,Customer service,212,2.650943396226415
-br.gov.caixa.tem,10,Invoice,81,2.432098765432099
-br.gov.caixa.tem,10,Login,1153,1.7554206418039895
-br.gov.caixa.tem,10,Virtual card,1,5
-br.gov.caixa.tem,10,Performance,396,1.648989898989899
-br.gov.caixa.tem,10,Generic compliment,3760,4.875
-br.gov.caixa.tem,10,Rewards program,12,2.25
-br.gov.caixa.tem,10,Usability,526,4.730038022813688
-br.gov.caixa.tem,10,Registration,192,1.5989583333333333
+br.gov.caixa.tem,10,Atualização,488,1.8032786885245902
+br.gov.caixa.tem,10,Notificações,34,1.6764705882352942
+br.gov.caixa.tem,10,Cartão,41,1.975609756097561
+br.gov.caixa.tem,10,Atendimento ao cliente,212,2.650943396226415
+br.gov.caixa.tem,10,Fatura,81,2.432098765432099
+br.gov.caixa.tem,10,Acesso/Login,1153,1.7554206418039895
+br.gov.caixa.tem,10,Cartão virtual,1,5
+br.gov.caixa.tem,10,Desempenho,396,1.648989898989899
+br.gov.caixa.tem,10,Elogio genérico,3760,4.875
+br.gov.caixa.tem,10,Programa de recompensas,12,2.25
+br.gov.caixa.tem,10,Usabilidade,526,4.730038022813688
+br.gov.caixa.tem,10,Cadastro/Registro,192,1.5989583333333333
 br.gov.caixa.tem,10,,17,4.176470588235294
-br.gov.caixa.tem,11,Performance,412,1.7014563106796117
-br.gov.caixa.tem,11,Generic complaint,921,2.3072747014115094
+br.gov.caixa.tem,11,Desempenho,412,1.7014563106796117
+br.gov.caixa.tem,11,Reclamação genérica,921,2.3072747014115094
 br.gov.caixa.tem,11,,178,3.3876404494382024
 br.gov.caixa.tem,11,,20,3.55
-br.gov.caixa.tem,11,Usability,413,4.658595641646489
-br.gov.caixa.tem,11,Invoice,78,2.0384615384615383
+br.gov.caixa.tem,11,Usabilidade,413,4.658595641646489
+br.gov.caixa.tem,11,Fatura,78,2.0384615384615383
 br.gov.caixa.tem,11,Token,175,2.3142857142857145
-br.gov.caixa.tem,11,Registration,198,1.3888888888888888
-br.gov.caixa.tem,11,Investiment,56,2.1607142857142856
-br.gov.caixa.tem,11,Update,514,1.7198443579766538
-br.gov.caixa.tem,11,Virtual card,5,1.8
-br.gov.caixa.tem,11,Customer service,257,2.470817120622568
-br.gov.caixa.tem,11,Generic compliment,3240,4.851543209876543
-br.gov.caixa.tem,11,Rewards program,13,2.3846153846153846
-br.gov.caixa.tem,11,Login,1267,1.718232044198895
-br.gov.caixa.tem,11,Notifications,31,1.5806451612903225
-br.gov.caixa.tem,11,Card,29,2.1724137931034484
-br.gov.caixa.tem,12,Notifications,42,1.7380952380952381
-br.gov.caixa.tem,12,Update,890,1.7573033707865169
-br.gov.caixa.tem,12,Generic compliment,3821,4.820204135043182
-br.gov.caixa.tem,12,Virtual card,6,2.1666666666666665
-br.gov.caixa.tem,12,Generic complaint,1079,2.4346617238183503
-br.gov.caixa.tem,12,Customer service,318,2.29874213836478
-br.gov.caixa.tem,12,Rewards program,19,2.6842105263157894
-br.gov.caixa.tem,12,Login,2299,1.8029578077424968
-br.gov.caixa.tem,12,Registration,145,1.6482758620689655
+br.gov.caixa.tem,11,Cadastro/Registro,198,1.3888888888888888
+br.gov.caixa.tem,11,Investimento,56,2.1607142857142856
+br.gov.caixa.tem,11,Atualização,514,1.7198443579766538
+br.gov.caixa.tem,11,Cartão virtual,5,1.8
+br.gov.caixa.tem,11,Atendimento ao cliente,257,2.470817120622568
+br.gov.caixa.tem,11,Elogio genérico,3240,4.851543209876543
+br.gov.caixa.tem,11,Programa de recompensas,13,2.3846153846153846
+br.gov.caixa.tem,11,Acesso/Login,1267,1.718232044198895
+br.gov.caixa.tem,11,Notificações,31,1.5806451612903225
+br.gov.caixa.tem,11,Cartão,29,2.1724137931034484
+br.gov.caixa.tem,12,Notificações,42,1.7380952380952381
+br.gov.caixa.tem,12,Atualização,890,1.7573033707865169
+br.gov.caixa.tem,12,Elogio genérico,3821,4.820204135043182
+br.gov.caixa.tem,12,Cartão virtual,6,2.1666666666666665
+br.gov.caixa.tem,12,Reclamação genérica,1079,2.4346617238183503
+br.gov.caixa.tem,12,Atendimento ao cliente,318,2.29874213836478
+br.gov.caixa.tem,12,Programa de recompensas,19,2.6842105263157894
+br.gov.caixa.tem,12,Acesso/Login,2299,1.8029578077424968
+br.gov.caixa.tem,12,Cadastro/Registro,145,1.6482758620689655
 br.gov.caixa.tem,12,,280,2.967857142857143
-br.gov.caixa.tem,12,Performance,664,1.7078313253012047
-br.gov.caixa.tem,12,Card,57,2.3684210526315788
-br.gov.caixa.tem,12,Investiment,62,2.4516129032258065
-br.gov.caixa.tem,12,Usability,453,4.701986754966887
-br.gov.caixa.tem,12,Invoice,91,2.2527472527472527
+br.gov.caixa.tem,12,Desempenho,664,1.7078313253012047
+br.gov.caixa.tem,12,Cartão,57,2.3684210526315788
+br.gov.caixa.tem,12,Investimento,62,2.4516129032258065
+br.gov.caixa.tem,12,Usabilidade,453,4.701986754966887
+br.gov.caixa.tem,12,Fatura,91,2.2527472527472527
 br.gov.caixa.tem,12,,23,3.782608695652174
 br.gov.caixa.tem,12,Token,295,2.538983050847458
-com.itau,1,Login,1405,1.7096085409252668
-com.itau,1,Usability,636,3.6871069182389937
-com.itau,1,Performance,914,1.6466083150984683
-com.itau,1,Notifications,76,2.1052631578947367
-com.itau,1,Update,1405,1.5644128113879003
-com.itau,1,Card,396,1.72979797979798
-com.itau,1,Generic compliment,3860,4.828238341968912
+com.itau,1,Acesso/Login,1405,1.7096085409252668
+com.itau,1,Usabilidade,636,3.6871069182389937
+com.itau,1,Desempenho,914,1.6466083150984683
+com.itau,1,Notificações,76,2.1052631578947367
+com.itau,1,Atualização,1405,1.5644128113879003
+com.itau,1,Cartão,396,1.72979797979798
+com.itau,1,Elogio genérico,3860,4.828238341968912
 com.itau,1,Token,113,1.8938053097345133
-com.itau,1,Investiment,124,1.9758064516129032
-com.itau,1,Virtual card,25,1.52
+com.itau,1,Investimento,124,1.9758064516129032
+com.itau,1,Cartão virtual,25,1.52
 com.itau,1,,40,3.35
-com.itau,1,Generic complaint,1550,2.1503225806451614
-com.itau,1,Rewards program,34,1.7941176470588236
+com.itau,1,Reclamação genérica,1550,2.1503225806451614
+com.itau,1,Programa de recompensas,34,1.7941176470588236
 com.itau,1,,689,3.3483309143686504
-com.itau,1,Registration,134,1.6417910447761195
-com.itau,1,Customer service,493,3.2474645030425964
-com.itau,1,Invoice,380,1.8236842105263158
-com.itau,2,Performance,346,1.7630057803468209
-com.itau,2,Generic complaint,579,2.0138169257340244
+com.itau,1,Cadastro/Registro,134,1.6417910447761195
+com.itau,1,Atendimento ao cliente,493,3.2474645030425964
+com.itau,1,Fatura,380,1.8236842105263158
+com.itau,2,Desempenho,346,1.7630057803468209
+com.itau,2,Reclamação genérica,579,2.0138169257340244
 com.itau,2,,129,3.3255813953488373
-com.itau,2,Update,443,1.582392776523702
-com.itau,2,Generic compliment,1371,4.828592268417213
-com.itau,2,Rewards program,9,2.4444444444444446
+com.itau,2,Atualização,443,1.582392776523702
+com.itau,2,Elogio genérico,1371,4.828592268417213
+com.itau,2,Programa de recompensas,9,2.4444444444444446
 com.itau,2,Token,66,1.7424242424242424
-com.itau,2,Registration,46,1.434782608695652
-com.itau,2,Card,135,1.9703703703703703
-com.itau,2,Customer service,249,3.4377510040160644
-com.itau,2,Investiment,46,2.217391304347826
-com.itau,2,Usability,213,3.676056338028169
-com.itau,2,Invoice,134,1.9104477611940298
+com.itau,2,Cadastro/Registro,46,1.434782608695652
+com.itau,2,Cartão,135,1.9703703703703703
+com.itau,2,Atendimento ao cliente,249,3.4377510040160644
+com.itau,2,Investimento,46,2.217391304347826
+com.itau,2,Usabilidade,213,3.676056338028169
+com.itau,2,Fatura,134,1.9104477611940298
 com.itau,2,,18,3.2222222222222223
-com.itau,2,Virtual card,9,1
-com.itau,2,Login,493,1.6734279918864097
-com.itau,2,Notifications,26,2.8846153846153846
-com.itau,3,Card,122,1.9344262295081966
+com.itau,2,Cartão virtual,9,1
+com.itau,2,Acesso/Login,493,1.6734279918864097
+com.itau,2,Notificações,26,2.8846153846153846
+com.itau,3,Cartão,122,1.9344262295081966
 com.itau,3,,9,2.3333333333333335
-com.itau,3,Virtual card,12,1.9166666666666667
-com.itau,3,Notifications,28,1.8928571428571428
-com.itau,3,Investiment,44,2.25
+com.itau,3,Cartão virtual,12,1.9166666666666667
+com.itau,3,Notificações,28,1.8928571428571428
+com.itau,3,Investimento,44,2.25
 com.itau,3,,148,3.3175675675675675
-com.itau,3,Login,564,1.8421985815602837
-com.itau,3,Update,377,1.740053050397878
-com.itau,3,Generic compliment,1416,4.822033898305085
-com.itau,3,Customer service,253,3.3636363636363638
-com.itau,3,Invoice,132,1.946969696969697
-com.itau,3,Usability,192,3.625
-com.itau,3,Performance,349,1.8022922636103151
-com.itau,3,Generic complaint,651,2.17357910906298
-com.itau,3,Rewards program,7,1.5714285714285714
-com.itau,3,Registration,41,1.6829268292682926
+com.itau,3,Acesso/Login,564,1.8421985815602837
+com.itau,3,Atualização,377,1.740053050397878
+com.itau,3,Elogio genérico,1416,4.822033898305085
+com.itau,3,Atendimento ao cliente,253,3.3636363636363638
+com.itau,3,Fatura,132,1.946969696969697
+com.itau,3,Usabilidade,192,3.625
+com.itau,3,Desempenho,349,1.8022922636103151
+com.itau,3,Reclamação genérica,651,2.17357910906298
+com.itau,3,Programa de recompensas,7,1.5714285714285714
+com.itau,3,Cadastro/Registro,41,1.6829268292682926
 com.itau,3,Token,85,1.776470588235294
-com.itau,4,Invoice,267,1.756554307116105
-com.itau,4,Generic complaint,737,1.8548168249660788
-com.itau,4,Investiment,61,2.0163934426229506
-com.itau,4,Rewards program,9,2.6666666666666665
-com.itau,4,Card,137,1.6569343065693432
-com.itau,4,Update,881,1.5096481271282634
-com.itau,4,Virtual card,4,1.25
-com.itau,4,Registration,56,1.5
-com.itau,4,Notifications,35,1.8285714285714285
+com.itau,4,Fatura,267,1.756554307116105
+com.itau,4,Reclamação genérica,737,1.8548168249660788
+com.itau,4,Investimento,61,2.0163934426229506
+com.itau,4,Programa de recompensas,9,2.6666666666666665
+com.itau,4,Cartão,137,1.6569343065693432
+com.itau,4,Atualização,881,1.5096481271282634
+com.itau,4,Cartão virtual,4,1.25
+com.itau,4,Cadastro/Registro,56,1.5
+com.itau,4,Notificações,35,1.8285714285714285
 com.itau,4,,168,2.9642857142857144
-com.itau,4,Customer service,244,2.9631147540983607
-com.itau,4,Usability,213,3.507042253521127
+com.itau,4,Atendimento ao cliente,244,2.9631147540983607
+com.itau,4,Usabilidade,213,3.507042253521127
 com.itau,4,Token,78,1.5897435897435896
-com.itau,4,Login,790,1.6531645569620252
-com.itau,4,Generic compliment,1307,4.789594491201224
-com.itau,4,Performance,517,1.6479690522243713
+com.itau,4,Acesso/Login,790,1.6531645569620252
+com.itau,4,Elogio genérico,1307,4.789594491201224
+com.itau,4,Desempenho,517,1.6479690522243713
 com.itau,4,,17,3
 com.itau,5,,13,3.076923076923077
-com.itau,5,Usability,129,3.007751937984496
-com.itau,5,Generic complaint,481,1.8586278586278586
-com.itau,5,Performance,317,1.6687697160883281
-com.itau,5,Virtual card,7,1.5714285714285714
-com.itau,5,Login,692,1.760115606936416
+com.itau,5,Usabilidade,129,3.007751937984496
+com.itau,5,Reclamação genérica,481,1.8586278586278586
+com.itau,5,Desempenho,317,1.6687697160883281
+com.itau,5,Cartão virtual,7,1.5714285714285714
+com.itau,5,Acesso/Login,692,1.760115606936416
 com.itau,5,,141,2.900709219858156
-com.itau,5,Invoice,120,1.7416666666666667
-com.itau,5,Generic compliment,608,4.7730263157894735
-com.itau,5,Rewards program,11,2.1818181818181817
-com.itau,5,Update,633,1.717219589257504
-com.itau,5,Investiment,37,2.027027027027027
+com.itau,5,Fatura,120,1.7416666666666667
+com.itau,5,Elogio genérico,608,4.7730263157894735
+com.itau,5,Programa de recompensas,11,2.1818181818181817
+com.itau,5,Atualização,633,1.717219589257504
+com.itau,5,Investimento,37,2.027027027027027
 com.itau,5,Token,63,1.4285714285714286
-com.itau,5,Notifications,23,2
-com.itau,5,Registration,56,1.7678571428571428
-com.itau,5,Card,130,1.9538461538461538
-com.itau,5,Customer service,151,2.2582781456953644
+com.itau,5,Notificações,23,2
+com.itau,5,Cadastro/Registro,56,1.7678571428571428
+com.itau,5,Cartão,130,1.9538461538461538
+com.itau,5,Atendimento ao cliente,151,2.2582781456953644
 com.itau,6,Token,107,1.6074766355140186
-com.itau,6,Virtual card,7,1.1428571428571428
-com.itau,6,Investiment,30,2
-com.itau,6,Login,432,1.7800925925925926
-com.itau,6,Performance,196,1.719387755102041
-com.itau,6,Rewards program,4,2.25
-com.itau,6,Update,469,1.628997867803838
+com.itau,6,Cartão virtual,7,1.1428571428571428
+com.itau,6,Investimento,30,2
+com.itau,6,Acesso/Login,432,1.7800925925925926
+com.itau,6,Desempenho,196,1.719387755102041
+com.itau,6,Programa de recompensas,4,2.25
+com.itau,6,Atualização,469,1.628997867803838
 com.itau,6,,3,2.3333333333333335
 com.itau,6,,126,2.6666666666666665
-com.itau,6,Registration,47,1.6382978723404256
-com.itau,6,Generic compliment,444,4.774774774774775
-com.itau,6,Card,140,1.6714285714285715
-com.itau,6,Generic complaint,378,1.9576719576719577
-com.itau,6,Notifications,26,2.076923076923077
-com.itau,6,Usability,94,3.5319148936170213
-com.itau,6,Customer service,131,2.4198473282442747
-com.itau,6,Invoice,125,2.008
-com.itau,7,Update,402,1.6592039800995024
-com.itau,7,Card,142,1.9014084507042253
-com.itau,7,Usability,106,3.0660377358490565
-com.itau,7,Generic compliment,394,4.730964467005077
-com.itau,7,Registration,45,1.8222222222222222
-com.itau,7,Rewards program,7,2.857142857142857
-com.itau,7,Invoice,134,1.7835820895522387
+com.itau,6,Cadastro/Registro,47,1.6382978723404256
+com.itau,6,Elogio genérico,444,4.774774774774775
+com.itau,6,Cartão,140,1.6714285714285715
+com.itau,6,Reclamação genérica,378,1.9576719576719577
+com.itau,6,Notificações,26,2.076923076923077
+com.itau,6,Usabilidade,94,3.5319148936170213
+com.itau,6,Atendimento ao cliente,131,2.4198473282442747
+com.itau,6,Fatura,125,2.008
+com.itau,7,Atualização,402,1.6592039800995024
+com.itau,7,Cartão,142,1.9014084507042253
+com.itau,7,Usabilidade,106,3.0660377358490565
+com.itau,7,Elogio genérico,394,4.730964467005077
+com.itau,7,Cadastro/Registro,45,1.8222222222222222
+com.itau,7,Programa de recompensas,7,2.857142857142857
+com.itau,7,Fatura,134,1.7835820895522387
 com.itau,7,Token,249,1.5060240963855422
-com.itau,7,Performance,236,1.5084745762711864
-com.itau,7,Login,452,1.6858407079646018
-com.itau,7,Virtual card,6,1.6666666666666667
-com.itau,7,Notifications,33,2.1515151515151514
+com.itau,7,Desempenho,236,1.5084745762711864
+com.itau,7,Acesso/Login,452,1.6858407079646018
+com.itau,7,Cartão virtual,6,1.6666666666666667
+com.itau,7,Notificações,33,2.1515151515151514
 com.itau,7,,7,3.7142857142857144
 com.itau,7,,111,2.990990990990991
-com.itau,7,Investiment,34,1.9411764705882353
-com.itau,7,Customer service,131,2.50381679389313
-com.itau,7,Generic complaint,428,1.77803738317757
-com.itau,8,Generic complaint,523,2.2390057361376674
-com.itau,8,Usability,315,4.352380952380952
-com.itau,8,Rewards program,13,1.9230769230769231
-com.itau,8,Registration,39,2.1025641025641026
+com.itau,7,Investimento,34,1.9411764705882353
+com.itau,7,Atendimento ao cliente,131,2.50381679389313
+com.itau,7,Reclamação genérica,428,1.77803738317757
+com.itau,8,Reclamação genérica,523,2.2390057361376674
+com.itau,8,Usabilidade,315,4.352380952380952
+com.itau,8,Programa de recompensas,13,1.9230769230769231
+com.itau,8,Cadastro/Registro,39,2.1025641025641026
 com.itau,8,,10,4.6
-com.itau,8,Login,452,1.7433628318584071
+com.itau,8,Acesso/Login,452,1.7433628318584071
 com.itau,8,,129,3.2093023255813953
-com.itau,8,Performance,209,1.7607655502392345
-com.itau,8,Invoice,86,1.8372093023255813
-com.itau,8,Customer service,198,2.98989898989899
-com.itau,8,Generic compliment,1392,4.887931034482759
+com.itau,8,Desempenho,209,1.7607655502392345
+com.itau,8,Fatura,86,1.8372093023255813
+com.itau,8,Atendimento ao cliente,198,2.98989898989899
+com.itau,8,Elogio genérico,1392,4.887931034482759
 com.itau,8,Token,77,1.6103896103896105
-com.itau,8,Virtual card,7,1.7142857142857142
-com.itau,8,Card,162,1.7777777777777777
-com.itau,8,Notifications,50,2.58
-com.itau,8,Investiment,37,2.4864864864864864
-com.itau,8,Update,215,1.8093023255813954
-com.itau,9,Generic compliment,2079,4.843674843674844
+com.itau,8,Cartão virtual,7,1.7142857142857142
+com.itau,8,Cartão,162,1.7777777777777777
+com.itau,8,Notificações,50,2.58
+com.itau,8,Investimento,37,2.4864864864864864
+com.itau,8,Atualização,215,1.8093023255813954
+com.itau,9,Elogio genérico,2079,4.843674843674844
 com.itau,9,,10,3.8
-com.itau,9,Customer service,240,3.504166666666667
-com.itau,9,Card,188,1.7606382978723405
-com.itau,9,Performance,321,1.7476635514018692
-com.itau,9,Usability,352,4.284090909090909
+com.itau,9,Atendimento ao cliente,240,3.504166666666667
+com.itau,9,Cartão,188,1.7606382978723405
+com.itau,9,Desempenho,321,1.7476635514018692
+com.itau,9,Usabilidade,352,4.284090909090909
 com.itau,9,,266,3.593984962406015
-com.itau,9,Generic complaint,722,2.209141274238227
-com.itau,9,Investiment,43,2.5348837209302326
-com.itau,9,Registration,55,1.5636363636363637
-com.itau,9,Notifications,35,2.057142857142857
-com.itau,9,Invoice,150,1.88
-com.itau,9,Update,335,1.9313432835820896
-com.itau,9,Virtual card,16,2.1875
+com.itau,9,Reclamação genérica,722,2.209141274238227
+com.itau,9,Investimento,43,2.5348837209302326
+com.itau,9,Cadastro/Registro,55,1.5636363636363637
+com.itau,9,Notificações,35,2.057142857142857
+com.itau,9,Fatura,150,1.88
+com.itau,9,Atualização,335,1.9313432835820896
+com.itau,9,Cartão virtual,16,2.1875
 com.itau,9,Token,58,1.8103448275862069
-com.itau,9,Rewards program,15,2.1333333333333333
-com.itau,9,Login,539,1.784786641929499
+com.itau,9,Programa de recompensas,15,2.1333333333333333
+com.itau,9,Acesso/Login,539,1.784786641929499
 com.itau,10,,18,3.7222222222222223
-com.itau,10,Generic complaint,678,2.337758112094395
-com.itau,10,Update,192,1.921875
-com.itau,10,Notifications,28,2.0357142857142856
-com.itau,10,Login,482,1.9854771784232366
-com.itau,10,Customer service,222,3.1666666666666665
-com.itau,10,Card,277,2.108303249097473
-com.itau,10,Registration,54,1.7962962962962963
-com.itau,10,Performance,277,1.8664259927797835
-com.itau,10,Invoice,194,1.8556701030927836
-com.itau,10,Usability,454,4.1982378854625555
-com.itau,10,Generic compliment,2240,4.83125
-com.itau,10,Investiment,48,2.4791666666666665
-com.itau,10,Rewards program,12,2.0833333333333335
+com.itau,10,Reclamação genérica,678,2.337758112094395
+com.itau,10,Atualização,192,1.921875
+com.itau,10,Notificações,28,2.0357142857142856
+com.itau,10,Acesso/Login,482,1.9854771784232366
+com.itau,10,Atendimento ao cliente,222,3.1666666666666665
+com.itau,10,Cartão,277,2.108303249097473
+com.itau,10,Cadastro/Registro,54,1.7962962962962963
+com.itau,10,Desempenho,277,1.8664259927797835
+com.itau,10,Fatura,194,1.8556701030927836
+com.itau,10,Usabilidade,454,4.1982378854625555
+com.itau,10,Elogio genérico,2240,4.83125
+com.itau,10,Investimento,48,2.4791666666666665
+com.itau,10,Programa de recompensas,12,2.0833333333333335
 com.itau,10,Token,43,2.2093023255813953
 com.itau,10,,261,3.367816091954023
-com.itau,10,Virtual card,9,1.2222222222222223
-com.itau,11,Invoice,471,1.6666666666666667
-com.itau,11,Performance,340,1.8235294117647058
+com.itau,10,Cartão virtual,9,1.2222222222222223
+com.itau,11,Fatura,471,1.6666666666666667
+com.itau,11,Desempenho,340,1.8235294117647058
 com.itau,11,Token,41,1.3170731707317074
-com.itau,11,Notifications,40,2.375
-com.itau,11,Customer service,193,2.8341968911917097
-com.itau,11,Rewards program,12,1.5833333333333333
-com.itau,11,Update,260,1.926923076923077
-com.itau,11,Registration,32,1.625
+com.itau,11,Notificações,40,2.375
+com.itau,11,Atendimento ao cliente,193,2.8341968911917097
+com.itau,11,Programa de recompensas,12,1.5833333333333333
+com.itau,11,Atualização,260,1.926923076923077
+com.itau,11,Cadastro/Registro,32,1.625
 com.itau,11,,15,4.133333333333334
-com.itau,11,Investiment,38,2.210526315789474
-com.itau,11,Login,525,1.8285714285714285
-com.itau,11,Generic compliment,2042,4.807541625857003
-com.itau,11,Usability,352,3.9375
-com.itau,11,Virtual card,13,2
+com.itau,11,Investimento,38,2.210526315789474
+com.itau,11,Acesso/Login,525,1.8285714285714285
+com.itau,11,Elogio genérico,2042,4.807541625857003
+com.itau,11,Usabilidade,352,3.9375
+com.itau,11,Cartão virtual,13,2
 com.itau,11,,246,3.361788617886179
-com.itau,11,Card,338,1.680473372781065
-com.itau,11,Generic complaint,853,1.989449003516999
-com.itau,12,Login,796,1.8542713567839195
-com.itau,12,Generic complaint,1065,2.1774647887323946
-com.itau,12,Virtual card,19,1.5789473684210527
+com.itau,11,Cartão,338,1.680473372781065
+com.itau,11,Reclamação genérica,853,1.989449003516999
+com.itau,12,Acesso/Login,796,1.8542713567839195
+com.itau,12,Reclamação genérica,1065,2.1774647887323946
+com.itau,12,Cartão virtual,19,1.5789473684210527
 com.itau,12,,24,3.7083333333333335
-com.itau,12,Generic compliment,3257,4.803500153515505
-com.itau,12,Update,563,1.7850799289520427
-com.itau,12,Rewards program,18,1.8888888888888888
-com.itau,12,Invoice,346,1.6878612716763006
-com.itau,12,Performance,481,1.683991683991684
+com.itau,12,Elogio genérico,3257,4.803500153515505
+com.itau,12,Atualização,563,1.7850799289520427
+com.itau,12,Programa de recompensas,18,1.8888888888888888
+com.itau,12,Fatura,346,1.6878612716763006
+com.itau,12,Desempenho,481,1.683991683991684
 com.itau,12,,320,3.334375
-com.itau,12,Usability,455,4.116483516483516
-com.itau,12,Notifications,58,2.103448275862069
-com.itau,12,Investiment,87,2.2758620689655173
-com.itau,12,Customer service,270,3.140740740740741
+com.itau,12,Usabilidade,455,4.116483516483516
+com.itau,12,Notificações,58,2.103448275862069
+com.itau,12,Investimento,87,2.2758620689655173
+com.itau,12,Atendimento ao cliente,270,3.140740740740741
 com.itau,12,Token,55,1.6181818181818182
-com.itau,12,Card,334,1.8353293413173652
-com.itau,12,Registration,76,1.75
-com.whatsapp,1,Login,5287,2.595422735010403
-com.whatsapp,1,Generic complaint,12028,3.5491353508480215
-com.whatsapp,1,Charging,945,3.0465608465608467
+com.itau,12,Cartão,334,1.8353293413173652
+com.itau,12,Cadastro/Registro,76,1.75
+com.whatsapp,1,Acesso/Login,5287,2.595422735010403
+com.whatsapp,1,Reclamação genérica,12028,3.5491353508480215
+com.whatsapp,1,Cobrança,945,3.0465608465608467
 com.whatsapp,1,,435,3.9793103448275864
-com.whatsapp,1,Generic compliment,26516,4.71236234726203
-com.whatsapp,1,Customer service,1225,3.602448979591837
-com.whatsapp,1,Performance,2420,2.612396694214876
-com.whatsapp,1,Usability,886,4.544018058690745
+com.whatsapp,1,Elogio genérico,26516,4.71236234726203
+com.whatsapp,1,Atendimento ao cliente,1225,3.602448979591837
+com.whatsapp,1,Desempenho,2420,2.612396694214876
+com.whatsapp,1,Usabilidade,886,4.544018058690745
 com.whatsapp,1,,6503,3.9617099800092266
-com.whatsapp,1,Features,1428,3.257703081232493
-com.whatsapp,1,Servicess,1223,3.295993458708095
-com.whatsapp,2,Usability,352,4.332386363636363
+com.whatsapp,1,Funcionalidades,1428,3.257703081232493
+com.whatsapp,1,Serviços,1223,3.295993458708095
+com.whatsapp,2,Usabilidade,352,4.332386363636363
 com.whatsapp,2,,189,3.751322751322751
-com.whatsapp,2,Generic compliment,11363,4.6686614450409225
-com.whatsapp,2,Servicess,633,3.088467614533965
-com.whatsapp,2,Login,3233,2.1815651098051347
+com.whatsapp,2,Elogio genérico,11363,4.6686614450409225
+com.whatsapp,2,Serviços,633,3.088467614533965
+com.whatsapp,2,Acesso/Login,3233,2.1815651098051347
 com.whatsapp,2,,2160,3.574537037037037
-com.whatsapp,2,Features,770,3.0844155844155843
-com.whatsapp,2,Charging,541,2.707948243992606
-com.whatsapp,2,Performance,1539,2.2975958414554905
-com.whatsapp,2,Generic complaint,6466,3.164553046705846
-com.whatsapp,2,Customer service,576,3.3506944444444446
-com.whatsapp,3,Features,527,2.7381404174573056
-com.whatsapp,3,Performance,892,2.2073991031390134
-com.whatsapp,3,Usability,230,4.2
-com.whatsapp,3,Servicess,421,2.776722090261283
+com.whatsapp,2,Funcionalidades,770,3.0844155844155843
+com.whatsapp,2,Cobrança,541,2.707948243992606
+com.whatsapp,2,Desempenho,1539,2.2975958414554905
+com.whatsapp,2,Reclamação genérica,6466,3.164553046705846
+com.whatsapp,2,Atendimento ao cliente,576,3.3506944444444446
+com.whatsapp,3,Funcionalidades,527,2.7381404174573056
+com.whatsapp,3,Desempenho,892,2.2073991031390134
+com.whatsapp,3,Usabilidade,230,4.2
+com.whatsapp,3,Serviços,421,2.776722090261283
 com.whatsapp,3,,1536,3.3502604166666665
-com.whatsapp,3,Login,2113,2.133932796971131
-com.whatsapp,3,Customer service,382,3.201570680628272
-com.whatsapp,3,Generic complaint,4519,2.8940030980305376
-com.whatsapp,3,Generic compliment,7029,4.65229762412861
-com.whatsapp,3,Charging,371,2.3665768194070083
+com.whatsapp,3,Acesso/Login,2113,2.133932796971131
+com.whatsapp,3,Atendimento ao cliente,382,3.201570680628272
+com.whatsapp,3,Reclamação genérica,4519,2.8940030980305376
+com.whatsapp,3,Elogio genérico,7029,4.65229762412861
+com.whatsapp,3,Cobrança,371,2.3665768194070083
 com.whatsapp,3,,137,3.8394160583941606
 com.whatsapp,4,,352,4.204545454545454
-com.whatsapp,4,Performance,975,2.4297435897435897
-com.whatsapp,4,Charging,313,3.015974440894569
-com.whatsapp,4,Servicess,459,3.113289760348584
-com.whatsapp,4,Customer service,409,3.32518337408313
+com.whatsapp,4,Desempenho,975,2.4297435897435897
+com.whatsapp,4,Cobrança,313,3.015974440894569
+com.whatsapp,4,Serviços,459,3.113289760348584
+com.whatsapp,4,Atendimento ao cliente,409,3.32518337408313
 com.whatsapp,4,,1837,3.6401741970604244
-com.whatsapp,4,Generic complaint,4432,3.2721119133574006
-com.whatsapp,4,Usability,279,4.161290322580645
-com.whatsapp,4,Login,1980,2.4565656565656564
-com.whatsapp,4,Features,576,3.1631944444444446
-com.whatsapp,4,Generic compliment,8176,4.704990215264188
+com.whatsapp,4,Reclamação genérica,4432,3.2721119133574006
+com.whatsapp,4,Usabilidade,279,4.161290322580645
+com.whatsapp,4,Acesso/Login,1980,2.4565656565656564
+com.whatsapp,4,Funcionalidades,576,3.1631944444444446
+com.whatsapp,4,Elogio genérico,8176,4.704990215264188
 com.whatsapp,5,,1582,3.895701643489254
-com.whatsapp,5,Performance,783,2.7279693486590038
-com.whatsapp,5,Generic compliment,9530,4.748793284365163
-com.whatsapp,5,Servicess,375,3.3946666666666667
-com.whatsapp,5,Usability,287,4.442508710801394
-com.whatsapp,5,Login,1489,2.585627938213566
-com.whatsapp,5,Charging,258,3.1705426356589146
-com.whatsapp,5,Generic complaint,3739,3.54854239101364
-com.whatsapp,5,Customer service,371,3.6819407008086253
-com.whatsapp,5,Features,461,3.3839479392624727
+com.whatsapp,5,Desempenho,783,2.7279693486590038
+com.whatsapp,5,Elogio genérico,9530,4.748793284365163
+com.whatsapp,5,Serviços,375,3.3946666666666667
+com.whatsapp,5,Usabilidade,287,4.442508710801394
+com.whatsapp,5,Acesso/Login,1489,2.585627938213566
+com.whatsapp,5,Cobrança,258,3.1705426356589146
+com.whatsapp,5,Reclamação genérica,3739,3.54854239101364
+com.whatsapp,5,Atendimento ao cliente,371,3.6819407008086253
+com.whatsapp,5,Funcionalidades,461,3.3839479392624727
 com.whatsapp,5,,308,4.3896103896103895
-com.whatsapp,6,Performance,1025,2.551219512195122
-com.whatsapp,6,Features,556,3.287769784172662
-com.whatsapp,6,Customer service,469,3.742004264392324
+com.whatsapp,6,Desempenho,1025,2.551219512195122
+com.whatsapp,6,Funcionalidades,556,3.287769784172662
+com.whatsapp,6,Atendimento ao cliente,469,3.742004264392324
 com.whatsapp,6,,167,4.0119760479041915
-com.whatsapp,6,Login,1817,2.577875619152449
-com.whatsapp,6,Usability,356,4.393258426966292
+com.whatsapp,6,Acesso/Login,1817,2.577875619152449
+com.whatsapp,6,Usabilidade,356,4.393258426966292
 com.whatsapp,6,,1858,3.771259418729817
-com.whatsapp,6,Generic compliment,10884,4.7161889011392875
-com.whatsapp,6,Servicess,423,3.307328605200946
-com.whatsapp,6,Charging,307,3.1042345276872965
-com.whatsapp,6,Generic complaint,4729,3.4840346796362867
-com.whatsapp,7,Generic compliment,11289,4.711577641952343
-com.whatsapp,7,Generic complaint,5034,3.565554231227652
-com.whatsapp,7,Features,620,3.3338709677419356
-com.whatsapp,7,Customer service,549,3.6083788706739526
-com.whatsapp,7,Servicess,512,3.27734375
-com.whatsapp,7,Usability,358,4.455307262569832
+com.whatsapp,6,Elogio genérico,10884,4.7161889011392875
+com.whatsapp,6,Serviços,423,3.307328605200946
+com.whatsapp,6,Cobrança,307,3.1042345276872965
+com.whatsapp,6,Reclamação genérica,4729,3.4840346796362867
+com.whatsapp,7,Elogio genérico,11289,4.711577641952343
+com.whatsapp,7,Reclamação genérica,5034,3.565554231227652
+com.whatsapp,7,Funcionalidades,620,3.3338709677419356
+com.whatsapp,7,Atendimento ao cliente,549,3.6083788706739526
+com.whatsapp,7,Serviços,512,3.27734375
+com.whatsapp,7,Usabilidade,358,4.455307262569832
 com.whatsapp,7,,1979,3.7963617988883276
 com.whatsapp,7,,180,4.061111111111111
-com.whatsapp,7,Charging,374,3.163101604278075
-com.whatsapp,7,Performance,1032,2.6036821705426356
-com.whatsapp,7,Login,2075,2.576867469879518
-com.whatsapp,8,Servicess,491,3.2342158859470467
-com.whatsapp,8,Login,2061,2.623968947113052
-com.whatsapp,8,Generic compliment,10527,4.703999240049397
+com.whatsapp,7,Cobrança,374,3.163101604278075
+com.whatsapp,7,Desempenho,1032,2.6036821705426356
+com.whatsapp,7,Acesso/Login,2075,2.576867469879518
+com.whatsapp,8,Serviços,491,3.2342158859470467
+com.whatsapp,8,Acesso/Login,2061,2.623968947113052
+com.whatsapp,8,Elogio genérico,10527,4.703999240049397
 com.whatsapp,8,,1877,3.8758657432072456
-com.whatsapp,8,Performance,1062,2.6365348399246704
+com.whatsapp,8,Desempenho,1062,2.6365348399246704
 com.whatsapp,8,,149,3.912751677852349
-com.whatsapp,8,Usability,370,4.535135135135135
-com.whatsapp,8,Customer service,473,3.634249471458774
-com.whatsapp,8,Features,546,3.4523809523809526
-com.whatsapp,8,Generic complaint,4930,3.559026369168357
-com.whatsapp,8,Charging,367,2.980926430517711
-com.whatsapp,9,Customer service,474,3.4936708860759493
+com.whatsapp,8,Usabilidade,370,4.535135135135135
+com.whatsapp,8,Atendimento ao cliente,473,3.634249471458774
+com.whatsapp,8,Funcionalidades,546,3.4523809523809526
+com.whatsapp,8,Reclamação genérica,4930,3.559026369168357
+com.whatsapp,8,Cobrança,367,2.980926430517711
+com.whatsapp,9,Atendimento ao cliente,474,3.4936708860759493
 com.whatsapp,9,,190,3.8
-com.whatsapp,9,Generic complaint,4890,3.5321063394683025
-com.whatsapp,9,Performance,1079,2.6163113994439295
-com.whatsapp,9,Usability,341,4.469208211143695
-com.whatsapp,9,Servicess,489,3.1206543967280163
-com.whatsapp,9,Generic compliment,10382,4.710942015026006
-com.whatsapp,9,Features,532,3.1898496240601504
-com.whatsapp,9,Login,2142,2.581232492997199
+com.whatsapp,9,Reclamação genérica,4890,3.5321063394683025
+com.whatsapp,9,Desempenho,1079,2.6163113994439295
+com.whatsapp,9,Usabilidade,341,4.469208211143695
+com.whatsapp,9,Serviços,489,3.1206543967280163
+com.whatsapp,9,Elogio genérico,10382,4.710942015026006
+com.whatsapp,9,Funcionalidades,532,3.1898496240601504
+com.whatsapp,9,Acesso/Login,2142,2.581232492997199
 com.whatsapp,9,,1829,3.8015308911973755
-com.whatsapp,9,Charging,376,3
-com.whatsapp,10,Performance,1099,2.6806187443130116
+com.whatsapp,9,Cobrança,376,3
+com.whatsapp,10,Desempenho,1099,2.6806187443130116
 com.whatsapp,10,,2393,3.5390722941913917
-com.whatsapp,10,Charging,400,2.9675
-com.whatsapp,10,Generic complaint,5692,3.397751229796205
-com.whatsapp,10,Usability,346,4.511560693641618
-com.whatsapp,10,Features,922,2.8036876355748372
-com.whatsapp,10,Generic compliment,11908,4.777124622102788
-com.whatsapp,10,Customer service,483,3.4554865424430643
+com.whatsapp,10,Cobrança,400,2.9675
+com.whatsapp,10,Reclamação genérica,5692,3.397751229796205
+com.whatsapp,10,Usabilidade,346,4.511560693641618
+com.whatsapp,10,Funcionalidades,922,2.8036876355748372
+com.whatsapp,10,Elogio genérico,11908,4.777124622102788
+com.whatsapp,10,Atendimento ao cliente,483,3.4554865424430643
 com.whatsapp,10,,165,4.1030303030303035
-com.whatsapp,10,Login,2651,2.5741229724632215
-com.whatsapp,10,Servicess,514,3.0739299610894943
-com.whatsapp,11,Usability,446,4.4641255605381165
+com.whatsapp,10,Acesso/Login,2651,2.5741229724632215
+com.whatsapp,10,Serviços,514,3.0739299610894943
+com.whatsapp,11,Usabilidade,446,4.4641255605381165
 com.whatsapp,11,,190,3.8210526315789473
-com.whatsapp,11,Generic compliment,13032,4.719920196439533
-com.whatsapp,11,Login,3056,2.5530104712041886
-com.whatsapp,11,Servicess,593,3.1888701517706575
-com.whatsapp,11,Features,914,3.089715536105033
-com.whatsapp,11,Performance,1335,2.558801498127341
-com.whatsapp,11,Generic complaint,6542,3.5178844390094772
+com.whatsapp,11,Elogio genérico,13032,4.719920196439533
+com.whatsapp,11,Acesso/Login,3056,2.5530104712041886
+com.whatsapp,11,Serviços,593,3.1888701517706575
+com.whatsapp,11,Funcionalidades,914,3.089715536105033
+com.whatsapp,11,Desempenho,1335,2.558801498127341
+com.whatsapp,11,Reclamação genérica,6542,3.5178844390094772
 com.whatsapp,11,,3872,3.9857954545454546
-com.whatsapp,11,Customer service,631,3.510301109350238
-com.whatsapp,11,Charging,519,3.046242774566474
-com.whatsapp,12,Charging,491,2.9226069246435844
-com.whatsapp,12,Features,821,3.0133982947624847
-com.whatsapp,12,Servicess,647,2.9041731066460588
-com.whatsapp,12,Generic complaint,6104,3.356159895150721
-com.whatsapp,12,Customer service,583,3.3447684391080617
+com.whatsapp,11,Atendimento ao cliente,631,3.510301109350238
+com.whatsapp,11,Cobrança,519,3.046242774566474
+com.whatsapp,12,Cobrança,491,2.9226069246435844
+com.whatsapp,12,Funcionalidades,821,3.0133982947624847
+com.whatsapp,12,Serviços,647,2.9041731066460588
+com.whatsapp,12,Reclamação genérica,6104,3.356159895150721
+com.whatsapp,12,Atendimento ao cliente,583,3.3447684391080617
 com.whatsapp,12,,200,3.95
-com.whatsapp,12,Usability,415,4.580722891566265
-com.whatsapp,12,Generic compliment,11968,4.724682486631016
-com.whatsapp,12,Login,3016,2.419098143236074
-com.whatsapp,12,Performance,1733,2.44200807847663
+com.whatsapp,12,Usabilidade,415,4.580722891566265
+com.whatsapp,12,Elogio genérico,11968,4.724682486631016
+com.whatsapp,12,Acesso/Login,3016,2.419098143236074
+com.whatsapp,12,Desempenho,1733,2.44200807847663
 com.whatsapp,12,,2766,3.927693420101229
